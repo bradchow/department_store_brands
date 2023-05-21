@@ -10,11 +10,6 @@ class ShinKongMitsukoshiSpider(scrapy.Spider):
     def parse(self, response):
         print("Parse for: " + response.url)
 
-        content = ''
-        content += '# 百貨公司品牌爬蟲\n'
-        content += '透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層\n'
-        content += '## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)\n'
-
         brands_num = len(response.xpath('//div[@class="grid-container grid-lg-4 grid-md-3 grid-xxs-2"]/div'))
         if (brands_num > 0):
             infos = response.xpath('//div[@class="grid-container grid-lg-4 grid-md-3 grid-xxs-2"]/div')
@@ -36,10 +31,5 @@ class ShinKongMitsukoshiSpider(scrapy.Spider):
         else:
             print("No brands at: " + (str)(response.url))
         
-        content += '## 作者\n'
-        content += '本項目由 [Brad Chou](https://github.com/bradchow) 開發\n'
-        content += '## 授權\n'
-        content += '本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權\n'
-
-        with open('README.md', 'a') as out:
+        with open('../README.md', 'a') as out:
             out.write(content)

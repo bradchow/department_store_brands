@@ -1,5 +1,12 @@
 # 百貨公司品牌爬蟲
 透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
+
+## 作者
+本項目由 [Brad Chou](https://github.com/bradchow) 開發
+
+## 授權
+本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
+
 ## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [ACCA KAPPA](https://www.skm.com.tw/brand/3426)
 台中中港店 7F
@@ -36,13 +43,6 @@
 台中中港店 4F
 [AVIVI](https://www.skm.com.tw/brand/1839)
 台南新天地小西門 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [a la sha](https://www.skm.com.tw/brand/13146)
 台北站前店 3F
 [AVINA](https://www.skm.com.tw/brand/13212)
@@ -84,13 +84,6 @@
 台中中港店 3F
 嘉義垂楊店 6F
 高雄左營店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [adidas 愛迪達](https://www.skm.com.tw/brand/12487)
 台北信義新天地A8 B1F
 台北信義新天地A11 4F
@@ -152,13 +145,6 @@
 台北信義新天地A8 1F
 台南新天地 GF
 高雄左營店 1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [ALESSI](https://www.skm.com.tw/brand/11550)
 台北信義新天地A4 B1F
 台北天母店 4F
@@ -202,13 +188,6 @@
 台中中港店 6F
 台南新天地 3F
 高雄左營店 5F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Anpanman 麵包超人館 台北](https://www.skm.com.tw/brand/11084)
 台北信義新天地A8 4F
 [ANYSIS](https://www.skm.com.tw/brand/12583)
@@ -250,13 +229,6 @@
 高雄左營店 B1F
 [ARNOLD PALMER女包](https://www.skm.com.tw/brand/12528)
 台南新天地 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [AroMart艾樂曼](https://www.skm.com.tw/brand/12321)
 桃園站前店 9F
 台中中港店 7F
@@ -310,13 +282,6 @@
 台中中港店 12F
 台南新天地 5F
 高雄左營店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [AUNT STELLA 詩特莉](https://www.skm.com.tw/brand/11045)
 台北南西店 B2F
 台北天母店 B1F
@@ -353,13 +318,6 @@
 台中中港店 5F
 [BB.Q CHICKEN](https://www.skm.com.tw/brand/13000)
 台北南西店三館 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [BEAUTE-漂亮一身](https://www.skm.com.tw/brand/12975)
 嘉義垂楊店 3F
 [Been Teen 嬪婷](https://www.skm.com.tw/brand/11183)
@@ -408,13 +366,6 @@
 台北南西店 6F
 台南新天地 3F
 高雄左營店 5F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Baby City 娃娃城](https://www.skm.com.tw/brand/12367)
 台北信義新天地A8 4F
 台北站前店 8F
@@ -456,13 +407,6 @@
 台南新天地 1F
 [BARONECE休閒服](https://www.skm.com.tw/brand/12930)
 高雄三多店 6F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [BARONECE西服](https://www.skm.com.tw/brand/12395)
 台北信義新天地A8 3F
 台北站前店 6F
@@ -509,13 +453,6 @@
 台北信義新天地A8 2F
 台中中港店 7F
 台南新天地 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [BESIDE U](https://www.skm.com.tw/brand/11690)
 高雄左營店 4F
 [BEST 北之特](https://www.skm.com.tw/brand/11096)
@@ -568,13 +505,6 @@
 高雄左營店 6F
 [Blazing](https://www.skm.com.tw/brand/11388)
 台北南西店 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [BLUE WAY 普威](https://www.skm.com.tw/brand/11452)
 台北信義新天地A8 B1F
 台北站前店 7F
@@ -635,13 +565,6 @@
 台北南西店 5F
 [BOTANICUS 菠丹妮](https://www.skm.com.tw/brand/11721)
 台北信義新天地A8 6F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [BOTTEGA VENETA](https://www.skm.com.tw/brand/12295)
 台北信義新天地A9 1F
 台中中港店 1F
@@ -689,13 +612,6 @@
 台北信義新天地A9 1F
 台中中港店 2F
 台南新天地 GF
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [BVLGARI](https://www.skm.com.tw/brand/12211)
 台北信義新天地A4 1F
 [BWT](https://www.skm.com.tw/brand/12229)
@@ -728,13 +644,6 @@
 台中中港店 7F
 [CHIU MIN CHU](https://www.skm.com.tw/brand/2743)
 台南新天地 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [CHLOE](https://www.skm.com.tw/brand/3430)
 台北南西店 2F
 [Christian Louboutin](https://www.skm.com.tw/brand/12982)
@@ -761,13 +670,6 @@
 台中中港店 11F
 [COMPLIT](https://www.skm.com.tw/brand/12974)
 高雄左營店 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [CONTIGO](https://www.skm.com.tw/brand/2517)
 台南新天地 B2F
 [CREMIA｜北海道冰淇淋之神](https://www.skm.com.tw/brand/13055)
@@ -803,13 +705,6 @@
 嘉義垂楊店 5F
 台南新天地 4F
 高雄三多店 6F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Calvin Klein home](https://www.skm.com.tw/brand/11432)
 台北信義新天地A8 6F
 台北南西店 7F
@@ -853,13 +748,6 @@
 台北信義新天地A8 3F
 台北信義新天地A9 4F
 台南新天地 2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [CATH KIDSTON](https://www.skm.com.tw/brand/12819)
 台北信義新天地A8 B1F
 台北南西店 B1F
@@ -907,13 +795,6 @@
 台北信義新天地A11 B2F
 台中中港店 B2F
 台南新天地 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [CHEN YEI](https://www.skm.com.tw/brand/11222)
 台南中山店 4F
 台南新天地 6F
@@ -959,13 +840,6 @@
 [CITY DIAMOND 引雅](https://www.skm.com.tw/brand/11659)
 台北站前店 5F
 台南中山店 2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [CK CALVIN KLEIN.女裝](https://www.skm.com.tw/brand/12710)
 台北信義新天地A11 2F
 台中中港店 3F
@@ -1039,13 +913,6 @@
 台中中港店 11F
 台南中山店 B2F
 台南新天地 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [COLD STONE 酷聖石.咖啡廳](https://www.skm.com.tw/brand/11510)
 高雄左營店 B2F
 [Columbia 哥倫比亞](https://www.skm.com.tw/brand/11392)
@@ -1101,13 +968,6 @@
 嘉義垂楊店 8F
 台南新天地 B1F
 高雄左營店 8F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Cote Noire](https://www.skm.com.tw/brand/12186)
 台中中港店 B1F
 [Cotélac](https://www.skm.com.tw/brand/12909)
@@ -1170,13 +1030,6 @@
 台南新天地 2F
 高雄三多店 6F
 高雄左營店 6F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [CUMAR男鞋](https://www.skm.com.tw/brand/11344)
 台北信義新天地A8 3F
 台北站前店 6F
@@ -1209,13 +1062,6 @@
 台北信義新天地A11 2F
 [DUBI](https://www.skm.com.tw/brand/2031)
 台北信義新天地A8 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [DYCTEAM](https://www.skm.com.tw/brand/3562)
 台中中港店 3F
 [DECEMBERMAY](https://www.skm.com.tw/brand/13137)
@@ -1257,13 +1103,6 @@
 台南新天地 GF
 [DAVIDS](https://www.skm.com.tw/brand/11865)
 台北南西店三館 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [DAY&DAY](https://www.skm.com.tw/brand/11814)
 台北信義新天地A8 7F
 台中中港店 8F
@@ -1304,13 +1143,6 @@
 台南中山店 2F
 台南新天地 GF
 高雄三多店 2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [DICKIES](https://www.skm.com.tw/brand/10955)
 台南新天地 4F
 [Diffa](https://www.skm.com.tw/brand/11874)
@@ -1371,13 +1203,6 @@
 台北南西店 4F
 台南新天地 GF
 高雄左營店 1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [DR.MARTENS](https://www.skm.com.tw/brand/11660)
 台北信義新天地A11 3F
 桃園站前店 3F
@@ -1425,13 +1250,6 @@
 台北信義新天地A8 1F
 [EVVON](https://www.skm.com.tw/brand/2008)
 高雄三多店 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Envitaly戀義酒藏](https://www.skm.com.tw/brand/3248)
 台中中港店 8F
 [Ea](https://www.skm.com.tw/brand/11514)
@@ -1494,13 +1312,6 @@
 台北信義新天地A11 B2F
 [EMPORIO ARMANI](https://www.skm.com.tw/brand/12937)
 台北信義新天地A9 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [ENOK](https://www.skm.com.tw/brand/11591)
 台北信義新天地A4 B1F
 [ENOTECA](https://www.skm.com.tw/brand/12877)
@@ -1538,13 +1349,6 @@
 高雄左營店 B1F
 [E-WEAR](https://www.skm.com.tw/brand/12682)
 台南中山店 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [EXPERIENCE](https://www.skm.com.tw/brand/11030)
 台北天母店 3F
 高雄左營店 2F
@@ -1574,13 +1378,6 @@
 台北南西店 B1F
 [F’ees BEAUTE](https://www.skm.com.tw/brand/11451)
 台北南西店 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [FABIANA FILIPPI](https://www.skm.com.tw/brand/12603)
 台北信義新天地A4 3F
 [FACE](https://www.skm.com.tw/brand/12760)
@@ -1631,13 +1428,6 @@
 嘉義垂楊店 4F
 台南中山店 4F
 高雄左營店 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [FILA KIDS](https://www.skm.com.tw/brand/12804)
 台北信義新天地A8 5F
 台中中港店 6F
@@ -1690,13 +1480,6 @@
 嘉義垂楊店 7F
 [FM](https://www.skm.com.tw/brand/12501)
 高雄左營店 6F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [FOLLI FOLLIE](https://www.skm.com.tw/brand/11519)
 台北信義新天地A4 3F
 台北南西店 3F
@@ -1745,13 +1528,6 @@
 高雄左營店 5F
 [gelato pique](https://www.skm.com.tw/brand/12064)
 台中中港店 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [GEO](https://www.skm.com.tw/brand/3223)
 台北信義新天地A11 B1F
 [GETCHI](https://www.skm.com.tw/brand/3099)
@@ -1787,13 +1563,6 @@
 台中中港店 13F
 [Gelovery Gift](https://www.skm.com.tw/brand/13017)
 台北信義新天地A8 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [G2000](https://www.skm.com.tw/brand/12485)
 台北信義新天地A9 B1F
 台北站前店 7F
@@ -1845,13 +1614,6 @@
 高雄左營店 6F
 [GIEVES&HAWKES](https://www.skm.com.tw/brand/11861)
 台北信義新天地A8 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Gigo智高](https://www.skm.com.tw/brand/12505)
 台北信義新天地A8 5F
 [GINKGO LIN 林銀杏](https://www.skm.com.tw/brand/12246)
@@ -1910,13 +1672,6 @@
 台北信義新天地A11 3F
 [GOOD GUY 好漢](https://www.skm.com.tw/brand/12305)
 台北信義新天地A8 5F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [GOZO](https://www.skm.com.tw/brand/12158)
 台北南西店 B1F
 桃園站前店 4F
@@ -1971,13 +1726,6 @@
 台南中山店 1F
 台南新天地 GF
 高雄三多店 1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [GUNZE KIDS 郡是](https://www.skm.com.tw/brand/12894)
 台北信義新天地A8 5F
 台中中港店 6F
@@ -2014,13 +1762,6 @@
 台北南西店 5F
 台北天母店二館 1F
 台南新天地 2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Hugsie](https://www.skm.com.tw/brand/2701)
 台北信義新天地A8 4F
 台南新天地 3F
@@ -2062,13 +1803,6 @@
 台南中山店 7F
 台南新天地 5F
 高雄左營店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Hastens海斯騰](https://www.skm.com.tw/brand/12048)
 台中中港店 7F
 [HATO GROUP](https://www.skm.com.tw/brand/12090)
@@ -2110,13 +1844,6 @@
 [HERMES BEAUTY](https://www.skm.com.tw/brand/11712)
 台北信義新天地A8 1F
 台中中港店 1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [HERSCHEL](https://www.skm.com.tw/brand/12766)
 台北南西店三館 4F
 台中中港店 11F
@@ -2165,13 +1892,6 @@
 台北信義新天地A11 B1F
 台北南西店 B1F
 台中中港店 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [HPW TIME](https://www.skm.com.tw/brand/11632)
 台北信義新天地A11 B1F
 [HSIN TUNG YANG 新東陽](https://www.skm.com.tw/brand/11710)
@@ -2213,13 +1933,6 @@
 台中中港店 6F
 [ICU](https://www.skm.com.tw/brand/2009)
 台北信義新天地A4 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [IKEUCHI池內有機](https://www.skm.com.tw/brand/1739)
 台北信義新天地A8 6F
 [iloom 怡倫家居](https://www.skm.com.tw/brand/2529)
@@ -2263,13 +1976,6 @@
 高雄左營店 8F
 [imihwa](https://www.skm.com.tw/brand/11568)
 台北信義新天地A4 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [IN](https://www.skm.com.tw/brand/11181)
 桃園站前店 2F
 台中中港店 B1F
@@ -2311,13 +2017,6 @@
 [Isabelle Wen 溫慶珠](https://www.skm.com.tw/brand/12042)
 嘉義垂楊店 2F
 台南新天地 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [ISPO](https://www.skm.com.tw/brand/12757)
 台北信義新天地A11 5F
 [iStore](https://www.skm.com.tw/brand/10939)
@@ -2368,13 +2067,6 @@
 [JADE STAR 璽星](https://www.skm.com.tw/brand/12958)
 台北站前店 5F
 台北南西店 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [JB MurMur Talk毛毛頭寵物俱樂部](https://www.skm.com.tw/brand/3633)
 台北站前店 8F
 [JENNYA](https://www.skm.com.tw/brand/13030)
@@ -2407,13 +2099,6 @@
 台北站前店 11F
 台南新天地 B1F
 高雄左營店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [J.LINDEBERG](https://www.skm.com.tw/brand/11490)
 台北信義新天地A9 3F
 台北南西店 5F
@@ -2465,13 +2150,6 @@
 台南新天地 3F
 高雄三多店 5F
 高雄左營店 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [JOHAN](https://www.skm.com.tw/brand/11713)
 台南新天地 B2F
 高雄左營店 B2F
@@ -2519,13 +2197,6 @@
 台北南西店 7F
 台中中港店 8F
 台南新天地 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [JURLIQUE 茱莉蔻](https://www.skm.com.tw/brand/11061)
 台北信義新天地A8 2F
 [JUST BLOOM](https://www.skm.com.tw/brand/12746)
@@ -2573,13 +2244,6 @@
 台中中港店 B1F
 [KnightsBridge](https://www.skm.com.tw/brand/2853)
 台南新天地 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [KOBE Sweets](https://www.skm.com.tw/brand/1392)
 台北南西店 B2F
 [KOHLER](https://www.skm.com.tw/brand/12947)
@@ -2625,13 +2289,6 @@
 嘉義垂楊店 7F
 台南新天地 5F
 高雄三多店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [KAWAKUBO](https://www.skm.com.tw/brand/12083)
 台北站前店 5F
 [KEDS](https://www.skm.com.tw/brand/11340)
@@ -2678,13 +2335,6 @@
 台北信義新天地A11 1F
 [KIHCHU STORE 阿里山日出](https://www.skm.com.tw/brand/11998)
 台北信義新天地A8 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [kiki studio](https://www.skm.com.tw/brand/12900)
 桃園站前店 5F
 [KINLOCH ANDERSON.女裝](https://www.skm.com.tw/brand/11214)
@@ -2743,13 +2393,6 @@
 台中中港店 B1F
 [KONIG 金格](https://www.skm.com.tw/brand/12187)
 台北站前店 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [KORA](https://www.skm.com.tw/brand/11574)
 台北信義新天地A11 B1F
 [KOSE 高絲](https://www.skm.com.tw/brand/12918)
@@ -2804,13 +2447,6 @@
 台北南西店 4F
 桃園站前店 8F
 台中中港店 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [La Vie Aisee 金華歌爾](https://www.skm.com.tw/brand/12620)
 台北信義新天地A8 2F
 台北站前店 5F
@@ -2863,13 +2499,6 @@
 [LOJEL](https://www.skm.com.tw/brand/204)
 台南中山店 6F
 台南新天地 2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [LA TRINITAINE](https://www.skm.com.tw/brand/2645)
 台北信義新天地A4 B2F
 [LADY M](https://www.skm.com.tw/brand/13106)
@@ -2916,13 +2545,6 @@
 台中中港店 8F
 嘉義垂楊店 10F
 高雄左營店 9F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [LAKING](https://www.skm.com.tw/brand/12397)
 台北信義新天地A11 3F
 桃園站前店 6F
@@ -2985,13 +2607,6 @@
 台南新天地 5F
 高雄三多店 6F
 高雄左營店 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [LEGO 樂高](https://www.skm.com.tw/brand/12038)
 台北信義新天地A8 5F
 台北南西店 6F
@@ -3059,13 +2674,6 @@
 台中中港店 6F
 [LIFE8 PREMIUM](https://www.skm.com.tw/brand/12292)
 台北信義新天地A11 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [LINDARICO](https://www.skm.com.tw/brand/12622)
 台北信義新天地A4 3F
 台北南西店 4F
@@ -3116,13 +2724,6 @@
 [Loro Piana](https://www.skm.com.tw/brand/11646)
 台北信義新天地A4 2F
 台中中港店 2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [LOUIS VUITTON 路易威登](https://www.skm.com.tw/brand/12825)
 台中中港店 1F
 台南新天地 GF
@@ -3158,13 +2759,6 @@
 高雄左營店 5F
 [MARAIS瑪黑家居](https://www.skm.com.tw/brand/12948)
 台中中港店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [MARILYN 瑪麗蓮](https://www.skm.com.tw/brand/11708)
 台北信義新天地A8 2F
 桃園站前店 8F
@@ -3205,13 +2799,6 @@
 台北信義新天地A8 5F
 [MOUNTNEER](https://www.skm.com.tw/brand/2239)
 桃園站前店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Mrs.Mapo](https://www.skm.com.tw/brand/13068)
 台北信義新天地A11 B2F
 [MY SIDE](https://www.skm.com.tw/brand/2536)
@@ -3246,13 +2833,6 @@
 高雄左營店 1F
 [MACADAMIA](https://www.skm.com.tw/brand/11957)
 台北信義新天地A4 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [MACANNA 麥坎納](https://www.skm.com.tw/brand/12124)
 嘉義垂楊店 4F
 台南新天地 5F
@@ -3307,13 +2887,6 @@
 [MARJORIE](https://www.skm.com.tw/brand/12606)
 台北信義新天地A11 B1F
 台中中港店 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [MARU 小丸號](https://www.skm.com.tw/brand/11396)
 台南新天地小西門 B1F
 [MARU.A](https://www.skm.com.tw/brand/11806)
@@ -3362,13 +2935,6 @@
 台中中港店 5F
 台南新天地 4F
 高雄三多店 6F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [me ISSEY MIYAKE](https://www.skm.com.tw/brand/11353)
 台北信義新天地A11 2F
 台北南西店 2F
@@ -3414,13 +2980,6 @@
 [MIDO](https://www.skm.com.tw/brand/11131)
 台中中港店 5F
 台南新天地 2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [MIELE嘉儀](https://www.skm.com.tw/brand/11301)
 台北信義新天地A8 7F
 台北站前店 10F
@@ -3472,13 +3031,6 @@
 [MIZUNO 美津濃](https://www.skm.com.tw/brand/12566)
 台北信義新天地A11 4F
 台南新天地 5F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [MK.女性服飾](https://www.skm.com.tw/brand/11760)
 台北信義新天地A8 B1F
 台北南西店 3F
@@ -3537,13 +3089,6 @@
 台北南西店 5F
 台中中港店 2F
 台南新天地 1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [MOONSTAR宜達](https://www.skm.com.tw/brand/11251)
 台北信義新天地A8 5F
 台北南西店 6F
@@ -3595,13 +3140,6 @@
 高雄左營店 6F
 [MyAnime Square](https://www.skm.com.tw/brand/12797)
 台北信義新天地A8 5F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [NATIVE](https://www.skm.com.tw/brand/790)
 台北南西店三館 4F
 台中中港店 11F
@@ -3651,13 +3189,6 @@
 台北南西店三館 4F
 台南新天地 5F
 台南新天地小西門 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [NESPRESSO](https://www.skm.com.tw/brand/12425)
 台北信義新天地A11 1F
 台中中港店 3F
@@ -3723,13 +3254,6 @@
 高雄左營店 4F
 [NIVEOLE](https://www.skm.com.tw/brand/11159)
 高雄左營店 1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [non stop](https://www.skm.com.tw/brand/12688)
 台北信義新天地A8 B1F
 台北站前店 2F
@@ -3777,13 +3301,6 @@
 高雄左營店 B2F
 [Olivia Garden](https://www.skm.com.tw/brand/1308)
 台中中港店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Omas 歐嬤德式美食](https://www.skm.com.tw/brand/12996)
 台北南西店 B2F
 [O'MUSES](https://www.skm.com.tw/brand/2740)
@@ -3829,13 +3346,6 @@
 嘉義垂楊店 5F
 台南新天地 4F
 高雄左營店 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [OMEGA](https://www.skm.com.tw/brand/12608)
 台南新天地 GF
 [ONE BOY](https://www.skm.com.tw/brand/12333)
@@ -3895,13 +3405,6 @@
 台南中山店 2F
 台南新天地 3F
 高雄左營店 1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [OUI](https://www.skm.com.tw/brand/12283)
 台北信義新天地A4 3F
 [OUTDOOR](https://www.skm.com.tw/brand/12431)
@@ -3935,13 +3438,6 @@
 高雄左營店彩虹市集 3F
 [大象山](https://www.skm.com.tw/brand/3313)
 台南新天地 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [小春秋](https://www.skm.com.tw/brand/3167)
 台北信義新天地A9 4F
 [小莘星](https://www.skm.com.tw/brand/2346)
@@ -3970,13 +3466,6 @@
 高雄左營店 B2F
 [田好](https://www.skm.com.tw/brand/2692)
 高雄左營店 5F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [石安牧場](https://www.skm.com.tw/brand/3312)
 台南新天地 B2F
 [好男人理容院](https://www.skm.com.tw/brand/3168)
@@ -4001,13 +3490,6 @@
 台南中山店 4F
 [東洲黑糖奶舖](https://www.skm.com.tw/brand/2444)
 台南新天地 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [松賀](https://www.skm.com.tw/brand/13113)
 台中中港店 12F
 [欣葉御便當](https://www.skm.com.tw/brand/13075)
@@ -4037,13 +3519,6 @@
 [威瑪舒培](https://www.skm.com.tw/brand/1324)
 台南新天地 B2F
 高雄三多店 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [星台VIONIC](https://www.skm.com.tw/brand/482)
 高雄左營店 7F
 [段純貞](https://www.skm.com.tw/brand/2456)
@@ -4077,13 +3552,6 @@
 台北站前店 B2F
 高雄三多店 B2F
 高雄左營店 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [富宴](https://www.skm.com.tw/brand/12997)
 台北站前店 12F
 [惠而麗 Fairy](https://www.skm.com.tw/brand/3369)
@@ -4119,13 +3587,6 @@
 台北信義新天地A11 B2F
 台北南西店三館 B1F
 台中中港店 12F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [愛威鐵盒餅乾](https://www.skm.com.tw/brand/806)
 台中中港店 B2F
 台南新天地 B2F
@@ -4153,13 +3614,6 @@
 台北信義新天地A11 B2F
 [滬香居](https://www.skm.com.tw/brand/378)
 高雄三多店 11F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [維京牛排](https://www.skm.com.tw/brand/13073)
 高雄左營店彩虹市集 4F
 [艋舺雞排](https://www.skm.com.tw/brand/13128)
@@ -4189,13 +3643,6 @@
 台北信義新天地A8 4F
 台北南西店 6F
 台中中港店 6F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [寶來酒藏](https://www.skm.com.tw/brand/13116)
 嘉義垂楊店 B1F
 高雄三多店 6F
@@ -4224,13 +3671,6 @@
 台北信義新天地A4 B1F
 [艾芝園](https://www.skm.com.tw/brand/3005)
 台北信義新天地A11 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [夯極號](https://www.skm.com.tw/brand/3573)
 台北信義新天地A11 B2F
 [馬卡諦義大利冰淇淋](https://www.skm.com.tw/brand/3213)
@@ -4260,13 +3700,6 @@
 台北信義新天地A11 B2F
 [自由甜點](https://www.skm.com.tw/brand/1522)
 台北信義新天地A11 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [自然點](https://www.skm.com.tw/brand/2448)
 台北信義新天地A11 B2F
 [哈記酸辣粉](https://www.skm.com.tw/brand/3462)
@@ -4293,13 +3726,6 @@
 台北信義新天地A11 B2F
 [養茶](https://www.skm.com.tw/brand/3600)
 台北信義新天地A11 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [小新鯛魚燒](https://www.skm.com.tw/brand/2425)
 高雄左營店 B2F
 [吉甜不辣](https://www.skm.com.tw/brand/1526)
@@ -4329,13 +3755,6 @@
 [肉多多](https://www.skm.com.tw/brand/377)
 台北天母店 5F
 高雄三多店 12F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [豆腐村韓國嫩豆腐煲專門店](https://www.skm.com.tw/brand/2637)
 台北站前店 B2F
 桃園站前店 10F
@@ -4365,13 +3784,6 @@
 台北信義新天地A8 B2F
 [樂沐糕餅舖](https://www.skm.com.tw/brand/3694)
 台中中港店 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [英國奶奶](https://www.skm.com.tw/brand/13013)
 台北信義新天地A8 B2F
 [望月](https://www.skm.com.tw/brand/3509)
@@ -4398,13 +3810,6 @@
 台中中港店 B2F
 [一膳鰻魚飯](https://www.skm.com.tw/brand/3400)
 台中中港店 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [漿樣子](https://www.skm.com.tw/brand/2683)
 台中中港店 B2F
 [這一鍋](https://www.skm.com.tw/brand/1056)
@@ -4432,13 +3837,6 @@
 台北信義新天地A8 B2F
 台北站前店 B1F
 台北南西店 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [無二](https://www.skm.com.tw/brand/658)
 台北信義新天地A4 B2F
 [農純鄉](https://www.skm.com.tw/brand/2680)
@@ -4471,13 +3869,6 @@
 嘉義垂楊店 B1F
 台南中山店 B2F
 高雄左營店 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [鉄火燒肉](https://www.skm.com.tw/brand/13105)
 台中中港店 B2F
 [涓豆腐-精緻韓式料理第一品牌](https://www.skm.com.tw/brand/13109)
@@ -4509,13 +3900,6 @@
 台北南西店三館 2F
 台中中港店 5F
 台南新天地小西門 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [0918](https://www.skm.com.tw/brand/11484)
 台北信義新天地A8 B1F
 台北站前店 3F
@@ -4579,13 +3963,6 @@
 台南新天地 B1F
 [3NITY](https://www.skm.com.tw/brand/11339)
 台北信義新天地A11 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [50%](https://www.skm.com.tw/brand/12800)
 台南新天地小西門 B2F
 高雄左營店 B1F
@@ -4639,13 +4016,6 @@
 台北站前店 9F
 桃園站前店 9F
 高雄左營店 9F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [大師兄銷魂麵舖](https://www.skm.com.tw/brand/12646)
 台北信義新天地A11 B2F
 台南新天地 B2F
@@ -4683,13 +4053,6 @@
 高雄左營店 B2F
 [天仁喫茶趣TO GO](https://www.skm.com.tw/brand/10904)
 台北信義新天地A8 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [屯京拉麵](https://www.skm.com.tw/brand/12844)
 台北信義新天地A8 B2F
 [手信坊](https://www.skm.com.tw/brand/12325)
@@ -4724,13 +4087,6 @@
 台北信義新天地A8 5F
 [布萊恩](https://www.skm.com.tw/brand/11540)
 嘉義垂楊店 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [正元精密科技](https://www.skm.com.tw/brand/11044)
 台北信義新天地A9 5F
 [瓦城](https://www.skm.com.tw/brand/12898)
@@ -4778,13 +4134,6 @@
 [朱記餡餅](https://www.skm.com.tw/brand/10899)
 台北站前店 B1F
 台北南西店三館 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [江戶勝](https://www.skm.com.tw/brand/11556)
 台北南西店 8F
 桃園站前店 6F
@@ -4829,13 +4178,6 @@
 嘉義垂楊店 8F
 台南新天地 B1F
 高雄三多店 9F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [京都勝牛 Katsugyu](https://www.skm.com.tw/brand/12203)
 台北信義新天地A11 B2F
 [佳佳甜品 KaiKai Dessert](https://www.skm.com.tw/brand/12414)
@@ -4877,13 +4219,6 @@
 [林曉同](https://www.skm.com.tw/brand/12400)
 台北信義新天地A8 2F
 台中中港店 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [松村](https://www.skm.com.tw/brand/11011)
 台南新天地 B2F
 [松芝岡](https://www.skm.com.tw/brand/12144)
@@ -4932,13 +4267,6 @@
 [初魚 鮨](https://www.skm.com.tw/brand/12076)
 台北信義新天地A9 7F
 台中中港店 9F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [采采食茶文化CHA CHA THE](https://www.skm.com.tw/brand/11370)
 台北信義新天地A4 B2F
 台北信義新天地A8 B2F
@@ -4984,13 +4312,6 @@
 台南中山店 9F
 台南新天地 B1F
 高雄左營店 9F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [春水堂](https://www.skm.com.tw/brand/12289)
 台北信義新天地A9 B1F
 台北站前店 B2F
@@ -5033,13 +4354,6 @@
 台中中港店 7F
 台南新天地 B1F
 高雄左營店 8F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [凍心炸冰淇淋](https://www.skm.com.tw/brand/10905)
 台北信義新天地A11 B2F
 [家家買](https://www.skm.com.tw/brand/11816)
@@ -5072,13 +4386,6 @@
 台南新天地 B2F
 [乾杯燒肉居酒屋](https://www.skm.com.tw/brand/10924)
 台中中港店 13F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [乾唐軒](https://www.skm.com.tw/brand/11913)
 台北站前店 9F
 台南新天地 B1F
@@ -5117,13 +4424,6 @@
 高雄左營店 4F
 [郭元益](https://www.skm.com.tw/brand/11200)
 台北信義新天地A4 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [郭老師寶寶副食品](https://www.skm.com.tw/brand/11404)
 台北信義新天地A8 4F
 [郭珮玲J&NINA](https://www.skm.com.tw/brand/11382)
@@ -5174,13 +4474,6 @@
 台北站前店 10F
 台北南西店 7F
 桃園站前店 9F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [富山香堂](https://www.skm.com.tw/brand/12684)
 台北信義新天地A11 B2F
 高雄左營店彩虹市集 3F
@@ -5231,13 +4524,6 @@
 [開丼](https://www.skm.com.tw/brand/11191)
 台中中港店 12F
 高雄左營店彩虹市集 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [集雅社](https://www.skm.com.tw/brand/10999)
 台北信義新天地A8 7F
 台北站前店 10F
@@ -5277,13 +4563,6 @@
 台中中港店 12F
 [萬有全](https://www.skm.com.tw/brand/11254)
 台南新天地 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [義廚寶](https://www.skm.com.tw/brand/10923)
 台北信義新天地A8 7F
 台北站前店 10F
@@ -5342,13 +4621,6 @@
 [熊本家](https://www.skm.com.tw/brand/12644)
 台中中港店 12F
 嘉義垂楊店 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [精工坊](https://www.skm.com.tw/brand/11803)
 高雄三多店 9F
 [精格修改室](https://www.skm.com.tw/brand/12545)
@@ -5386,13 +4658,6 @@
 [摩曼頓.鞋](https://www.skm.com.tw/brand/12129)
 台北天母店二館 B1F
 桃園站前店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [潮人物](https://www.skm.com.tw/brand/12044)
 台北信義新天地A9 B1F
 [蔡佳瑾](https://www.skm.com.tw/brand/11376)
@@ -5438,13 +4703,6 @@
 台北南西店 5F
 嘉義垂楊店 4F
 台南新天地 2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [邁達康](https://www.skm.com.tw/brand/11869)
 台北信義新天地A8 3F
 台北信義新天地A9 5F
@@ -5484,13 +4742,6 @@
 台北信義新天地A8 5F
 [鶴壽庭](https://www.skm.com.tw/brand/11292)
 高雄左營店 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [襯衫工房](https://www.skm.com.tw/brand/11790)
 台北站前店 6F
 台北南西店 5F
@@ -5522,13 +4773,6 @@
 台北信義新天地A9 2F
 [PETITE MERVEILLE](https://www.skm.com.tw/brand/1036)
 台北信義新天地A8 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [PINEAPPLE OUTFITTER](https://www.skm.com.tw/brand/3011)
 台北信義新天地A11 2F
 台北南西店 1F
@@ -5561,13 +4805,6 @@
 台北信義新天地A8 3F
 [PAGEBOY](https://www.skm.com.tw/brand/11247)
 台北信義新天地A11 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [PALLADIUM](https://www.skm.com.tw/brand/11891)
 台北信義新天地A11 3F
 台北南西店三館 4F
@@ -5616,13 +4853,6 @@
 台南新天地 5F
 [PeaTrees](https://www.skm.com.tw/brand/12380)
 嘉義垂楊店 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [PENHALIGON'S](https://www.skm.com.tw/brand/12818)
 台中中港店 3F
 台南新天地 1F
@@ -5677,13 +4907,6 @@
 嘉義垂楊店 7F
 台南新天地 2F
 高雄三多店 6F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [PINK](https://www.skm.com.tw/brand/12139)
 台南新天地 4F
 [PIPPY](https://www.skm.com.tw/brand/12738)
@@ -5732,13 +4955,6 @@
 台南中山店 6F
 台南新天地 1F
 高雄左營店 1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [POLO RALPH LAUREN MEN 雷夫羅倫](https://www.skm.com.tw/brand/11698)
 台北信義新天地A8 3F
 台北南西店 5F
@@ -5798,13 +5014,6 @@
 台南新天地 5F
 高雄三多店 7F
 高雄左營店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [PURESENCE樸香氛](https://www.skm.com.tw/brand/12335)
 台北站前店 4F
 [PYXIS 翡仕](https://www.skm.com.tw/brand/12521)
@@ -5838,13 +5047,6 @@
 台北站前店 10F
 [ROBINMAY](https://www.skm.com.tw/brand/13029)
 台中中港店 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Rosemaid 羅絲美睡衣](https://www.skm.com.tw/brand/12061)
 台北信義新天地A8 2F
 台北站前店 5F
@@ -5888,13 +5090,6 @@
 [RedLine](https://www.skm.com.tw/brand/12653)
 台北信義新天地A4 2F
 台中中港店 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [REEBOK](https://www.skm.com.tw/brand/12093)
 台中中港店 12F
 [REFORMHAUS 德風健康館](https://www.skm.com.tw/brand/11245)
@@ -5941,13 +5136,6 @@
 [Roger Vivier](https://www.skm.com.tw/brand/11774)
 台中中港店 1F
 台南新天地 GF
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [ROLF BENZ 信實](https://www.skm.com.tw/brand/12279)
 台北信義新天地A9 3F
 [ROOKIE](https://www.skm.com.tw/brand/12200)
@@ -6020,13 +5208,6 @@
 嘉義垂楊店 8F
 台南中山店 5F
 台南新天地 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [SAMO ONDOH](https://www.skm.com.tw/brand/13048)
 台北信義新天地A11 B1F
 [Sanmin勝明文具](https://www.skm.com.tw/brand/933)
@@ -6075,13 +5256,6 @@
 台中中港店 4F
 [SPINGLE MOVE](https://www.skm.com.tw/brand/3632)
 台南新天地 2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [STRAUSS有情門](https://www.skm.com.tw/brand/3422)
 台中中港店 7F
 台南新天地 B1F
@@ -6123,13 +5297,6 @@
 [S'AIME](https://www.skm.com.tw/brand/12004)
 台中中港店 B1F
 台南新天地小西門 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [SAINT LAURENT](https://www.skm.com.tw/brand/12759)
 台北信義新天地A9 1F
 台中中港店 1F
@@ -6174,13 +5341,6 @@
 台中中港店 7F
 嘉義垂楊店 8F
 台南新天地 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Sebamed 施巴](https://www.skm.com.tw/brand/11335)
 台北信義新天地A8 6F
 台北站前店 9F
@@ -6255,13 +5415,6 @@
 台南新天地 4F
 高雄三多店 3F
 高雄左營店 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [SISJEANS](https://www.skm.com.tw/brand/12831)
 台北信義新天地A8 B1F
 桃園站前店 3F
@@ -6333,13 +5486,6 @@
 台南新天地 GF
 高雄三多店 1F
 高雄左營店 1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [SM2](https://www.skm.com.tw/brand/12471)
 台北信義新天地A11 B1F
 台北南西店 B1F
@@ -6387,13 +5533,6 @@
 台中中港店 12F
 [SPIEGELAU](https://www.skm.com.tw/brand/10974)
 台北信義新天地A8 6F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [SPORT b.](https://www.skm.com.tw/brand/12207)
 台北南西店三館 2F
 台中中港店 5F
@@ -6439,13 +5578,6 @@
 台南新天地 GF
 [STILE TOP](https://www.skm.com.tw/brand/11867)
 台北信義新天地A8 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [STOKKE](https://www.skm.com.tw/brand/11833)
 台北信義新天地A8 4F
 [strellson](https://www.skm.com.tw/brand/11532)
@@ -6503,13 +5635,6 @@
 [SWATCH](https://www.skm.com.tw/brand/12281)
 台南新天地 4F
 高雄左營店 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [SWEET HOME雅筑傢飾](https://www.skm.com.tw/brand/12096)
 台北信義新天地A4 4F
 [SWG](https://www.skm.com.tw/brand/12708)
@@ -6545,13 +5670,6 @@
 [TRAVELER](https://www.skm.com.tw/brand/2251)
 台北南西店 8F
 台南中山店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Triumph 黛安芬](https://www.skm.com.tw/brand/12091)
 台北信義新天地A8 2F
 台北站前店 5F
@@ -6590,13 +5708,6 @@
 高雄左營店 2F
 [TASAKI](https://www.skm.com.tw/brand/12924)
 台北信義新天地A9 2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [TAST Boutique](https://www.skm.com.tw/brand/11946)
 台中中港店 3F
 台南新天地 2F
@@ -6644,13 +5755,6 @@
 [TEVA](https://www.skm.com.tw/brand/12681)
 台北南西店 8F
 台中中港店 12F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [THE BODY SHOP 美體小舖](https://www.skm.com.tw/brand/12005)
 台北信義新天地A8 B1F
 台北信義新天地A11 B1F
@@ -6700,13 +5804,6 @@
 [TIFF](https://www.skm.com.tw/brand/11054)
 台北信義新天地A8 B1F
 桃園站前店 4F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [TIFFANY&CO.](https://www.skm.com.tw/brand/11230)
 台北信義新天地A9 1F
 台南新天地 GF
@@ -6762,13 +5859,6 @@
 [TOMMY HILFIGER CHILDREN](https://www.skm.com.tw/brand/12732)
 台北信義新天地A8 5F
 台南新天地 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [TOMMY HILFIGER.女](https://www.skm.com.tw/brand/11506)
 台北信義新天地A11 2F
 [TOMMY JEANS](https://www.skm.com.tw/brand/10893)
@@ -6811,13 +5901,6 @@
 台北信義新天地A8 6F
 [Tsu Sheng Machine Repair Shoes 足昇機器修鞋](https://www.skm.com.tw/brand/11176)
 台北站前店 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [tuctuc](https://www.skm.com.tw/brand/12647)
 台北信義新天地A8 4F
 [TUMI](https://www.skm.com.tw/brand/12554)
@@ -6854,13 +5937,6 @@
 台南新天地 5F
 高雄左營店 7F
 高雄左營店 7F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [uniarts](https://www.skm.com.tw/brand/12300)
 台北站前店 3F
 桃園站前店 3F
@@ -6904,13 +5980,6 @@
 台北天母店二館 1F
 [VOUX](https://www.skm.com.tw/brand/3175)
 台南新天地小西門 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [VERVE](https://www.skm.com.tw/brand/13207)
 台北信義新天地A11 4F
 [VA VENDOME AOYAMA](https://www.skm.com.tw/brand/11766)
@@ -6948,13 +6017,6 @@
 台南新天地 5F
 高雄三多店 6F
 高雄左營店 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [VICTORINOX](https://www.skm.com.tw/brand/11017)
 台北信義新天地A8 3F
 台北信義新天地A11 3F
@@ -7000,13 +6062,6 @@
 台南新天地 GF
 [W WEAR](https://www.skm.com.tw/brand/3017)
 台北信義新天地A11 3F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Wacoal 華歌爾](https://www.skm.com.tw/brand/12826)
 台北信義新天地A8 2F
 台北站前店 5F
@@ -7067,13 +6122,6 @@
 [WANG TEA 有記名茶](https://www.skm.com.tw/brand/12920)
 台南中山店 B2F
 高雄左營店 B2F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [WANTO3](https://www.skm.com.tw/brand/11722)
 嘉義垂楊店 8F
 [WATERFORD](https://www.skm.com.tw/brand/10946)
@@ -7119,13 +6167,6 @@
 [WMF](https://www.skm.com.tw/brand/11001)
 台北信義新天地A8 7F
 台中中港店 8F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [Wolford](https://www.skm.com.tw/brand/11101)
 台北信義新天地A9 2F
 [WOLSEY](https://www.skm.com.tw/brand/10940)
@@ -7162,13 +6203,6 @@
 [YALE](https://www.skm.com.tw/brand/12837)
 台北信義新天地A8 7F
 台南新天地 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [YAMAHA](https://www.skm.com.tw/brand/12016)
 台北信義新天地A8 5F
 台南新天地 3F
@@ -7213,13 +6247,6 @@
 高雄左營店 8F
 [ZAN ZAN](https://www.skm.com.tw/brand/1747)
 台北信義新天地A8 B1F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
 [ZOJIRUSHI 象印](https://www.skm.com.tw/brand/12602)
 台北信義新天地A8 7F
 台北站前店 10F
@@ -7236,14 +6263,3 @@
 [ZWILLING 雙人](https://www.skm.com.tw/brand/12092)
 台北信義新天地A8 7F
 台中中港店 8F
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
-# 百貨公司品牌爬蟲
-透過台灣各大百貨公司官網，爬出裡面所有品牌及樓層
-## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)
-## 作者
-本項目由 [Brad Chou](https://github.com/bradchow) 開發
-## 授權
-本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
