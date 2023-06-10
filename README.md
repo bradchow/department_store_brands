@@ -8089,7 +8089,7 @@
 [PALLADIUM](https://info.sogo.com.tw/tm/brand/200521212317921868)  
 天母店 5F  
 中壢店 5F  
-[PAL`LAS PALACE](https://info.sogo.com.tw/tp2/brand/18030816330388193)  
+[PAL\`LAS PALACE](https://info.sogo.com.tw/tp2/brand/18030816330388193)  
 台北復興館 4F  
 [PANDORA](https://info.sogo.com.tw/tp2/brand/18030816330355112)  
 台北復興館 B1  
@@ -8637,7 +8637,7 @@
 中壢店 5F  
 [TISSOT手錶](https://info.sogo.com.tw/tp2/brand/18030816330440329)  
 台北復興館 7F  
-[TOD'S](https://info.sogo.com.tw/tp3/brand/200306171525275516)  
+[TOD\'S](https://info.sogo.com.tw/tp3/brand/200306171525275516)  
 台北敦化館 1F  
 [TOKYU HANDS 台隆手創館](https://info.sogo.com.tw/tp2/brand/18030816330443338)  
 台北復興館 8F  
@@ -8973,9 +8973,9 @@
 新竹店 3F  
 [chicco](https://info.sogo.com.tw/tp1/brand/18030816351590300)  
 台北忠孝館 5F  
-[city'super美食生活精緻名店](https://info.sogo.com.tw/tp2/brand/180308163302964)  
+[city\'super美食生活精緻名店](https://info.sogo.com.tw/tp2/brand/180308163302964)  
 台北復興館 B3  
-[city`super](https://info.sogo.com.tw/tm/brand/180308162946183)  
+[city\`super](https://info.sogo.com.tw/tm/brand/180308162946183)  
 天母店 B1  
 [ck Calvin Klein](https://info.sogo.com.tw/tp2/brand/18030816330431305)  
 台北復興館 7F  
