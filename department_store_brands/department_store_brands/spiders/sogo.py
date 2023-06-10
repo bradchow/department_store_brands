@@ -128,7 +128,7 @@ class SogoSpider(scrapy.Spider):
             print(floor)
 
         parsed_url = urlparse(response.url)
-        domain = parsed_url.scheme + "://" + parsed_url.netloc + "/" 
+        domain = parsed_url.scheme + "://" + parsed_url.netloc 
 
         title_num = len(response.xpath('//div[@class="tab-content"]//a[@class="brandBox"]'))
         if self.OUTPUT_TO_MD == 0:
