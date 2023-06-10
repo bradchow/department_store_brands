@@ -14,7 +14,9 @@ NEWSPIDER_MODULE = "department_store_brands.spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = "department_store_brands (+http://www.yourdomain.com)"
+# Fix 403 issue when accessing https://info.sogo.com.tw/tp1/floors/B1
+USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
+
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -50,9 +52,13 @@ ROBOTSTXT_OBEY = True
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-#DOWNLOADER_MIDDLEWARES = {
-#    "department_store_brands.middlewares.DepartmentStoreBrandsDownloaderMiddleware": 543,
-#}
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy_selenium.SeleniumMiddleware': 800
+}
+
+SELENIUM_DRIVER_NAME = 'chrome'  #瀏覽器名稱
+SELENIUM_DRIVER_EXECUTABLE_PATH = '/Users/bradchou/Documents/driver/chromedriver'  #驅動程式路徑
+SELENIUM_DRIVER_ARGUMENTS = ['-headless']
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html

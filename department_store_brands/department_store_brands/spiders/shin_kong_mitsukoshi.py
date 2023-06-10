@@ -1,5 +1,4 @@
 import scrapy
-import os
 
 class ShinKongMitsukoshiSpider(scrapy.Spider):
     name = "ShinKongMitsukoshi"
