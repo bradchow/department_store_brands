@@ -3,18 +3,25 @@ import scrapy
 import pprint
 from urllib.parse import urlparse, urlunparse
 from scrapy_selenium import SeleniumRequest
+import json
 
 class SogoSpider(scrapy.Spider):
     name = "Sogo"
+    
+    #output to .md format and it can be pasted on github
     OUTPUT_TO_MD = 1
+
+    #output to json format
+    OUTPUT_TO_JSON = 1
+
     search_strings = {
-        "tp1": "台北忠孝館",
-	    "tp2": "台北復興館",
-        "tp3": "台北敦化館",
-        "tm": "天母店",
-        "zl": "中壢店",
-        "hcbc": "新竹店",
-        "ks": "高雄店",
+        "tp1": "SOGO 台北忠孝館",
+	    "tp2": "SOGO 台北復興館",
+        "tp3": "SOGO 台北敦化館",
+        "tm": "SOGO 天母店",
+        "zl": "SOGO 中壢店",
+        "hcbc": "SOGO 新竹店",
+        "ks": "SOGO 高雄店",
     }
     success_num = 0
     urls = [
@@ -153,7 +160,8 @@ class SogoSpider(scrapy.Spider):
             
             self.curr_url_num += 1
             
-            if self.curr_url_num < self.urls_num: 
+            if self.curr_url_num < self.urls_num:
+#            if self.curr_url_num < 1:
                 yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': 100})
             else:
                 if self.OUTPUT_TO_MD == 0:
@@ -198,3 +206,8 @@ class SogoSpider(scrapy.Spider):
                         print(f"[{key}]({item})" + " " + " ")
                     elif isinstance(item, dict):
                         print(f"{item['mall']} {item['floor']}" + " " + " ")
+        if self.OUTPUT_TO_JSON == 1:
+            sorted_dict = {key: self.data[key] for key in sorted_data}
+            json_data = json.dumps(sorted_dict, ensure_ascii=False)
+            with open('../json/sogo.json', 'w', encoding='utf-8') as file:
+                file.write(json_data)
