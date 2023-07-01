@@ -30,7 +30,7 @@ class ShinKongMitsukoshiSpider(scrapy.Spider):
                     mall = self.PREFIX_MALL_NAME + (str)(location.xpath('.//text()').get().replace('\n', '').replace('\t', '').replace(' ', '').split('\xa0')[0])
                     floor = (str)(location.xpath('.//text()').get().replace('\n', '').replace('\t', '').replace(' ', '').split('\xa0')[1])
                     # print((str)(location.xpath('.//text()').get().replace('\n', '').replace('\t', '').replace(' ', '')) + " " + " ")
-                    print(mall + " " + floor)
+                    print(mall + " " + floor + " " + " ")
                     self.update_data(brand_name = brand_name, mall = mall, floor = floor, url = url)
             #Yield for next page
             self.page_num = self.page_num + 1

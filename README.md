@@ -16,6194 +16,6194 @@
 
 ## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)  
 [ACCA KAPPA](https://www.skm.com.tw/brand/3426)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [ACE BAGS & LUGGAGE](https://www.skm.com.tw/brand/957)  
-新光三越台北站前店 7F
-新光三越台北南西店 8F
+新光三越台北站前店 7F  
+新光三越台北南西店 8F  
 [Agapebaby](https://www.skm.com.tw/brand/3559)  
-新光三越台北信義新天地A8 4F
-新光三越台北站前店 8F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 4F  
+新光三越台北站前店 8F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [AiLock 智慧鎖](https://www.skm.com.tw/brand/12960)  
-新光三越台北站前店 10F
-新光三越台南中山店 2F
+新光三越台北站前店 10F  
+新光三越台南中山店 2F  
 [aimerfeel](https://www.skm.com.tw/brand/12796)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [airweave愛維福](https://www.skm.com.tw/brand/2506)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [ALLSAINTS 飾品](https://www.skm.com.tw/brand/2933)  
-新光三越台北南西店三館 1F
-新光三越台中中港店 3F
+新光三越台北南西店三館 1F  
+新光三越台中中港店 3F  
 [Anita Su](https://www.skm.com.tw/brand/3071)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [APIVITA](https://www.skm.com.tw/brand/977)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店 2F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店 2F  
+新光三越台南新天地 B1F  
 [ARMANI EXCHANGE](https://www.skm.com.tw/brand/3273)  
-新光三越台中中港店 5F
-新光三越台南新天地 4F
+新光三越台中中港店 5F  
+新光三越台南新天地 4F  
 [Aubade](https://www.skm.com.tw/brand/12567)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 4F
-新光三越台中中港店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 4F  
+新光三越台中中港店 4F  
 [AVIVI](https://www.skm.com.tw/brand/1839)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [AVINA](https://www.skm.com.tw/brand/13212)  
-新光三越台北天母店 2F
+新光三越台北天母店 2F  
 [AMEDEI](https://www.skm.com.tw/brand/2632)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [Aape](https://www.skm.com.tw/brand/12717)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 1F
-新光三越台中中港店 5F
-新光三越台南新天地 4F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 1F  
+新光三越台中中港店 5F  
+新光三越台南新天地 4F  
 [ABBY兒童眼鏡](https://www.skm.com.tw/brand/11325)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [ABC MART](https://www.skm.com.tw/brand/11771)  
-新光三越台北信義新天地A11 B1F
-新光三越台南新天地小西門 B1F
-新光三越高雄左營店彩虹市集 2F
+新光三越台北信義新天地A11 B1F  
+新光三越台南新天地小西門 B1F  
+新光三越高雄左營店彩虹市集 2F  
 [ACQUA DI PARMA](https://www.skm.com.tw/brand/11309)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [ACUPUNCTURE](https://www.skm.com.tw/brand/10944)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 3F
-新光三越台北南西店三館 3F
-新光三越台中中港店 5F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 3F  
+新光三越台北南西店三館 3F  
+新光三越台中中港店 5F  
 [ADDICTION](https://www.skm.com.tw/brand/12227)  
-新光三越台北信義新天地A11 1F
+新光三越台北信義新天地A11 1F  
 [ADERANS 愛德蘭絲](https://www.skm.com.tw/brand/12613)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [adidas KIDS](https://www.skm.com.tw/brand/12192)  
-新光三越台北信義新天地A8 5F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 5F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [adidas originals](https://www.skm.com.tw/brand/11140)  
-新光三越台北信義新天地A9 B1F
-新光三越台北信義新天地A11 1F
-新光三越台北南西店三館 5F
-新光三越台中中港店 3F
-新光三越嘉義垂楊店 6F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A9 B1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北南西店三館 5F  
+新光三越台中中港店 3F  
+新光三越嘉義垂楊店 6F  
+新光三越高雄左營店 7F  
 [adidas 愛迪達](https://www.skm.com.tw/brand/12487)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 4F
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台北南西店 8F
-新光三越台北南西店三館 5F
-新光三越台北南西店三館 5F
-新光三越台中中港店 12F
-新光三越嘉義垂楊店 6F
-新光三越台南中山店 10F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 4F  
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台北南西店 8F  
+新光三越台北南西店三館 5F  
+新光三越台北南西店三館 5F  
+新光三越台中中港店 12F  
+新光三越嘉義垂楊店 6F  
+新光三越台南中山店 10F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
+新光三越高雄左營店 7F  
 [AESOP](https://www.skm.com.tw/brand/12323)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A11 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 3F
-新光三越台南新天地 GF
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A11 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 3F  
+新光三越台南新天地 GF  
 [agete](https://www.skm.com.tw/brand/11834)  
-新光三越台北南西店 2F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台北南西店 2F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [agnès b.女裝](https://www.skm.com.tw/brand/11231)  
-新光三越台北信義新天地A11 2F
-新光三越台北站前店 1F
-新光三越台北南西店 2F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台北信義新天地A11 2F  
+新光三越台北站前店 1F  
+新光三越台北南西店 2F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [AHKAH](https://www.skm.com.tw/brand/11607)  
-新光三越台北信義新天地A8 1F
-新光三越台中中港店 3F
+新光三越台北信義新天地A8 1F  
+新光三越台中中港店 3F  
 [AIGLE](https://www.skm.com.tw/brand/12448)  
-新光三越台北信義新天地A11 5F
-新光三越台南新天地 5F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A11 5F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 6F  
 [AILI 愛力](https://www.skm.com.tw/brand/12896)  
-新光三越高雄左營店 6F
+新光三越高雄左營店 6F  
 [AILI.旅行箱 愛力](https://www.skm.com.tw/brand/12417)  
-新光三越台北站前店 6F
-新光三越台北南西店 8F
-新光三越桃園站前店 6F
-新光三越嘉義垂楊店 7F
-新光三越台南中山店 6F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台北站前店 6F  
+新光三越台北南西店 8F  
+新光三越桃園站前店 6F  
+新光三越嘉義垂楊店 7F  
+新光三越台南中山店 6F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [AIR SPACE](https://www.skm.com.tw/brand/11779)  
-新光三越台北信義新天地A11 B1F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A11 B1F  
+新光三越高雄左營店 3F  
 [AKALIKO](https://www.skm.com.tw/brand/12006)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [ALBION 艾倫比亞](https://www.skm.com.tw/brand/12640)  
-新光三越台北信義新天地A8 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
 [ALDO](https://www.skm.com.tw/brand/11416)  
-新光三越台北信義新天地A8 1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [ALESSI](https://www.skm.com.tw/brand/11550)  
-新光三越台北信義新天地A4 B1F
-新光三越台北天母店 4F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A4 B1F  
+新光三越台北天母店 4F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [Alexander McQueen](https://www.skm.com.tw/brand/11674)  
-新光三越台北信義新天地A9 1F
-新光三越台中中港店 1F
+新光三越台北信義新天地A9 1F  
+新光三越台中中港店 1F  
 [Alexandre de Paris-亞歷山卓亞洲](https://www.skm.com.tw/brand/10896)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 3F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 3F  
 [alice & olivia](https://www.skm.com.tw/brand/11180)  
-新光三越台北信義新天地A9 2F
-新光三越台中中港店 3F
+新光三越台北信義新天地A9 2F  
+新光三越台中中港店 3F  
 [ALL WEARS](https://www.skm.com.tw/brand/12150)  
-新光三越台北信義新天地A11 3F
+新光三越台北信義新天地A11 3F  
 [ALLSAINTS](https://www.skm.com.tw/brand/12876)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店三館 2F
-新光三越台北天母店二館 1F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店三館 2F  
+新光三越台北天母店二館 1F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
+新光三越高雄左營店 1F  
 [ALTO](https://www.skm.com.tw/brand/11016)  
-新光三越台北信義新天地A8 B1F
+新光三越台北信義新天地A8 B1F  
 [AMA](https://www.skm.com.tw/brand/11541)  
-新光三越高雄左營店 8F
+新光三越高雄左營店 8F  
 [AMO 阿默蛋糕](https://www.skm.com.tw/brand/12412)  
-新光三越台北信義新天地A8 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
 [ANGLE](https://www.skm.com.tw/brand/11157)  
-新光三越台北南西店 5F
-新光三越嘉義垂楊店 7F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台北南西店 5F  
+新光三越嘉義垂楊店 7F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [Anny Princess 安妮公主](https://www.skm.com.tw/brand/11406)  
-新光三越台北站前店 8F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北站前店 8F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [Anpanman 麵包超人館 台北](https://www.skm.com.tw/brand/11084)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [ANYSIS](https://www.skm.com.tw/brand/12583)  
-新光三越台北信義新天地A8 B1F
-新光三越台中中港店 B1F
-新光三越台南新天地 4F
+新光三越台北信義新天地A8 B1F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 4F  
 [APM MONACO](https://www.skm.com.tw/brand/11058)  
-新光三越台北信義新天地A9 2F
-新光三越台北南西店 2F
-新光三越台南新天地 1F
+新光三越台北信義新天地A9 2F  
+新光三越台北南西店 2F  
+新光三越台南新天地 1F  
 [APPLE泳裝 蘋果泳裝](https://www.skm.com.tw/brand/12886)  
-新光三越台北信義新天地A11 5F
-新光三越台北站前店 11F
+新光三越台北信義新天地A11 5F  
+新光三越台北站前店 11F  
 [aPure](https://www.skm.com.tw/brand/12110)  
-新光三越台北信義新天地A8 B1F
-新光三越台北南西店 8F
-新光三越台中中港店 12F
+新光三越台北信義新天地A8 B1F  
+新光三越台北南西店 8F  
+新光三越台中中港店 12F  
 [AQmore 水摩兒](https://www.skm.com.tw/brand/11260)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [AQUANAUT 奧可那](https://www.skm.com.tw/brand/12551)  
-新光三越台南中山店 10F
-新光三越台南新天地 6F
+新光三越台南中山店 10F  
+新光三越台南新天地 6F  
 [ARC’TERYX](https://www.skm.com.tw/brand/11348)  
-新光三越台北信義新天地A11 5F
-新光三越台北信義新天地A11 5F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
+新光三越台北信義新天地A11 5F  
+新光三越台北信義新天地A11 5F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
 [ARCOPAL 愛佳寶](https://www.skm.com.tw/brand/10963)  
-新光三越台北站前店 9F
-新光三越台北天母店 4F
+新光三越台北站前店 9F  
+新光三越台北天母店 4F  
 [ARENA](https://www.skm.com.tw/brand/12084)  
-新光三越台北信義新天地A11 5F
-新光三越台北南西店 8F
-新光三越台中中港店 12F
+新光三越台北信義新天地A11 5F  
+新光三越台北南西店 8F  
+新光三越台中中港店 12F  
 [ARNOLD PALMER](https://www.skm.com.tw/brand/12692)  
-新光三越台中中港店 5F
-新光三越台南中山店 B1F
-新光三越台南新天地 4F
-新光三越高雄左營店 B1F
+新光三越台中中港店 5F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 B1F  
 [ARNOLD PALMER女包](https://www.skm.com.tw/brand/12528)  
-新光三越台南新天地 4F
+新光三越台南新天地 4F  
 [AroMart艾樂曼](https://www.skm.com.tw/brand/12321)  
-新光三越桃園站前店 9F
-新光三越台中中港店 7F
+新光三越桃園站前店 9F  
+新光三越台中中港店 7F  
 [ART HAUS](https://www.skm.com.tw/brand/11535)  
-新光三越台北信義新天地A4 2F
-新光三越台中中港店 2F
+新光三越台北信義新天地A4 2F  
+新光三越台中中港店 2F  
 [ART18](https://www.skm.com.tw/brand/11261)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [ART64](https://www.skm.com.tw/brand/11872)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [ARTIFACTS](https://www.skm.com.tw/brand/11903)  
-新光三越台北信義新天地A4 3F
-新光三越台中中港店 3F
+新光三越台北信義新天地A4 3F  
+新光三越台中中港店 3F  
 [ARTSO 亞梭傢俬](https://www.skm.com.tw/brand/10956)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [ARTSO亞梭傢俬-兒童傢俱](https://www.skm.com.tw/brand/12509)  
-新光三越台北南西店 6F
-新光三越台南中山店 8F
-新光三越高雄左營店 5F
+新光三越台北南西店 6F  
+新光三越台南中山店 8F  
+新光三越高雄左營店 5F  
 [AS](https://www.skm.com.tw/brand/12784)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 2F
-新光三越台北站前店 2F
-新光三越台北南西店 1F
-新光三越桃園站前店 2F
-新光三越台中中港店 B1F
-新光三越台南中山店 2F
-新光三越台南新天地 GF
-新光三越高雄三多店 2F
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 2F  
+新光三越台北站前店 2F  
+新光三越台北南西店 1F  
+新光三越桃園站前店 2F  
+新光三越台中中港店 B1F  
+新光三越台南中山店 2F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 2F  
 [asics亞瑟士](https://www.skm.com.tw/brand/11756)  
-新光三越台北信義新天地A11 4F
-新光三越台北南西店三館 5F
-新光三越台北南西店三館 5F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
+新光三越台北信義新天地A11 4F  
+新光三越台北南西店三館 5F  
+新光三越台北南西店三館 5F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
 [ASKO](https://www.skm.com.tw/brand/12331)  
-新光三越台北信義新天地A8 7F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [ASPORT](https://www.skm.com.tw/brand/12604)  
-新光三越台北信義新天地A11 1F
-新光三越台中中港店 3F
+新光三越台北信義新天地A11 1F  
+新光三越台中中港店 3F  
 [ATUNAS 歐都納](https://www.skm.com.tw/brand/12257)  
-新光三越台北信義新天地A11 5F
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A11 5F  
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 7F  
 [AUNT STELLA 詩特莉](https://www.skm.com.tw/brand/11045)  
-新光三越台北南西店 B2F
-新光三越台北天母店 B1F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北南西店 B2F  
+新光三越台北天母店 B1F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [AUROGEM歐莉寶](https://www.skm.com.tw/brand/12330)  
-新光三越台北南西店 4F
-新光三越台北天母店 1F
+新光三越台北南西店 4F  
+新光三越台北天母店 1F  
 [AVEDA](https://www.skm.com.tw/brand/12014)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 3F
-新光三越台南中山店 1F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 3F  
+新光三越台南中山店 1F  
+新光三越台南新天地 2F  
 [Aveda Hair Salon](https://www.skm.com.tw/brand/11460)  
-新光三越台北信義新天地A9 3F
-新光三越台北南西店 3F
+新光三越台北信義新天地A9 3F  
+新光三越台北南西店 3F  
 [AZUR](https://www.skm.com.tw/brand/12189)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越台中中港店 4F
-新光三越台南新天地 3F
-新光三越高雄左營店 2F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越台中中港店 4F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 2F  
 [AUGUSTINUS BADER](https://www.skm.com.tw/brand/911)  
-新光三越台北信義新天地A8 1F
+新光三越台北信義新天地A8 1F  
 [ANELET-安奇](https://www.skm.com.tw/brand/13033)  
-新光三越台北南西店三館 1F
+新光三越台北南西店三館 1F  
 [Baby Madison](https://www.skm.com.tw/brand/1852)  
-新光三越台中中港店 6F
+新光三越台中中港店 6F  
 [BABYZEN](https://www.skm.com.tw/brand/13025)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [BALLY](https://www.skm.com.tw/brand/414)  
-新光三越台南新天地 1F
+新光三越台南新天地 1F  
 [Barbour](https://www.skm.com.tw/brand/2328)  
-新光三越台中中港店 5F
+新光三越台中中港店 5F  
 [BB.Q CHICKEN](https://www.skm.com.tw/brand/13000)  
-新光三越台北南西店三館 7F
+新光三越台北南西店三館 7F  
 [BEAUTE-漂亮一身](https://www.skm.com.tw/brand/12975)  
-新光三越嘉義垂楊店 3F
+新光三越嘉義垂楊店 3F  
 [Been Teen 嬪婷](https://www.skm.com.tw/brand/11183)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越桃園站前店 8F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 5F
-新光三越台南新天地 4F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 5F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 4F  
 [BOBOTEA](https://www.skm.com.tw/brand/12965)  
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 4F
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 4F  
 [bonnie sugar](https://www.skm.com.tw/brand/838)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [BONNY&READ](https://www.skm.com.tw/brand/2033)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店三館 3F
-新光三越台中中港店 B1F
-新光三越台南新天地小西門 1F
-新光三越高雄左營店彩虹市集 3F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店三館 3F  
+新光三越台中中港店 B1F  
+新光三越台南新天地小西門 1F  
+新光三越高雄左營店彩虹市集 3F  
 [BYHUE](https://www.skm.com.tw/brand/13147)  
-新光三越嘉義垂楊店 2F
+新光三越嘉義垂楊店 2F  
 [BEAMS GOLF](https://www.skm.com.tw/brand/13140)  
-新光三越台北信義新天地A11 1F
+新光三越台北信義新天地A11 1F  
 [berji](https://www.skm.com.tw/brand/2081)  
-新光三越台南中山店 3F
-新光三越台南新天地 3F
+新光三越台南中山店 3F  
+新光三越台南新天地 3F  
 [B&O](https://www.skm.com.tw/brand/12477)  
-新光三越台北信義新天地A9 3F
-新光三越台南新天地 1F
+新光三越台北信義新天地A9 3F  
+新光三越台南新天地 1F  
 [B．CLUB](https://www.skm.com.tw/brand/11878)  
-新光三越台北信義新天地A8 B1F
-新光三越桃園站前店 5F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 4F
-新光三越台南中山店 4F
-新光三越台南新天地 4F
-新光三越高雄三多店 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越桃園站前店 5F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 4F  
+新光三越台南中山店 4F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 4F  
+新光三越高雄左營店 3F  
 [BAAN PHADTHAI 帕泰家](https://www.skm.com.tw/brand/12387)  
-新光三越台北信義新天地A8 B1F
+新光三越台北信義新天地A8 B1F  
 [baby baby cool](https://www.skm.com.tw/brand/12811)  
-新光三越台北南西店 6F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北南西店 6F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [Baby City 娃娃城](https://www.skm.com.tw/brand/12367)  
-新光三越台北信義新天地A8 4F
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越台北天母店 6F
-新光三越桃園站前店 8F
-新光三越台中中港店 6F
-新光三越嘉義垂楊店 9F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
-新光三越高雄三多店 8F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 4F  
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越台北天母店 6F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 6F  
+新光三越嘉義垂楊店 9F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 8F  
+新光三越高雄左營店 5F  
 [Baby Impress](https://www.skm.com.tw/brand/11087)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [Baby Organics](https://www.skm.com.tw/brand/12107)  
-新光三越台北信義新天地A8 4F
-新光三越台北南西店 6F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 4F  
+新光三越台北南西店 6F  
+新光三越台南新天地 3F  
 [BABYCOCCOLE](https://www.skm.com.tw/brand/11246)  
-新光三越台中中港店 6F
+新光三越台中中港店 6F  
 [bac 休閒服](https://www.skm.com.tw/brand/12621)  
-新光三越高雄三多店 6F
+新光三越高雄三多店 6F  
 [BACCARAT](https://www.skm.com.tw/brand/11734)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 8F  
 [BAGMANIA](https://www.skm.com.tw/brand/12654)  
-新光三越台北南西店 3F
+新光三越台北南西店 3F  
 [BAKER STREET](https://www.skm.com.tw/brand/12736)  
-新光三越台北信義新天地A8 3F
+新光三越台北信義新天地A8 3F  
 [BALENCIAGA](https://www.skm.com.tw/brand/11486)  
-新光三越台北信義新天地A9 1F
-新光三越台中中港店 1F
-新光三越台中中港店 2F
+新光三越台北信義新天地A9 1F  
+新光三越台中中港店 1F  
+新光三越台中中港店 2F  
 [BALMUDA](https://www.skm.com.tw/brand/12024)  
-新光三越台中中港店 8F
-新光三越高雄左營店 9F
+新光三越台中中港店 8F  
+新光三越高雄左營店 9F  
 [BAO BAO ISSEY MIYAKE](https://www.skm.com.tw/brand/11824)  
-新光三越台北信義新天地A9 2F
-新光三越台南新天地 1F
+新光三越台北信義新天地A9 2F  
+新光三越台南新天地 1F  
 [BARONECE休閒服](https://www.skm.com.tw/brand/12930)  
-新光三越高雄三多店 6F
+新光三越高雄三多店 6F  
 [BARONECE西服](https://www.skm.com.tw/brand/12395)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
-新光三越台南新天地 2F
-新光三越高雄三多店 6F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 6F  
+新光三越高雄左營店 6F  
 [BATIS](https://www.skm.com.tw/brand/12853)  
-新光三越台北站前店 8F
-新光三越台南新天地 5F
-新光三越高雄三多店 6F
+新光三越台北站前店 8F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 6F  
 [BE;EZA](https://www.skm.com.tw/brand/12151)  
-新光三越台北信義新天地A8 1F
-新光三越桃園站前店 2F
-新光三越台中中港店 B1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越桃園站前店 2F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 GF  
 [BEAMS](https://www.skm.com.tw/brand/11203)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [beautySTAGE](https://www.skm.com.tw/brand/11958)  
-新光三越台北南西店三館 1F
-新光三越台中中港店 B1F
+新光三越台北南西店三館 1F  
+新光三越台中中港店 B1F  
 [BEE CHENG HIANG 美珍香](https://www.skm.com.tw/brand/11479)  
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [BELLINI女鞋](https://www.skm.com.tw/brand/12761)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越桃園站前店 2F
-新光三越台南新天地 GF
-新光三越高雄三多店 2F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越桃園站前店 2F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 2F  
 [BENEFIT](https://www.skm.com.tw/brand/12650)  
-新光三越台北信義新天地A11 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 B1F  
 [BENETTON.女裝](https://www.skm.com.tw/brand/11583)  
-新光三越高雄三多店 3F
+新光三越高雄三多店 3F  
 [BENITY](https://www.skm.com.tw/brand/11990)  
-新光三越台南新天地 4F
-新光三越高雄三多店 2F
+新光三越台南新天地 4F  
+新光三越高雄三多店 2F  
 [BergHOFF](https://www.skm.com.tw/brand/11840)  
-新光三越台北信義新天地A8 7F
+新光三越台北信義新天地A8 7F  
 [Berkemann](https://www.skm.com.tw/brand/11614)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [BESIDE U](https://www.skm.com.tw/brand/11690)  
-新光三越高雄左營店 4F
+新光三越高雄左營店 4F  
 [BEST 北之特](https://www.skm.com.tw/brand/11096)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [BETTY'S](https://www.skm.com.tw/brand/10902)  
-新光三越台北信義新天地A8 B1F
-新光三越桃園站前店 5F
-新光三越台南新天地 4F
-新光三越高雄三多店 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越桃園站前店 5F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 4F  
+新光三越高雄左營店 3F  
 [Bgreen](https://www.skm.com.tw/brand/12522)  
-新光三越台北信義新天地A9 B1F
-新光三越台北南西店 7F
-新光三越台北天母店 4F
-新光三越桃園站前店 9F
-新光三越台中中港店 7F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄三多店 9F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A9 B1F  
+新光三越台北南西店 7F  
+新光三越台北天母店 4F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 7F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 9F  
+新光三越高雄左營店 8F  
 [BH](https://www.skm.com.tw/brand/11801)  
-新光三越台南中山店 10F
-新光三越台南新天地 B1F
-新光三越高雄三多店 10F
-新光三越高雄左營店 7F
+新光三越台南中山店 10F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 10F  
+新光三越高雄左營店 7F  
 [BILLY KIDS](https://www.skm.com.tw/brand/12224)  
-新光三越高雄左營店 6F
+新光三越高雄左營店 6F  
 [BIOCHEM 倍優](https://www.skm.com.tw/brand/12782)  
-新光三越台南中山店 3F
-新光三越台南新天地 3F
+新光三越台南中山店 3F  
+新光三越台南新天地 3F  
 [BIOTHERM 碧兒泉](https://www.skm.com.tw/brand/11288)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [BIOZYME 大漢酵素](https://www.skm.com.tw/brand/11525)  
-新光三越台北信義新天地A4 B1F
-新光三越桃園站前店 B1F
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A4 B1F  
+新光三越桃園站前店 B1F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [BIRKENSTOCK 勃肯](https://www.skm.com.tw/brand/12398)  
-新光三越台北南西店三館 2F
-新光三越台南新天地小西門 B1F
+新光三越台北南西店三館 2F  
+新光三越台南新天地小西門 B1F  
 [BLACK&WHITE](https://www.skm.com.tw/brand/11121)  
-新光三越高雄左營店 6F
+新光三越高雄左營店 6F  
 [Blazing](https://www.skm.com.tw/brand/11388)  
-新光三越台北南西店 B1F
+新光三越台北南西店 B1F  
 [BLUE WAY 普威](https://www.skm.com.tw/brand/11452)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 7F
-新光三越桃園站前店 6F
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 5F
-新光三越台南中山店 6F
-新光三越台南新天地 5F
-新光三越高雄三多店 6F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 7F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 6F  
+新光三越高雄左營店 B1F  
 [b-monster](https://www.skm.com.tw/brand/11386)  
-新光三越台北信義新天地A9 5F
+新光三越台北信義新天地A9 5F  
 [BO DEREK女包](https://www.skm.com.tw/brand/12874)  
-新光三越台北站前店 5F
-新光三越台北南西店 3F
-新光三越台南中山店 3F
-新光三越台南新天地 3F
+新光三越台北站前店 5F  
+新光三越台北南西店 3F  
+新光三越台南中山店 3F  
+新光三越台南新天地 3F  
 [BO DEREK女鞋](https://www.skm.com.tw/brand/11089)  
-新光三越台北信義新天地A8 1F
-新光三越桃園站前店 2F
-新光三越台中中港店 B1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越桃園站前店 2F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [BOBBI BROWN 芭比波朗](https://www.skm.com.tw/brand/11056)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
 [BOBSON 伯布森/SUNSISTER](https://www.skm.com.tw/brand/11395)  
-新光三越台北站前店 7F
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 5F
-新光三越台南中山店 6F
-新光三越台南新天地 5F
-新光三越高雄三多店 6F
-新光三越高雄左營店 B1F
+新光三越台北站前店 7F  
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 6F  
+新光三越高雄左營店 B1F  
 [BORSALINI](https://www.skm.com.tw/brand/12923)  
-新光三越台中中港店 4F
-新光三越台南新天地 2F
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
 [BOSCH](https://www.skm.com.tw/brand/11462)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [BOSE](https://www.skm.com.tw/brand/11727)  
-新光三越台北信義新天地A8 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台南新天地 B1F  
 [BOSS](https://www.skm.com.tw/brand/12553)  
-新光三越台中中港店 2F
-新光三越台南新天地 1F
+新光三越台中中港店 2F  
+新光三越台南新天地 1F  
 [BOSS HUGO BOSS 雨果博斯](https://www.skm.com.tw/brand/12775)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A9 3F
-新光三越台北南西店 5F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A9 3F  
+新光三越台北南西店 5F  
 [BOTANICUS 菠丹妮](https://www.skm.com.tw/brand/11721)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [BOTTEGA VENETA](https://www.skm.com.tw/brand/12295)  
-新光三越台北信義新天地A9 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A9 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [BRAPPERS](https://www.skm.com.tw/brand/11425)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 7F
-新光三越桃園站前店 6F
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 5F
-新光三越台南中山店 6F
-新光三越台南新天地 5F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 7F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 B1F  
 [BRAUN BUFFEL羅德皮件](https://www.skm.com.tw/brand/12026)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A11 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A11 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台南新天地 2F  
 [BRAUN 百靈](https://www.skm.com.tw/brand/11264)  
-新光三越嘉義垂楊店 10F
+新光三越嘉義垂楊店 10F  
 [BROOKS](https://www.skm.com.tw/brand/12686)  
-新光三越台北站前店 11F
-新光三越台南新天地 5F
+新光三越台北站前店 11F  
+新光三越台南新天地 5F  
 [BROOKS BROTHERS](https://www.skm.com.tw/brand/11604)  
-新光三越台北信義新天地A8 3F
-新光三越台北南西店 5F
-新光三越台北天母店二館 2F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 3F  
+新光三越台北南西店 5F  
+新光三越台北天母店二館 2F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [BRUSA](https://www.skm.com.tw/brand/11401)  
-新光三越台北信義新天地A11 B2F
-新光三越台北站前店 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台北站前店 B2F  
 [B-SKIN](https://www.skm.com.tw/brand/10972)  
-新光三越桃園站前店 4F
+新光三越桃園站前店 4F  
 [BSX](https://www.skm.com.tw/brand/11745)  
-新光三越台南新天地 5F
+新光三越台南新天地 5F  
 [BTU](https://www.skm.com.tw/brand/11489)  
-新光三越台南中山店 6F
+新光三越台南中山店 6F  
 [Bugatti](https://www.skm.com.tw/brand/11390)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 8F  
 [BURBERRY](https://www.skm.com.tw/brand/12852)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A9 1F
-新光三越台中中港店 2F
-新光三越台南新天地 GF
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A9 1F  
+新光三越台中中港店 2F  
+新光三越台南新天地 GF  
 [BVLGARI](https://www.skm.com.tw/brand/12211)  
-新光三越台北信義新天地A4 1F
+新光三越台北信義新天地A4 1F  
 [BWT](https://www.skm.com.tw/brand/12229)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 8F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 8F  
 [BYREDO](https://www.skm.com.tw/brand/12939)  
-新光三越台中中港店 2F
+新光三越台中中港店 2F  
 [CALVIN KLEIN](https://www.skm.com.tw/brand/2224)  
-新光三越台北天母店二館 1F
-新光三越台南新天地 4F
+新光三越台北天母店二館 1F  
+新光三越台南新天地 4F  
 [Calvin Klein Underwear](https://www.skm.com.tw/brand/12461)  
-新光三越台南新天地 2F
+新光三越台南新天地 2F  
 [CANADA GOOSE](https://www.skm.com.tw/brand/1201)  
-新光三越台北信義新天地A9 1F
+新光三越台北信義新天地A9 1F  
 [CARIN](https://www.skm.com.tw/brand/2034)  
-新光三越台南新天地小西門 1F
+新光三越台南新天地小西門 1F  
 [CARRARA](https://www.skm.com.tw/brand/12952)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [CASIO 翡仕](https://www.skm.com.tw/brand/13052)  
-新光三越台南中山店 B1F
-新光三越台南新天地 5F
-新光三越台南新天地小西門 B1F
-新光三越高雄左營店 B1F
+新光三越台南中山店 B1F  
+新光三越台南新天地 5F  
+新光三越台南新天地小西門 B1F  
+新光三越高雄左營店 B1F  
 [Chantelle](https://www.skm.com.tw/brand/12316)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 4F
-新光三越台中中港店 4F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 4F  
+新光三越台中中港店 4F  
+新光三越台南新天地 3F  
 [CHARISMA](https://www.skm.com.tw/brand/12954)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [CHIU MIN CHU](https://www.skm.com.tw/brand/2743)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [CHLOE](https://www.skm.com.tw/brand/3430)  
-新光三越台北南西店 2F
+新光三越台北南西店 2F  
 [Christian Louboutin](https://www.skm.com.tw/brand/12982)  
-新光三越台北信義新天地A9 1F
+新光三越台北信義新天地A9 1F  
 [CHUAN](https://www.skm.com.tw/brand/13087)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [CILO CALA](https://www.skm.com.tw/brand/1894)  
-新光三越台北信義新天地A8 B1F
+新光三越台北信義新天地A8 B1F  
 [CINDY Q](https://www.skm.com.tw/brand/2735)  
-新光三越台北信義新天地A8 B1F
+新光三越台北信義新天地A8 B1F  
 [CLAIRE DE LUNE](https://www.skm.com.tw/brand/2854)  
-新光三越台南新天地 B1F
+新光三越台南新天地 B1F  
 [COCO JASMINE](https://www.skm.com.tw/brand/3593)  
-新光三越台北信義新天地A8 B1F
-新光三越台北南西店三館 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北南西店三館 3F  
 [CoCo都可](https://www.skm.com.tw/brand/13063)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [COFFEA](https://www.skm.com.tw/brand/13040)  
-新光三越台北站前店 B1F
+新光三越台北站前店 B1F  
 [Coleman](https://www.skm.com.tw/brand/381)  
-新光三越台北信義新天地A11 5F
-新光三越台南新天地小西門 B1F
+新光三越台北信義新天地A11 5F  
+新光三越台南新天地小西門 B1F  
 [COLUMBIA CASCADE CAS](https://www.skm.com.tw/brand/1862)  
-新光三越台中中港店 11F
+新光三越台中中港店 11F  
 [COMPLIT](https://www.skm.com.tw/brand/12974)  
-新光三越高雄左營店 3F
+新光三越高雄左營店 3F  
 [CONTIGO](https://www.skm.com.tw/brand/2517)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [CREMIA｜北海道冰淇淋之神](https://www.skm.com.tw/brand/13055)  
-新光三越台中中港店 10F
+新光三越台中中港店 10F  
 [COCOLULU](https://www.skm.com.tw/brand/13240)  
-新光三越高雄三多店 4F
+新光三越高雄三多店 4F  
 [CUDOS](https://www.skm.com.tw/brand/13222)  
-新光三越台北南西店 6F
+新光三越台北南西店 6F  
 [CY HOUSE](https://www.skm.com.tw/brand/13202)  
-新光三越台北天母店 6F
+新光三越台北天母店 6F  
 [CHRISTIAN DIOR迪奧香氛世家](https://www.skm.com.tw/brand/13142)  
-新光三越台北信義新天地A11 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A11 1F  
+新光三越台南新天地 GF  
 [COME SEE PIZZA](https://www.skm.com.tw/brand/13141)  
-新光三越台北站前店 B1F
+新光三越台北站前店 B1F  
 [Curista Coffee 奎士咖啡](https://www.skm.com.tw/brand/13133)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [CAFE IN](https://www.skm.com.tw/brand/13058)  
-新光三越台中中港店 1F
+新光三越台中中港店 1F  
 [CHURROS](https://www.skm.com.tw/brand/1185)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [C.P. COMPANY](https://www.skm.com.tw/brand/11695)  
-新光三越台北信義新天地A9 3F
+新光三越台北信義新天地A9 3F  
 [CACO](https://www.skm.com.tw/brand/11150)  
-新光三越台北信義新天地A8 B1F
-新光三越台北南西店三館 4F
-新光三越桃園站前店 5F
-新光三越台中中港店 11F
-新光三越台南新天地 5F
-新光三越台南新天地小西門 B2F
-新光三越高雄三多店 B1F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越台北南西店三館 4F  
+新光三越桃園站前店 5F  
+新光三越台中中港店 11F  
+新光三越台南新天地 5F  
+新光三越台南新天地小西門 B2F  
+新光三越高雄三多店 B1F  
+新光三越高雄左營店 B1F  
 [CAFÉ TRICO 三色旗](https://www.skm.com.tw/brand/11375)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [CALIFORNIA REPUBLIC](https://www.skm.com.tw/brand/11342)  
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 5F
-新光三越台南新天地 4F
-新光三越高雄三多店 6F
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 5F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 6F  
 [Calvin Klein home](https://www.skm.com.tw/brand/11432)  
-新光三越台北信義新天地A8 6F
-新光三越台北南西店 7F
+新光三越台北信義新天地A8 6F  
+新光三越台北南西店 7F  
 [CALVIN KLEIN JEANS](https://www.skm.com.tw/brand/12037)  
-新光三越台北信義新天地A11 3F
-新光三越台中中港店 5F
-新光三越台南新天地 4F
+新光三越台北信義新天地A11 3F  
+新光三越台中中港店 5F  
+新光三越台南新天地 4F  
 [cama cafe](https://www.skm.com.tw/brand/12465)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [CAMEL ACTIVE.配件](https://www.skm.com.tw/brand/11808)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 7F
-新光三越台北南西店 5F
-新光三越桃園站前店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 7F  
+新光三越台北南西店 5F  
+新光三越桃園站前店 6F  
 [CANDACE](https://www.skm.com.tw/brand/12788)  
-新光三越桃園站前店 2F
-新光三越台南新天地 3F
-新光三越高雄左營店 4F
+新光三越桃園站前店 2F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 4F  
 [Caprina](https://www.skm.com.tw/brand/11673)  
-新光三越台南新天地 B1F
+新光三越台南新天地 B1F  
 [CARDINA](https://www.skm.com.tw/brand/11445)  
-新光三越台南新天地 3F
-新光三越高雄三多店 3F
-新光三越高雄左營店 2F
+新光三越台南新天地 3F  
+新光三越高雄三多店 3F  
+新光三越高雄左營店 2F  
 [CARNIVAL 嘉裕](https://www.skm.com.tw/brand/12691)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [Cartier](https://www.skm.com.tw/brand/12479)  
-新光三越台南新天地 GF
+新光三越台南新天地 GF  
 [CASETiFY](https://www.skm.com.tw/brand/11836)  
-新光三越台北信義新天地A11 1F
+新光三越台北信義新天地A11 1F  
 [CASIO 卡西歐](https://www.skm.com.tw/brand/11534)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店三館 2F
-新光三越台中中港店 11F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店三館 2F  
+新光三越台中中港店 11F  
 [CASTELBAJAC](https://www.skm.com.tw/brand/10950)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A9 4F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A9 4F  
+新光三越台南新天地 2F  
 [CATH KIDSTON](https://www.skm.com.tw/brand/12819)  
-新光三越台北信義新天地A8 B1F
-新光三越台北南西店 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越台北南西店 B1F  
 [CELINE](https://www.skm.com.tw/brand/12261)  
-新光三越台南新天地 GF
+新光三越台南新天地 GF  
 [CERRUTI 1881](https://www.skm.com.tw/brand/11189)  
-新光三越台北信義新天地A9 3F
+新光三越台北信義新天地A9 3F  
 [Champion Kids](https://www.skm.com.tw/brand/12541)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [CHANEL JEWELRY 香奈兒高級珠寶](https://www.skm.com.tw/brand/11455)  
-新光三越台北信義新天地A4 1F
+新光三越台北信義新天地A4 1F  
 [CHANEL 香奈兒](https://www.skm.com.tw/brand/11161)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A9 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A9 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [CHANEL 香奈兒精品](https://www.skm.com.tw/brand/11073)  
-新光三越台北信義新天地A4 1F
+新光三越台北信義新天地A4 1F  
 [CHANTECAILLE 香緹卡](https://www.skm.com.tw/brand/10970)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北天母店 1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北天母店 1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [CHARM](https://www.skm.com.tw/brand/12099)  
-新光三越台北站前店 4F
-新光三越高雄左營店 2F
+新光三越台北站前店 4F  
+新光三越高雄左營店 2F  
 [CHARRIOL](https://www.skm.com.tw/brand/12771)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [CHEESE CAKE 1](https://www.skm.com.tw/brand/11982)  
-新光三越台北信義新天地A4 B2F
-新光三越台中中港店 B2F
+新光三越台北信義新天地A4 B2F  
+新光三越台中中港店 B2F  
 [CHEESE DUKE 起士公爵](https://www.skm.com.tw/brand/12089)  
-新光三越台北信義新天地A11 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [CHEN YEI](https://www.skm.com.tw/brand/11222)  
-新光三越台南中山店 4F
-新光三越台南新天地 6F
+新光三越台南中山店 4F  
+新光三越台南新天地 6F  
 [CHENG KWAN JANG 正官庄](https://www.skm.com.tw/brand/11108)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [Cherif Perfume](https://www.skm.com.tw/brand/10952)  
-新光三越台北信義新天地A11 3F
+新光三越台北信義新天地A11 3F  
 [CHIC CHOC 奇可俏可](https://www.skm.com.tw/brand/11359)  
-新光三越台北站前店 2F
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北站前店 2F  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [chicco](https://www.skm.com.tw/brand/11046)  
-新光三越台北信義新天地A8 4F
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越台北天母店 6F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
-新光三越高雄三多店 8F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 4F  
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越台北天母店 6F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 8F  
+新光三越高雄左營店 5F  
 [Chlansilk](https://www.skm.com.tw/brand/12147)  
-新光三越台北站前店 5F
+新光三越台北站前店 5F  
 [Chope Chope By JL Studio](https://www.skm.com.tw/brand/12675)  
-新光三越台北信義新天地A4 4F
+新光三越台北信義新天地A4 4F  
 [CHRNG GUNG BIOTECHNOLOGY 長庚生技](https://www.skm.com.tw/brand/10927)  
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [Chunyin](https://www.skm.com.tw/brand/12271)  
-新光三越高雄左營店 2F
+新光三越高雄左營店 2F  
 [CIENTA](https://www.skm.com.tw/brand/11716)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [CINDY](https://www.skm.com.tw/brand/12888)  
-新光三越台北站前店 4F
-新光三越台北南西店 3F
-新光三越台北天母店 3F
-新光三越台中中港店 4F
+新光三越台北站前店 4F  
+新光三越台北南西店 3F  
+新光三越台北天母店 3F  
+新光三越台中中港店 4F  
 [CITY DIAMOND 引雅](https://www.skm.com.tw/brand/11659)  
-新光三越台北站前店 5F
-新光三越台南中山店 2F
+新光三越台北站前店 5F  
+新光三越台南中山店 2F  
 [CK CALVIN KLEIN.女裝](https://www.skm.com.tw/brand/12710)  
-新光三越台北信義新天地A11 2F
-新光三越台中中港店 3F
+新光三越台北信義新天地A11 2F  
+新光三越台中中港店 3F  
 [CLARINS 克蘭詩](https://www.skm.com.tw/brand/11366)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [CLARKS](https://www.skm.com.tw/brand/12351)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [Clay Derman](https://www.skm.com.tw/brand/12703)  
-新光三越台北信義新天地A8 1F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A8 1F  
+新光三越台中中港店 B1F  
 [CLE DE PEAU 肌膚之鑰](https://www.skm.com.tw/brand/11357)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A9 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A9 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [CLINIQUE 倩碧](https://www.skm.com.tw/brand/12383)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [CLUB MONACO](https://www.skm.com.tw/brand/11567)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店 2F
-新光三越台中中港店 3F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店 2F  
+新光三越台中中港店 3F  
 [CND by Condor](https://www.skm.com.tw/brand/10951)  
-新光三越台北信義新天地A8 5F
-新光三越台北南西店 6F
+新光三越台北信義新天地A8 5F  
+新光三越台北南西店 6F  
 [COACH](https://www.skm.com.tw/brand/12914)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越台中中港店 3F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 3F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [Cocco Spa](https://www.skm.com.tw/brand/12409)  
-新光三越台北信義新天地A8 4F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 4F  
+新光三越台南新天地 3F  
 [COCO壱番屋](https://www.skm.com.tw/brand/11828)  
-新光三越台北信義新天地A8 B2F
-新光三越台南中山店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台南中山店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [COLD STONE 酷聖石](https://www.skm.com.tw/brand/11553)  
-新光三越台北信義新天地A8 B2F
-新光三越台北南西店三館 B1F
-新光三越桃園站前店 B1F
-新光三越台中中港店 11F
-新光三越台南中山店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北南西店三館 B1F  
+新光三越桃園站前店 B1F  
+新光三越台中中港店 11F  
+新光三越台南中山店 B2F  
+新光三越台南新天地 B2F  
 [COLD STONE 酷聖石.咖啡廳](https://www.skm.com.tw/brand/11510)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [Columbia 哥倫比亞](https://www.skm.com.tw/brand/11392)  
-新光三越台北信義新天地A11 5F
-新光三越台北南西店 8F
-新光三越台南新天地 5F
+新光三越台北信義新天地A11 5F  
+新光三越台北南西店 8F  
+新光三越台南新天地 5F  
 [COMF-PRO 康樸樂](https://www.skm.com.tw/brand/12859)  
-新光三越嘉義垂楊店 9F
-新光三越台南新天地 3F
+新光三越嘉義垂楊店 9F  
+新光三越台南新天地 3F  
 [COMO STORE / KEEN](https://www.skm.com.tw/brand/12240)  
-新光三越台北信義新天地A11 5F
+新光三越台北信義新天地A11 5F  
 [CONCEPT OF BEIGE,](https://www.skm.com.tw/brand/12212)  
-新光三越台中中港店 4F
+新光三越台中中港店 4F  
 [CONI](https://www.skm.com.tw/brand/12385)  
-新光三越嘉義垂楊店 4F
-新光三越高雄左營店 4F
+新光三越嘉義垂楊店 4F  
+新光三越高雄左營店 4F  
 [CONVERSE](https://www.skm.com.tw/brand/11094)  
-新光三越台北信義新天地A11 4F
-新光三越台北南西店三館 5F
-新光三越台中中港店 3F
-新光三越嘉義垂楊店 6F
-新光三越台南中山店 10F
-新光三越台南新天地 4F
+新光三越台北信義新天地A11 4F  
+新光三越台北南西店三館 5F  
+新光三越台中中港店 3F  
+新光三越嘉義垂楊店 6F  
+新光三越台南中山店 10F  
+新光三越台南新天地 4F  
 [cop copine](https://www.skm.com.tw/brand/11855)  
-新光三越台北信義新天地A11 2F
-新光三越台北站前店 3F
-新光三越台北南西店 3F
-新光三越台北天母店 3F
+新光三越台北信義新天地A11 2F  
+新光三越台北站前店 3F  
+新光三越台北南西店 3F  
+新光三越台北天母店 3F  
 [CORNING WINE HOUSE 康齡酒藏](https://www.skm.com.tw/brand/12862)  
-新光三越台北信義新天地A11 B2F
-新光三越台北站前店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台北信義新天地A11 B2F  
+新光三越台北站前店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [COSME DECORTE 黛珂](https://www.skm.com.tw/brand/11095)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [COSMED 康是美](https://www.skm.com.tw/brand/11871)  
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
-新光三越高雄左營店彩虹市集 1F
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
+新光三越高雄左營店彩虹市集 1F  
 [cosmescents 伊聖詩](https://www.skm.com.tw/brand/11219)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台北南西店 6F
-新光三越台北天母店 2F
-新光三越桃園站前店 9F
-新光三越台中中港店 7F
-新光三越嘉義垂楊店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台北南西店 6F  
+新光三越台北天母店 2F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 7F  
+新光三越嘉義垂楊店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [Cote Noire](https://www.skm.com.tw/brand/12186)  
-新光三越台中中港店 B1F
+新光三越台中中港店 B1F  
 [Cotélac](https://www.skm.com.tw/brand/12909)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店 3F
-新光三越台北天母店 3F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店 3F  
+新光三越台北天母店 3F  
 [COVERNAT](https://www.skm.com.tw/brand/12034)  
-新光三越台北信義新天地A11 3F
-新光三越台中中港店 11F
+新光三越台北信義新天地A11 3F  
+新光三越台中中港店 11F  
 [COWA](https://www.skm.com.tw/brand/12933)  
-新光三越桃園站前店 6F
-新光三越台南新天地 5F
-新光三越高雄左營店 3F
+新光三越桃園站前店 6F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 3F  
 [CROCS 卡駱馳](https://www.skm.com.tw/brand/11291)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 5F
-新光三越台北南西店三館 4F
-新光三越台中中港店 11F
-新光三越台南新天地 5F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 5F  
+新光三越台北南西店三館 4F  
+新光三越台中中港店 11F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 3F  
 [Cuisinart美膳雅](https://www.skm.com.tw/brand/12381)  
-新光三越台北信義新天地A8 7F
+新光三越台北信義新天地A8 7F  
 [CUMAR UNDERWEAR](https://www.skm.com.tw/brand/12540)  
-新光三越台中中港店 5F
+新光三越台中中港店 5F  
 [CUMAR.女裝](https://www.skm.com.tw/brand/11062)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 3F
-新光三越台北南西店 B1F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 4F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 3F  
+新光三越台北南西店 B1F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 4F  
 [CUMAR.皮件](https://www.skm.com.tw/brand/11449)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越桃園站前店 6F
-新光三越台中中港店 5F
-新光三越台南中山店 6F
-新光三越台南新天地 2F
-新光三越高雄三多店 6F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 6F  
+新光三越高雄左營店 6F  
 [CUMAR女包](https://www.skm.com.tw/brand/11545)  
-新光三越台北站前店 3F
-新光三越桃園站前店 4F
-新光三越台中中港店 B1F
-新光三越台南新天地 4F
-新光三越高雄三多店 2F
+新光三越台北站前店 3F  
+新光三越桃園站前店 4F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 2F  
 [CUMAR女鞋](https://www.skm.com.tw/brand/11697)  
-新光三越台北站前店 2F
-新光三越台中中港店 B1F
-新光三越台南中山店 2F
-新光三越台南新天地 GF
+新光三越台北站前店 2F  
+新光三越台中中港店 B1F  
+新光三越台南中山店 2F  
+新光三越台南新天地 GF  
 [CUMAR休閒服](https://www.skm.com.tw/brand/11029)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越桃園站前店 6F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
-新光三越台南中山店 7F
-新光三越台南新天地 2F
-新光三越高雄三多店 6F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
+新光三越台南中山店 7F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 6F  
+新光三越高雄左營店 6F  
 [CUMAR男鞋](https://www.skm.com.tw/brand/11344)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
-新光三越高雄三多店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 6F  
 [CURIO BOUTIQUE 居禮名店](https://www.skm.com.tw/brand/11393)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [CYRANO](https://www.skm.com.tw/brand/11225)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [DRUNK ELEPHANT 醉象](https://www.skm.com.tw/brand/12976)  
-新光三越台北信義新天地A11 1F
+新光三越台北信義新天地A11 1F  
 [DAILY STATEMENT](https://www.skm.com.tw/brand/13090)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [DANIEL WELLINGTON](https://www.skm.com.tw/brand/2025)  
-新光三越台中中港店 11F
+新光三越台中中港店 11F  
 [DANSKIN](https://www.skm.com.tw/brand/1621)  
-新光三越台中中港店 12F
-新光三越台南新天地 2F
+新光三越台中中港店 12F  
+新光三越台南新天地 2F  
 [DAY JUICE果日飲](https://www.skm.com.tw/brand/13102)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [Desigual](https://www.skm.com.tw/brand/2917)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [DOCH](https://www.skm.com.tw/brand/2890)  
-新光三越台南中山店 4F
+新光三越台南中山店 4F  
 [DTB BAGS](https://www.skm.com.tw/brand/3012)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [DUBI](https://www.skm.com.tw/brand/2031)  
-新光三越台北信義新天地A8 B1F
+新光三越台北信義新天地A8 B1F  
 [DYCTEAM](https://www.skm.com.tw/brand/3562)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [DECEMBERMAY](https://www.skm.com.tw/brand/13137)  
-新光三越台北信義新天地A9 4F
+新光三越台北信義新天地A9 4F  
 [Dreamers Coffee Roasters](https://www.skm.com.tw/brand/3367)  
-新光三越台北信義新天地A8 1F
+新光三越台北信義新天地A8 1F  
 [DR.CINK達特聖克](https://www.skm.com.tw/brand/12983)  
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [D&D Jewelry](https://www.skm.com.tw/brand/12857)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [DA VILLAGE](https://www.skm.com.tw/brand/12075)  
-新光三越台北信義新天地A11 4F
+新光三越台北信義新天地A11 4F  
 [Dailo](https://www.skm.com.tw/brand/11413)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 2F
-新光三越桃園站前店 5F
-新光三越台南中山店 4F
-新光三越台南新天地 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 2F  
+新光三越桃園站前店 5F  
+新光三越台南中山店 4F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 3F  
 [DAISO JAPAN 大創百貨](https://www.skm.com.tw/brand/11275)  
-新光三越台南新天地小西門 B2F
-新光三越高雄左營店彩虹市集 2F
+新光三越台南新天地小西門 B2F  
+新光三越高雄左營店彩虹市集 2F  
 [DAKS](https://www.skm.com.tw/brand/12890)  
-新光三越台北南西店 4F
-新光三越台中中港店 4F
-新光三越台南新天地 1F
+新光三越台北南西店 4F  
+新光三越台中中港店 4F  
+新光三越台南新天地 1F  
 [DAKS西服](https://www.skm.com.tw/brand/11624)  
-新光三越台中中港店 5F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [DARPHIN 朵法](https://www.skm.com.tw/brand/10969)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [DAVIDS](https://www.skm.com.tw/brand/11865)  
-新光三越台北南西店三館 3F
+新光三越台北南西店三館 3F  
 [DAY&DAY](https://www.skm.com.tw/brand/11814)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 8F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 8F  
 [DC](https://www.skm.com.tw/brand/11675)  
-新光三越台南新天地 5F
-新光三越高雄左營店 7F
+新光三越台南新天地 5F  
+新光三越高雄左營店 7F  
 [departure](https://www.skm.com.tw/brand/12217)  
-新光三越台北信義新天地A9 B1F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A9 B1F  
+新光三越高雄左營店 6F  
 [DEPOT](https://www.skm.com.tw/brand/12632)  
-新光三越台北信義新天地A9 2F
+新光三越台北信義新天地A9 2F  
 [DESCENTE](https://www.skm.com.tw/brand/12326)  
-新光三越台北信義新天地A11 4F
+新光三越台北信義新天地A11 4F  
 [DESCENTE GOLF](https://www.skm.com.tw/brand/12829)  
-新光三越台北信義新天地A9 5F
+新光三越台北信義新天地A9 5F  
 [DeSire](https://www.skm.com.tw/brand/11321)  
-新光三越台南新天地 GF
+新光三越台南新天地 GF  
 [DEUS](https://www.skm.com.tw/brand/11080)  
-新光三越台北南西店三館 4F
-新光三越台南新天地 4F
+新光三越台北南西店三館 4F  
+新光三越台南新天地 4F  
 [DEVILCASE](https://www.skm.com.tw/brand/12531)  
-新光三越台北信義新天地A8 B1F
-新光三越台中中港店 12F
-新光三越台南中山店 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越台中中港店 12F  
+新光三越台南中山店 B1F  
 [DEYA](https://www.skm.com.tw/brand/12806)  
-新光三越台南新天地小西門 B1F
-新光三越高雄左營店彩虹市集 1F
+新光三越台南新天地小西門 B1F  
+新光三越高雄左營店彩虹市集 1F  
 [DIANA](https://www.skm.com.tw/brand/12535)  
-新光三越台北站前店 5F
-新光三越台南新天地 3F
-新光三越高雄左營店 4F
+新光三越台北站前店 5F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 4F  
 [DIANA女鞋](https://www.skm.com.tw/brand/11020)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 2F
-新光三越台北南西店 1F
-新光三越桃園站前店 2F
-新光三越台中中港店 B1F
-新光三越台南中山店 2F
-新光三越台南新天地 GF
-新光三越高雄三多店 2F
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 2F  
+新光三越台北南西店 1F  
+新光三越桃園站前店 2F  
+新光三越台中中港店 B1F  
+新光三越台南中山店 2F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 2F  
 [DICKIES](https://www.skm.com.tw/brand/10955)  
-新光三越台南新天地 4F
+新光三越台南新天地 4F  
 [Diffa](https://www.skm.com.tw/brand/11874)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 3F
-新光三越台北天母店 3F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 3F
-新光三越台南新天地 3F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 3F  
+新光三越台北天母店 3F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 3F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 4F  
 [DIOR](https://www.skm.com.tw/brand/12317)  
-新光三越台北信義新天地A4 1F
+新光三越台北信義新天地A4 1F  
 [DIOR迪奧](https://www.skm.com.tw/brand/12011)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [DISK-潮男誌](https://www.skm.com.tw/brand/12338)  
-新光三越高雄左營店 B1F
+新光三越高雄左營店 B1F  
 [DITA](https://www.skm.com.tw/brand/11354)  
-新光三越台北信義新天地A8 B1F
-新光三越台北南西店 3F
-新光三越桃園站前店 3F
-新光三越台中中港店 B1F
-新光三越台南中山店 3F
-新光三越台南新天地 4F
+新光三越台北信義新天地A8 B1F  
+新光三越台北南西店 3F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 B1F  
+新光三越台南中山店 3F  
+新光三越台南新天地 4F  
 [DIVA LIFE CHOCOLATIER](https://www.skm.com.tw/brand/12794)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [Dleet](https://www.skm.com.tw/brand/12664)  
-新光三越台北信義新天地A11 2F
-新光三越嘉義垂楊店 2F
+新光三越台北信義新天地A11 2F  
+新光三越嘉義垂楊店 2F  
 [DOLLBAO逗寶](https://www.skm.com.tw/brand/12565)  
-新光三越台北信義新天地A8 4F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 4F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
 [DONQ 東客](https://www.skm.com.tw/brand/12897)  
-新光三越台北信義新天地A8 B2F
-新光三越台北信義新天地A11 B2F
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台北天母店 B1F
-新光三越台中中港店 B2F
-新光三越台南中山店 B2F
-新光三越高雄三多店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北信義新天地A11 B2F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台北天母店 B1F  
+新光三越台中中港店 B2F  
+新光三越台南中山店 B2F  
+新光三越高雄三多店 B2F  
 [DOUCHANGLEE](https://www.skm.com.tw/brand/12617)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店 3F
-新光三越嘉義垂楊店 2F
-新光三越台南新天地 3F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店 3F  
+新光三越嘉義垂楊店 2F  
+新光三越台南新天地 3F  
 [DR](https://www.skm.com.tw/brand/11594)  
-新光三越台北南西店 4F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北南西店 4F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [DR.MARTENS](https://www.skm.com.tw/brand/11660)  
-新光三越台北信義新天地A11 3F
-新光三越桃園站前店 3F
-新光三越台南新天地小西門 B1F
+新光三越台北信義新天地A11 3F  
+新光三越桃園站前店 3F  
+新光三越台南新天地小西門 B1F  
 [DRAKA-吉雅](https://www.skm.com.tw/brand/11322)  
-新光三越嘉義垂楊店 7F
-新光三越高雄左營店 6F
+新光三越嘉義垂楊店 7F  
+新光三越高雄左營店 6F  
 [DRESS](https://www.skm.com.tw/brand/12363)  
-新光三越高雄三多店 5F
+新光三越高雄三多店 5F  
 [Dyson](https://www.skm.com.tw/brand/12280)  
-新光三越台北信義新天地A8 7F
-新光三越台北信義新天地A11 1F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台北信義新天地A11 1F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [DUE ITALIAN](https://www.skm.com.tw/brand/2409)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [ESTEE LAUDER 雅詩蘭黛](https://www.skm.com.tw/brand/11900)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [E WEAR](https://www.skm.com.tw/brand/731)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店 B1F
-新光三越台中中港店 B1F
-新光三越台南中山店 3F
-新光三越台南新天地 4F
-新光三越高雄三多店 3F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店 B1F  
+新光三越台中中港店 B1F  
+新光三越台南中山店 3F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 3F  
 [E001](https://www.skm.com.tw/brand/2342)  
-新光三越台北天母店二館 2F
-新光三越台南中山店 7F
-新光三越台南新天地 4F
-新光三越高雄左營店 6F
+新光三越台北天母店二館 2F  
+新光三越台南中山店 7F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 6F  
 [ELEGANTE](https://www.skm.com.tw/brand/12953)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [EMINENT](https://www.skm.com.tw/brand/2214)  
-新光三越桃園站前店 6F
+新光三越桃園站前店 6F  
 [ete](https://www.skm.com.tw/brand/1098)  
-新光三越台北信義新天地A8 1F
+新光三越台北信義新天地A8 1F  
 [EVVON](https://www.skm.com.tw/brand/2008)  
-新光三越高雄三多店 4F
+新光三越高雄三多店 4F  
 [Envitaly戀義酒藏](https://www.skm.com.tw/brand/3248)  
-新光三越台中中港店 8F
+新光三越台中中港店 8F  
 [Ea](https://www.skm.com.tw/brand/11514)  
-新光三越台北信義新天地A8 1F
-新光三越桃園站前店 2F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 2F
+新光三越台北信義新天地A8 1F  
+新光三越桃園站前店 2F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 2F  
 [earth music&ecology](https://www.skm.com.tw/brand/11892)  
-新光三越台北信義新天地A11 B1F
-新光三越台北站前店 3F
-新光三越台北南西店 B1F
-新光三越桃園站前店 4F
-新光三越台中中港店 B1F
-新光三越台南中山店 3F
-新光三越台南新天地 4F
-新光三越高雄三多店 3F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A11 B1F  
+新光三越台北站前店 3F  
+新光三越台北南西店 B1F  
+新光三越桃園站前店 4F  
+新光三越台中中港店 B1F  
+新光三越台南中山店 3F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 3F  
+新光三越高雄左營店 3F  
 [ECCO](https://www.skm.com.tw/brand/12752)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A11 3F
-新光三越台北南西店 5F
-新光三越台北天母店二館 2F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店 5F  
+新光三越台北天母店二館 2F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [EDWIN 鑀德恩/SOMETHING](https://www.skm.com.tw/brand/11870)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 7F
-新光三越桃園站前店 6F
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 5F
-新光三越台南中山店 6F
-新光三越台南新天地 5F
-新光三越高雄三多店 6F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 7F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 6F  
+新光三越高雄左營店 B1F  
 [Electrolux](https://www.skm.com.tw/brand/11048)  
-新光三越台北信義新天地A8 7F
-新光三越台北信義新天地A9 B2F
-新光三越台北站前店 10F
-新光三越桃園站前店 9F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台北信義新天地A9 B2F  
+新光三越台北站前店 10F  
+新光三越桃園站前店 9F  
+新光三越台南新天地 B1F  
 [ELEMIS](https://www.skm.com.tw/brand/12127)  
-新光三越台北信義新天地A11 1F
+新光三越台北信義新天地A11 1F  
 [ELIZABETH ARDEN 伊麗莎白雅頓](https://www.skm.com.tw/brand/11179)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [ELLE 威星](https://www.skm.com.tw/brand/12315)  
-新光三越台北信義新天地A8 5F
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越台北天母店 6F
-新光三越台中中港店 6F
+新光三越台北信義新天地A8 5F  
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越台北天母店 6F  
+新光三越台中中港店 6F  
 [Emilie Louis](https://www.skm.com.tw/brand/11736)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [EMPEROR LOVE 御奉](https://www.skm.com.tw/brand/12206)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [EMPORIO ARMANI](https://www.skm.com.tw/brand/12937)  
-新光三越台北信義新天地A9 3F
+新光三越台北信義新天地A9 3F  
 [ENOK](https://www.skm.com.tw/brand/11591)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [ENOTECA](https://www.skm.com.tw/brand/12877)  
-新光三越台北信義新天地A9 3F
+新光三越台北信義新天地A9 3F  
 [en-suey 銀穗](https://www.skm.com.tw/brand/12935)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 3F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 3F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [epanouir](https://www.skm.com.tw/brand/11224)  
-新光三越台北站前店 3F
-新光三越台南中山店 4F
+新光三越台北站前店 3F  
+新光三越台南中山店 4F  
 [EPISODE](https://www.skm.com.tw/brand/11511)  
-新光三越台北站前店 4F
-新光三越台北南西店 4F
-新光三越台北天母店 3F
+新光三越台北站前店 4F  
+新光三越台北南西店 4F  
+新光三越台北天母店 3F  
 [ERICA STORE](https://www.skm.com.tw/brand/12700)  
-新光三越台北信義新天地A11 B1F
-新光三越台中中港店 3F
-新光三越台南新天地 4F
+新光三越台北信義新天地A11 B1F  
+新光三越台中中港店 3F  
+新光三越台南新天地 4F  
 [E'SOPO](https://www.skm.com.tw/brand/11895)  
-新光三越桃園站前店 6F
+新光三越桃園站前店 6F  
 [ESPACE  BEAUTE](https://www.skm.com.tw/brand/11723)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [ETVOS](https://www.skm.com.tw/brand/12879)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [EVEROSE 愛芙蓉](https://www.skm.com.tw/brand/11802)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [EVO](https://www.skm.com.tw/brand/11717)  
-新光三越高雄左營店 B1F
+新光三越高雄左營店 B1F  
 [EXPERIENCE](https://www.skm.com.tw/brand/11030)  
-新光三越台北天母店 3F
-新光三越高雄左營店 2F
+新光三越台北天母店 3F  
+新光三越高雄左營店 2F  
 [ESPACE BEAUTE](https://www.skm.com.tw/brand/2715)  
-新光三越台南新天地 2F
+新光三越台南新天地 2F  
 [FARZO](https://www.skm.com.tw/brand/273)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [FAURE LE PAGE](https://www.skm.com.tw/brand/2706)  
-新光三越台北信義新天地A4 2F
+新光三越台北信義新天地A4 2F  
 [Fees Beaute](https://www.skm.com.tw/brand/13104)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [FENDI](https://www.skm.com.tw/brand/2058)  
-新光三越台中中港店 2F
-新光三越台中中港店 1F
+新光三越台中中港店 2F  
+新光三越台中中港店 1F  
 [FLORALE](https://www.skm.com.tw/brand/12791)  
-新光三越台北站前店 5F
-新光三越台南中山店 5F
-新光三越高雄左營店 4F
+新光三越台北站前店 5F  
+新光三越台南中山店 5F  
+新光三越高雄左營店 4F  
 [FLOTEMP](https://www.skm.com.tw/brand/2525)  
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
 [FOTEX](https://www.skm.com.tw/brand/2524)  
-新光三越高雄左營店 8F
+新光三越高雄左營店 8F  
 [fun time club](https://www.skm.com.tw/brand/11914)  
-新光三越台北信義新天地A8 B1F
+新光三越台北信義新天地A8 B1F  
 [FUTURO](https://www.skm.com.tw/brand/13024)  
-新光三越台北南西店 B1F
+新光三越台北南西店 B1F  
 [F’ees BEAUTE](https://www.skm.com.tw/brand/11451)  
-新光三越台北南西店 3F
+新光三越台北南西店 3F  
 [FABIANA FILIPPI](https://www.skm.com.tw/brand/12603)  
-新光三越台北信義新天地A4 3F
+新光三越台北信義新天地A4 3F  
 [FACE](https://www.skm.com.tw/brand/12760)  
-新光三越台北站前店 3F
+新光三越台北站前店 3F  
 [FACHA](https://www.skm.com.tw/brand/12601)  
-新光三越台中中港店 5F
+新光三越台中中港店 5F  
 [FAIR LADY](https://www.skm.com.tw/brand/11529)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越台南中山店 2F
-新光三越台南新天地 GF
-新光三越高雄三多店 2F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越台南中山店 2F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 2F  
+新光三越高雄左營店 1F  
 [FASHION SHOW 流行秀](https://www.skm.com.tw/brand/11860)  
-新光三越嘉義垂楊店 2F
+新光三越嘉義垂楊店 2F  
 [FASTER 名人泳裝](https://www.skm.com.tw/brand/11110)  
-新光三越台北站前店 11F
-新光三越台中中港店 12F
-新光三越高雄左營店 7F
+新光三越台北站前店 11F  
+新光三越台中中港店 12F  
+新光三越高雄左營店 7F  
 [FCUK French Connection](https://www.skm.com.tw/brand/11952)  
-新光三越台北信義新天地A4 3F
+新光三越台北信義新天地A4 3F  
 [FECA 鐵碳](https://www.skm.com.tw/brand/11315)  
-新光三越高雄三多店 9F
+新光三越高雄三多店 9F  
 [F'ees](https://www.skm.com.tw/brand/12297)  
-新光三越台北信義新天地A8 4F
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越桃園站前店 5F
-新光三越台中中港店 6F
-新光三越嘉義垂楊店 9F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 4F  
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越桃園站前店 5F  
+新光三越台中中港店 6F  
+新光三越嘉義垂楊店 9F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [FERRAGAMO](https://www.skm.com.tw/brand/11965)  
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [FESTARIA](https://www.skm.com.tw/brand/11487)  
-新光三越台北南西店 2F
-新光三越台中中港店 4F
-新光三越台南新天地 2F
-新光三越高雄左營店 1F
+新光三越台北南西店 2F  
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 1F  
 [FFFF](https://www.skm.com.tw/brand/12903)  
-新光三越台北南西店 B1F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 4F
-新光三越台南中山店 4F
-新光三越高雄左營店 3F
+新光三越台北南西店 B1F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 4F  
+新光三越台南中山店 4F  
+新光三越高雄左營店 3F  
 [FILA KIDS](https://www.skm.com.tw/brand/12804)  
-新光三越台北信義新天地A8 5F
-新光三越台中中港店 6F
-新光三越嘉義垂楊店 9F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 5F  
+新光三越台中中港店 6F  
+新光三越嘉義垂楊店 9F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [FILA.SPORT](https://www.skm.com.tw/brand/11970)  
-新光三越台北信義新天地A11 4F
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台北南西店 8F
-新光三越台中中港店 12F
-新光三越嘉義垂楊店 6F
-新光三越台南中山店 10F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A11 4F  
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台北南西店 8F  
+新光三越台中中港店 12F  
+新光三越嘉義垂楊店 6F  
+新光三越台南中山店 10F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
+新光三越高雄左營店 7F  
 [FINARA 費納拉](https://www.skm.com.tw/brand/11439)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [FINESSE WINES 法蘭絲](https://www.skm.com.tw/brand/12260)  
-新光三越台北信義新天地A8 B2F
-新光三越台北天母店 B1F
+新光三越台北信義新天地A8 B2F  
+新光三越台北天母店 B1F  
 [FISSLER 菲仕樂](https://www.skm.com.tw/brand/12589)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [FITFLOP](https://www.skm.com.tw/brand/11295)  
-新光三越台北信義新天地A4 3F
-新光三越台北南西店 8F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 3F
-新光三越台南新天地 3F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 3F  
+新光三越台北南西店 8F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 3F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 1F  
 [FIVE CM](https://www.skm.com.tw/brand/12790)  
-新光三越台北信義新天地A11 3F
-新光三越台中中港店 5F
+新光三越台北信義新天地A11 3F  
+新光三越台中中港店 5F  
 [FIVE PENCE 五個銅貨](https://www.skm.com.tw/brand/10913)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越台南新天地 3F  
 [FLORA FLOWER](https://www.skm.com.tw/brand/11126)  
-新光三越台中中港店 B1F
+新光三越台中中港店 B1F  
 [Florian Taiwan 福里安花神](https://www.skm.com.tw/brand/12742)  
-新光三越台北信義新天地A9 2F
-新光三越台中中港店 2F
+新光三越台北信義新天地A9 2F  
+新光三越台中中港店 2F  
 [FLYING EAGLE 飛鷹](https://www.skm.com.tw/brand/12435)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 7F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 7F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
 [FM](https://www.skm.com.tw/brand/12501)  
-新光三越高雄左營店 6F
+新光三越高雄左營店 6F  
 [FOLLI FOLLIE](https://www.skm.com.tw/brand/11519)  
-新光三越台北信義新天地A4 3F
-新光三越台北南西店 3F
+新光三越台北信義新天地A4 3F  
+新光三越台北南西店 3F  
 [FOOTA 夥伴生活](https://www.skm.com.tw/brand/11337)  
-新光三越台南中山店 8F
-新光三越台南新天地 5F
+新光三越台南中山店 8F  
+新光三越台南新天地 5F  
 [FOOTDISC 富足康](https://www.skm.com.tw/brand/11015)  
-新光三越桃園站前店 6F
-新光三越嘉義垂楊店 7F
-新光三越台南新天地 5F
-新光三越高雄左營店 6F
+新光三越桃園站前店 6F  
+新光三越嘉義垂楊店 7F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 6F  
 [FRAAS](https://www.skm.com.tw/brand/11948)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越嘉義垂楊店 3F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越嘉義垂楊店 3F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
 [FRANZ 法藍瓷](https://www.skm.com.tw/brand/10954)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [FRED PERRY](https://www.skm.com.tw/brand/11959)  
-新光三越台中中港店 5F
+新光三越台中中港店 5F  
 [FREE](https://www.skm.com.tw/brand/12288)  
-新光三越台北站前店 4F
+新光三越台北站前店 4F  
 [FREEDOM JAPAN](https://www.skm.com.tw/brand/11172)  
-新光三越台南中山店 4F
+新光三越台南中山店 4F  
 [FUJI按摩椅](https://www.skm.com.tw/brand/12403)  
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [Full Want扶旺號](https://www.skm.com.tw/brand/11453)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [funbox 歡樂工場](https://www.skm.com.tw/brand/12028)  
-新光三越台北信義新天地A8 5F
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越台北天母店 6F
-新光三越桃園站前店 8F
-新光三越台中中港店 6F
-新光三越嘉義垂楊店 9F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
-新光三越高雄三多店 8F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 5F  
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越台北天母店 6F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 6F  
+新光三越嘉義垂楊店 9F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 8F  
+新光三越高雄左營店 5F  
 [gelato pique](https://www.skm.com.tw/brand/12064)  
-新光三越台中中港店 4F
+新光三越台中中港店 4F  
 [GEO](https://www.skm.com.tw/brand/3223)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [GETCHI](https://www.skm.com.tw/brand/3099)  
-新光三越台北南西店三館 3F
-新光三越台南新天地 5F
+新光三越台北南西店三館 3F  
+新光三越台南新天地 5F  
 [GIORGIO VARALLI](https://www.skm.com.tw/brand/2359)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [GLADLESS](https://www.skm.com.tw/brand/12962)  
-新光三越台北南西店 B1F
+新光三越台北南西店 B1F  
 [GLITTER](https://www.skm.com.tw/brand/2084)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [GUESS](https://www.skm.com.tw/brand/2158)  
-新光三越台北信義新天地A9 B1F
-新光三越台中中港店 11F
-新光三越台南新天地小西門 B1F
+新光三越台北信義新天地A9 B1F  
+新光三越台中中港店 11F  
+新光三越台南新天地小西門 B1F  
 [Gunze 郡是](https://www.skm.com.tw/brand/1989)  
-新光三越台北信義新天地A8 3F
-新光三越台北南西店 5F
+新光三越台北信義新天地A8 3F  
+新光三越台北南西店 5F  
 [G/FORE](https://www.skm.com.tw/brand/13148)  
-新光三越台南新天地 2F
+新光三越台南新天地 2F  
 [GLOBAL WORK](https://www.skm.com.tw/brand/13135)  
-新光三越台北天母店 2F
-新光三越台南新天地 5F
+新光三越台北天母店 2F  
+新光三越台南新天地 5F  
 [Gontran Cherrier Bakery](https://www.skm.com.tw/brand/491)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [GBA吉比鮮釀](https://www.skm.com.tw/brand/3286)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店三館 8F
-新光三越台中中港店 13F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店三館 8F  
+新光三越台中中港店 13F  
 [Gelovery Gift](https://www.skm.com.tw/brand/13017)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [G2000](https://www.skm.com.tw/brand/12485)  
-新光三越台北信義新天地A9 B1F
-新光三越台北站前店 7F
-新光三越台中中港店 5F
-新光三越台南新天地 4F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A9 B1F  
+新光三越台北站前店 7F  
+新光三越台中中港店 5F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 6F  
 [G2000.女裝](https://www.skm.com.tw/brand/10949)  
-新光三越台北信義新天地A9 B1F
+新光三越台北信義新天地A9 B1F  
 [GARDENA](https://www.skm.com.tw/brand/12258)  
-新光三越台南中山店 2F
+新光三越台南中山店 2F  
 [GARMIN](https://www.skm.com.tw/brand/12306)  
-新光三越台北信義新天地A8 3F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 3F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [GAUDI](https://www.skm.com.tw/brand/12180)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 7F
-新光三越桃園站前店 6F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
-新光三越台南新天地 5F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 7F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
+新光三越台南新天地 5F  
 [GBT II 鋼彈旗艦2號店](https://www.skm.com.tw/brand/11536)  
-新光三越高雄左營店彩虹市集 2F
+新光三越高雄左營店彩虹市集 2F  
 [GDC](https://www.skm.com.tw/brand/10947)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
 [GELATO PIQUE CAFÉ](https://www.skm.com.tw/brand/11134)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [GENNIE'S MATERNITY奇妮孕哺](https://www.skm.com.tw/brand/10891)  
-新光三越台北信義新天地A8 4F
-新光三越台北站前店 8F
-新光三越桃園站前店 8F
-新光三越台中中港店 6F
-新光三越嘉義垂楊店 9F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
-新光三越高雄三多店 8F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 4F  
+新光三越台北站前店 8F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 6F  
+新光三越嘉義垂楊店 9F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 8F  
+新光三越高雄左營店 5F  
 [GEORG JENSEN](https://www.skm.com.tw/brand/12801)  
-新光三越台北信義新天地A8 1F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台北信義新天地A8 1F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [GEORGE喬治皮鞋](https://www.skm.com.tw/brand/10922)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [GIEVES&HAWKES](https://www.skm.com.tw/brand/11861)  
-新光三越台北信義新天地A8 3F
+新光三越台北信義新天地A8 3F  
 [Gigo智高](https://www.skm.com.tw/brand/12505)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [GINKGO LIN 林銀杏](https://www.skm.com.tw/brand/12246)  
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [GINKOO](https://www.skm.com.tw/brand/12049)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 3F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 3F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
 [GINZA DIAMOND SHIRAISHI](https://www.skm.com.tw/brand/11035)  
-新光三越桃園站前店 1F
-新光三越台中中港店 4F
-新光三越台南新天地 1F
+新光三越桃園站前店 1F  
+新光三越台中中港店 4F  
+新光三越台南新天地 1F  
 [GIORDANO LADIES](https://www.skm.com.tw/brand/12731)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
 [GIORDANO 佐丹奴](https://www.skm.com.tw/brand/12264)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台中中港店 12F
-新光三越台南中山店 7F
-新光三越台南新天地 5F
-新光三越高雄三多店 6F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台中中港店 12F  
+新光三越台南中山店 7F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 6F  
+新光三越高雄左營店 7F  
 [GIORGIO ARMANI BEAUTY亞曼尼](https://www.skm.com.tw/brand/12408)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [GLORIA 葛洛麗雅](https://www.skm.com.tw/brand/12724)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [GLORIA-葛洛麗雅](https://www.skm.com.tw/brand/12656)  
-新光三越台北信義新天地A9 2F
-新光三越台中中港店 3F
-新光三越台南新天地 2F
-新光三越高雄三多店 2F
+新光三越台北信義新天地A9 2F  
+新光三越台中中港店 3F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 2F  
 [GODIVA](https://www.skm.com.tw/brand/12074)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [GOOD FOR IT](https://www.skm.com.tw/brand/11754)  
-新光三越台北信義新天地A11 3F
+新光三越台北信義新天地A11 3F  
 [GOOD GUY 好漢](https://www.skm.com.tw/brand/12305)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [GOZO](https://www.skm.com.tw/brand/12158)  
-新光三越台北南西店 B1F
-新光三越桃園站前店 4F
-新光三越台中中港店 B1F
-新光三越高雄左營店 3F
+新光三越台北南西店 B1F  
+新光三越桃園站前店 4F  
+新光三越台中中港店 B1F  
+新光三越高雄左營店 3F  
 [GRACE CONTINENTAL](https://www.skm.com.tw/brand/11897)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 4F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
 [GRASTYLE](https://www.skm.com.tw/brand/11047)  
-新光三越台北信義新天地A8 1F
-新光三越台中中港店 3F
+新光三越台北信義新天地A8 1F  
+新光三越台中中港店 3F  
 [GREEN GATE](https://www.skm.com.tw/brand/11850)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [GREEN PARKS](https://www.skm.com.tw/brand/11992)  
-新光三越台北天母店 2F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 5F
-新光三越台南新天地 4F
+新光三越台北天母店 2F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 5F  
+新光三越台南新天地 4F  
 [GREEN PINE](https://www.skm.com.tw/brand/12728)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 2F
-新光三越台北南西店 1F
-新光三越桃園站前店 2F
-新光三越台中中港店 B1F
-新光三越台南新天地 GF
-新光三越高雄三多店 2F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 2F  
+新光三越台北南西店 1F  
+新光三越桃園站前店 2F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 2F  
+新光三越高雄左營店 1F  
 [GT FRANCE](https://www.skm.com.tw/brand/11447)  
-新光三越台南新天地 B1F
+新光三越台南新天地 B1F  
 [Gtech 匯聚](https://www.skm.com.tw/brand/11916)  
-新光三越台北信義新天地A8 7F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越高雄左營店 9F  
 [GU](https://www.skm.com.tw/brand/12636)  
-新光三越桃園站前店 5F
-新光三越台南新天地小西門 B2F
+新光三越桃園站前店 5F  
+新光三越台南新天地小西門 B2F  
 [gubami Social-法式tapas餐廳](https://www.skm.com.tw/brand/11901)  
-新光三越台北信義新天地A9 6F
+新光三越台北信義新天地A9 6F  
 [GUCCI](https://www.skm.com.tw/brand/12802)  
-新光三越台北信義新天地A4 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A4 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [GUERLAIN 嬌蘭](https://www.skm.com.tw/brand/11590)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
 [GUNZE KIDS 郡是](https://www.skm.com.tw/brand/12894)  
-新光三越台北信義新天地A8 5F
-新光三越台中中港店 6F
+新光三越台北信義新天地A8 5F  
+新光三越台中中港店 6F  
 [HOGAN](https://www.skm.com.tw/brand/248)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [HABIBI](https://www.skm.com.tw/brand/1720)  
-新光三越台北南西店 B2F
+新光三越台北南西店 B2F  
 [HALLMARK](https://www.skm.com.tw/brand/173)  
-新光三越台北南西店 6F
-新光三越台中中港店 7F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
+新光三越台北南西店 6F  
+新光三越台中中港店 7F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
 [HANALULU](https://www.skm.com.tw/brand/13085)  
-新光三越台中中港店 11F
+新光三越台中中港店 11F  
 [HANRO](https://www.skm.com.tw/brand/12919)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 4F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 4F  
+新光三越台南新天地 3F  
 [HARLEQUIN](https://www.skm.com.tw/brand/2793)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [HAVAIANAS](https://www.skm.com.tw/brand/13022)  
-新光三越台北信義新天地A11 5F
+新光三越台北信義新天地A11 5F  
 [hengstyle KITCHEN](https://www.skm.com.tw/brand/1717)  
-新光三越台南新天地 B1F
+新光三越台南新天地 B1F  
 [Hodin Choice](https://www.skm.com.tw/brand/13091)  
-新光三越桃園站前店 4F
-新光三越嘉義垂楊店 3F
-新光三越高雄左營店 B1F
+新光三越桃園站前店 4F  
+新光三越嘉義垂楊店 3F  
+新光三越高雄左營店 B1F  
 [home+y](https://www.skm.com.tw/brand/3412)  
-新光三越台北南西店 6F
-新光三越台南新天地 3F
-新光三越台南新天地 3F
+新光三越台北南西店 6F  
+新光三越台南新天地 3F  
+新光三越台南新天地 3F  
 [HONMA](https://www.skm.com.tw/brand/1819)  
-新光三越台北信義新天地A9 5F
-新光三越台北南西店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A9 5F  
+新光三越台北南西店 5F  
+新光三越台南新天地 2F  
 [Hugsie](https://www.skm.com.tw/brand/2701)  
-新光三越台北信義新天地A8 4F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 4F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [HAO 小豪包膜](https://www.skm.com.tw/brand/13178)  
-新光三越台北信義新天地A11 3F
+新光三越台北信義新天地A11 3F  
 [HAIKEE 海記醬油雞](https://www.skm.com.tw/brand/2470)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [HAFU](https://www.skm.com.tw/brand/3397)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [H2O](https://www.skm.com.tw/brand/12462)  
-新光三越台北信義新天地A8 B1F
-新光三越台南新天地 4F
-新光三越高雄三多店 4F
+新光三越台北信義新天地A8 B1F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 4F  
 [HAAGEN DAZS 哈根達斯](https://www.skm.com.tw/brand/12013)  
-新光三越台北信義新天地A8 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [HABU 童鞋](https://www.skm.com.tw/brand/12662)  
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越嘉義垂楊店 9F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越嘉義垂楊店 9F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
 [Half half select shop](https://www.skm.com.tw/brand/12263)  
-新光三越台中中港店 B1F
+新光三越台中中港店 B1F  
 [HAMILTON](https://www.skm.com.tw/brand/11495)  
-新光三越台北信義新天地A8 3F
-新光三越台中中港店 5F
+新光三越台北信義新天地A8 3F  
+新光三越台中中港店 5F  
 [HANA MOKUBA](https://www.skm.com.tw/brand/11653)  
-新光三越桃園站前店 4F
-新光三越嘉義垂楊店 4F
+新光三越桃園站前店 4F  
+新光三越嘉義垂楊店 4F  
 [HANDS 台隆手創館](https://www.skm.com.tw/brand/12739)  
-新光三越台中中港店 8F
+新光三越台中中港店 8F  
 [HANG TEN](https://www.skm.com.tw/brand/11128)  
-新光三越台中中港店 12F
-新光三越台南中山店 7F
-新光三越台南新天地 5F
-新光三越高雄左營店 7F
+新光三越台中中港店 12F  
+新光三越台南中山店 7F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 7F  
 [Hastens海斯騰](https://www.skm.com.tw/brand/12048)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [HATO GROUP](https://www.skm.com.tw/brand/12090)  
-新光三越台北站前店 3F
+新光三越台北站前店 3F  
 [HAZZYS](https://www.skm.com.tw/brand/11972)  
-新光三越台中中港店 5F
-新光三越台南新天地 4F
+新光三越台中中港店 5F  
+新光三越台南新天地 4F  
 [HEARTS ON FIRE](https://www.skm.com.tw/brand/10894)  
-新光三越台北信義新天地A8 1F
-新光三越台中中港店 3F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台中中港店 3F  
+新光三越台南新天地 GF  
 [HEAVY USE](https://www.skm.com.tw/brand/11923)  
-新光三越台北信義新天地A11 B1F
-新光三越台中中港店 11F
+新光三越台北信義新天地A11 B1F  
+新光三越台中中港店 11F  
 [Helena Rubinstein赫蓮娜](https://www.skm.com.tw/brand/12867)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [HELENE SPARK](https://www.skm.com.tw/brand/11782)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店 1F
-新光三越台中中港店 B1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店 1F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 GF  
 [HER&HIM](https://www.skm.com.tw/brand/11022)  
-新光三越台北信義新天地A8 B1F
-新光三越台北南西店 B1F
-新光三越桃園站前店 3F
-新光三越台中中港店 B1F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北南西店 B1F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 B1F  
+新光三越高雄左營店 3F  
 [HERBIVORE](https://www.skm.com.tw/brand/10916)  
-新光三越台北信義新天地A4 2F
+新光三越台北信義新天地A4 2F  
 [HERBOX 荷柏園](https://www.skm.com.tw/brand/12571)  
-新光三越台中中港店 7F
-新光三越台南中山店 2F
-新光三越台南新天地 B1F
+新光三越台中中港店 7F  
+新光三越台南中山店 2F  
+新光三越台南新天地 B1F  
 [HERMES](https://www.skm.com.tw/brand/12929)  
-新光三越台南新天地 GF
+新光三越台南新天地 GF  
 [HERMES BEAUTY](https://www.skm.com.tw/brand/11712)  
-新光三越台北信義新天地A8 1F
-新光三越台中中港店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台中中港店 1F  
 [HERSCHEL](https://www.skm.com.tw/brand/12766)  
-新光三越台北南西店三館 4F
-新光三越台中中港店 11F
-新光三越台南新天地 5F
+新光三越台北南西店三館 4F  
+新光三越台中中港店 11F  
+新光三越台南新天地 5F  
 [HEYA](https://www.skm.com.tw/brand/12066)  
-新光三越高雄左營店 4F
+新光三越高雄左營店 4F  
 [HILLTOP 山頂鳥](https://www.skm.com.tw/brand/11805)  
-新光三越台北信義新天地A11 5F
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台南中山店 7F
-新光三越台南新天地 5F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A11 5F  
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台南中山店 7F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 7F  
 [Himolla](https://www.skm.com.tw/brand/12866)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [HIROKO KOSHINO](https://www.skm.com.tw/brand/11864)  
-新光三越台北信義新天地A4 3F
+新光三越台北信義新天地A4 3F  
 [HITACHI](https://www.skm.com.tw/brand/12088)  
-新光三越台北信義新天地A8 7F
-新光三越台北南西店 7F
+新光三越台北信義新天地A8 7F  
+新光三越台北南西店 7F  
 [HOII](https://www.skm.com.tw/brand/12753)  
-新光三越台北南西店 3F
+新光三越台北南西店 3F  
 [HOM](https://www.skm.com.tw/brand/12699)  
-新光三越台中中港店 5F
+新光三越台中中港店 5F  
 [HOME SHOP](https://www.skm.com.tw/brand/12701)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店 B1F
-新光三越台北天母店 2F
-新光三越台中中港店 B1F
-新光三越台南新天地 4F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店 B1F  
+新光三越台北天母店 2F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 B1F  
 [HOME WORKING](https://www.skm.com.tw/brand/11294)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 9F
-新光三越台北南西店 7F
-新光三越桃園站前店 9F
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越台南中山店 9F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 9F  
+新光三越台北南西店 7F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越台南中山店 9F  
+新光三越高雄左營店 9F  
 [HOMME PLISSÉ ISSEY MIYAKE](https://www.skm.com.tw/brand/12469)  
-新光三越台北信義新天地A9 2F
-新光三越台南新天地 1F
+新光三越台北信義新天地A9 2F  
+新光三越台南新天地 1F  
 [HONOLULU CAFÉ 檀島香港茶餐廳](https://www.skm.com.tw/brand/11377)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店 B1F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店 B1F  
+新光三越台中中港店 B1F  
 [HPW TIME](https://www.skm.com.tw/brand/11632)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [HSIN TUNG YANG 新東陽](https://www.skm.com.tw/brand/11710)  
-新光三越台北信義新天地A11 B2F
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
 [HUA CHI TANG 華齊堂](https://www.skm.com.tw/brand/12160)  
-新光三越台北站前店 B2F
-新光三越台中中港店 B2F
-新光三越嘉義垂楊店 B1F
-新光三越台南中山店 B2F
-新光三越台南新天地 B2F
-新光三越高雄三多店 B2F
+新光三越台北站前店 B2F  
+新光三越台中中港店 B2F  
+新光三越嘉義垂楊店 B1F  
+新光三越台南中山店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄三多店 B2F  
 [HUEI YEH 輝葉](https://www.skm.com.tw/brand/12593)  
-新光三越桃園站前店 9F
-新光三越台南中山店 10F
-新光三越高雄左營店 6F
+新光三越桃園站前店 9F  
+新光三越台南中山店 10F  
+新光三越高雄左營店 6F  
 [HUGECON](https://www.skm.com.tw/brand/11672)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [HUGO BOSS home](https://www.skm.com.tw/brand/12393)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [HUNTER](https://www.skm.com.tw/brand/11442)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [Hurley](https://www.skm.com.tw/brand/11055)  
-新光三越台北南西店三館 3F
-新光三越台南中山店 2F
-新光三越台南新天地 5F
-新光三越高雄左營店 6F
+新光三越台北南西店三館 3F  
+新光三越台南中山店 2F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 6F  
 [HUSH PUPPIES](https://www.skm.com.tw/brand/12134)  
-新光三越桃園站前店 6F
-新光三越台中中港店 5F
-新光三越台南中山店 6F
-新光三越台南新天地 4F
-新光三越高雄左營店 6F
+新光三越桃園站前店 6F  
+新光三越台中中港店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 6F  
 [HYGEIA 海吉兒](https://www.skm.com.tw/brand/12552)  
-新光三越桃園站前店 4F
+新光三越桃園站前店 4F  
 [ICU](https://www.skm.com.tw/brand/2009)  
-新光三越台北信義新天地A4 3F
+新光三越台北信義新天地A4 3F  
 [IKEUCHI池內有機](https://www.skm.com.tw/brand/1739)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [iloom 怡倫家居](https://www.skm.com.tw/brand/2529)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [I Love Sprinkle](https://www.skm.com.tw/brand/12220)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [ic! berlin](https://www.skm.com.tw/brand/11692)  
-新光三越台北信義新天地A9 2F
+新光三越台北信義新天地A9 2F  
 [ICB](https://www.skm.com.tw/brand/11052)  
-新光三越台北信義新天地A4 3F
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 3F
-新光三越台北天母店 3F
-新光三越台中中港店 3F
-新光三越台南新天地 2F
-新光三越高雄左營店 2F
+新光三越台北信義新天地A4 3F  
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 3F  
+新光三越台北天母店 3F  
+新光三越台中中港店 3F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 2F  
 [IENA](https://www.skm.com.tw/brand/11551)  
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 4F
-新光三越台南中山店 3F
-新光三越台南新天地 4F
-新光三越高雄左營店 3F
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 4F  
+新光三越台南中山店 3F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 3F  
 [IF](https://www.skm.com.tw/brand/11385)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越台北南西店 3F
-新光三越桃園站前店 2F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越台北南西店 3F  
+新光三越桃園站前店 2F  
 [IKKS](https://www.skm.com.tw/brand/12384)  
-新光三越台中中港店 6F
+新光三越台中中港店 6F  
 [iloom怡倫家居-Kids](https://www.skm.com.tw/brand/11975)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [IMAGER-37 易眠床．易眠枕](https://www.skm.com.tw/brand/12286)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台中中港店 7F
-新光三越嘉義垂楊店 8F
-新光三越台南新天地 B1F
-新光三越高雄三多店 9F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台中中港店 7F  
+新光三越嘉義垂楊店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 9F  
+新光三越高雄左營店 8F  
 [imihwa](https://www.skm.com.tw/brand/11568)  
-新光三越台北信義新天地A4 3F
+新光三越台北信義新天地A4 3F  
 [IN](https://www.skm.com.tw/brand/11181)  
-新光三越桃園站前店 2F
-新光三越台中中港店 B1F
+新光三越桃園站前店 2F  
+新光三越台中中港店 B1F  
 [IN THE PLAYGROUND](https://www.skm.com.tw/brand/11265)  
-新光三越台北信義新天地A11 4F
-新光三越台中中港店 11F
-新光三越台南新天地 5F
+新光三越台北信義新天地A11 4F  
+新光三越台中中港店 11F  
+新光三越台南新天地 5F  
 [INI](https://www.skm.com.tw/brand/11995)  
-新光三越嘉義垂楊店 3F
-新光三越台南中山店 4F
-新光三越高雄左營店 3F
+新光三越嘉義垂楊店 3F  
+新光三越台南中山店 4F  
+新光三越高雄左營店 3F  
 [INIO](https://www.skm.com.tw/brand/11815)  
-新光三越高雄左營店 3F
+新光三越高雄左營店 3F  
 [innisfree](https://www.skm.com.tw/brand/11316)  
-新光三越台北信義新天地A11 B1F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台中中港店 B1F  
 [I-PRIMO 璞琳夢](https://www.skm.com.tw/brand/12173)  
-新光三越台北信義新天地A8 1F
-新光三越台中中港店 4F
-新光三越台南新天地 1F
+新光三越台北信義新天地A8 1F  
+新光三越台中中港店 4F  
+新光三越台南新天地 1F  
 [IPSA 茵芙莎](https://www.skm.com.tw/brand/12729)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
 [IRIS](https://www.skm.com.tw/brand/11844)  
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [IRIS GIRLS](https://www.skm.com.tw/brand/11137)  
-新光三越台中中港店 4F
+新光三越台中中港店 4F  
 [IRIS PLAZA](https://www.skm.com.tw/brand/11215)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [iROO](https://www.skm.com.tw/brand/11726)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越台南新天地 3F  
 [Isabelle Wen 溫慶珠](https://www.skm.com.tw/brand/12042)  
-新光三越嘉義垂楊店 2F
-新光三越台南新天地 3F
+新光三越嘉義垂楊店 2F  
+新光三越台南新天地 3F  
 [ISPO](https://www.skm.com.tw/brand/12757)  
-新光三越台北信義新天地A11 5F
+新光三越台北信義新天地A11 5F  
 [iStore](https://www.skm.com.tw/brand/10939)  
-新光三越台北信義新天地A4 B1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 2F
-新光三越台北南西店三館 2F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 2F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 2F
-新光三越台南新天地 1F
-新光三越高雄三多店 B1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 B1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 2F  
+新光三越台北南西店三館 2F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 2F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 2F  
+新光三越台南新天地 1F  
+新光三越高雄三多店 B1F  
+新光三越高雄左營店 1F  
 [ITABELLA](https://www.skm.com.tw/brand/12290)  
-新光三越台北南西店 1F
-新光三越桃園站前店 2F
-新光三越台中中港店 B1F
-新光三越台南新天地 GF
+新光三越台北南西店 1F  
+新光三越桃園站前店 2F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 GF  
 [itely 伊黛莉髮藝](https://www.skm.com.tw/brand/11852)  
-新光三越台中中港店 8F
-新光三越台中中港店 8F
+新光三越台中中港店 8F  
+新光三越台中中港店 8F  
 [I-TSER](https://www.skm.com.tw/brand/11079)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [IUSE](https://www.skm.com.tw/brand/11879)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [IVY HOUSE 常春藤](https://www.skm.com.tw/brand/12641)  
-新光三越台北站前店 8F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
+新光三越台北站前店 8F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
 [IVY'S&MOORIS](https://www.skm.com.tw/brand/12141)  
-新光三越高雄左營店 3F
+新光三越高雄左營店 3F  
 [IZABO](https://www.skm.com.tw/brand/12543)  
-新光三越台北站前店 7F
-新光三越台北南西店 5F
-新光三越桃園站前店 6F
-新光三越台中中港店 5F
-新光三越高雄左營店 6F
+新光三越台北站前店 7F  
+新光三越台北南西店 5F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 5F  
+新光三越高雄左營店 6F  
 [IZZUE](https://www.skm.com.tw/brand/12610)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 3F
-新光三越台中中港店 5F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 3F  
+新光三越台中中港店 5F  
 [JORDAN](https://www.skm.com.tw/brand/1402)  
-新光三越台中中港店 2F
+新光三越台中中港店 2F  
 [Jabra](https://www.skm.com.tw/brand/3170)  
-新光三越台北信義新天地A9 5F
+新光三越台北信義新天地A9 5F  
 [JADE STAR 璽星](https://www.skm.com.tw/brand/12958)  
-新光三越台北站前店 5F
-新光三越台北南西店 4F
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
 [JB MurMur Talk毛毛頭寵物俱樂部](https://www.skm.com.tw/brand/3633)  
-新光三越台北站前店 8F
+新光三越台北站前店 8F  
 [JENNYA](https://www.skm.com.tw/brand/13030)  
-新光三越高雄左營店 2F
+新光三越高雄左營店 2F  
 [JIATE 呷茶](https://www.skm.com.tw/brand/2404)  
-新光三越台北站前店 B1F
+新光三越台北站前店 B1F  
 [JIEHAUS捷行](https://www.skm.com.tw/brand/3056)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [JIUJIU](https://www.skm.com.tw/brand/1692)  
-新光三越台北南西店 B1F
+新光三越台北南西店 B1F  
 [JORI](https://www.skm.com.tw/brand/11398)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [JAMBA JUICE](https://www.skm.com.tw/brand/2405)  
-新光三越台中中港店 10F
+新光三越台中中港店 10F  
 [JUMBO珍寶海鮮](https://www.skm.com.tw/brand/384)  
-新光三越台北信義新天地A8 3F
+新光三越台北信義新天地A8 3F  
 [JO MALONE LONDON](https://www.skm.com.tw/brand/11184)  
-新光三越台北信義新天地A4 2F
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越台北天母店二館 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 2F
-新光三越台南新天地 1F
+新光三越台北信義新天地A4 2F  
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店二館 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 2F  
+新光三越台南新天地 1F  
 [J&h 晶璽健康生活館](https://www.skm.com.tw/brand/11198)  
-新光三越台北站前店 11F
-新光三越台南新天地 B1F
-新光三越高雄左營店 7F
+新光三越台北站前店 11F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 7F  
 [J.LINDEBERG](https://www.skm.com.tw/brand/11490)  
-新光三越台北信義新天地A9 3F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A9 3F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [Jacadi](https://www.skm.com.tw/brand/11372)  
-新光三越台北信義新天地A8 4F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 4F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
 [JACK NICKLAUS](https://www.skm.com.tw/brand/11085)  
-新光三越台北信義新天地A9 4F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
+新光三越台北信義新天地A9 4F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
 [JEEP](https://www.skm.com.tw/brand/12578)  
-新光三越台北信義新天地A9 4F
+新光三越台北信義新天地A9 4F  
 [JEN YUAN 珍苑](https://www.skm.com.tw/brand/12865)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [JEROME DREYFUSS](https://www.skm.com.tw/brand/12308)  
-新光三越台北信義新天地A9 2F
+新光三越台北信義新天地A9 2F  
 [JESSICA](https://www.skm.com.tw/brand/11757)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [JILL by JILLSTUART](https://www.skm.com.tw/brand/12508)  
-新光三越台中中港店 B1F
+新光三越台中中港店 B1F  
 [JILL STUART.設計師服飾](https://www.skm.com.tw/brand/11202)  
-新光三越台北信義新天地A4 3F
-新光三越台北南西店 3F
+新光三越台北信義新天地A4 3F  
+新光三越台北南西店 3F  
 [JINS](https://www.skm.com.tw/brand/11744)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 3F
-新光三越台北南西店三館 4F
-新光三越台北天母店 2F
-新光三越桃園站前店 5F
-新光三越台中中港店 B1F
-新光三越台南中山店 B1F
-新光三越台南新天地 4F
-新光三越高雄左營店彩虹市集 2F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 3F  
+新光三越台北南西店三館 4F  
+新光三越台北天母店 2F  
+新光三越桃園站前店 5F  
+新光三越台中中港店 B1F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 4F  
+新光三越高雄左營店彩虹市集 2F  
 [JIU ZHEN NAN 舊振南](https://www.skm.com.tw/brand/12050)  
-新光三越台北信義新天地A4 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A4 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [JO－AN THE SHOP](https://www.skm.com.tw/brand/11650)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [JOHAN](https://www.skm.com.tw/brand/11713)  
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [JOHNSON 喬山](https://www.skm.com.tw/brand/12590)  
-新光三越台北信義新天地A11 5F
-新光三越嘉義垂楊店 10F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄三多店 10F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A11 5F  
+新光三越嘉義垂楊店 10F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 10F  
+新光三越高雄左營店 6F  
 [JOSEPH](https://www.skm.com.tw/brand/12780)  
-新光三越台北信義新天地A4 2F
-新光三越台南新天地 1F
+新光三越台北信義新天地A4 2F  
+新光三越台南新天地 1F  
 [JOSEPH STUDIO](https://www.skm.com.tw/brand/11258)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [JOTT](https://www.skm.com.tw/brand/10932)  
-新光三越台中中港店 5F
+新光三越台中中港店 5F  
 [JOY COLORi](https://www.skm.com.tw/brand/11527)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [JTC](https://www.skm.com.tw/brand/12810)  
-新光三越台北站前店 10F
+新光三越台北站前店 10F  
 [JULIAN  VIERA](https://www.skm.com.tw/brand/12511)  
-新光三越台北信義新天地A4 3F
+新光三越台北信義新天地A4 3F  
 [JuliArt](https://www.skm.com.tw/brand/11379)  
-新光三越桃園站前店 9F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越桃園站前店 9F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [JUN](https://www.skm.com.tw/brand/11546)  
-新光三越台北站前店 7F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
-新光三越台南中山店 7F
-新光三越台南新天地 5F
-新光三越高雄左營店 6F
+新光三越台北站前店 7F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
+新光三越台南中山店 7F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 6F  
 [JUNIOR 喬尼亞](https://www.skm.com.tw/brand/12519)  
-新光三越台北信義新天地A8 6F
-新光三越台北南西店 7F
-新光三越桃園站前店 9F
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 6F  
+新光三越台北南西店 7F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [JURA 卡布蘭莎](https://www.skm.com.tw/brand/11877)  
-新光三越台北信義新天地A8 6F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [JURLIQUE 茱莉蔻](https://www.skm.com.tw/brand/11061)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [JUST BLOOM](https://www.skm.com.tw/brand/12746)  
-新光三越台北站前店 1F
+新光三越台北站前店 1F  
 [JUST DIAMOND](https://www.skm.com.tw/brand/12651)  
-新光三越台北信義新天地A11 2F
-新光三越台北站前店 2F
-新光三越台北南西店 4F
-新光三越台中中港店 4F
-新光三越台南新天地 GF
+新光三越台北信義新天地A11 2F  
+新光三越台北站前店 2F  
+新光三越台北南西店 4F  
+新光三越台中中港店 4F  
+新光三越台南新天地 GF  
 [JUST GOLD](https://www.skm.com.tw/brand/11846)  
-新光三越台北信義新天地A11 2F
-新光三越台北站前店 2F
-新光三越台北南西店 4F
-新光三越台中中港店 4F
-新光三越台南新天地 GF
+新光三越台北信義新天地A11 2F  
+新光三越台北站前店 2F  
+新光三越台北南西店 4F  
+新光三越台中中港店 4F  
+新光三越台南新天地 GF  
 [JUST J'S MISS](https://www.skm.com.tw/brand/11775)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越高雄左營店 4F  
 [KANGOL KIDS](https://www.skm.com.tw/brand/12969)  
-新光三越台北南西店 6F
+新光三越台北南西店 6F  
 [KEY WEAR](https://www.skm.com.tw/brand/13086)  
-新光三越台南中山店 5F
-新光三越台南新天地 3F
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
 [KID BLUE](https://www.skm.com.tw/brand/10948)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [KIEHL'S契爾氏](https://www.skm.com.tw/brand/12544)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店二館 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店二館 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [KlassiC.](https://www.skm.com.tw/brand/3219)  
-新光三越台北信義新天地A11 B1F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台中中港店 B1F  
 [KnightsBridge](https://www.skm.com.tw/brand/2853)  
-新光三越台南新天地 4F
+新光三越台南新天地 4F  
 [KOBE Sweets](https://www.skm.com.tw/brand/1392)  
-新光三越台北南西店 B2F
+新光三越台北南西店 B2F  
 [KOHLER](https://www.skm.com.tw/brand/12947)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [KURA CHIKA by PORTER](https://www.skm.com.tw/brand/1843)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [KAVA](https://www.skm.com.tw/brand/13152)  
-新光三越台中中港店 B1F
+新光三越台中中港店 B1F  
 [kafeD 咖啡滴](https://www.skm.com.tw/brand/13019)  
-新光三越台北信義新天地A8 B2F
-新光三越台中中港店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台中中港店 B2F  
 [Krispy Kreme](https://www.skm.com.tw/brand/537)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [K.UNO](https://www.skm.com.tw/brand/11610)  
-新光三越台北南西店 2F
-新光三越台南新天地 2F
+新光三越台北南西店 2F  
+新光三越台南新天地 2F  
 [KAITAI 香港啟泰](https://www.skm.com.tw/brand/12668)  
-新光三越台北站前店 B2F
-新光三越台南中山店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台北站前店 B2F  
+新光三越台南中山店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [KALOO](https://www.skm.com.tw/brand/12348)  
-新光三越台北信義新天地A8 4F
-新光三越台中中港店 6F
+新光三越台北信義新天地A8 4F  
+新光三越台中中港店 6F  
 [KANEBO 佳麗寶](https://www.skm.com.tw/brand/12730)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [KANGOL](https://www.skm.com.tw/brand/11341)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 1F
-新光三越台中中港店 5F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 1F  
+新光三越台中中港店 5F  
 [Kappa](https://www.skm.com.tw/brand/12130)  
-新光三越嘉義垂楊店 7F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
+新光三越嘉義垂楊店 7F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
 [KAWAKUBO](https://www.skm.com.tw/brand/12083)  
-新光三越台北站前店 5F
+新光三越台北站前店 5F  
 [KEDS](https://www.skm.com.tw/brand/11340)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店三館 3F
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 5F
-新光三越台南新天地小西門 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店三館 3F  
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 5F  
+新光三越台南新天地小西門 B1F  
 [KEELEY ANN](https://www.skm.com.tw/brand/11299)  
-新光三越台北信義新天地A8 1F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 2F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 2F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [KEN MOCHIYA 劍持屋](https://www.skm.com.tw/brand/11813)  
-新光三越台北信義新天地A4 5F
+新光三越台北信義新天地A4 5F  
 [Kenmore熙爾仕楷模家電](https://www.skm.com.tw/brand/11403)  
-新光三越台北信義新天地A4 B1F
-新光三越台北天母店 4F
+新光三越台北信義新天地A4 B1F  
+新光三越台北天母店 4F  
 [KENZO KIDS](https://www.skm.com.tw/brand/11008)  
-新光三越台北信義新天地A8 4F
-新光三越台中中港店 6F
+新光三越台北信義新天地A8 4F  
+新光三越台中中港店 6F  
 [KERAIA 克萊亞](https://www.skm.com.tw/brand/12296)  
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄左營店 4F
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 4F  
 [KERASTASE 巴黎卡詩](https://www.skm.com.tw/brand/11383)  
-新光三越台北信義新天地A11 1F
-新光三越台中中港店 1F
-新光三越台南中山店 1F
-新光三越高雄三多店 1F
+新光三越台北信義新天地A11 1F  
+新光三越台中中港店 1F  
+新光三越台南中山店 1F  
+新光三越高雄三多店 1F  
 [KEY COFFEE](https://www.skm.com.tw/brand/11944)  
-新光三越台北站前店 B2F
-新光三越台北天母店 B1F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北站前店 B2F  
+新光三越台北天母店 B1F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [Kid 2 Youth大將作](https://www.skm.com.tw/brand/11822)  
-新光三越台北信義新天地A8 5F
-新光三越台中中港店 6F
+新光三越台北信義新天地A8 5F  
+新光三越台中中港店 6F  
 [KIEHL'S COFFEE HOUSE](https://www.skm.com.tw/brand/11827)  
-新光三越台北信義新天地A11 1F
+新光三越台北信義新天地A11 1F  
 [KIHCHU STORE 阿里山日出](https://www.skm.com.tw/brand/11998)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [kiki studio](https://www.skm.com.tw/brand/12900)  
-新光三越桃園站前店 5F
+新光三越桃園站前店 5F  
 [KINLOCH ANDERSON.女裝](https://www.skm.com.tw/brand/11214)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 3F
-新光三越台北南西店 B1F
-新光三越桃園站前店 4F
-新光三越台南中山店 3F
-新光三越台南新天地 4F
-新光三越高雄三多店 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 3F  
+新光三越台北南西店 B1F  
+新光三越桃園站前店 4F  
+新光三越台南中山店 3F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 4F  
+新光三越高雄左營店 3F  
 [Kinloch Anderson休閒服](https://www.skm.com.tw/brand/11239)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
 [Kinloch Anderson金安德森](https://www.skm.com.tw/brand/12272)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台北南西店 7F
-新光三越桃園站前店 9F
-新光三越台中中港店 7F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄三多店 9F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台北南西店 7F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 7F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 9F  
+新光三越高雄左營店 8F  
 [Kinloch Anderson童裝](https://www.skm.com.tw/brand/12582)  
-新光三越台北站前店 8F
-新光三越台中中港店 6F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
+新光三越台北站前店 8F  
+新光三越台中中港店 6F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
 [KINOSHO TRANSIT](https://www.skm.com.tw/brand/11145)  
-新光三越台北信義新天地A9 5F
-新光三越台北南西店 5F
-新光三越台北天母店二館 2F
-新光三越台南新天地 2F
+新光三越台北信義新天地A9 5F  
+新光三越台北南西店 5F  
+新光三越台北天母店二館 2F  
+新光三越台南新天地 2F  
 [KINOSHOHAMPU](https://www.skm.com.tw/brand/10919)  
-新光三越台北站前店 4F
-新光三越台南新天地 2F
+新光三越台北站前店 4F  
+新光三越台南新天地 2F  
 [KIPLING](https://www.skm.com.tw/brand/11374)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 3F
-新光三越台北南西店 3F
-新光三越桃園站前店 3F
-新光三越台中中港店 11F
-新光三越台南中山店 B1F
-新光三越台南新天地 2F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 3F  
+新光三越台北南西店 3F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 11F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 B1F  
 [KizzKizz](https://www.skm.com.tw/brand/12527)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [KNIGHTS BRIDGE.女裝](https://www.skm.com.tw/brand/12214)  
-新光三越桃園站前店 4F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 4F
-新光三越台南中山店 3F
-新光三越高雄左營店 3F
+新光三越桃園站前店 4F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 4F  
+新光三越台南中山店 3F  
+新光三越高雄左營店 3F  
 [KOKKO](https://www.skm.com.tw/brand/11558)  
-新光三越台中中港店 B1F
+新光三越台中中港店 B1F  
 [KONIG 金格](https://www.skm.com.tw/brand/12187)  
-新光三越台北站前店 B2F
+新光三越台北站前店 B2F  
 [KORA](https://www.skm.com.tw/brand/11574)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [KOSE 高絲](https://www.skm.com.tw/brand/12918)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [KOSTA BODA](https://www.skm.com.tw/brand/11582)  
-新光三越台中中港店 8F
+新光三越台中中港店 8F  
 [K－SWISS](https://www.skm.com.tw/brand/12171)  
-新光三越台北信義新天地A11 4F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A11 4F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 7F  
 [KUHN RIKON 瑞康屋](https://www.skm.com.tw/brand/12472)  
-新光三越台北信義新天地A8 7F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [KUOSH](https://www.skm.com.tw/brand/10938)  
-新光三越台北站前店 4F
+新光三越台北站前店 4F  
 [KYBUN](https://www.skm.com.tw/brand/12453)  
-新光三越台北信義新天地A8 3F
-新光三越台中中港店 5F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 3F  
+新光三越台中中港店 5F  
+新光三越台南新天地 3F  
 [KYOCERA 太曼妮](https://www.skm.com.tw/brand/11575)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
 [KANPAI CLASSIC 老乾杯](https://www.skm.com.tw/brand/12986)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [LA MER 海洋拉娜](https://www.skm.com.tw/brand/12679)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [L:A BRUKET](https://www.skm.com.tw/brand/3697)  
-新光三越台北南西店 2F
+新光三越台北南西店 2F  
 [La Felino](https://www.skm.com.tw/brand/12493)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越桃園站前店 8F
-新光三越台中中港店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 4F  
 [La Vie Aisee 金華歌爾](https://www.skm.com.tw/brand/12620)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越台北天母店 3F
-新光三越台中中港店 4F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越台北天母店 3F  
+新光三越台中中港店 4F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [LADIES 蕾黛絲](https://www.skm.com.tw/brand/12850)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越台北天母店 3F
-新光三越桃園站前店 8F
-新光三越台中中港店 4F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越台北天母店 3F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 4F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [Lady](https://www.skm.com.tw/brand/12191)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北天母店 6F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北天母店 6F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 4F  
 [LADY ME](https://www.skm.com.tw/brand/10941)  
-新光三越高雄左營店 4F
+新光三越高雄左營店 4F  
 [LAVIDO](https://www.skm.com.tw/brand/641)  
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [Le Polka](https://www.skm.com.tw/brand/1135)  
-新光三越台北信義新天地A8 B1F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台南新天地 3F  
 [LEE'S JEWELRY李氏私飾](https://www.skm.com.tw/brand/12946)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [LIFE8](https://www.skm.com.tw/brand/508)  
-新光三越台南新天地小西門 B1F
-新光三越高雄三多店 B1F
+新光三越台南新天地小西門 B1F  
+新光三越高雄三多店 B1F  
 [LI-NING](https://www.skm.com.tw/brand/3210)  
-新光三越高雄左營店 7F
+新光三越高雄左營店 7F  
 [Little house](https://www.skm.com.tw/brand/1110)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [Lofan露蒂芬](https://www.skm.com.tw/brand/12360)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 4F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 4F  
+新光三越台南新天地 3F  
 [LOJEL](https://www.skm.com.tw/brand/204)  
-新光三越台南中山店 6F
-新光三越台南新天地 2F
+新光三越台南中山店 6F  
+新光三越台南新天地 2F  
 [LA TRINITAINE](https://www.skm.com.tw/brand/2645)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [LADY M](https://www.skm.com.tw/brand/13106)  
-新光三越台中中港店 1F
+新光三越台中中港店 1F  
 [LAC](https://www.skm.com.tw/brand/3033)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 B2F
-新光三越台北天母店 B1F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 B2F  
+新光三越台北天母店 B1F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [L.ERICKSON](https://www.skm.com.tw/brand/12234)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店 B1F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店 B1F  
+新光三越台中中港店 B1F  
 [La Féta](https://www.skm.com.tw/brand/12404)  
-新光三越台北信義新天地A4 3F
-新光三越嘉義垂楊店 2F
-新光三越台南新天地 3F
+新光三越台北信義新天地A4 3F  
+新光三越嘉義垂楊店 2F  
+新光三越台南新天地 3F  
 [La Mode](https://www.skm.com.tw/brand/12892)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A11 B1F  
 [LA PRAIRIE](https://www.skm.com.tw/brand/12466)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [LACE](https://www.skm.com.tw/brand/12303)  
-新光三越高雄左營店 3F
+新光三越高雄左營店 3F  
 [LACE SHOP 巧思](https://www.skm.com.tw/brand/11793)  
-新光三越高雄三多店 9F
+新光三越高雄三多店 9F  
 [LACOSTE.服飾](https://www.skm.com.tw/brand/12035)  
-新光三越台北信義新天地A11 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南中山店 6F
-新光三越台南新天地 4F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A11 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 6F  
 [LACOSTE.配件](https://www.skm.com.tw/brand/12119)  
-新光三越台南新天地 4F
+新光三越台南新天地 4F  
 [LAGOSTINA](https://www.skm.com.tw/brand/12498)  
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越高雄左營店 9F
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越高雄左營店 9F  
 [LAKING](https://www.skm.com.tw/brand/12397)  
-新光三越台北信義新天地A11 3F
-新光三越桃園站前店 6F
-新光三越台中中港店 11F
-新光三越台南新天地 5F
-新光三越台南新天地小西門 B1F
-新光三越高雄三多店 B1F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A11 3F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 11F  
+新光三越台南新天地 5F  
+新光三越台南新天地小西門 B1F  
+新光三越高雄三多店 B1F  
+新光三越高雄左營店 B1F  
 [LANCOME 蘭蔻](https://www.skm.com.tw/brand/12561)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [LANEIGE 蘭芝](https://www.skm.com.tw/brand/10998)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [LAPAGE](https://www.skm.com.tw/brand/12513)  
-新光三越台南中山店 2F
+新光三越台南中山店 2F  
 [Lauren Ralph Lauren](https://www.skm.com.tw/brand/11032)  
-新光三越台中中港店 4F
-新光三越台南新天地 2F
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
 [LAZARE](https://www.skm.com.tw/brand/11303)  
-新光三越台中中港店 4F
+新光三越台中中港店 4F  
 [LE COQ SPORTIF](https://www.skm.com.tw/brand/11989)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A9 5F
-新光三越台中中港店 5F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A9 5F  
+新光三越台中中港店 5F  
 [LE COQ SPORTIF.SPORT](https://www.skm.com.tw/brand/12446)  
-新光三越台北信義新天地A11 4F
-新光三越桃園站前店 7F
-新光三越台中中港店 12F
-新光三越嘉義垂楊店 6F
-新光三越台南新天地 5F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A11 4F  
+新光三越桃園站前店 7F  
+新光三越台中中港店 12F  
+新光三越嘉義垂楊店 6F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 7F  
 [LE CREUSET 酷彩法廚](https://www.skm.com.tw/brand/11714)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [LECRIN 翠屋](https://www.skm.com.tw/brand/11606)  
-新光三越嘉義垂楊店 2F
-新光三越台南新天地 3F
+新光三越嘉義垂楊店 2F  
+新光三越台南新天地 3F  
 [LEE](https://www.skm.com.tw/brand/12762)  
-新光三越桃園站前店 6F
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 5F
-新光三越台南中山店 6F
-新光三越台南新天地 5F
-新光三越高雄三多店 6F
-新光三越高雄左營店 B1F
+新光三越桃園站前店 6F  
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 6F  
+新光三越高雄左營店 B1F  
 [LEGO 樂高](https://www.skm.com.tw/brand/12038)  
-新光三越台北信義新天地A8 5F
-新光三越台北南西店 6F
-新光三越台北天母店 6F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 5F  
+新光三越台北南西店 6F  
+新光三越台北天母店 6F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [LEILIAN](https://www.skm.com.tw/brand/12786)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 4F
-新光三越台中中港店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 4F  
+新光三越台中中港店 4F  
 [LEONARD](https://www.skm.com.tw/brand/12887)  
-新光三越台北信義新天地A4 3F
-新光三越台南新天地 1F
+新光三越台北信義新天地A4 3F  
+新光三越台南新天地 1F  
 [L'ERBOLARIO 蕾莉歐](https://www.skm.com.tw/brand/11290)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台北南西店 6F
-新光三越台北天母店 4F
-新光三越台中中港店 7F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 2F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台北南西店 6F  
+新光三越台北天母店 4F  
+新光三越台中中港店 7F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 2F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [LES ENPHANTS 麗嬰房](https://www.skm.com.tw/brand/12883)  
-新光三越台北信義新天地A8 4F
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越桃園站前店 8F
-新光三越嘉義垂楊店 9F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 4F  
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越桃園站前店 8F  
+新光三越嘉義垂楊店 9F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [LES NEREIDES 蕾娜海](https://www.skm.com.tw/brand/12676)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 2F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 2F  
 [LeSportsac](https://www.skm.com.tw/brand/12832)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 3F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 3F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
 [LEVI'S](https://www.skm.com.tw/brand/11397)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A9 4F
-新光三越台北信義新天地A11 3F
-新光三越台北站前店 7F
-新光三越台北南西店三館 4F
-新光三越台北天母店二館 2F
-新光三越桃園站前店 6F
-新光三越台中中港店 11F
-新光三越台南中山店 6F
-新光三越台南新天地 5F
-新光三越高雄三多店 B1F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A9 4F  
+新光三越台北信義新天地A11 3F  
+新光三越台北站前店 7F  
+新光三越台北南西店三館 4F  
+新光三越台北天母店二館 2F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 11F  
+新光三越台南中山店 6F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 B1F  
+新光三越高雄左營店 B1F  
 [LG](https://www.skm.com.tw/brand/12079)  
-新光三越台北信義新天地A4 B1F
-新光三越台南新天地 B1F
-新光三越高雄三多店 10F
+新光三越台北信義新天地A4 B1F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 10F  
 [L'HERBOFLORE-蕾舒翠](https://www.skm.com.tw/brand/11296)  
-新光三越台南新天地 4F
+新光三越台南新天地 4F  
 [LIFE8 PREMIUM](https://www.skm.com.tw/brand/12292)  
-新光三越台北信義新天地A11 3F
+新光三越台北信義新天地A11 3F  
 [LINDARICO](https://www.skm.com.tw/brand/12622)  
-新光三越台北信義新天地A4 3F
-新光三越台北南西店 4F
-新光三越台北天母店 3F
+新光三越台北信義新天地A4 3F  
+新光三越台北南西店 4F  
+新光三越台北天母店 3F  
 [LISA香氛館](https://www.skm.com.tw/brand/11147)  
-新光三越高雄左營店彩虹市集 1F
+新光三越高雄左營店彩虹市集 1F  
 [Little Garden小花園](https://www.skm.com.tw/brand/11469)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [LIVING GEORG JENSEN](https://www.skm.com.tw/brand/11135)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [L'OCCITANE 歐舒丹](https://www.skm.com.tw/brand/11564)  
-新光三越台北信義新天地A8 2F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 2F
-新光三越台北南西店 1F
-新光三越台北天母店二館 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 2F
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 2F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 2F  
+新光三越台北南西店 1F  
+新光三越台北天母店二館 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [LOEWE](https://www.skm.com.tw/brand/12820)  
-新光三越台北信義新天地A4 1F
-新光三越台中中港店 2F
-新光三越台南新天地 GF
+新光三越台北信義新天地A4 1F  
+新光三越台中中港店 2F  
+新光三越台南新天地 GF  
 [LOHONGKA 老行家](https://www.skm.com.tw/brand/11236)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄三多店 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄三多店 B2F  
+新光三越高雄左營店 B2F  
 [LONDEE 龍笛](https://www.skm.com.tw/brand/12149)  
-新光三越台南中山店 5F
-新光三越台南新天地 3F
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
 [LONGCHAMP](https://www.skm.com.tw/brand/11569)  
-新光三越台北南西店 1F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台北南西店 1F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [LOOKA](https://www.skm.com.tw/brand/12457)  
-新光三越台北信義新天地A4 2F
+新光三越台北信義新天地A4 2F  
 [Loro Piana](https://www.skm.com.tw/brand/11646)  
-新光三越台北信義新天地A4 2F
-新光三越台中中港店 2F
+新光三越台北信義新天地A4 2F  
+新光三越台中中港店 2F  
 [LOUIS VUITTON 路易威登](https://www.skm.com.tw/brand/12825)  
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [LOVFEE](https://www.skm.com.tw/brand/11531)  
-新光三越台北信義新天地A11 B1F
-新光三越台中中港店 B1F
-新光三越台南新天地小西門 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台中中港店 B1F  
+新光三越台南新天地小西門 B1F  
 [LOWRYS FARM](https://www.skm.com.tw/brand/12388)  
-新光三越台北南西店 B1F
+新光三越台北南西店 B1F  
 [LUCIANO](https://www.skm.com.tw/brand/11021)  
-新光三越台北信義新天地A9 2F
-新光三越台南新天地 2F
+新光三越台北信義新天地A9 2F  
+新光三越台南新天地 2F  
 [lululemon](https://www.skm.com.tw/brand/12576)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [LUMI](https://www.skm.com.tw/brand/12156)  
-新光三越台北站前店 3F
+新光三越台北站前店 3F  
 [LYNX](https://www.skm.com.tw/brand/12202)  
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [LE COUVENT](https://www.skm.com.tw/brand/1588)  
-新光三越台北信義新天地A8 1F
+新光三越台北信義新天地A8 1F  
 [MAESTA](https://www.skm.com.tw/brand/359)  
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [Maison de FLEUR](https://www.skm.com.tw/brand/190)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [MAMAWAY](https://www.skm.com.tw/brand/2323)  
-新光三越台南中山店 8F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [MARAIS瑪黑家居](https://www.skm.com.tw/brand/12948)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [MARILYN 瑪麗蓮](https://www.skm.com.tw/brand/11708)  
-新光三越台北信義新天地A8 2F
-新光三越桃園站前店 8F
+新光三越台北信義新天地A8 2F  
+新光三越桃園站前店 8F  
 [MARINA YACHTING](https://www.skm.com.tw/brand/13023)  
-新光三越台北信義新天地A9 3F
-新光三越台南新天地 2F
+新光三越台北信義新天地A9 3F  
+新光三越台南新天地 2F  
 [MASSE](https://www.skm.com.tw/brand/2533)  
-新光三越台北站前店 11F
-新光三越台南新天地 B1F
+新光三越台北站前店 11F  
+新光三越台南新天地 B1F  
 [MICHAEL KORS](https://www.skm.com.tw/brand/232)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [MICRO](https://www.skm.com.tw/brand/2764)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [miki house](https://www.skm.com.tw/brand/13028)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [MO BO](https://www.skm.com.tw/brand/3217)  
-新光三越台南新天地 4F
+新光三越台南新天地 4F  
 [MOBELLIO](https://www.skm.com.tw/brand/13032)  
-新光三越台北信義新天地A9 3F
+新光三越台北信義新天地A9 3F  
 [Mode Marie 曼黛瑪璉](https://www.skm.com.tw/brand/11242)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越台北天母店 6F
-新光三越桃園站前店 8F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越台北天母店 6F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [MOLLIFIX](https://www.skm.com.tw/brand/2236)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店三館 4F
-新光三越台南中山店 B1F
-新光三越台南新天地 5F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店三館 4F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 5F  
 [Monkey Bow](https://www.skm.com.tw/brand/1072)  
-新光三越台北信義新天地A8 5F
-新光三越台北南西店 6F
+新光三越台北信義新天地A8 5F  
+新光三越台北南西店 6F  
 [MOUNTNEER](https://www.skm.com.tw/brand/2239)  
-新光三越桃園站前店 7F
+新光三越桃園站前店 7F  
 [Mrs.Mapo](https://www.skm.com.tw/brand/13068)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [MY SIDE](https://www.skm.com.tw/brand/2536)  
-新光三越台南新天地 B1F
+新光三越台南新天地 B1F  
 [MYSTOCK](https://www.skm.com.tw/brand/12957)  
-新光三越台北信義新天地A8 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台南新天地 GF  
 [Man & Kids](https://www.skm.com.tw/brand/13201)  
-新光三越台北天母店 6F
+新光三越台北天母店 6F  
 [MISSCHU](https://www.skm.com.tw/brand/13176)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [MARCH MOON](https://www.skm.com.tw/brand/3006)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [Moonshine Coffee](https://www.skm.com.tw/brand/2839)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [Mr.咖哩mini](https://www.skm.com.tw/brand/1130)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [Mrs. Fields Cookies 美國菲爾斯太太餅乾](https://www.skm.com.tw/brand/2817)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [M&KYOKO](https://www.skm.com.tw/brand/11502)  
-新光三越台北南西店 4F
+新光三越台北南西店 4F  
 [MAC](https://www.skm.com.tw/brand/12342)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [MACADAMIA](https://www.skm.com.tw/brand/11957)  
-新光三越台北信義新天地A4 4F
+新光三越台北信義新天地A4 4F  
 [MACANNA 麥坎納](https://www.skm.com.tw/brand/12124)  
-新光三越嘉義垂楊店 4F
-新光三越台南新天地 5F
-新光三越高雄左營店 1F
+新光三越嘉義垂楊店 4F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 1F  
 [MADE IN HEAVEN](https://www.skm.com.tw/brand/10986)  
-新光三越高雄左營店 3F
+新光三越高雄左營店 3F  
 [MAGY](https://www.skm.com.tw/brand/11633)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 2F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 2F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 2F
-新光三越台南中山店 2F
-新光三越台南新天地 GF
-新光三越高雄三多店 2F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 2F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 2F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 2F  
+新光三越台南中山店 2F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 2F  
+新光三越高雄左營店 1F  
 [Maison Francis Kurkdjian](https://www.skm.com.tw/brand/11912)  
-新光三越台北信義新天地A9 1F
-新光三越台中中港店 3F
+新光三越台北信義新天地A9 1F  
+新光三越台中中港店 3F  
 [MAJESTIC LEGON](https://www.skm.com.tw/brand/10936)  
-新光三越台中中港店 B1F
+新光三越台中中港店 B1F  
 [MAKE UP FOR EVER](https://www.skm.com.tw/brand/11208)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越桃園站前店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越桃園站前店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [Mama & Dada](https://www.skm.com.tw/brand/12769)  
-新光三越台北信義新天地A8 4F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 4F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
 [MAMMUT](https://www.skm.com.tw/brand/11615)  
-新光三越台北信義新天地A11 5F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
+新光三越台北信義新天地A11 5F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
 [MANGO](https://www.skm.com.tw/brand/10984)  
-新光三越台南中山店 3F
-新光三越台南新天地 2F
-新光三越高雄三多店 2F
+新光三越台南中山店 3F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 2F  
 [MARC JACOBS](https://www.skm.com.tw/brand/12003)  
-新光三越台北南西店 2F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台北南西店 2F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [MARELLI](https://www.skm.com.tw/brand/11371)  
-新光三越台北信義新天地A8 3F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越高雄三多店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越高雄三多店 6F  
 [MARJORIE](https://www.skm.com.tw/brand/12606)  
-新光三越台北信義新天地A11 B1F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台中中港店 B1F  
 [MARU 小丸號](https://www.skm.com.tw/brand/11396)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [MARU.A](https://www.skm.com.tw/brand/11806)  
-新光三越高雄左營店 3F
+新光三越高雄左營店 3F  
 [MARYLING](https://www.skm.com.tw/brand/12934)  
-新光三越台北信義新天地A4 3F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
+新光三越台北信義新天地A4 3F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
 [MASTER MAX](https://www.skm.com.tw/brand/12605)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越台北南西店 3F
-新光三越台北天母店 2F
-新光三越桃園站前店 2F
-新光三越台中中港店 4F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越台北南西店 3F  
+新光三越台北天母店 2F  
+新光三越桃園站前店 2F  
+新光三越台中中港店 4F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [MA－TSU Mi](https://www.skm.com.tw/brand/12719)  
-新光三越台北站前店 2F
-新光三越桃園站前店 4F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 4F
-新光三越高雄左營店 3F
+新光三越台北站前店 2F  
+新光三越桃園站前店 4F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 4F  
+新光三越高雄左營店 3F  
 [MATSUZAKA TEI 樂軒松阪亭](https://www.skm.com.tw/brand/11129)  
-新光三越台北信義新天地A4 6F
+新光三越台北信義新天地A4 6F  
 [MAUVIEL](https://www.skm.com.tw/brand/11201)  
-新光三越台北站前店 10F
-新光三越台北天母店 4F
+新光三越台北站前店 10F  
+新光三越台北天母店 4F  
 [MAWA](https://www.skm.com.tw/brand/11457)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [MAX&Co.](https://www.skm.com.tw/brand/11651)  
-新光三越台南新天地 2F
+新光三越台南新天地 2F  
 [mayu+](https://www.skm.com.tw/brand/11248)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [MCS Marlboro Classics](https://www.skm.com.tw/brand/11781)  
-新光三越台北信義新天地A9 4F
-新光三越台中中港店 5F
-新光三越台南新天地 4F
-新光三越高雄三多店 6F
+新光三越台北信義新天地A9 4F  
+新光三越台中中港店 5F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 6F  
 [me ISSEY MIYAKE](https://www.skm.com.tw/brand/11353)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店 2F
-新光三越台南新天地 1F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店 2F  
+新光三越台南新天地 1F  
 [MEDLIGHT 美德耐](https://www.skm.com.tw/brand/11784)  
-新光三越台北信義新天地A11 4F
-新光三越台南新天地 5F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A11 4F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 7F  
 [MEISSEN 國裕](https://www.skm.com.tw/brand/10994)  
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [MELROSE](https://www.skm.com.tw/brand/11419)  
-新光三越台北南西店 1F
-新光三越台南新天地 GF
+新光三越台北南西店 1F  
+新光三越台南新天地 GF  
 [MELVITA 蜜葳特](https://www.skm.com.tw/brand/11845)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 2F
-新光三越台中中港店 B1F
-新光三越台南新天地 B1F
-新光三越高雄三多店 1F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 2F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 1F  
 [MERRELL](https://www.skm.com.tw/brand/11576)  
-新光三越台北信義新天地A11 5F
-新光三越台北南西店 8F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
+新光三越台北信義新天地A11 5F  
+新光三越台北南西店 8F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
 [MEY 智誠](https://www.skm.com.tw/brand/11278)  
-新光三越台中中港店 5F
+新光三越台中中港店 5F  
 [MFA](https://www.skm.com.tw/brand/12725)  
-新光三越台北信義新天地A4 4F
+新光三越台北信義新天地A4 4F  
 [mia mia ](https://www.skm.com.tw/brand/11851)  
-新光三越嘉義垂楊店 3F
+新光三越嘉義垂楊店 3F  
 [MIACUCINA](https://www.skm.com.tw/brand/11623)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店 2F
-新光三越台中中港店 10F
-新光三越台南新天地 1F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店 2F  
+新光三越台中中港店 10F  
+新光三越台南新天地 1F  
 [MICHEL KLEIN](https://www.skm.com.tw/brand/11409)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 4F
-新光三越台南新天地 2F
-新光三越高雄三多店 5F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 5F  
 [MIDO](https://www.skm.com.tw/brand/11131)  
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [MIELE嘉儀](https://www.skm.com.tw/brand/11301)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越台南新天地 B1F
-新光三越高雄三多店 10F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 10F  
+新光三越高雄左營店 9F  
 [MIKIMOTO](https://www.skm.com.tw/brand/11572)  
-新光三越台北信義新天地A9 2F
-新光三越台北南西店 4F
-新光三越台北天母店二館 1F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台北信義新天地A9 2F  
+新光三越台北南西店 4F  
+新光三越台北天母店二館 1F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [MILK17 純新烘焙](https://www.skm.com.tw/brand/11764)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [MINAMOTO KITCHOAN 源吉兆庵](https://www.skm.com.tw/brand/12444)  
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [MINI ONE](https://www.skm.com.tw/brand/11682)  
-新光三越台北信義新天地A11 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [Miopane](https://www.skm.com.tw/brand/11319)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 1F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄三多店 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 1F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄三多店 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [Mirco Poma](https://www.skm.com.tw/brand/11838)  
-新光三越高雄左營店 B1F
+新光三越高雄左營店 B1F  
 [MISS](https://www.skm.com.tw/brand/11817)  
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 2F
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 2F  
 [MISS 21](https://www.skm.com.tw/brand/11778)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 2F
-新光三越台北南西店三館 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 2F  
+新光三越台北南西店三館 1F  
+新光三越台南新天地 GF  
 [MISTER DONUT](https://www.skm.com.tw/brand/11853)  
-新光三越台南中山店 B2F
-新光三越台南新天地 B2F
+新光三越台南中山店 B2F  
+新光三越台南新天地 B2F  
 [MIZIGI 米滋崎](https://www.skm.com.tw/brand/11177)  
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
 [MIZUNO 美津濃](https://www.skm.com.tw/brand/12566)  
-新光三越台北信義新天地A11 4F
-新光三越台南新天地 5F
+新光三越台北信義新天地A11 4F  
+新光三越台南新天地 5F  
 [MK.女性服飾](https://www.skm.com.tw/brand/11760)  
-新光三越台北信義新天地A8 B1F
-新光三越台北南西店 3F
-新光三越台北天母店 2F
-新光三越桃園站前店 2F
-新光三越台南新天地 4F
-新光三越高雄左營店 2F
+新光三越台北信義新天地A8 B1F  
+新光三越台北南西店 3F  
+新光三越台北天母店 2F  
+新光三越桃園站前店 2F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 2F  
 [MLB](https://www.skm.com.tw/brand/10995)  
-新光三越台南中山店 10F
-新光三越台南新天地 5F
+新光三越台南中山店 10F  
+新光三越台南新天地 5F  
 [MLB KOREA](https://www.skm.com.tw/brand/11113)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 2F
-新光三越台南新天地 4F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 2F  
+新光三越台南新天地 4F  
 [Modern Girl 瑪登瑪朵](https://www.skm.com.tw/brand/10933)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越桃園站前店 8F
-新光三越台中中港店 4F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 4F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 4F  
 [MOISELLE](https://www.skm.com.tw/brand/12637)  
-新光三越台北信義新天地A4 3F
-新光三越台南新天地 2F
+新光三越台北信義新天地A4 3F  
+新光三越台南新天地 2F  
 [MONCEAU FLEURS](https://www.skm.com.tw/brand/12368)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 B2F
-新光三越台北天母店 B1F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 B2F  
+新光三越台北天母店 B1F  
 [MONCLER](https://www.skm.com.tw/brand/12940)  
-新光三越台北信義新天地A4 1F
-新光三越台中中港店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台中中港店 1F  
 [MONDAINE](https://www.skm.com.tw/brand/1742)  
-新光三越台北信義新天地A8 3F
-新光三越台北南西店 5F
+新光三越台北信義新天地A8 3F  
+新光三越台北南西店 5F  
 [MONTAGUT休閒服](https://www.skm.com.tw/brand/11271)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越桃園站前店 6F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
-新光三越台南中山店 7F
-新光三越台南新天地 2F
-新光三越高雄三多店 6F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
+新光三越台南中山店 7F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 6F  
+新光三越高雄左營店 6F  
 [MONTAGUT襯衫](https://www.skm.com.tw/brand/12055)  
-新光三越台北南西店 5F
-新光三越高雄三多店 6F
+新光三越台北南西店 5F  
+新光三越高雄三多店 6F  
 [MONTBLANC](https://www.skm.com.tw/brand/12223)  
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 2F
-新光三越台南新天地 1F
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 2F  
+新光三越台南新天地 1F  
 [MOONSTAR宜達](https://www.skm.com.tw/brand/11251)  
-新光三越台北信義新天地A8 5F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 5F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [MOROZOFF 摩洛索夫](https://www.skm.com.tw/brand/11505)  
-新光三越台北信義新天地A8 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [MOSS CLUB](https://www.skm.com.tw/brand/11889)  
-新光三越台北信義新天地A8 B1F
-新光三越桃園站前店 4F
-新光三越台南中山店 3F
-新光三越台南新天地 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越桃園站前店 4F  
+新光三越台南中山店 3F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 3F  
 [Mother Garden](https://www.skm.com.tw/brand/11731)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [Mountain Hardwear](https://www.skm.com.tw/brand/12809)  
-新光三越台北信義新天地A11 5F
+新光三越台北信義新天地A11 5F  
 [MRS. FAITH'S 費太太](https://www.skm.com.tw/brand/11313)  
-新光三越台北站前店 B2F
+新光三越台北站前店 B2F  
 [M'S GRACY](https://www.skm.com.tw/brand/12070)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 4F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 2F
-新光三越台南新天地 2F
-新光三越高雄左營店 2F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 4F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 2F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 2F  
 [Muchoyaki 教父牛排](https://www.skm.com.tw/brand/11899)  
-新光三越台北信義新天地A9 6F
+新光三越台北信義新天地A9 6F  
 [MUJI 無印良品](https://www.skm.com.tw/brand/11587)  
-新光三越台北站前店 3F
-新光三越台北南西店 B1F
-新光三越台中中港店 11F
-新光三越台南中山店 B1F
-新光三越台南新天地 5F
-新光三越高雄左營店 3F
+新光三越台北站前店 3F  
+新光三越台北南西店 B1F  
+新光三越台中中港店 11F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 3F  
 [MULTIPLAY](https://www.skm.com.tw/brand/11023)  
-新光三越台北南西店三館 1F
+新光三越台北南西店三館 1F  
 [MUNSINGWEAR 企鵝](https://www.skm.com.tw/brand/12185)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [MyAnime Square](https://www.skm.com.tw/brand/12797)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [NATIVE](https://www.skm.com.tw/brand/790)  
-新光三越台北南西店三館 4F
-新光三越台中中港店 11F
-新光三越台南新天地 5F
+新光三越台北南西店三館 4F  
+新光三越台中中港店 11F  
+新光三越台南新天地 5F  
 [NORNS](https://www.skm.com.tw/brand/13049)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [NOSE WAY](https://www.skm.com.tw/brand/1179)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [N.CORE](https://www.skm.com.tw/brand/11597)  
-新光三越台北信義新天地A11 3F
+新光三越台北信義新天地A11 3F  
 [NARA CAMICIEE](https://www.skm.com.tw/brand/12334)  
-新光三越台北信義新天地A4 3F
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越台南新天地 2F
+新光三越台北信義新天地A4 3F  
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
 [NARS](https://www.skm.com.tw/brand/11915)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [NATURAL BEAUTY BASIC](https://www.skm.com.tw/brand/12238)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 4F
-新光三越台北南西店 3F
-新光三越台中中港店 B1F
-新光三越台南新天地 2F
-新光三越高雄三多店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 4F  
+新光三越台北南西店 3F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 3F  
 [NATURALLY JO JO](https://www.skm.com.tw/brand/11165)  
-新光三越台南中山店 4F
+新光三越台南中山店 4F  
 [NAUTICA](https://www.skm.com.tw/brand/12512)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 4F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 6F  
 [NAUTICA KIDS](https://www.skm.com.tw/brand/11286)  
-新光三越台北信義新天地A8 5F
-新光三越嘉義垂楊店 9F
+新光三越台北信義新天地A8 5F  
+新光三越嘉義垂楊店 9F  
 [NAVY SELECT SHOP](https://www.skm.com.tw/brand/11043)  
-新光三越台北南西店三館 4F
-新光三越台南新天地 5F
-新光三越台南新天地小西門 B1F
+新光三越台北南西店三館 4F  
+新光三越台南新天地 5F  
+新光三越台南新天地小西門 B1F  
 [NESPRESSO](https://www.skm.com.tw/brand/12425)  
-新光三越台北信義新天地A11 1F
-新光三越台中中港店 3F
-新光三越台南新天地 B1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A11 1F  
+新光三越台中中港店 3F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 1F  
 [NEST 巢家居](https://www.skm.com.tw/brand/11598)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 7F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 7F  
 [NESTLE 雀巢](https://www.skm.com.tw/brand/12558)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [new balance 紐巴倫](https://www.skm.com.tw/brand/12422)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 4F
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台北南西店 8F
-新光三越台北南西店三館 5F
-新光三越台中中港店 12F
-新光三越嘉義垂楊店 6F
-新光三越台南中山店 10F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
-新光三越高雄左營店 7F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 4F  
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台北南西店 8F  
+新光三越台北南西店三館 5F  
+新光三越台中中港店 12F  
+新光三越嘉義垂楊店 6F  
+新光三越台南中山店 10F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
+新光三越高雄左營店 7F  
+新光三越高雄左營店 7F  
 [New Era](https://www.skm.com.tw/brand/12182)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 4F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 4F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
 [NEW YORK PAPA](https://www.skm.com.tw/brand/12247)  
-新光三越台北站前店 11F
+新光三越台北站前店 11F  
 [NIKE](https://www.skm.com.tw/brand/12573)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 4F
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台北南西店三館 5F
-新光三越台北天母店二館 B1F
-新光三越桃園站前店 7F
-新光三越台中中港店 12F
-新光三越嘉義垂楊店 6F
-新光三越台南中山店 10F
-新光三越台南中山店 10F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 4F  
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台北南西店三館 5F  
+新光三越台北天母店二館 B1F  
+新光三越桃園站前店 7F  
+新光三越台中中港店 12F  
+新光三越嘉義垂楊店 6F  
+新光三越台南中山店 10F  
+新光三越台南中山店 10F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
+新光三越高雄左營店 7F  
 [NIKE KICKS LOUNGE](https://www.skm.com.tw/brand/12787)  
-新光三越台北信義新天地A11 1F
-新光三越台北南西店三館 2F
-新光三越台南中山店 B1F
-新光三越台南新天地 4F
+新光三越台北信義新天地A11 1F  
+新光三越台北南西店三館 2F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 4F  
 [Nike Kids](https://www.skm.com.tw/brand/12349)  
-新光三越台北信義新天地A8 5F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 5F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
 [niko and ...](https://www.skm.com.tw/brand/10903)  
-新光三越台北信義新天地A11 B1F
-新光三越台南新天地 4F
+新光三越台北信義新天地A11 B1F  
+新光三越台南新天地 4F  
 [NITORI宜得利家居](https://www.skm.com.tw/brand/12467)  
-新光三越台北天母店 5F
-新光三越台南中山店 5F
-新光三越高雄左營店 4F
+新光三越台北天母店 5F  
+新光三越台南中山店 5F  
+新光三越高雄左營店 4F  
 [NIVEOLE](https://www.skm.com.tw/brand/11159)  
-新光三越高雄左營店 1F
+新光三越高雄左營店 1F  
 [non stop](https://www.skm.com.tw/brand/12688)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 2F
-新光三越台南中山店 4F
-新光三越台南新天地 4F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 2F  
+新光三越台南中山店 4F  
+新光三越台南新天地 4F  
 [Noodle & Boo](https://www.skm.com.tw/brand/11467)  
-新光三越台北信義新天地A8 4F
-新光三越台中中港店 6F
+新光三越台北信義新天地A8 4F  
+新光三越台中中港店 6F  
 [NORITAKE/Lotus](https://www.skm.com.tw/brand/11555)  
-新光三越台北站前店 9F
-新光三越台中中港店 8F
+新光三越台北站前店 9F  
+新光三越台中中港店 8F  
 [NTG](https://www.skm.com.tw/brand/11863)  
-新光三越台北南西店 5F
+新光三越台北南西店 5F  
 [NU](https://www.skm.com.tw/brand/11517)  
-新光三越台北信義新天地A11 5F
-新光三越台北站前店 11F
-新光三越桃園站前店 7F
-新光三越台中中港店 12F
-新光三越嘉義垂楊店 5F
-新光三越台南中山店 6F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A11 5F  
+新光三越台北站前店 11F  
+新光三越桃園站前店 7F  
+新光三越台中中港店 12F  
+新光三越嘉義垂楊店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
+新光三越高雄左營店 7F  
 [NuBra](https://www.skm.com.tw/brand/11310)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [NUNUNU](https://www.skm.com.tw/brand/11050)  
-新光三越台北信義新天地A8 4F
-新光三越台中中港店 6F
+新光三越台北信義新天地A8 4F  
+新光三越台中中港店 6F  
 [NutriMate 你滋美得](https://www.skm.com.tw/brand/10914)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [ORIGINS 品木宣言](https://www.skm.com.tw/brand/12104)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 1F
-新光三越台中中港店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 1F  
+新光三越台中中港店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [OH HER](https://www.skm.com.tw/brand/13107)  
-新光三越嘉義垂楊店 4F
-新光三越台南新天地 4F
+新光三越嘉義垂楊店 4F  
+新光三越台南新天地 4F  
 [Oh!Mia歐米芽鬆餅屋](https://www.skm.com.tw/brand/13062)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [Olivia Garden](https://www.skm.com.tw/brand/1308)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [Omas 歐嬤德式美食](https://www.skm.com.tw/brand/12996)  
-新光三越台北南西店 B2F
+新光三越台北南西店 B2F  
 [O'MUSES](https://www.skm.com.tw/brand/2740)  
-新光三越台南中山店 4F
+新光三越台南中山店 4F  
 [OCEAN MANGO](https://www.skm.com.tw/brand/13206)  
-新光三越台北信義新天地A11 4F
+新光三越台北信義新天地A11 4F  
 [O&CO.](https://www.skm.com.tw/brand/11937)  
-新光三越台北信義新天地A8 B2F
-新光三越台北信義新天地A11 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北信義新天地A11 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [OAKLEY OSTORE](https://www.skm.com.tw/brand/11141)  
-新光三越台北信義新天地A9 5F
+新光三越台北信義新天地A9 5F  
 [odbo](https://www.skm.com.tw/brand/12071)  
-新光三越台南新天地 4F
-新光三越高雄左營店 B1F
+新光三越台南新天地 4F  
+新光三越高雄左營店 B1F  
 [OFFERMANN](https://www.skm.com.tw/brand/12250)  
-新光三越台北信義新天地A9 4F
-新光三越高雄左營店 2F
+新光三越台北信義新天地A9 4F  
+新光三越高雄左營店 2F  
 [OH!HER](https://www.skm.com.tw/brand/12855)  
-新光三越台南中山店 3F
+新光三越台南中山店 3F  
 [OHANA MAHAALO](https://www.skm.com.tw/brand/12010)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店 B1F
-新光三越桃園站前店 3F
-新光三越台中中港店 B1F
-新光三越台南新天地 4F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店 B1F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 B1F  
 [OLENS](https://www.skm.com.tw/brand/12922)  
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店三館 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 1F
-新光三越台南新天地小西門 B1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店三館 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南新天地小西門 B1F  
+新光三越高雄左營店 1F  
 [OLIVIA YVES](https://www.skm.com.tw/brand/11661)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [OLIVO](https://www.skm.com.tw/brand/12880)  
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 5F
-新光三越台南新天地 4F
-新光三越高雄左營店 3F
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 5F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 3F  
 [OMEGA](https://www.skm.com.tw/brand/12608)  
-新光三越台南新天地 GF
+新光三越台南新天地 GF  
 [ONE BOY](https://www.skm.com.tw/brand/12333)  
-新光三越台北信義新天地A9 B1F
-新光三越台北站前店 7F
-新光三越台北南西店三館 3F
-新光三越台北南西店三館 3F
-新光三越桃園站前店 6F
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 5F
-新光三越台南中山店 6F
-新光三越台南新天地小西門 B1F
-新光三越高雄三多店 B1F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A9 B1F  
+新光三越台北站前店 7F  
+新光三越台北南西店三館 3F  
+新光三越台北南西店三館 3F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地小西門 B1F  
+新光三越高雄三多店 B1F  
+新光三越高雄左營店 B1F  
 [ONETEASPOON](https://www.skm.com.tw/brand/10987)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店三館 4F
-新光三越台中中港店 11F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店三館 4F  
+新光三越台中中港店 11F  
 [ONITSUKA TIGER](https://www.skm.com.tw/brand/12781)  
-新光三越台北南西店三館 2F
-新光三越台南新天地 5F
+新光三越台北南西店三館 2F  
+新光三越台南新天地 5F  
 [OPEN FOR KIDS](https://www.skm.com.tw/brand/12830)  
-新光三越嘉義垂楊店 9F
+新光三越嘉義垂楊店 9F  
 [OR.f. 錯誤](https://www.skm.com.tw/brand/11228)  
-新光三越台北信義新天地A4 3F
+新光三越台北信義新天地A4 3F  
 [ORENZI歐倫琪](https://www.skm.com.tw/brand/11825)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [ORiental TRaffic](https://www.skm.com.tw/brand/12772)  
-新光三越台北信義新天地A11 B1F
-新光三越嘉義垂楊店 4F
+新光三越台北信義新天地A11 B1F  
+新光三越嘉義垂楊店 4F  
 [O'right 歐萊德](https://www.skm.com.tw/brand/11105)  
-新光三越台北信義新天地A8 6F
-新光三越台北信義新天地A11 B1F
-新光三越台中中港店 7F
-新光三越嘉義垂楊店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台北信義新天地A11 B1F  
+新光三越台中中港店 7F  
+新光三越嘉義垂楊店 8F  
+新光三越台南新天地 B1F  
 [ORIN](https://www.skm.com.tw/brand/10935)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 2F
-新光三越台北南西店 1F
-新光三越台中中港店 B1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 2F  
+新光三越台北南西店 1F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 GF  
 [OSIM 傲勝](https://www.skm.com.tw/brand/11196)  
-新光三越台北信義新天地A8 7F
-新光三越台北信義新天地A9 B1F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台北天母店 4F
-新光三越桃園站前店 9F
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄三多店 10F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北信義新天地A9 B1F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台北天母店 4F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 10F  
+新光三越高雄左營店 9F  
 [OTTO 奧圖](https://www.skm.com.tw/brand/12195)  
-新光三越台南中山店 2F
-新光三越台南新天地 3F
-新光三越高雄左營店 1F
+新光三越台南中山店 2F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 1F  
 [OUI](https://www.skm.com.tw/brand/12283)  
-新光三越台北信義新天地A4 3F
+新光三越台北信義新天地A4 3F  
 [OUTDOOR](https://www.skm.com.tw/brand/12431)  
-新光三越桃園站前店 5F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
+新光三越桃園站前店 5F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
 [OWNDAYS](https://www.skm.com.tw/brand/11709)  
-新光三越台北信義新天地A11 B1F
-新光三越台南新天地小西門 1F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A11 B1F  
+新光三越台南新天地小西門 1F  
+新光三越高雄左營店 3F  
 [1010 SPACE](https://www.skm.com.tw/brand/1666)  
-新光三越台北南西店 2F
+新光三越台北南西店 2F  
 [3INA](https://www.skm.com.tw/brand/642)  
-新光三越台南中山店 1F
+新光三越台南中山店 1F  
 [一口鍾情](https://www.skm.com.tw/brand/13077)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [了凡油雞](https://www.skm.com.tw/brand/1039)  
-新光三越嘉義垂楊店 B1F
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 4F
+新光三越嘉義垂楊店 B1F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 4F  
 [千勝屋](https://www.skm.com.tw/brand/2616)  
-新光三越台北天母店二館 3F
+新光三越台北天母店二館 3F  
 [千翔肉乾](https://www.skm.com.tw/brand/13076)  
-新光三越台北信義新天地A11 B2F
-新光三越台北南西店 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台北南西店 B2F  
 [大戶屋](https://www.skm.com.tw/brand/2416)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [大河屋](https://www.skm.com.tw/brand/2697)  
-新光三越台南中山店 12F
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台南中山店 12F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [大象山](https://www.skm.com.tw/brand/3313)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [小春秋](https://www.skm.com.tw/brand/3167)  
-新光三越台北信義新天地A9 4F
+新光三越台北信義新天地A9 4F  
 [小莘星](https://www.skm.com.tw/brand/2346)  
-新光三越台北信義新天地A8 5F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 5F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
 [不二家](https://www.skm.com.tw/brand/13078)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [丰樂食堂](https://www.skm.com.tw/brand/13114)  
-新光三越台中中港店 12F
+新光三越台中中港店 12F  
 [方愫馨草屯手工麻糬](https://www.skm.com.tw/brand/13054)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [月亮香蕉城](https://www.skm.com.tw/brand/3039)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [水根肉乾](https://www.skm.com.tw/brand/13103)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [史萊姆實驗室](https://www.skm.com.tw/brand/3681)  
-新光三越台北信義新天地A8 5F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 5F  
+新光三越台南新天地 3F  
 [四川冰粉](https://www.skm.com.tw/brand/13059)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [巨匠](https://www.skm.com.tw/brand/2321)  
-新光三越台北信義新天地A8 3F
+新光三越台北信義新天地A8 3F  
 [布拉格的調色盤](https://www.skm.com.tw/brand/2842)  
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [田好](https://www.skm.com.tw/brand/2692)  
-新光三越高雄左營店 5F
+新光三越高雄左營店 5F  
 [石安牧場](https://www.skm.com.tw/brand/3312)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [好男人理容院](https://www.skm.com.tw/brand/3168)  
-新光三越台北信義新天地A9 4F
+新光三越台北信義新天地A9 4F  
 [好煮藝灶咖](https://www.skm.com.tw/brand/13042)  
-新光三越台北站前店 B1F
+新光三越台北站前店 B1F  
 [安格優食](https://www.skm.com.tw/brand/376)  
-新光三越高雄三多店 B2F
+新光三越高雄三多店 B2F  
 [尖牙義式廚房](https://www.skm.com.tw/brand/12999)  
-新光三越台北南西店三館 B1F
+新光三越台北南西店三館 B1F  
 [艾比眼鏡](https://www.skm.com.tw/brand/1113)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [艾芬波斯館](https://www.skm.com.tw/brand/2889)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [貝格緹烘焙](https://www.skm.com.tw/brand/13119)  
-新光三越高雄三多店 B2F
+新光三越高雄三多店 B2F  
 [明水然・樂](https://www.skm.com.tw/brand/13046)  
-新光三越高雄三多店 3F
+新光三越高雄三多店 3F  
 [枕好睡](https://www.skm.com.tw/brand/13035)  
-新光三越台南中山店 4F
+新光三越台南中山店 4F  
 [東洲黑糖奶舖](https://www.skm.com.tw/brand/2444)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [松賀](https://www.skm.com.tw/brand/13113)  
-新光三越台中中港店 12F
+新光三越台中中港店 12F  
 [欣葉御便當](https://www.skm.com.tw/brand/13075)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [知覺優格](https://www.skm.com.tw/brand/595)  
-新光三越台南新天地 B2F
-新光三越高雄三多店 B2F
-新光三越高雄左營店 B2F
+新光三越台南新天地 B2F  
+新光三越高雄三多店 B2F  
+新光三越高雄左營店 B2F  
 [花意空間](https://www.skm.com.tw/brand/2290)  
-新光三越台北信義新天地A8 1F
+新光三越台北信義新天地A8 1F  
 [初虎MINI](https://www.skm.com.tw/brand/13080)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [采躍科技](https://www.skm.com.tw/brand/1301)  
-新光三越台南新天地 B1F
+新光三越台南新天地 B1F  
 [金木馬文創輕食](https://www.skm.com.tw/brand/1559)  
-新光三越高雄左營店彩虹市集 1F
+新光三越高雄左營店彩虹市集 1F  
 [阿聰師](https://www.skm.com.tw/brand/1442)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [青鳥旅行](https://www.skm.com.tw/brand/673)  
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [咿啵喲poki&waffle](https://www.skm.com.tw/brand/13061)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [威瑪舒培](https://www.skm.com.tw/brand/1324)  
-新光三越台南新天地 B2F
-新光三越高雄三多店 B2F
+新光三越台南新天地 B2F  
+新光三越高雄三多店 B2F  
 [星台VIONIC](https://www.skm.com.tw/brand/482)  
-新光三越高雄左營店 7F
+新光三越高雄左營店 7F  
 [段純貞](https://www.skm.com.tw/brand/2456)  
-新光三越台南新天地小西門 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台南新天地小西門 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [島瓜滷味](https://www.skm.com.tw/brand/13126)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [海斯頓HERSTON](https://www.skm.com.tw/brand/1136)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [高麗園](https://www.skm.com.tw/brand/691)  
-新光三越台南中山店 12F
+新光三越台南中山店 12F  
 [康寧餐具](https://www.skm.com.tw/brand/2595)  
-新光三越台北信義新天地A8 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台南新天地 B1F  
 [御私藏](https://www.skm.com.tw/brand/13070)  
-新光三越台南新天地 B2F
-新光三越高雄三多店 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台南新天地 B2F  
+新光三越高雄三多店 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [甜入心菲](https://www.skm.com.tw/brand/2672)  
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [眼鏡市場](https://www.skm.com.tw/brand/3428)  
-新光三越台南新天地 2F
-新光三越高雄三多店 B1F
+新光三越台南新天地 2F  
+新光三越高雄三多店 B1F  
 [組曲](https://www.skm.com.tw/brand/845)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
 [傅家香炭滴雞精](https://www.skm.com.tw/brand/2819)  
-新光三越台北站前店 B2F
-新光三越高雄三多店 B2F
-新光三越高雄左營店 B2F
+新光三越台北站前店 B2F  
+新光三越高雄三多店 B2F  
+新光三越高雄左營店 B2F  
 [富宴](https://www.skm.com.tw/brand/12997)  
-新光三越台北站前店 12F
+新光三越台北站前店 12F  
 [惠而麗 Fairy](https://www.skm.com.tw/brand/3369)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [斑鳩的窩](https://www.skm.com.tw/brand/13079)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [晶巧](https://www.skm.com.tw/brand/3597)  
-新光三越台北站前店 5F
+新光三越台北站前店 5F  
 [晶綺](https://www.skm.com.tw/brand/3598)  
-新光三越台北站前店 5F
+新光三越台北站前店 5F  
 [湯尼鍋燒](https://www.skm.com.tw/brand/13057)  
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 4F
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 4F  
 [盜飯](https://www.skm.com.tw/brand/2488)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [童玩選物](https://www.skm.com.tw/brand/13098)  
-新光三越台南新天地小西門 B2F
+新光三越台南新天地小西門 B2F  
 [超市](https://www.skm.com.tw/brand/461)  
-新光三越台北信義新天地A4 B2F
-新光三越台北信義新天地A8 B2F
-新光三越台北信義新天地A11 B2F
-新光三越台北南西店 B2F
-新光三越台北天母店 B1F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄三多店 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A4 B2F  
+新光三越台北信義新天地A8 B2F  
+新光三越台北信義新天地A11 B2F  
+新光三越台北南西店 B2F  
+新光三越台北天母店 B1F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄三多店 B2F  
+新光三越高雄左營店 B2F  
 [鄉間座](https://www.skm.com.tw/brand/1219)  
-新光三越台北天母店二館 3F
+新光三越台北天母店二館 3F  
 [奧瑪烘焙](https://www.skm.com.tw/brand/2678)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [想想咖哩](https://www.skm.com.tw/brand/12998)  
-新光三越台北信義新天地A11 B2F
-新光三越台北南西店三館 B1F
-新光三越台中中港店 12F
+新光三越台北信義新天地A11 B2F  
+新光三越台北南西店三館 B1F  
+新光三越台中中港店 12F  
 [愛威鐵盒餅乾](https://www.skm.com.tw/brand/806)  
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [新采MITHUS](https://www.skm.com.tw/brand/2813)  
-新光三越台北信義新天地A8 7F
-新光三越台北信義新天地A9 3F
-新光三越台中中港店 7F
+新光三越台北信義新天地A8 7F  
+新光三越台北信義新天地A9 3F  
+新光三越台中中港店 7F  
 [極品茶](https://www.skm.com.tw/brand/1667)  
-新光三越台南中山店 B2F
+新光三越台南中山店 B2F  
 [源酒屋](https://www.skm.com.tw/brand/3182)  
-新光三越台南中山店 B2F
+新光三越台南中山店 B2F  
 [獅寶煲](https://www.skm.com.tw/brand/13101)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [葉貴](https://www.skm.com.tw/brand/3075)  
-新光三越台南新天地 6F
-新光三越高雄三多店 9F
-新光三越高雄左營店 4F
+新光三越台南新天地 6F  
+新光三越高雄三多店 9F  
+新光三越高雄左營店 4F  
 [董記螺獅粉](https://www.skm.com.tw/brand/13074)  
-新光三越高雄左營店彩虹市集 4F
+新光三越高雄左營店彩虹市集 4F  
 [達正酒藏](https://www.skm.com.tw/brand/13036)  
-新光三越台北站前店 B2F
+新光三越台北站前店 B2F  
 [葳妮](https://www.skm.com.tw/brand/13089)  
-新光三越高雄左營店 B1F
+新光三越高雄左營店 B1F  
 [漢堡王](https://www.skm.com.tw/brand/13100)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [滿粥穗](https://www.skm.com.tw/brand/13067)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [滬香居](https://www.skm.com.tw/brand/378)  
-新光三越高雄三多店 11F
+新光三越高雄三多店 11F  
 [維京牛排](https://www.skm.com.tw/brand/13073)  
-新光三越高雄左營店彩虹市集 4F
+新光三越高雄左營店彩虹市集 4F  
 [艋舺雞排](https://www.skm.com.tw/brand/13128)  
-新光三越高雄左營店彩虹市集 4F
+新光三越高雄左營店彩虹市集 4F  
 [鳳儀修改室](https://www.skm.com.tw/brand/12967)  
-新光三越台北天母店 6F
+新光三越台北天母店 6F  
 [潮品集 ‧ 潮坊 CHAO PING JI](https://www.skm.com.tw/brand/13095)  
-新光三越台北信義新天地A4 6F
+新光三越台北信義新天地A4 6F  
 [潮傢俬](https://www.skm.com.tw/brand/468)  
-新光三越台北站前店 8F
+新光三越台北站前店 8F  
 [潤燕窩](https://www.skm.com.tw/brand/2684)  
-新光三越台北天母店 B1F
+新光三越台北天母店 B1F  
 [臻品手作](https://www.skm.com.tw/brand/2901)  
-新光三越台北站前店 8F
-新光三越桃園站前店 8F
+新光三越台北站前店 8F  
+新光三越桃園站前店 8F  
 [點8茶記](https://www.skm.com.tw/brand/3468)  
-新光三越台北南西店三館 B1F
+新光三越台北南西店三館 B1F  
 [點點心](https://www.skm.com.tw/brand/1078)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [藍象廷](https://www.skm.com.tw/brand/13041)  
-新光三越台北站前店 B1F
+新光三越台北站前店 B1F  
 [鎮金店](https://www.skm.com.tw/brand/2734)  
-新光三越台北信義新天地A8 2F
-新光三越桃園站前店 1F
-新光三越台南中山店 1F
+新光三越台北信義新天地A8 2F  
+新光三越桃園站前店 1F  
+新光三越台南中山店 1F  
 [寶貝媽咪](https://www.skm.com.tw/brand/12423)  
-新光三越台北信義新天地A8 4F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
+新光三越台北信義新天地A8 4F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
 [寶來酒藏](https://www.skm.com.tw/brand/13116)  
-新光三越嘉義垂楊店 B1F
-新光三越高雄三多店 6F
+新光三越嘉義垂楊店 B1F  
+新光三越高雄三多店 6F  
 [覺旅咖啡](https://www.skm.com.tw/brand/13094)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [鰻魚日記](https://www.skm.com.tw/brand/3409)  
-新光三越嘉義垂楊店 B1F
-新光三越台南中山店 B2F
-新光三越台南新天地 B2F
+新光三越嘉義垂楊店 B1F  
+新光三越台南中山店 B2F  
+新光三越台南新天地 B2F  
 [売兆滷味](https://www.skm.com.tw/brand/2894)  
-新光三越台北南西店 B2F
+新光三越台北南西店 B2F  
 [呷哺呷哺](https://www.skm.com.tw/brand/13153)  
-新光三越台北南西店三館 7F
+新光三越台北南西店三館 7F  
 [月令12](https://www.skm.com.tw/brand/13115)  
-新光三越台中中港店 12F
+新光三越台中中港店 12F  
 [金億昌海鮮粥 蝦仁飯專賣店](https://www.skm.com.tw/brand/13072)  
-新光三越高雄三多店 B2F
-新光三越高雄左營店彩虹市集 4F
+新光三越高雄三多店 B2F  
+新光三越高雄左營店彩虹市集 4F  
 [次男燒肉](https://www.skm.com.tw/brand/13069)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [1855卓越酒莊](https://www.skm.com.tw/brand/13083)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [芝初](https://www.skm.com.tw/brand/633)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [艾芝園](https://www.skm.com.tw/brand/3005)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [夯極號](https://www.skm.com.tw/brand/3573)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [馬卡諦義大利冰淇淋](https://www.skm.com.tw/brand/3213)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [大鍋頭](https://www.skm.com.tw/brand/557)  
-新光三越台南新天地小西門 B2F
+新光三越台南新天地小西門 B2F  
 [果貿吳媽家](https://www.skm.com.tw/brand/696)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [康維他](https://www.skm.com.tw/brand/665)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [老協珍](https://www.skm.com.tw/brand/3617)  
-新光三越台北天母店 B1F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台北天母店 B1F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [好正點港式飲茶](https://www.skm.com.tw/brand/2635)  
-新光三越嘉義垂楊店 11F
-新光三越高雄三多店 11F
-新光三越高雄左營店彩虹市集 4F
+新光三越嘉義垂楊店 11F  
+新光三越高雄三多店 11F  
+新光三越高雄左營店彩虹市集 4F  
 [葵米](https://www.skm.com.tw/brand/2494)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [廟東清水排骨麵](https://www.skm.com.tw/brand/13117)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [金宗家](https://www.skm.com.tw/brand/2559)  
-新光三越高雄左營店彩虹市集 4F
+新光三越高雄左營店彩虹市集 4F  
 [雲泰廚房](https://www.skm.com.tw/brand/13196)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [自由甜點](https://www.skm.com.tw/brand/1522)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [自然點](https://www.skm.com.tw/brand/2448)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [哈記酸辣粉](https://www.skm.com.tw/brand/3462)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [春芳號](https://www.skm.com.tw/brand/3571)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [日分茶](https://www.skm.com.tw/brand/962)  
-新光三越高雄左營店彩虹市集 4F
+新光三越高雄左營店彩虹市集 4F  
 [新高軒](https://www.skm.com.tw/brand/2489)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [曼斐諾](https://www.skm.com.tw/brand/1519)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [侍茶匠](https://www.skm.com.tw/brand/13006)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [龜記](https://www.skm.com.tw/brand/3016)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [星乃珈琲店 HOSHINO COFFE](https://www.skm.com.tw/brand/2630)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 4F
-新光三越台北天母店 2F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 4F  
+新光三越台北天母店 2F  
 [原味千尋](https://www.skm.com.tw/brand/13060)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [木待制](https://www.skm.com.tw/brand/3572)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [養茶](https://www.skm.com.tw/brand/3600)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [小新鯛魚燒](https://www.skm.com.tw/brand/2425)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [吉甜不辣](https://www.skm.com.tw/brand/1526)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [金帛手製](https://www.skm.com.tw/brand/3301)  
-新光三越台北信義新天地A11 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台南新天地 B2F  
 [京都銘店](https://www.skm.com.tw/brand/1758)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [不二緻果](https://www.skm.com.tw/brand/594)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [武松殿](https://www.skm.com.tw/brand/1467)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [御前上茶](https://www.skm.com.tw/brand/2476)  
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [幸福頌](https://www.skm.com.tw/brand/3283)  
-新光三越嘉義垂楊店 B1F
+新光三越嘉義垂楊店 B1F  
 [名人坊](https://www.skm.com.tw/brand/387)  
-新光三越台中中港店 4F
-新光三越台南新天地 1F
+新光三越台中中港店 4F  
+新光三越台南新天地 1F  
 [開飯川食堂](https://www.skm.com.tw/brand/1038)  
-新光三越高雄左營店彩虹市集 4F
+新光三越高雄左營店彩虹市集 4F  
 [羽曦堂](https://www.skm.com.tw/brand/1520)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [肉多多](https://www.skm.com.tw/brand/377)  
-新光三越台北天母店 5F
-新光三越高雄三多店 12F
+新光三越台北天母店 5F  
+新光三越高雄三多店 12F  
 [豆腐村韓國嫩豆腐煲專門店](https://www.skm.com.tw/brand/2637)  
-新光三越台北站前店 B2F
-新光三越桃園站前店 10F
+新光三越台北站前店 B2F  
+新光三越桃園站前店 10F  
 [澳們打邊爐](https://www.skm.com.tw/brand/13118)  
-新光三越台南新天地 6F
+新光三越台南新天地 6F  
 [燒肉同話](https://www.skm.com.tw/brand/1057)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [簡單李](https://www.skm.com.tw/brand/489)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [奇華餅家](https://www.skm.com.tw/brand/548)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [馥御牛肉干](https://www.skm.com.tw/brand/1756)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [蘭芳麵食館](https://www.skm.com.tw/brand/13014)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [魚君さかなくん鮮魚專門居酒屋](https://www.skm.com.tw/brand/13020)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [301 Boulevard](https://www.skm.com.tw/brand/385)  
-新光三越台中中港店 9F
+新光三越台中中港店 9F  
 [力雄茶行](https://www.skm.com.tw/brand/13038)  
-新光三越台北站前店 B2F
+新光三越台北站前店 B2F  
 [非越即泰](https://www.skm.com.tw/brand/3656)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [樂沐糕餅舖](https://www.skm.com.tw/brand/3694)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [英國奶奶](https://www.skm.com.tw/brand/13013)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [望月](https://www.skm.com.tw/brand/3509)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [禾發堂](https://www.skm.com.tw/brand/2903)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [善菓屋](https://www.skm.com.tw/brand/751)  
-新光三越台北信義新天地A11 B2F
-新光三越台北南西店三館 1F
+新光三越台北信義新天地A11 B2F  
+新光三越台北南西店三館 1F  
 [天時福](https://www.skm.com.tw/brand/3263)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [時時香SHANN RICE BAR](https://www.skm.com.tw/brand/1000)  
-新光三越台中中港店 9F
-新光三越高雄左營店 9F
+新光三越台中中港店 9F  
+新光三越高雄左營店 9F  
 [法倈麗香水](https://www.skm.com.tw/brand/11565)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [辣杯杯](https://www.skm.com.tw/brand/3469)  
-新光三越台北南西店三館 B1F
+新光三越台北南西店三館 B1F  
 [洋食屋](https://www.skm.com.tw/brand/13045)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [千稻咖哩](https://www.skm.com.tw/brand/2415)  
-新光三越桃園站前店 B1F
+新光三越桃園站前店 B1F  
 [一芳水果茶](https://www.skm.com.tw/brand/2412)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [一膳鰻魚飯](https://www.skm.com.tw/brand/3400)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [漿樣子](https://www.skm.com.tw/brand/2683)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [這一鍋](https://www.skm.com.tw/brand/1056)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [這一小鍋](https://www.skm.com.tw/brand/2771)  
-新光三越台南中山店 12F
-新光三越高雄左營店 B1F
+新光三越台南中山店 12F  
+新光三越高雄左營店 B1F  
 [咖雞窩](https://www.skm.com.tw/brand/3661)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [這味泰泰 Mrs. Thai](https://www.skm.com.tw/brand/2479)  
-新光三越台北南西店三館 B1F
+新光三越台北南西店三館 B1F  
 [青丘苑](https://www.skm.com.tw/brand/3267)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [永心鳳茶](https://www.skm.com.tw/brand/1394)  
-新光三越台北南西店三館 3F
+新光三越台北南西店三館 3F  
 [黑方巧克力](https://www.skm.com.tw/brand/1755)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [金天丼帝](https://www.skm.com.tw/brand/3657)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [太陽蕃茄拉麵](https://www.skm.com.tw/brand/567)  
-新光三越台北南西店三館 B1F
+新光三越台北南西店三館 B1F  
 [職男的捲店](https://www.skm.com.tw/brand/3567)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [米達人](https://www.skm.com.tw/brand/1721)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 B1F
-新光三越台北南西店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 B1F  
+新光三越台北南西店 B2F  
 [無二](https://www.skm.com.tw/brand/658)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [農純鄉](https://www.skm.com.tw/brand/2680)  
-新光三越台北信義新天地A8 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [鴨迷](https://www.skm.com.tw/brand/634)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [小後苑](https://www.skm.com.tw/brand/344)  
-新光三越台北信義新天地A9 3F
+新光三越台北信義新天地A9 3F  
 [珊瑚橘 SUN WOO TEA](https://www.skm.com.tw/brand/2403)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [時境](https://www.skm.com.tw/brand/1081)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [春上布丁蛋糕](https://www.skm.com.tw/brand/2661)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [謝謝堅果](https://www.skm.com.tw/brand/2929)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [弍佃](https://www.skm.com.tw/brand/13082)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [東和製油](https://www.skm.com.tw/brand/1281)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [東京牛奶起司工房](https://www.skm.com.tw/brand/419)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 B2F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 B2F  
 [常景生技](https://www.skm.com.tw/brand/2782)  
-新光三越台北信義新天地A4 B1F
-新光三越台北天母店 B1F
-新光三越嘉義垂楊店 B1F
-新光三越台南中山店 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A4 B1F  
+新光三越台北天母店 B1F  
+新光三越嘉義垂楊店 B1F  
+新光三越台南中山店 B2F  
+新光三越高雄左營店 B2F  
 [鉄火燒肉](https://www.skm.com.tw/brand/13105)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [涓豆腐-精緻韓式料理第一品牌](https://www.skm.com.tw/brand/13109)  
-新光三越台中中港店 10F
+新光三越台中中港店 10F  
 [九勺涮涮鍋](https://www.skm.com.tw/brand/498)  
-新光三越高雄左營店 7F
+新光三越高雄左營店 7F  
 [新馬辣](https://www.skm.com.tw/brand/13093)  
-新光三越台南新天地 B1F
+新光三越台南新天地 B1F  
 [小川鍋物](https://www.skm.com.tw/brand/2418)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [阿鍋家](https://www.skm.com.tw/brand/13112)  
-新光三越台中中港店 12F
+新光三越台中中港店 12F  
 [品品雞蛋仔](https://www.skm.com.tw/brand/13043)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [樂酌](https://www.skm.com.tw/brand/3063)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [日春木瓜牛奶](https://www.skm.com.tw/brand/3660)  
-新光三越台北信義新天地A8 B2F
-新光三越桃園站前店 B1F
+新光三越台北信義新天地A8 B2F  
+新光三越桃園站前店 B1F  
 [幸福翔綺西螺麻糬大王](https://www.skm.com.tw/brand/13044)  
-新光三越台北信義新天地A8 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台南新天地 B2F  
 [& by TAN&LUCIANA](https://www.skm.com.tw/brand/11761)  
-新光三越嘉義垂楊店 3F
-新光三越台南新天地 2F
-新光三越高雄左營店 2F
+新光三越嘉義垂楊店 3F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 2F  
 [:CHOCOOLATE](https://www.skm.com.tw/brand/12615)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 2F
-新光三越台中中港店 5F
-新光三越台南新天地小西門 B1F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 2F  
+新光三越台中中港店 5F  
+新光三越台南新天地小西門 B1F  
 [0918](https://www.skm.com.tw/brand/11484)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 3F
-新光三越台北南西店 B1F
-新光三越桃園站前店 3F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 4F
-新光三越台南中山店 3F
-新光三越台南新天地 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 3F  
+新光三越台北南西店 B1F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 4F  
+新光三越台南中山店 3F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 3F  
 [10/10 APOTHECARY](https://www.skm.com.tw/brand/12704)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A9 1F
-新光三越台北南西店 2F
-新光三越台北天母店二館 1F
-新光三越台中中港店 2F
-新光三越台南新天地 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A9 1F  
+新光三越台北南西店 2F  
+新光三越台北天母店二館 1F  
+新光三越台中中港店 2F  
+新光三越台南新天地 1F  
 [10/10 HOPE](https://www.skm.com.tw/brand/12154)  
-新光三越台南新天地 B1F
+新光三越台南新天地 B1F  
 [1010湘料理](https://www.skm.com.tw/brand/12482)  
-新光三越台北天母店 7F
-新光三越台南新天地 6F
+新光三越台北天母店 7F  
+新光三越台南新天地 6F  
 [10mois](https://www.skm.com.tw/brand/10917)  
-新光三越台北信義新天地A8 4F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 4F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
 [1929家居生活館](https://www.skm.com.tw/brand/11552)  
-新光三越桃園站前店 9F
-新光三越台中中港店 7F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄三多店 9F
-新光三越高雄左營店 8F
+新光三越桃園站前店 9F  
+新光三越台中中港店 7F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 9F  
+新光三越高雄左營店 8F  
 [2020 EYEhaus](https://www.skm.com.tw/brand/12670)  
-新光三越台北信義新天地A4 3F
-新光三越台南中山店 1F
-新光三越台南新天地 1F
+新光三越台北信義新天地A4 3F  
+新光三越台南中山店 1F  
+新光三越台南新天地 1F  
 [21 CENTURY風味館](https://www.skm.com.tw/brand/11847)  
-新光三越台南中山店 B2F
+新光三越台南中山店 B2F  
 [22 OCTOBRE](https://www.skm.com.tw/brand/10959)  
-新光三越台北信義新天地A4 3F
-新光三越台北站前店 4F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越台南新天地 2F
+新光三越台北信義新天地A4 3F  
+新光三越台北站前店 4F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
 [23區](https://www.skm.com.tw/brand/12449)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 3F
-新光三越台北天母店 3F
-新光三越台中中港店 4F
-新光三越台南新天地 2F
-新光三越高雄三多店 5F
-新光三越高雄左營店 2F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 3F  
+新光三越台北天母店 3F  
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 2F  
 [3M](https://www.skm.com.tw/brand/12216)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [3NITY](https://www.skm.com.tw/brand/11339)  
-新光三越台北信義新天地A11 4F
+新光三越台北信義新天地A11 4F  
 [50%](https://www.skm.com.tw/brand/12800)  
-新光三越台南新天地小西門 B2F
-新光三越高雄左營店 B1F
+新光三越台南新天地小西門 B2F  
+新光三越高雄左營店 B1F  
 [8H](https://www.skm.com.tw/brand/10909)  
-新光三越台北站前店 2F
-新光三越桃園站前店 4F
-新光三越嘉義垂楊店 4F
-新光三越台南中山店 4F
-新光三越台南新天地 4F
+新光三越台北站前店 2F  
+新光三越桃園站前店 4F  
+新光三越嘉義垂楊店 4F  
+新光三越台南中山店 4F  
+新光三越台南新天地 4F  
 [一風堂](https://www.skm.com.tw/brand/12302)  
-新光三越台中中港店 10F
-新光三越台南新天地小西門 B2F
+新光三越台中中港店 10F  
+新光三越台南新天地小西門 B2F  
 [一家人OUR FAMILY](https://www.skm.com.tw/brand/11602)  
-新光三越台南中山店 4F
-新光三越台南新天地 2F
-新光三越高雄三多店 3F
-新光三越高雄左營店 3F
+新光三越台南中山店 4F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 3F  
+新光三越高雄左營店 3F  
 [一蘭ICHIRAN](https://www.skm.com.tw/brand/12652)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [八陽海鮮小吃](https://www.skm.com.tw/brand/12030)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [三菱淨水器   ](https://www.skm.com.tw/brand/12884)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
 [上信饌玉](https://www.skm.com.tw/brand/11592)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [上晏皮件](https://www.skm.com.tw/brand/12293)  
-新光三越台南新天地 2F
+新光三越台南新天地 2F  
 [丸亀製麵](https://www.skm.com.tw/brand/11898)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 B1F
-新光三越台北南西店三館 B1F
-新光三越台北天母店二館 3F
-新光三越桃園站前店 B1F
-新光三越台中中港店 12F
-新光三越嘉義垂楊店 B1F
-新光三越台南中山店 B2F
-新光三越台南新天地 B2F
-新光三越高雄三多店 B2F
-新光三越高雄左營店 B2F
-新光三越高雄左營店彩虹市集 4F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 B1F  
+新光三越台北南西店三館 B1F  
+新光三越台北天母店二館 3F  
+新光三越桃園站前店 B1F  
+新光三越台中中港店 12F  
+新光三越嘉義垂楊店 B1F  
+新光三越台南中山店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄三多店 B2F  
+新光三越高雄左營店 B2F  
+新光三越高雄左營店彩虹市集 4F  
 [大心新泰式麵食](https://www.skm.com.tw/brand/12138)  
-新光三越台北天母店二館 3F
-新光三越台中中港店 12F
-新光三越台南新天地 B2F
-新光三越高雄三多店 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台北天母店二館 3F  
+新光三越台中中港店 12F  
+新光三越台南新天地 B2F  
+新光三越高雄三多店 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [大古鑄鐵TAKU](https://www.skm.com.tw/brand/11670)  
-新光三越台北信義新天地A4 B1F
-新光三越台北站前店 9F
-新光三越桃園站前店 9F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A4 B1F  
+新光三越台北站前店 9F  
+新光三越桃園站前店 9F  
+新光三越高雄左營店 9F  
 [大師兄銷魂麵舖](https://www.skm.com.tw/brand/12646)  
-新光三越台北信義新天地A11 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台南新天地 B2F  
 [小米專賣店](https://www.skm.com.tw/brand/12633)  
-新光三越台北南西店三館 4F
-新光三越台中中港店 5F
-新光三越台南新天地小西門 1F
-新光三越高雄左營店 1F
+新光三越台北南西店三館 4F  
+新光三越台中中港店 5F  
+新光三越台南新天地小西門 1F  
+新光三越高雄左營店 1F  
 [小紅點新加坡食堂](https://www.skm.com.tw/brand/11961)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [小象樹](https://www.skm.com.tw/brand/12516)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [山也行](https://www.skm.com.tw/brand/11060)  
-新光三越台北信義新天地A11 5F
-新光三越台北南西店 8F
+新光三越台北信義新天地A11 5F  
+新光三越台北南西店 8F  
 [川島の味](https://www.skm.com.tw/brand/12524)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [不識紅豆餅](https://www.skm.com.tw/brand/11780)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [中國牛肉麵小館](https://www.skm.com.tw/brand/11362)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [今生金飾](https://www.skm.com.tw/brand/12747)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [元暉綜合家電](https://www.skm.com.tw/brand/12631)  
-新光三越台北信義新天地A8 7F
-新光三越台北信義新天地A9 B2F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台北天母店 4F
-新光三越桃園站前店 9F
-新光三越台中中港店 8F
-新光三越台南中山店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北信義新天地A9 B2F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台北天母店 4F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 8F  
+新光三越台南中山店 9F  
 [六合小玲](https://www.skm.com.tw/brand/12938)  
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [天仁喫茶趣TO GO](https://www.skm.com.tw/brand/10904)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [屯京拉麵](https://www.skm.com.tw/brand/12844)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [手信坊](https://www.skm.com.tw/brand/12325)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [日藥本舖](https://www.skm.com.tw/brand/12265)  
-新光三越台南新天地 6F
-新光三越高雄左營店 3F
+新光三越台南新天地 6F  
+新光三越高雄左營店 3F  
 [牛頭牌](https://www.skm.com.tw/brand/12254)  
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [犬印](https://www.skm.com.tw/brand/11638)  
-新光三越台北信義新天地A8 4F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 4F  
+新光三越台南新天地 3F  
 [功夫銷魂麵](https://www.skm.com.tw/brand/11280)  
-新光三越台北南西店三館 B1F
-新光三越台中中港店 B2F
+新光三越台北南西店三館 B1F  
+新光三越台中中港店 B2F  
 [卡氏專業汽車美容](https://www.skm.com.tw/brand/12002)  
-新光三越台中中港店 B3F
-新光三越台南新天地 B3F
+新光三越台中中港店 B3F  
+新光三越台南新天地 B3F  
 [可夫萊堅果之家Coville](https://www.skm.com.tw/brand/11136)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [古拉爵](https://www.skm.com.tw/brand/11888)  
-新光三越高雄左營店 8F
+新光三越高雄左營店 8F  
 [台灣咖飛 TORAJASTAR](https://www.skm.com.tw/brand/11259)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [句商店](https://www.skm.com.tw/brand/11725)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [布萊恩](https://www.skm.com.tw/brand/11540)  
-新光三越嘉義垂楊店 B1F
+新光三越嘉義垂楊店 B1F  
 [正元精密科技](https://www.skm.com.tw/brand/11044)  
-新光三越台北信義新天地A9 5F
+新光三越台北信義新天地A9 5F  
 [瓦城](https://www.skm.com.tw/brand/12898)  
-新光三越台北信義新天地A9 7F
-新光三越台北站前店 12F
-新光三越台北南西店 8F
-新光三越台北天母店 7F
-新光三越桃園站前店 10F
-新光三越台中中港店 10F
-新光三越嘉義垂楊店 11F
-新光三越台南中山店 12F
-新光三越台南新天地 6F
-新光三越高雄三多店 12F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A9 7F  
+新光三越台北站前店 12F  
+新光三越台北南西店 8F  
+新光三越台北天母店 7F  
+新光三越桃園站前店 10F  
+新光三越台中中港店 10F  
+新光三越嘉義垂楊店 11F  
+新光三越台南中山店 12F  
+新光三越台南新天地 6F  
+新光三越高雄三多店 12F  
+新光三越高雄左營店 8F  
 [田中](https://www.skm.com.tw/brand/12799)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [田原香滴雞精-BABY FOOD](https://www.skm.com.tw/brand/11146)  
-新光三越台北信義新天地A8 4F
-新光三越台中中港店 6F
+新光三越台北信義新天地A8 4F  
+新光三越台中中港店 6F  
 [田記鮮雞精](https://www.skm.com.tw/brand/11268)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [全家便利超商](https://www.skm.com.tw/brand/11677)  
-新光三越高雄左營店彩虹市集 B2F
+新光三越高雄左營店彩虹市集 B2F  
 [吉品養生](https://www.skm.com.tw/brand/11226)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [名廚排骨](https://www.skm.com.tw/brand/11311)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [好好集](https://www.skm.com.tw/brand/11738)  
-新光三越台北信義新天地A4 B2F
-新光三越台北信義新天地A11 B2F
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台北信義新天地A4 B2F  
+新光三越台北信義新天地A11 B2F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [安心巧廚](https://www.skm.com.tw/brand/11149)  
-新光三越台北信義新天地A11 B2F
-新光三越台北南西店 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台北南西店 B2F  
+新光三越高雄左營店 B2F  
 [安妮莎琳](https://www.skm.com.tw/brand/11091)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 7F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 9F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 7F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 9F  
 [朱記餡餅](https://www.skm.com.tw/brand/10899)  
-新光三越台北站前店 B1F
-新光三越台北南西店三館 B1F
+新光三越台北站前店 B1F  
+新光三越台北南西店三館 B1F  
 [江戶勝](https://www.skm.com.tw/brand/11556)  
-新光三越台北南西店 8F
-新光三越桃園站前店 6F
+新光三越台北南西店 8F  
+新光三越桃園站前店 6F  
 [老乾杯](https://www.skm.com.tw/brand/11985)  
-新光三越台北信義新天地A9 8F
-新光三越台北南西店 7F
-新光三越台北天母店二館 2F
-新光三越台南新天地小西門 1F
+新光三越台北信義新天地A9 8F  
+新光三越台北南西店 7F  
+新光三越台北天母店二館 2F  
+新光三越台南新天地小西門 1F  
 [自由區 AREA FREE](https://www.skm.com.tw/brand/12711)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越台北南西店 4F
-新光三越台北天母店 3F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 2F
-新光三越台南新天地 2F
-新光三越高雄三多店 5F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越台北南西店 4F  
+新光三越台北天母店 3F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 2F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 5F  
 [自由葉](https://www.skm.com.tw/brand/11139)  
-新光三越台北站前店 B2F
+新光三越台北站前店 B2F  
 [西華](https://www.skm.com.tw/brand/11071)  
-新光三越台中中港店 8F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
+新光三越台中中港店 8F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
 [宏亞香水](https://www.skm.com.tw/brand/10900)  
-新光三越台北信義新天地A11 2F
-新光三越台北站前店 7F
+新光三越台北信義新天地A11 2F  
+新光三越台北站前店 7F  
 [宏記鳳凰卷](https://www.skm.com.tw/brand/12311)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [沙棘好朋友](https://www.skm.com.tw/brand/12899)  
-新光三越高雄左營店 3F
+新光三越高雄左營店 3F  
 [貝印](https://www.skm.com.tw/brand/12372)  
-新光三越台北信義新天地A8 7F
+新光三越台北信義新天地A8 7F  
 [貝拉杜絲](https://www.skm.com.tw/brand/11103)  
-新光三越嘉義垂楊店 2F
+新光三越嘉義垂楊店 2F  
 [京都西川](https://www.skm.com.tw/brand/11666)  
-新光三越台北站前店 9F
-新光三越台北南西店 7F
-新光三越台北天母店 4F
-新光三越台中中港店 7F
-新光三越嘉義垂楊店 8F
-新光三越台南新天地 B1F
-新光三越高雄三多店 9F
+新光三越台北站前店 9F  
+新光三越台北南西店 7F  
+新光三越台北天母店 4F  
+新光三越台中中港店 7F  
+新光三越嘉義垂楊店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 9F  
 [京都勝牛 Katsugyu](https://www.skm.com.tw/brand/12203)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [佳佳甜品 KaiKai Dessert](https://www.skm.com.tw/brand/12414)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [兩班家](https://www.skm.com.tw/brand/12510)  
-新光三越台北信義新天地A9 6F
-新光三越台北天母店 7F
-新光三越台中中港店 9F
-新光三越台南新天地 6F
+新光三越台北信義新天地A9 6F  
+新光三越台北天母店 7F  
+新光三越台中中港店 9F  
+新光三越台南新天地 6F  
 [和田精緻涮涮鍋](https://www.skm.com.tw/brand/11041)  
-新光三越台北信義新天地A11 B2F
-新光三越台北南西店三館 B1F
+新光三越台北信義新天地A11 B2F  
+新光三越台北南西店三館 B1F  
 [周大福](https://www.skm.com.tw/brand/10930)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 4F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 4F  
+新光三越台南新天地 GF  
 [夜上海](https://www.skm.com.tw/brand/11429)  
-新光三越台北信義新天地A4 5F
+新光三越台北信義新天地A4 5F  
 [奇迪歡樂世界](https://www.skm.com.tw/brand/12172)  
-新光三越桃園站前店 8F
+新光三越桃園站前店 8F  
 [奇哥](https://www.skm.com.tw/brand/12086)  
-新光三越台北信義新天地A8 4F
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越桃園站前店 8F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 4F  
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [幸福烘焙](https://www.skm.com.tw/brand/11599)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [怡眾](https://www.skm.com.tw/brand/10920)  
-新光三越台北信義新天地A8 7F
-新光三越台北南西店 7F
-新光三越桃園站前店 9F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台北南西店 7F  
+新光三越桃園站前店 9F  
+新光三越台南新天地 B1F  
 [林臣英](https://www.skm.com.tw/brand/11002)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [林曉同](https://www.skm.com.tw/brand/12400)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 4F  
 [松村](https://www.skm.com.tw/brand/11011)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [松芝岡](https://www.skm.com.tw/brand/12144)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [欣葉.日本料理](https://www.skm.com.tw/brand/11185)  
-新光三越台北信義新天地A11 5F
+新光三越台北信義新天地A11 5F  
 [欣葉.台菜](https://www.skm.com.tw/brand/12102)  
-新光三越台北信義新天地A9 8F
-新光三越台北南西店 8F
+新光三越台北信義新天地A9 8F  
+新光三越台北南西店 8F  
 [波波一方](https://www.skm.com.tw/brand/12533)  
-新光三越台北信義新天地A4 B1F
+新光三越台北信義新天地A4 B1F  
 [法雅客](https://www.skm.com.tw/brand/12580)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A9 B2F
-新光三越台北站前店 10F
-新光三越台北南西店 9F
-新光三越台北天母店二館 B1F
-新光三越桃園站前店 3F
-新光三越台中中港店 9F
-新光三越嘉義垂楊店 10F
-新光三越台南中山店 2F
-新光三越台南新天地 5F
-新光三越台南新天地小西門 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A9 B2F  
+新光三越台北站前店 10F  
+新光三越台北南西店 9F  
+新光三越台北天母店二館 B1F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 9F  
+新光三越嘉義垂楊店 10F  
+新光三越台南中山店 2F  
+新光三越台南新天地 5F  
+新光三越台南新天地小西門 1F  
+新光三越高雄左營店 1F  
 [法雅客Kids](https://www.skm.com.tw/brand/12438)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [空服員的手作甜點 Crew’s dessert](https://www.skm.com.tw/brand/11947)  
-新光三越台北南西店 B2F
+新光三越台北南西店 B2F  
 [花月嵐拉麵](https://www.skm.com.tw/brand/11934)  
-新光三越台中中港店 12F
-新光三越台南中山店 B2F
-新光三越台南新天地 6F
-新光三越高雄左營店彩虹市集 3F
+新光三越台中中港店 12F  
+新光三越台南中山店 B2F  
+新光三越台南新天地 6F  
+新光三越高雄左營店彩虹市集 3F  
 [花田囍飾](https://www.skm.com.tw/brand/11125)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [虎牌 TIGER](https://www.skm.com.tw/brand/12842)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台北天母店 4F
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台北天母店 4F  
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [初魚 鮨](https://www.skm.com.tw/brand/12076)  
-新光三越台北信義新天地A9 7F
-新光三越台中中港店 9F
+新光三越台北信義新天地A9 7F  
+新光三越台中中港店 9F  
 [采采食茶文化CHA CHA THE](https://www.skm.com.tw/brand/11370)  
-新光三越台北信義新天地A4 B2F
-新光三越台北信義新天地A8 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A4 B2F  
+新光三越台北信義新天地A8 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [金子半之助](https://www.skm.com.tw/brand/11336)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [金格名床](https://www.skm.com.tw/brand/12709)  
-新光三越台北信義新天地A9 B1F
-新光三越台北站前店 9F
-新光三越桃園站前店 9F
-新光三越台中中港店 7F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A9 B1F  
+新光三越台北站前店 9F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 7F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [金瑩](https://www.skm.com.tw/brand/12157)  
-新光三越台北天母店 3F
+新光三越台北天母店 3F  
 [阿官火鍋](https://www.skm.com.tw/brand/12282)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [阿原肥皂](https://www.skm.com.tw/brand/11024)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [阿華師](https://www.skm.com.tw/brand/11741)  
-新光三越高雄三多店 B2F
+新光三越高雄三多店 B2F  
 [冠英時計](https://www.skm.com.tw/brand/11175)  
-新光三越台南中山店 2F
-新光三越台南新天地 5F
+新光三越台南中山店 2F  
+新光三越台南新天地 5F  
 [南法香頌](https://www.skm.com.tw/brand/11685)  
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [哈玩具 HOBBY TOY](https://www.skm.com.tw/brand/11039)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [奕青農場](https://www.skm.com.tw/brand/11819)  
-新光三越台北站前店 B2F
+新光三越台北站前店 B2F  
 [恆隆行](https://www.skm.com.tw/brand/12927)  
-新光三越台北信義新天地A4 B1F
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越桃園站前店 9F
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A4 B1F  
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [春水堂](https://www.skm.com.tw/brand/12289)  
-新光三越台北信義新天地A9 B1F
-新光三越台北站前店 B2F
-新光三越台北南西店 B1F
-新光三越台北天母店二館 3F
-新光三越桃園站前店 B1F
-新光三越台中中港店 10F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A9 B1F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B1F  
+新光三越台北天母店二館 3F  
+新光三越桃園站前店 B1F  
+新光三越台中中港店 10F  
+新光三越高雄左營店 3F  
 [春稻](https://www.skm.com.tw/brand/12743)  
-新光三越台中中港店 8F
+新光三越台中中港店 8F  
 [泉吟](https://www.skm.com.tw/brand/11358)  
-新光三越桃園站前店 9F
+新光三越桃園站前店 9F  
 [泉發蜂蜜](https://www.skm.com.tw/brand/11718)  
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [科羅沙](https://www.skm.com.tw/brand/10921)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
 [紅豆食府](https://www.skm.com.tw/brand/10942)  
-新光三越台北信義新天地A9 7F
+新光三越台北信義新天地A9 7F  
 [紅花鐵板燒](https://www.skm.com.tw/brand/12327)  
-新光三越台北信義新天地A4 6F
-新光三越台北天母店 7F
+新光三越台北信義新天地A4 6F  
+新光三越台北天母店 7F  
 [美威鮭魚](https://www.skm.com.tw/brand/11349)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [美壽多](https://www.skm.com.tw/brand/11154)  
-新光三越台北信義新天地A11 2F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 2F  
+新光三越台中中港店 B1F  
 [飛捷義大利生活館](https://www.skm.com.tw/brand/11204)  
-新光三越台北站前店 10F
-新光三越台南新天地 B1F
-新光三越高雄三多店 9F
+新光三越台北站前店 10F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 9F  
 [首塢爾](https://www.skm.com.tw/brand/11625)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [香草集](https://www.skm.com.tw/brand/12671)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台北南西店 6F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台北南西店 6F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [凍心炸冰淇淋](https://www.skm.com.tw/brand/10905)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [家家買](https://www.skm.com.tw/brand/11816)  
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
 [泰德利](https://www.skm.com.tw/brand/11237)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [琉璃工房](https://www.skm.com.tw/brand/11612)  
-新光三越台北信義新天地A9 B1F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A9 B1F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [益可福生態牧場](https://www.skm.com.tw/brand/12532)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [耕讀園](https://www.skm.com.tw/brand/11687)  
-新光三越台南中山店 12F
+新光三越台南中山店 12F  
 [草本24](https://www.skm.com.tw/brand/10908)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [茶工坊](https://www.skm.com.tw/brand/12525)  
-新光三越高雄左營店 9F
+新光三越高雄左營店 9F  
 [茶湯會](https://www.skm.com.tw/brand/12256)  
-新光三越台北南西店三館 B1F
-新光三越台中中港店 12F
+新光三越台北南西店三館 B1F  
+新光三越台中中港店 12F  
 [追風冰上世界](https://www.skm.com.tw/brand/12902)  
-新光三越台南新天地小西門 B2F
+新光三越台南新天地小西門 B2F  
 [酒神樂](https://www.skm.com.tw/brand/12337)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [乾杯燒肉居酒屋](https://www.skm.com.tw/brand/10924)  
-新光三越台中中港店 13F
+新光三越台中中港店 13F  
 [乾唐軒](https://www.skm.com.tw/brand/11913)  
-新光三越台北站前店 9F
-新光三越台南新天地 B1F
-新光三越高雄三多店 9F
+新光三越台北站前店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 9F  
 [培芝](https://www.skm.com.tw/brand/11728)  
-新光三越台中中港店 8F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄三多店 10F
+新光三越台中中港店 8F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 10F  
 [婦樂透FULOTO](https://www.skm.com.tw/brand/12441)  
-新光三越台北站前店 10F
+新光三越台北站前店 10F  
 [彩虹森林](https://www.skm.com.tw/brand/11620)  
-新光三越台北信義新天地A8 4F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
+新光三越台北信義新天地A8 4F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
 [御牛殿](https://www.skm.com.tw/brand/11608)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [御香坊](https://www.skm.com.tw/brand/12072)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [梵谷](https://www.skm.com.tw/brand/12106)  
-新光三越高雄三多店 9F
+新光三越高雄三多店 9F  
 [梵高名品館](https://www.skm.com.tw/brand/12868)  
-新光三越高雄三多店 9F
+新光三越高雄三多店 9F  
 [添好運點心專門店](https://www.skm.com.tw/brand/12885)  
-新光三越台北信義新天地A8 3F
-新光三越桃園站前店 B1F
-新光三越台中中港店 10F
-新光三越台南新天地 6F
+新光三越台北信義新天地A8 3F  
+新光三越桃園站前店 B1F  
+新光三越台中中港店 10F  
+新光三越台南新天地 6F  
 [統一超商](https://www.skm.com.tw/brand/12420)  
-新光三越台北信義新天地A8 B1F
-新光三越台中中港店 11F
-新光三越台南中山店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 1F
+新光三越台北信義新天地A8 B1F  
+新光三越台中中港店 11F  
+新光三越台南中山店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 1F  
 [許艷玲](https://www.skm.com.tw/brand/12094)  
-新光三越高雄左營店 4F
+新光三越高雄左營店 4F  
 [郭元益](https://www.skm.com.tw/brand/11200)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [郭老師寶寶副食品](https://www.skm.com.tw/brand/11404)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [郭珮玲J&NINA](https://www.skm.com.tw/brand/11382)  
-新光三越嘉義垂楊店 2F
+新光三越嘉義垂楊店 2F  
 [陶八](https://www.skm.com.tw/brand/12436)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 8F
-新光三越台南新天地小西門 B2F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地小西門 B2F  
 [陶作坊](https://www.skm.com.tw/brand/11033)  
-新光三越台中中港店 8F
+新光三越台中中港店 8F  
 [雪嶽山](https://www.skm.com.tw/brand/11082)  
-新光三越台北南西店三館 B1F
-新光三越台北天母店二館 3F
-新光三越台中中港店 12F
-新光三越台南新天地 B2F
+新光三越台北南西店三館 B1F  
+新光三越台北天母店二館 3F  
+新光三越台中中港店 12F  
+新光三越台南新天地 B2F  
 [頂呱呱](https://www.skm.com.tw/brand/11596)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [麥當勞](https://www.skm.com.tw/brand/12555)  
-新光三越台北信義新天地A8 B2F
-新光三越台中中港店 12F
-新光三越台南新天地 6F
-新光三越高雄三多店 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台北信義新天地A8 B2F  
+新光三越台中中港店 12F  
+新光三越台南新天地 6F  
+新光三越高雄三多店 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [創意童玩](https://www.skm.com.tw/brand/12108)  
-新光三越高雄左營店 5F
+新光三越高雄左營店 5F  
 [勝博殿](https://www.skm.com.tw/brand/12017)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 12F
-新光三越台北南西店三館 7F
-新光三越台北天母店 7F
-新光三越桃園站前店 10F
-新光三越台中中港店 10F
-新光三越嘉義垂楊店 11F
-新光三越台南中山店 12F
-新光三越台南新天地 6F
-新光三越高雄左營店彩虹市集 3F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 12F  
+新光三越台北南西店三館 7F  
+新光三越台北天母店 7F  
+新光三越桃園站前店 10F  
+新光三越台中中港店 10F  
+新光三越嘉義垂楊店 11F  
+新光三越台南中山店 12F  
+新光三越台南新天地 6F  
+新光三越高雄左營店彩虹市集 3F  
 [喜佳縫紉](https://www.skm.com.tw/brand/11019)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [喬山按摩館](https://www.skm.com.tw/brand/11170)  
-新光三越台北信義新天地A8 7F
-新光三越台北信義新天地A9 B1F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越桃園站前店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北信義新天地A9 B1F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越桃園站前店 9F  
 [富山香堂](https://www.skm.com.tw/brand/12684)  
-新光三越台北信義新天地A11 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台北信義新天地A11 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [掌廚](https://www.skm.com.tw/brand/12741)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越桃園站前店 9F
-新光三越台中中港店 8F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 8F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [斐利PHELLY](https://www.skm.com.tw/brand/12864)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
 [晴天花藝](https://www.skm.com.tw/brand/11676)  
-新光三越台中中港店 4F
+新光三越台中中港店 4F  
 [晶碩光學PEGAVISION](https://www.skm.com.tw/brand/11979)  
-新光三越台南新天地小西門 1F
+新光三越台南新天地小西門 1F  
 [然花抄院](https://www.skm.com.tw/brand/12506)  
-新光三越台北信義新天地A8 B2F
-新光三越台北天母店 B1F
+新光三越台北信義新天地A8 B2F  
+新光三越台北天母店 B1F  
 [犀牛手工鞋](https://www.skm.com.tw/brand/11631)  
-新光三越高雄左營店彩虹市集 1F
+新光三越高雄左營店彩虹市集 1F  
 [絲路](https://www.skm.com.tw/brand/11911)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [賀蜜雅](https://www.skm.com.tw/brand/11966)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [貴夫人](https://www.skm.com.tw/brand/12032)  
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [超市-乾貨](https://www.skm.com.tw/brand/12563)  
-新光三越台北信義新天地A4 B2F
-新光三越台北信義新天地A8 B2F
-新光三越台北信義新天地A9 6F
-新光三越台北信義新天地A11 B2F
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台北天母店 B1F
-新光三越桃園站前店 99F
-新光三越台中中港店 B2F
-新光三越嘉義垂楊店 B1F
-新光三越台南中山店 B2F
-新光三越台南新天地 B2F
-新光三越高雄三多店 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A4 B2F  
+新光三越台北信義新天地A8 B2F  
+新光三越台北信義新天地A9 6F  
+新光三越台北信義新天地A11 B2F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台北天母店 B1F  
+新光三越桃園站前店 99F  
+新光三越台中中港店 B2F  
+新光三越嘉義垂楊店 B1F  
+新光三越台南中山店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄三多店 B2F  
+新光三越高雄左營店 B2F  
 [開丼](https://www.skm.com.tw/brand/11191)  
-新光三越台中中港店 12F
-新光三越高雄左營店彩虹市集 3F
+新光三越台中中港店 12F  
+新光三越高雄左營店彩虹市集 3F  
 [集雅社](https://www.skm.com.tw/brand/10999)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台北天母店 4F
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄三多店 10F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台北天母店 4F  
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 10F  
 [順一](https://www.skm.com.tw/brand/12735)  
-新光三越嘉義垂楊店 7F
+新光三越嘉義垂楊店 7F  
 [黃子庚](https://www.skm.com.tw/brand/12690)  
-新光三越台南新天地 3F
-新光三越高雄左營店 4F
+新光三越台南新天地 3F  
+新光三越高雄左營店 4F  
 [黑毛屋本家](https://www.skm.com.tw/brand/11862)  
-新光三越台北信義新天地A4 6F
-新光三越台南新天地 1F
+新光三越台北信義新天地A4 6F  
+新光三越台南新天地 1F  
 [黑橋牌](https://www.skm.com.tw/brand/11284)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [筌美術](https://www.skm.com.tw/brand/11629)  
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [新光影城](https://www.skm.com.tw/brand/12523)  
-新光三越台中中港店 13F
-新光三越台南新天地 9F
+新光三越台中中港店 13F  
+新光三越台南新天地 9F  
 [新復珍](https://www.skm.com.tw/brand/11318)  
-新光三越台北站前店 B2F
+新光三越台北站前店 B2F  
 [榆果家飾 Hugo Deco](https://www.skm.com.tw/brand/11810)  
-新光三越台北信義新天地A4 4F
+新光三越台北信義新天地A4 4F  
 [獅牌](https://www.skm.com.tw/brand/12575)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [瑞記海南雞飯](https://www.skm.com.tw/brand/11216)  
-新光三越台中中港店 12F
+新光三越台中中港店 12F  
 [萬有全](https://www.skm.com.tw/brand/11254)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [義廚寶](https://www.skm.com.tw/brand/10923)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [聖荃童鞋](https://www.skm.com.tw/brand/11068)  
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越桃園站前店 8F
-新光三越台中中港店 6F
-新光三越高雄左營店 5F
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 6F  
+新光三越高雄左營店 5F  
 [董師傅](https://www.skm.com.tw/brand/12623)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [資生堂東京櫃](https://www.skm.com.tw/brand/12921)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [雷諾瓦拼圖](https://www.skm.com.tw/brand/12657)  
-新光三越嘉義垂楊店 9F
-新光三越台南新天地 5F
+新光三越嘉義垂楊店 9F  
+新光三越台南新天地 5F  
 [鼎王鵝媽媽鍋具](https://www.skm.com.tw/brand/12009)  
-新光三越台中中港店 8F
+新光三越台中中港店 8F  
 [鼎美玩具](https://www.skm.com.tw/brand/12643)  
-新光三越台北信義新天地A8 5F
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
-新光三越高雄三多店 8F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 5F  
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 8F  
+新光三越高雄左營店 5F  
 [鼎泰豐](https://www.skm.com.tw/brand/11364)  
-新光三越台北信義新天地A4 B2F
-新光三越台北南西店 B2F
+新光三越台北信義新天地A4 B2F  
+新光三越台北南西店 B2F  
 [夢享世界Dreamers](https://www.skm.com.tw/brand/12248)  
-新光三越台北天母店 4F
+新光三越台北天母店 4F  
 [夢糖匠 La Bontage Caramel](https://www.skm.com.tw/brand/11155)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [漾紅花鐵板燒](https://www.skm.com.tw/brand/11436)  
-新光三越台北信義新天地A8 B2F
-新光三越台北信義新天地A11 B2F
-新光三越台北站前店 B1F
-新光三越台北南西店三館 B1F
-新光三越台中中港店 12F
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 4F
+新光三越台北信義新天地A8 B2F  
+新光三越台北信義新天地A11 B2F  
+新光三越台北站前店 B1F  
+新光三越台北南西店三館 B1F  
+新光三越台中中港店 12F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 4F  
 [熊本家](https://www.skm.com.tw/brand/12644)  
-新光三越台中中港店 12F
-新光三越嘉義垂楊店 B1F
+新光三越台中中港店 12F  
+新光三越嘉義垂楊店 B1F  
 [精工坊](https://www.skm.com.tw/brand/11803)  
-新光三越高雄三多店 9F
+新光三越高雄三多店 9F  
 [精格修改室](https://www.skm.com.tw/brand/12545)  
-新光三越台北信義新天地A8 2F
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A8 2F  
+新光三越台北信義新天地A11 2F  
 [綠藤生機](https://www.skm.com.tw/brand/12276)  
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [綺華麗](https://www.skm.com.tw/brand/11107)  
-新光三越台北信義新天地A4 3F
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越桃園站前店 2F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
-新光三越高雄左營店 2F
+新光三越台北信義新天地A4 3F  
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越桃園站前店 2F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 2F  
 [蜜雪兒](https://www.skm.com.tw/brand/12770)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [銀座杏子日式豬排](https://www.skm.com.tw/brand/10989)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [銀站](https://www.skm.com.tw/brand/12642)  
-新光三越台北站前店 9F
-新光三越台中中港店 7F
-新光三越台南新天地 3F
+新光三越台北站前店 9F  
+新光三越台中中港店 7F  
+新光三越台南新天地 3F  
 [廣安階](https://www.skm.com.tw/brand/12907)  
-新光三越台北南西店三館 B1F
+新光三越台北南西店三館 B1F  
 [廣信服裝工作室](https://www.skm.com.tw/brand/11443)  
-新光三越台中中港店 5F
-新光三越高雄左營店 6F
+新光三越台中中港店 5F  
+新光三越高雄左營店 6F  
 [慕時尚](https://www.skm.com.tw/brand/11324)  
-新光三越高雄左營店 8F
+新光三越高雄左營店 8F  
 [摩曼頓.鞋](https://www.skm.com.tw/brand/12129)  
-新光三越台北天母店二館 B1F
-新光三越桃園站前店 7F
+新光三越台北天母店二館 B1F  
+新光三越桃園站前店 7F  
 [潮人物](https://www.skm.com.tw/brand/12044)  
-新光三越台北信義新天地A9 B1F
+新光三越台北信義新天地A9 B1F  
 [蔡佳瑾](https://www.skm.com.tw/brand/11376)  
-新光三越嘉義垂楊店 3F
-新光三越台南新天地 3F
-新光三越高雄左營店 4F
+新光三越嘉義垂楊店 3F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 4F  
 [鋒恩香水](https://www.skm.com.tw/brand/11493)  
-新光三越台中中港店 B1F
-新光三越台南新天地 2F
+新光三越台中中港店 B1F  
+新光三越台南新天地 2F  
 [樺達奶茶](https://www.skm.com.tw/brand/12040)  
-新光三越台南中山店 B2F
-新光三越台南新天地小西門 B2F
-新光三越高雄左營店彩虹市集 B2F
+新光三越台南中山店 B2F  
+新光三越台南新天地小西門 B2F  
+新光三越高雄左營店彩虹市集 B2F  
 [橘色涮涮屋 ORANGE SHABU](https://www.skm.com.tw/brand/12768)  
-新光三越台北信義新天地A9 7F
-新光三越台中中港店 4F
+新光三越台北信義新天地A9 7F  
+新光三越台中中港店 4F  
 [橡子共和國](https://www.skm.com.tw/brand/11884)  
-新光三越台北信義新天地A8 4F
-新光三越台中中港店 6F
-新光三越台南新天地小西門 B1F
+新光三越台北信義新天地A8 4F  
+新光三越台中中港店 6F  
+新光三越台南新天地小西門 B1F  
 [燒丼株式會社](https://www.skm.com.tw/brand/12560)  
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [盧亞香水](https://www.skm.com.tw/brand/11993)  
-新光三越台北信義新天地A11 2F
-新光三越台中中港店 5F
-新光三越台南中山店 1F
-新光三越台南新天地 2F
+新光三越台北信義新天地A11 2F  
+新光三越台中中港店 5F  
+新光三越台南中山店 1F  
+新光三越台南新天地 2F  
 [翰林茶棧](https://www.skm.com.tw/brand/11346)  
-新光三越台北信義新天地A11 B2F
-新光三越台中中港店 12F
-新光三越台南中山店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台中中港店 12F  
+新光三越台南中山店 B2F  
+新光三越台南新天地 B2F  
 [營養大師](https://www.skm.com.tw/brand/12373)  
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [環安傢俱](https://www.skm.com.tw/brand/11503)  
-新光三越桃園站前店 8F
+新光三越桃園站前店 8F  
 [謙碩](https://www.skm.com.tw/brand/11025)  
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越嘉義垂楊店 4F
-新光三越台南新天地 2F
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越嘉義垂楊店 4F  
+新光三越台南新天地 2F  
 [邁達康](https://www.skm.com.tw/brand/11869)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A9 5F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A9 5F  
 [韓文閣](https://www.skm.com.tw/brand/11474)  
-新光三越台南中山店 B2F
+新光三越台南中山店 B2F  
 [韓州](https://www.skm.com.tw/brand/12178)  
-新光三越桃園站前店 B1F
+新光三越桃園站前店 B1F  
 [韓姜熙的小廚房](https://www.skm.com.tw/brand/11543)  
-新光三越台北信義新天地A11 B2F
-新光三越台中中港店 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台中中港店 B2F  
 [韓鶴亭](https://www.skm.com.tw/brand/11763)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 B1F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 B1F  
 [點睛品](https://www.skm.com.tw/brand/12356)  
-新光三越台北信義新天地A8 2F
-新光三越台北信義新天地A11 2F
-新光三越台北站前店 2F
-新光三越台北南西店 4F
-新光三越桃園站前店 1F
-新光三越台中中港店 4F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 2F  
+新光三越台北信義新天地A11 2F  
+新光三越台北站前店 2F  
+新光三越台北南西店 4F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 4F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [藍天畫布Azure Canvas](https://www.skm.com.tw/brand/12680)  
-新光三越高雄左營店 5F
+新光三越高雄左營店 5F  
 [雙全生活館](https://www.skm.com.tw/brand/11153)  
-新光三越台北站前店 10F
-新光三越台北天母店 4F
+新光三越台北站前店 10F  
+新光三越台北天母店 4F  
 [繼光香香雞](https://www.skm.com.tw/brand/11000)  
-新光三越台北信義新天地A8 B2F
-新光三越台中中港店 12F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台中中港店 12F  
+新光三越台南新天地 B2F  
 [饗食天堂](https://www.skm.com.tw/brand/12468)  
-新光三越桃園站前店 11F
-新光三越台南新天地小西門 B2F
+新光三越桃園站前店 11F  
+新光三越台南新天地小西門 B2F  
 [魔髮屋](https://www.skm.com.tw/brand/12932)  
-新光三越台北信義新天地A8 5F
+新光三越台北信義新天地A8 5F  
 [鶴壽庭](https://www.skm.com.tw/brand/11292)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [襯衫工房](https://www.skm.com.tw/brand/11790)  
-新光三越台北站前店 6F
-新光三越台北南西店 5F
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
 [皇家竹炭](https://www.skm.com.tw/brand/12213)  
-新光三越台北站前店 9F
-新光三越台南新天地 B1F
+新光三越台北站前店 9F  
+新光三越台南新天地 B1F  
 [北村豆腐家](https://www.skm.com.tw/brand/2431)  
-新光三越台南新天地 B2F
-新光三越高雄左營店彩虹市集 4F
+新光三越台南新天地 B2F  
+新光三越高雄左營店彩虹市集 4F  
 [麻辣45](https://www.skm.com.tw/brand/3339)  
-新光三越台中中港店 9F
+新光三越台中中港店 9F  
 [成真可可](https://www.skm.com.tw/brand/13108)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [半島精品店](https://www.skm.com.tw/brand/734)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [PALETTE](https://www.skm.com.tw/brand/3089)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [PAN手感的店](https://www.skm.com.tw/brand/13127)  
-新光三越高雄左營店 B2F
+新光三越高雄左營店 B2F  
 [PASSIONATA](https://www.skm.com.tw/brand/12377)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 4F
-新光三越台中中港店 4F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 4F  
+新光三越台中中港店 4F  
+新光三越台南新天地 3F  
 [PESCE](https://www.skm.com.tw/brand/3482)  
-新光三越台北站前店 5F
+新光三越台北站前店 5F  
 [peter wu](https://www.skm.com.tw/brand/12973)  
-新光三越台北信義新天地A9 2F
+新光三越台北信義新天地A9 2F  
 [PETITE MERVEILLE](https://www.skm.com.tw/brand/1036)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [PINEAPPLE OUTFITTER](https://www.skm.com.tw/brand/3011)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店 1F  
+新光三越台南新天地 GF  
 [Pintoo](https://www.skm.com.tw/brand/1481)  
-新光三越桃園站前店 4F
+新光三越桃園站前店 4F  
 [PLAY UP](https://www.skm.com.tw/brand/2767)  
-新光三越台北南西店 6F
+新光三越台北南西店 6F  
 [PokePoke · 波奇波奇](https://www.skm.com.tw/brand/13130)  
-新光三越台南新天地 B2F
+新光三越台南新天地 B2F  
 [POLO RALPH LAUREN DENIM](https://www.skm.com.tw/brand/13027)  
-新光三越台北信義新天地A9 B1F
-新光三越台南新天地 4F
+新光三越台北信義新天地A9 B1F  
+新光三越台南新天地 4F  
 [PROMESSA](https://www.skm.com.tw/brand/3410)  
-新光三越台北南西店 2F
+新光三越台北南西店 2F  
 [Pure Way](https://www.skm.com.tw/brand/3411)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店 2F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店 2F  
 [POLO RALPH LAUREN WOMEN](https://www.skm.com.tw/brand/13187)  
-新光三越台北南西店 2F
+新光三越台北南西店 2F  
 [P*S COMPANY](https://www.skm.com.tw/brand/11099)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 2F
-新光三越嘉義垂楊店 4F
-新光三越台南中山店 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 2F  
+新光三越嘉義垂楊店 4F  
+新光三越台南中山店 4F  
+新光三越高雄左營店 3F  
 [PACKIE 銀杏川酒菜館](https://www.skm.com.tw/brand/10981)  
-新光三越台北信義新天地A9 6F
+新光三越台北信義新天地A9 6F  
 [PACSAFE](https://www.skm.com.tw/brand/12570)  
-新光三越台北信義新天地A8 3F
+新光三越台北信義新天地A8 3F  
 [PAGEBOY](https://www.skm.com.tw/brand/11247)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [PALLADIUM](https://www.skm.com.tw/brand/11891)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 4F
-新光三越台北南西店三館 4F
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 6F
-新光三越台南中山店 B1F
-新光三越台南新天地 5F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 4F  
+新光三越台北南西店三館 4F  
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 6F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 B1F  
 [Pal'las Palace](https://www.skm.com.tw/brand/12835)  
-新光三越台北信義新天地A4 3F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越台南新天地 2F
+新光三越台北信義新天地A4 3F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
 [PANASONIC](https://www.skm.com.tw/brand/11461)  
-新光三越台北信義新天地A4 B1F
-新光三越台北信義新天地A8 7F
-新光三越台北信義新天地A9 B2F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A4 B1F  
+新光三越台北信義新天地A8 7F  
+新光三越台北信義新天地A9 B2F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [PANASONIC按摩椅](https://www.skm.com.tw/brand/12252)  
-新光三越台北信義新天地A9 B1F
+新光三越台北信義新天地A9 B1F  
 [PANDORA](https://www.skm.com.tw/brand/12268)  
-新光三越台北信義新天地A11 1F
-新光三越台北南西店 2F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台北信義新天地A11 1F  
+新光三越台北南西店 2F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [PANSY](https://www.skm.com.tw/brand/11876)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
 [PAO CHUAN 寶泉](https://www.skm.com.tw/brand/11579)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [PappaRich 金爸爸馬來西亞風味餐廳](https://www.skm.com.tw/brand/12023)  
-新光三越台北信義新天地A9 7F
-新光三越台中中港店 10F
+新光三越台北信義新天地A9 7F  
+新光三越台中中港店 10F  
 [PARKVIEW晴天家居](https://www.skm.com.tw/brand/12827)  
-新光三越台北信義新天地A9 B1F
+新光三越台北信義新天地A9 B1F  
 [PAUL SMITH](https://www.skm.com.tw/brand/12906)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [PEANUTS](https://www.skm.com.tw/brand/11426)  
-新光三越台中中港店 11F
-新光三越台南新天地 5F
+新光三越台中中港店 11F  
+新光三越台南新天地 5F  
 [PeaTrees](https://www.skm.com.tw/brand/12380)  
-新光三越嘉義垂楊店 3F
+新光三越嘉義垂楊店 3F  
 [PENHALIGON'S](https://www.skm.com.tw/brand/12818)  
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [PEPPER'S CUBE](https://www.skm.com.tw/brand/11849)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [PHILIP B](https://www.skm.com.tw/brand/12407)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 7F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 7F  
 [PHILIPS 飛利浦](https://www.skm.com.tw/brand/11049)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [PHITEN 銀谷](https://www.skm.com.tw/brand/11938)  
-新光三越台北信義新天地A11 5F
-新光三越台北南西店 8F
-新光三越桃園站前店 6F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A11 5F  
+新光三越台北南西店 8F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
+新光三越高雄左營店 7F  
 [PICO 比可](https://www.skm.com.tw/brand/12336)  
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [Pierre Cardin皮件.山二](https://www.skm.com.tw/brand/11772)  
-新光三越台北站前店 6F
-新光三越桃園站前店 6F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台北站前店 6F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [Pierre Cardin休閒服](https://www.skm.com.tw/brand/12413)  
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
 [Pierre Cardin百翊(襯衫)](https://www.skm.com.tw/brand/12369)  
-新光三越台北信義新天地A8 3F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
+新光三越台北信義新天地A8 3F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
 [PiiN 品東西](https://www.skm.com.tw/brand/12833)  
-新光三越桃園站前店 4F
+新光三越桃園站前店 4F  
 [PING](https://www.skm.com.tw/brand/11515)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A9 5F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 7F
-新光三越台南新天地 2F
-新光三越高雄三多店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A9 5F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 7F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 6F  
 [PINK](https://www.skm.com.tw/brand/12139)  
-新光三越台南新天地 4F
+新光三越台南新天地 4F  
 [PIPPY](https://www.skm.com.tw/brand/12738)  
-新光三越台北南西店 6F
-新光三越台中中港店 6F
-新光三越嘉義垂楊店 9F
-新光三越台南新天地 3F
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
+新光三越嘉義垂楊店 9F  
+新光三越台南新天地 3F  
 [PIZZA CUT FIVE](https://www.skm.com.tw/brand/10918)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 3F
-新光三越台北南西店三館 4F
-新光三越台南新天地 4F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 3F  
+新光三越台北南西店三館 4F  
+新光三越台南新天地 4F  
 [PLAYBOY GOLF](https://www.skm.com.tw/brand/11753)  
-新光三越嘉義垂楊店 7F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越嘉義垂楊店 7F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [PLAYBOY.女裝](https://www.skm.com.tw/brand/11036)  
-新光三越嘉義垂楊店 5F
+新光三越嘉義垂楊店 5F  
 [PLAYBOY.男包](https://www.skm.com.tw/brand/12215)  
-新光三越桃園站前店 3F
-新光三越台南中山店 B1F
+新光三越桃園站前店 3F  
+新光三越台南中山店 B1F  
 [PLAYBOY女包](https://www.skm.com.tw/brand/11066)  
-新光三越嘉義垂楊店 5F
-新光三越台南中山店 B1F
-新光三越台南新天地 4F
+新光三越嘉義垂楊店 5F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 4F  
 [PLAYBOY女鞋](https://www.skm.com.tw/brand/11580)  
-新光三越台北站前店 3F
+新光三越台北站前店 3F  
 [PLEATS PLEASE ISSEY MIYAKE](https://www.skm.com.tw/brand/12748)  
-新光三越台北信義新天地A4 3F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台北信義新天地A4 3F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [POLA](https://www.skm.com.tw/brand/12031)  
-新光三越台北信義新天地A4 1F
+新光三越台北信義新天地A4 1F  
 [POLAR BEAR 北極熊](https://www.skm.com.tw/brand/11875)  
-新光三越台北站前店 11F
-新光三越桃園站前店 7F
-新光三越台中中港店 12F
-新光三越嘉義垂楊店 7F
-新光三越台南中山店 7F
-新光三越台南新天地 5F
-新光三越高雄三多店 B1F
-新光三越高雄左營店 7F
+新光三越台北站前店 11F  
+新光三越桃園站前店 7F  
+新光三越台中中港店 12F  
+新光三越嘉義垂楊店 7F  
+新光三越台南中山店 7F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 B1F  
+新光三越高雄左營店 7F  
 [POLO RALPH LAUREN](https://www.skm.com.tw/brand/12838)  
-新光三越台中中港店 3F
-新光三越台南中山店 6F
-新光三越台南新天地 1F
-新光三越高雄左營店 1F
+新光三越台中中港店 3F  
+新光三越台南中山店 6F  
+新光三越台南新天地 1F  
+新光三越高雄左營店 1F  
 [POLO RALPH LAUREN MEN 雷夫羅倫](https://www.skm.com.tw/brand/11698)  
-新光三越台北信義新天地A8 3F
-新光三越台北南西店 5F
-新光三越台北天母店二館 2F
+新光三越台北信義新天地A8 3F  
+新光三越台北南西店 5F  
+新光三越台北天母店二館 2F  
 [POONE](https://www.skm.com.tw/brand/11509)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 2F
-新光三越台南新天地 4F
-新光三越高雄三多店 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 2F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 4F  
+新光三越高雄左營店 3F  
 [POP MART 泡泡瑪特](https://www.skm.com.tw/brand/12015)  
-新光三越台北信義新天地A11 1F
+新光三越台北信義新天地A11 1F  
 [PORTER INTERNATIONAL](https://www.skm.com.tw/brand/12687)  
-新光三越台北信義新天地A9 B1F
-新光三越台北信義新天地A11 3F
-新光三越台北站前店 7F
-新光三越台北南西店三館 1F
-新光三越桃園站前店 3F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 5F
-新光三越台南新天地 4F
-新光三越台南新天地小西門 B1F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A9 B1F  
+新光三越台北信義新天地A11 3F  
+新光三越台北站前店 7F  
+新光三越台北南西店三館 1F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 5F  
+新光三越台南新天地 4F  
+新光三越台南新天地小西門 B1F  
+新光三越高雄左營店 B1F  
 [POU DOU DOU](https://www.skm.com.tw/brand/12475)  
-新光三越台北信義新天地A8 B1F
+新光三越台北信義新天地A8 B1F  
 [poyouli](https://www.skm.com.tw/brand/11077)  
-新光三越台北南西店 1F
+新光三越台北南西店 1F  
 [PPFM HOMME](https://www.skm.com.tw/brand/11826)  
-新光三越台北信義新天地A11 3F
-新光三越台北站前店 7F
-新光三越桃園站前店 6F
-新光三越台南新天地 5F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A11 3F  
+新光三越台北站前店 7F  
+新光三越桃園站前店 6F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 6F  
 [PULIO CLASSIC 布莉歐](https://www.skm.com.tw/brand/11974)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [PUMA](https://www.skm.com.tw/brand/12120)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 4F
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台北南西店三館 5F
-新光三越台中中港店 12F
-新光三越台南中山店 10F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 4F  
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台北南西店三館 5F  
+新光三越台中中港店 12F  
+新光三越台南中山店 10F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
+新光三越高雄左營店 7F  
 [PUMA GOLF](https://www.skm.com.tw/brand/11613)  
-新光三越台北信義新天地A9 5F
+新光三越台北信義新天地A9 5F  
 [PUMA KIDS](https://www.skm.com.tw/brand/12476)  
-新光三越台中中港店 6F
+新光三越台中中港店 6F  
 [PUMA SELECT](https://www.skm.com.tw/brand/10978)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 4F
-新光三越台北站前店 11F
-新光三越台北南西店三館 1F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 4F  
+新光三越台北站前店 11F  
+新光三越台北南西店三館 1F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
+新光三越高雄左營店 7F  
 [PYXIS 翡仕](https://www.skm.com.tw/brand/12521)  
-新光三越桃園站前店 4F
+新光三越桃園站前店 4F  
 [QUEEN SHOP](https://www.skm.com.tw/brand/13150)  
-新光三越高雄左營店 2F
+新光三越高雄左營店 2F  
 [QBER](https://www.skm.com.tw/brand/11537)  
-新光三越台南新天地 5F
+新光三越台南新天地 5F  
 [QUIKSILVER/ROXY](https://www.skm.com.tw/brand/12793)  
-新光三越台北信義新天地A9 4F
-新光三越台北信義新天地A11 4F
-新光三越台北南西店三館 3F
-新光三越台南新天地小西門 B1F
+新光三越台北信義新天地A9 4F  
+新光三越台北信義新天地A11 4F  
+新光三越台北南西店三館 3F  
+新光三越台南新天地小西門 B1F  
 [ROBOROCK](https://www.skm.com.tw/brand/3001)  
-新光三越台北信義新天地A8 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台南新天地 B1F  
 [RAMI](https://www.skm.com.tw/brand/3013)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [rather](https://www.skm.com.tw/brand/1182)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [RECARO](https://www.skm.com.tw/brand/1656)  
-新光三越台北信義新天地A8 4F
-新光三越台北南西店 6F
-新光三越台北天母店 6F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 4F  
+新光三越台北南西店 6F  
+新光三越台北天母店 6F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
 [REGATTA CLUB](https://www.skm.com.tw/brand/13092)  
-新光三越台北站前店 6F
+新光三越台北站前店 6F  
 [REUN](https://www.skm.com.tw/brand/13031)  
-新光三越台北站前店 10F
+新光三越台北站前店 10F  
 [ROBINMAY](https://www.skm.com.tw/brand/13029)  
-新光三越台中中港店 B1F
+新光三越台中中港店 B1F  
 [Rosemaid 羅絲美睡衣](https://www.skm.com.tw/brand/12061)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台中中港店 4F
-新光三越台南新天地 3F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台中中港店 4F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 4F  
 [ROBERTO BRAVO](https://www.skm.com.tw/brand/13136)  
-新光三越台北信義新天地A4 2F
+新光三越台北信義新天地A4 2F  
 [RABEANCO](https://www.skm.com.tw/brand/12039)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越台南中山店 2F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越台南中山店 2F  
 [rag&bone](https://www.skm.com.tw/brand/11435)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [RAIN STORY](https://www.skm.com.tw/brand/12322)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店 B1F
-新光三越桃園站前店 4F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店 B1F  
+新光三越桃園站前店 4F  
 [RAINS](https://www.skm.com.tw/brand/11169)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 2F
-新光三越台中中港店 3F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 2F  
+新光三越台中中港店 3F  
 [Rakuten Monkeys](https://www.skm.com.tw/brand/12270)  
-新光三越台北信義新天地A11 4F
+新光三越台北信義新天地A11 4F  
 [RALPH LAUREN CHILDREN](https://www.skm.com.tw/brand/10897)  
-新光三越台北信義新天地A8 4F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 4F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [RAYBAN-葛洛麗雅](https://www.skm.com.tw/brand/10967)  
-新光三越台北南西店三館 2F
-新光三越台南新天地 2F
+新光三越台北南西店三館 2F  
+新光三越台南新天地 2F  
 [RECLASSIFIED調香室](https://www.skm.com.tw/brand/12067)  
-新光三越台南新天地 2F
+新光三越台南新天地 2F  
 [RED HOUSE](https://www.skm.com.tw/brand/11057)  
-新光三越台北站前店 4F
-新光三越嘉義垂楊店 3F
+新光三越台北站前店 4F  
+新光三越嘉義垂楊店 3F  
 [RedLine](https://www.skm.com.tw/brand/12653)  
-新光三越台北信義新天地A4 2F
-新光三越台中中港店 3F
+新光三越台北信義新天地A4 2F  
+新光三越台中中港店 3F  
 [REEBOK](https://www.skm.com.tw/brand/12093)  
-新光三越台中中港店 12F
+新光三越台中中港店 12F  
 [REFORMHAUS 德風健康館](https://www.skm.com.tw/brand/11245)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
-新光三越高雄左營店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
+新光三越高雄左營店 B2F  
 [REGAL 永城](https://www.skm.com.tw/brand/12142)  
-新光三越台北站前店 6F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台北站前店 6F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [Relove](https://www.skm.com.tw/brand/12347)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [REVE](https://www.skm.com.tw/brand/12273)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [REVIVE](https://www.skm.com.tw/brand/12526)  
-新光三越台北信義新天地A8 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台南新天地 GF  
 [RIMOWA](https://www.skm.com.tw/brand/11351)  
-新光三越台南新天地 GF
+新光三越台南新天地 GF  
 [RMK](https://www.skm.com.tw/brand/11431)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
 [Roberta di Camerino Baby諾貝達幼童裝](https://www.skm.com.tw/brand/11740)  
-新光三越高雄左營店 5F
+新光三越高雄左營店 5F  
 [Roberta di Camerino西服](https://www.skm.com.tw/brand/12447)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
-新光三越高雄三多店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
+新光三越高雄三多店 6F  
 [ROBERTA 休閒服](https://www.skm.com.tw/brand/11235)  
-新光三越台北信義新天地A8 3F
-新光三越台中中港店 5F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台中中港店 5F  
+新光三越高雄左營店 6F  
 [Roger Vivier](https://www.skm.com.tw/brand/11774)  
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [ROLF BENZ 信實](https://www.skm.com.tw/brand/12279)  
-新光三越台北信義新天地A9 3F
+新光三越台北信義新天地A9 3F  
 [ROOKIE](https://www.skm.com.tw/brand/12200)  
-新光三越台北信義新天地A8 4F
-新光三越台北站前店 8F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 4F  
+新光三越台北站前店 8F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [ROOMBA 來思比](https://www.skm.com.tw/brand/12539)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄三多店 10F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 10F  
+新光三越高雄左營店 9F  
 [Roots](https://www.skm.com.tw/brand/12410)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A9 4F
-新光三越台北信義新天地A11 5F
-新光三越台北站前店 7F
-新光三越台北南西店三館 3F
-新光三越台北天母店二館 2F
-新光三越桃園站前店 3F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 5F
-新光三越台南中山店 B1F
-新光三越台南新天地 4F
-新光三越台南新天地小西門 B1F
-新光三越高雄三多店 B1F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A9 4F  
+新光三越台北信義新天地A11 5F  
+新光三越台北站前店 7F  
+新光三越台北南西店三館 3F  
+新光三越台北天母店二館 2F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 5F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 4F  
+新光三越台南新天地小西門 B1F  
+新光三越高雄三多店 B1F  
+新光三越高雄左營店 B1F  
 [Roots Kids](https://www.skm.com.tw/brand/11719)  
-新光三越台北信義新天地A8 5F
-新光三越台北南西店 6F
-新光三越台中中港店 6F
-新光三越嘉義垂楊店 9F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 5F  
+新光三越台北南西店 6F  
+新光三越台中中港店 6F  
+新光三越嘉義垂楊店 9F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [ROYAL DAMON 羅亞戴蒙](https://www.skm.com.tw/brand/11218)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [ROYAL ELASTICS](https://www.skm.com.tw/brand/12112)  
-新光三越台北信義新天地A11 4F
-新光三越桃園站前店 7F
-新光三越台中中港店 11F
+新光三越台北信義新天地A11 4F  
+新光三越桃園站前店 7F  
+新光三越台中中港店 11F  
 [ROYAL 皇室羽毛工房](https://www.skm.com.tw/brand/11026)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台北南西店 7F
-新光三越桃園站前店 9F
-新光三越台中中港店 7F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台北南西店 7F  
+新光三越桃園站前店 9F  
+新光三越台中中港店 7F  
+新光三越高雄左營店 8F  
 [ROYALCOPENHAGEN 皇家哥本哈根](https://www.skm.com.tw/brand/11986)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [ROYALSATEEN 寬庭御璽緞品](https://www.skm.com.tw/brand/12375)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [russet](https://www.skm.com.tw/brand/11720)  
-新光三越台北站前店 4F
+新光三越台北站前店 4F  
 [Salute 莎露](https://www.skm.com.tw/brand/11528)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越桃園站前店 8F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
 [SAMO ONDOH](https://www.skm.com.tw/brand/13048)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [SAVVY 莎薇](https://www.skm.com.tw/brand/11412)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越桃園站前店 8F
-新光三越台中中港店 4F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 4F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [scion](https://www.skm.com.tw/brand/1209)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [Seduir](https://www.skm.com.tw/brand/1134)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [SHARON](https://www.skm.com.tw/brand/1892)  
-新光三越台北信義新天地A8 B1F
-新光三越桃園站前店 4F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越桃園站前店 4F  
+新光三越高雄左營店 B1F  
 [SHEE'S FINE JEWELRY 侍好珠寶](https://www.skm.com.tw/brand/2927)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [Simone Pérèle](https://www.skm.com.tw/brand/11971)  
-新光三越台北信義新天地A8 2F
-新光三越台北南西店 4F
-新光三越台中中港店 4F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台北南西店 4F  
+新光三越台中中港店 4F  
+新光三越台南新天地 3F  
 [Simple for life](https://www.skm.com.tw/brand/12968)  
-新光三越台南新天地小西門 1F
+新光三越台南新天地小西門 1F  
 [sloggi](https://www.skm.com.tw/brand/12875)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越桃園站前店 8F
-新光三越台中中港店 B1F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 5F
-新光三越台南新天地 4F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 B1F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 5F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [Soft Stretch](https://www.skm.com.tw/brand/12798)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 4F  
 [SPINGLE MOVE](https://www.skm.com.tw/brand/3632)  
-新光三越台南新天地 2F
+新光三越台南新天地 2F  
 [STRAUSS有情門](https://www.skm.com.tw/brand/3422)  
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
-新光三越高雄三多店 7F
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 7F  
 [SUGARbISTRO 食糖製菓](https://www.skm.com.tw/brand/13064)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [SWEAR 思薇爾](https://www.skm.com.tw/brand/11018)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越台北天母店 6F
-新光三越桃園站前店 8F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 5F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越台北天母店 6F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 5F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [SWEET TOUCH](https://www.skm.com.tw/brand/13047)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [SWITCH EASY](https://www.skm.com.tw/brand/3576)  
-新光三越台北信義新天地A11 3F
+新光三越台北信義新天地A11 3F  
 [SYLVAIN LEFEBVRE](https://www.skm.com.tw/brand/2216)  
-新光三越台南新天地 5F
-新光三越高雄三多店 4F
+新光三越台南新天地 5F  
+新光三越高雄三多店 4F  
 [SUNNY HILLS微熱山丘](https://www.skm.com.tw/brand/1861)  
-新光三越台中中港店 10F
+新光三越台中中港店 10F  
 [SAKImoto Bakery 嵜本高級生吐司專門店](https://www.skm.com.tw/brand/3616)  
-新光三越台北南西店三館 1F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北南西店三館 1F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [Sussu bakery](https://www.skm.com.tw/brand/3560)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [S.T.DUPONT](https://www.skm.com.tw/brand/11647)  
-新光三越台北信義新天地A9 3F
+新光三越台北信義新天地A9 3F  
 [SABON](https://www.skm.com.tw/brand/12715)  
-新光三越台北信義新天地A11 2F
-新光三越台北南西店 2F
-新光三越台中中港店 3F
-新光三越台南新天地 2F
+新光三越台北信義新天地A11 2F  
+新光三越台北南西店 2F  
+新光三越台中中港店 3F  
+新光三越台南新天地 2F  
 [S'AIME](https://www.skm.com.tw/brand/12004)  
-新光三越台中中港店 B1F
-新光三越台南新天地小西門 B1F
+新光三越台中中港店 B1F  
+新光三越台南新天地小西門 B1F  
 [SAINT LAURENT](https://www.skm.com.tw/brand/12759)  
-新光三越台北信義新天地A9 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A9 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [SAKURA](https://www.skm.com.tw/brand/11485)  
-新光三越台北信義新天地A9 B2F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A9 B2F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越高雄左營店 9F  
 [SALOMON](https://www.skm.com.tw/brand/11417)  
-新光三越台中中港店 12F
+新光三越台中中港店 12F  
 [SAMSONITE RED](https://www.skm.com.tw/brand/12267)  
-新光三越台北站前店 7F
+新光三越台北站前店 7F  
 [SAMSONITE 新秀麗](https://www.skm.com.tw/brand/12424)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A9 3F
-新光三越台北站前店 7F
-新光三越台北南西店 8F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A9 3F  
+新光三越台北站前店 7F  
+新光三越台北南西店 8F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [SAMSUNG](https://www.skm.com.tw/brand/11925)  
-新光三越台中中港店 8F
+新光三越台中中港店 8F  
 [Sanrio 三麗鷗](https://www.skm.com.tw/brand/10925)  
-新光三越台北信義新天地A8 5F
-新光三越台北站前店 8F
-新光三越台中中港店 6F
-新光三越台南中山店 8F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 5F  
+新光三越台北站前店 8F  
+新光三越台中中港店 6F  
+新光三越台南中山店 8F  
+新光三越台南新天地 3F  
 [SAUCONY](https://www.skm.com.tw/brand/11304)  
-新光三越台北信義新天地A11 4F
+新光三越台北信義新天地A11 4F  
 [SCOTTISH HOUSE](https://www.skm.com.tw/brand/11538)  
-新光三越台南中山店 3F
+新光三越台南中山店 3F  
 [SDW勝締崴](https://www.skm.com.tw/brand/11330)  
-新光三越台北站前店 9F
+新光三越台北站前店 9F  
 [SEALY 席伊麗](https://www.skm.com.tw/brand/12442)  
-新光三越台北信義新天地A8 6F
-新光三越台北信義新天地A9 B1F
-新光三越台北站前店 9F
-新光三越台北南西店 7F
-新光三越台中中港店 7F
-新光三越嘉義垂楊店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台北信義新天地A9 B1F  
+新光三越台北站前店 9F  
+新光三越台北南西店 7F  
+新光三越台中中港店 7F  
+新光三越嘉義垂楊店 8F  
+新光三越台南新天地 B1F  
 [Sebamed 施巴](https://www.skm.com.tw/brand/11335)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台北南西店 6F
-新光三越台中中港店 7F
-新光三越台南中山店 2F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台北南西店 6F  
+新光三越台中中港店 7F  
+新光三越台南中山店 2F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [S'eduir](https://www.skm.com.tw/brand/12364)  
-新光三越嘉義垂楊店 8F
-新光三越高雄左營店 8F
+新光三越嘉義垂楊店 8F  
+新光三越高雄左營店 8F  
 [SEIKO](https://www.skm.com.tw/brand/12660)  
-新光三越台北信義新天地A4 3F
-新光三越台南新天地 2F
+新光三越台北信義新天地A4 3F  
+新光三越台南新天地 2F  
 [self-portrait](https://www.skm.com.tw/brand/12319)  
-新光三越台北南西店 2F
-新光三越台中中港店 3F
+新光三越台北南西店 2F  
+新光三越台中中港店 3F  
 [SHIATZY CHEN 夏姿](https://www.skm.com.tw/brand/12109)  
-新光三越台北信義新天地A4 2F
-新光三越台北南西店 4F
-新光三越台北天母店 3F
-新光三越台中中港店 3F
-新光三越台南新天地 1F
+新光三越台北信義新天地A4 2F  
+新光三越台北南西店 4F  
+新光三越台北天母店 3F  
+新光三越台中中港店 3F  
+新光三越台南新天地 1F  
 [SHINE HOUSE 向陽房](https://www.skm.com.tw/brand/11102)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [SHIRLEY YANG](https://www.skm.com.tw/brand/10910)  
-新光三越桃園站前店 2F
+新光三越桃園站前店 2F  
 [SHISEIDO國際櫃－資生堂國際櫃](https://www.skm.com.tw/brand/12309)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [SHOEX/trippen/United Nude](https://www.skm.com.tw/brand/12021)  
-新光三越台北南西店三館 3F
-新光三越台中中港店 3F
-新光三越台南新天地 2F
+新光三越台北南西店三館 3F  
+新光三越台中中港店 3F  
+新光三越台南新天地 2F  
 [SHU UEMURA 植村秀](https://www.skm.com.tw/brand/11249)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [SIMMONS 席夢思](https://www.skm.com.tw/brand/11152)  
-新光三越台北信義新天地A8 6F
-新光三越台北信義新天地A9 B1F
-新光三越台北南西店 7F
-新光三越台北天母店 4F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北信義新天地A9 B1F  
+新光三越台北南西店 7F  
+新光三越台北天母店 4F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [SIMPLY YOURS類似簡約](https://www.skm.com.tw/brand/12346)  
-新光三越台北天母店 2F
-新光三越桃園站前店 4F
-新光三越台南新天地 4F
-新光三越高雄三多店 3F
-新光三越高雄左營店 3F
+新光三越台北天母店 2F  
+新光三越桃園站前店 4F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 3F  
+新光三越高雄左營店 3F  
 [SISJEANS](https://www.skm.com.tw/brand/12831)  
-新光三越台北信義新天地A8 B1F
-新光三越桃園站前店 3F
-新光三越台中中港店 11F
+新光三越台北信義新天地A8 B1F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 11F  
 [SISLEY](https://www.skm.com.tw/brand/11293)  
-新光三越台北信義新天地A11 3F
-新光三越台中中港店 5F
-新光三越台南新天地 4F
+新光三越台北信義新天地A11 3F  
+新光三越台中中港店 5F  
+新光三越台南新天地 4F  
 [SISLEY YOUNG](https://www.skm.com.tw/brand/12458)  
-新光三越高雄左營店 5F
+新光三越高雄左營店 5F  
 [SISLEY 希思黎](https://www.skm.com.tw/brand/12474)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [SISLEY.女裝](https://www.skm.com.tw/brand/12274)  
-新光三越高雄左營店 2F
+新光三越高雄左營店 2F  
 [SISLEY.護膚 希思黎](https://www.skm.com.tw/brand/12655)  
-新光三越台北天母店 3F
-新光三越嘉義垂楊店 4F
-新光三越台南中山店 3F
-新光三越高雄三多店 5F
+新光三越台北天母店 3F  
+新光三越嘉義垂楊店 4F  
+新光三越台南中山店 3F  
+新光三越高雄三多店 5F  
 [SISSO](https://www.skm.com.tw/brand/11478)  
-新光三越台中中港店 6F
+新光三越台中中港店 6F  
 [SIYARE 莎麗](https://www.skm.com.tw/brand/12366)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越台北南西店 3F
-新光三越台中中港店 4F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越台北南西店 3F  
+新光三越台中中港店 4F  
+新光三越台南新天地 3F  
 [SKECHERS KIDS](https://www.skm.com.tw/brand/11051)  
-新光三越台北信義新天地A8 5F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 5F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
 [SKECHERS 思克威爾](https://www.skm.com.tw/brand/11389)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 4F
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台北南西店 8F
-新光三越台中中港店 12F
-新光三越嘉義垂楊店 6F
-新光三越台南中山店 10F
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 4F  
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台北南西店 8F  
+新光三越台中中港店 12F  
+新光三越嘉義垂楊店 6F  
+新光三越台南中山店 10F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
+新光三越高雄左營店 7F  
 [SKECHERS休閒](https://www.skm.com.tw/brand/12051)  
-新光三越台南新天地 5F
-新光三越高雄三多店 7F
+新光三越台南新天地 5F  
+新光三越高雄三多店 7F  
 [SKII](https://www.skm.com.tw/brand/11595)  
-新光三越台北信義新天地A4 1F
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越桃園站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A4 1F  
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [SM2](https://www.skm.com.tw/brand/12471)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店 B1F
-新光三越台中中港店 B1F
-新光三越台南中山店 3F
-新光三越台南新天地 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店 B1F  
+新光三越台中中港店 B1F  
+新光三越台南中山店 3F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 3F  
 [smeg](https://www.skm.com.tw/brand/12249)  
-新光三越台北信義新天地A4 B1F
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A4 B1F  
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [SNIDEL](https://www.skm.com.tw/brand/11421)  
-新光三越台中中港店 4F
+新光三越台中中港店 4F  
 [SNOW FACTORY 雪坊優格](https://www.skm.com.tw/brand/11124)  
-新光三越台北信義新天地A4 B2F
-新光三越台北信義新天地A11 B2F
-新光三越台中中港店 B2F
+新光三越台北信義新天地A4 B2F  
+新光三越台北信義新天地A11 B2F  
+新光三越台中中港店 B2F  
 [SOB DEALL 沙伯迪澳](https://www.skm.com.tw/brand/11078)  
-新光三越台南新天地 5F
+新光三越台南新天地 5F  
 [SOCIE HAIR SALON](https://www.skm.com.tw/brand/11524)  
-新光三越台北信義新天地A4 4F
+新光三越台北信義新天地A4 4F  
 [SOCIE 施舒雅](https://www.skm.com.tw/brand/11544)  
-新光三越台北信義新天地A4 4F
-新光三越台北南西店 9F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A4 4F  
+新光三越台北南西店 9F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [SOLEIL](https://www.skm.com.tw/brand/11837)  
-新光三越台北站前店 2F
+新光三越台北站前店 2F  
 [SOMMA](https://www.skm.com.tw/brand/11072)  
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [SOPHIA 蘇菲亞](https://www.skm.com.tw/brand/11178)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 2F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 2F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [SOUNDSGOOD](https://www.skm.com.tw/brand/12228)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店三館 3F
-新光三越台中中港店 12F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店三館 3F  
+新光三越台中中港店 12F  
 [SPIEGELAU](https://www.skm.com.tw/brand/10974)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [SPORT b.](https://www.skm.com.tw/brand/12207)  
-新光三越台北南西店三館 2F
-新光三越台中中港店 5F
-新光三越台南新天地小西門 B1F
+新光三越台北南西店三館 2F  
+新光三越台中中港店 5F  
+新光三越台南新天地小西門 B1F  
 [SPRAYGROUND](https://www.skm.com.tw/brand/12805)  
-新光三越台北信義新天地A11 B1F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台中中港店 B1F  
 [SPRING 均岱](https://www.skm.com.tw/brand/11662)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [SST&C](https://www.skm.com.tw/brand/11908)  
-新光三越台北信義新天地A9 B1F
+新光三越台北信義新天地A9 B1F  
 [ST MALO W](https://www.skm.com.tw/brand/12925)  
-新光三越台北信義新天地A4 3F
+新光三越台北信義新天地A4 3F  
 [STARBRANDS](https://www.skm.com.tw/brand/12661)  
-新光三越台北信義新天地A11 2F
-新光三越台中中港店 4F
-新光三越台南新天地 2F
+新光三越台北信義新天地A11 2F  
+新光三越台中中港店 4F  
+新光三越台南新天地 2F  
 [STARBUCKS COFFEE 星巴克](https://www.skm.com.tw/brand/11012)  
-新光三越台北信義新天地A11 1F
-新光三越台北天母店二館 1F
-新光三越台中中港店 3F
-新光三越台中中港店 11F
-新光三越台南中山店 B1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A11 1F  
+新光三越台北天母店二館 1F  
+新光三越台中中港店 3F  
+新光三越台中中港店 11F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [Stayreal](https://www.skm.com.tw/brand/12705)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [STEAMCREAM](https://www.skm.com.tw/brand/11480)  
-新光三越台北天母店 1F
+新光三越台北天母店 1F  
 [Steiff](https://www.skm.com.tw/brand/12379)  
-新光三越台北信義新天地A8 4F
-新光三越台中中港店 6F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 4F  
+新光三越台中中港店 6F  
+新光三越台南新天地 3F  
 [STEVE MADDEN](https://www.skm.com.tw/brand/12609)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 B1F
-新光三越桃園站前店 3F
-新光三越台中中港店 B1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 B1F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 GF  
 [STILE TOP](https://www.skm.com.tw/brand/11867)  
-新光三越台北信義新天地A8 3F
+新光三越台北信義新天地A8 3F  
 [STOKKE](https://www.skm.com.tw/brand/11833)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [strellson](https://www.skm.com.tw/brand/11532)  
-新光三越台北信義新天地A8 3F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 3F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [STRESSLESS 艾克尼斯](https://www.skm.com.tw/brand/11554)  
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [SU:M37](https://www.skm.com.tw/brand/12774)  
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
 [SUGAR SPICE 糖村](https://www.skm.com.tw/brand/11444)  
-新光三越台北信義新天地A8 B2F
-新光三越台北站前店 B2F
-新光三越台北南西店 B2F
-新光三越台南中山店 B2F
+新光三越台北信義新天地A8 B2F  
+新光三越台北站前店 B2F  
+新光三越台北南西店 B2F  
+新光三越台南中山店 B2F  
 [Sulwhasoo 雪花秀](https://www.skm.com.tw/brand/12307)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越台北天母店 1F
-新光三越台南新天地 GF
-新光三越高雄左營店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越台北天母店 1F  
+新光三越台南新天地 GF  
+新光三越高雄左營店 1F  
 [SUMMER LOVE 夏之戀](https://www.skm.com.tw/brand/11904)  
-新光三越台北信義新天地A11 5F
-新光三越桃園站前店 7F
-新光三越台南新天地 6F
-新光三越高雄三多店 4F
+新光三越台北信義新天地A11 5F  
+新光三越桃園站前店 7F  
+新光三越台南新天地 6F  
+新光三越高雄三多店 4F  
 [SUN FLOWER三花](https://www.skm.com.tw/brand/11465)  
-新光三越桃園站前店 7F
-新光三越高雄左營店彩虹市集 1F
+新光三越桃園站前店 7F  
+新光三越高雄左營店彩虹市集 1F  
 [SUPER GOLF](https://www.skm.com.tw/brand/10915)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A9 5F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A9 5F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [SUQQU](https://www.skm.com.tw/brand/12812)  
-新光三越台北信義新天地A8 1F
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [SWAROVSKI 施華洛世奇](https://www.skm.com.tw/brand/12776)  
-新光三越台北信義新天地A9 2F
-新光三越台北站前店 1F
-新光三越台北南西店 2F
-新光三越台中中港店 3F
-新光三越台南中山店 1F
-新光三越台南新天地 1F
-新光三越高雄三多店 1F
+新光三越台北信義新天地A9 2F  
+新光三越台北站前店 1F  
+新光三越台北南西店 2F  
+新光三越台中中港店 3F  
+新光三越台南中山店 1F  
+新光三越台南新天地 1F  
+新光三越高雄三多店 1F  
 [SWATCH](https://www.skm.com.tw/brand/12281)  
-新光三越台南新天地 4F
-新光三越高雄左營店 3F
+新光三越台南新天地 4F  
+新光三越高雄左營店 3F  
 [SWEET HOME雅筑傢飾](https://www.skm.com.tw/brand/12096)  
-新光三越台北信義新天地A4 4F
+新光三越台北信義新天地A4 4F  
 [SWG](https://www.skm.com.tw/brand/12708)  
-新光三越台南中山店 10F
-新光三越台南新天地 5F
+新光三越台南中山店 10F  
+新光三越台南新天地 5F  
 [TOM FORD BEAUTY](https://www.skm.com.tw/brand/965)  
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [TACS](https://www.skm.com.tw/brand/3574)  
-新光三越台北信義新天地A11 3F
+新光三越台北信義新天地A11 3F  
 [TAKASHIMA 高島](https://www.skm.com.tw/brand/3274)  
-新光三越台南新天地 B1F
+新光三越台南新天地 B1F  
 [THE FIFTH TEASE](https://www.skm.com.tw/brand/13071)  
-新光三越高雄左營店彩虹市集 3F
+新光三越高雄左營店彩虹市集 3F  
 [the Little House](https://www.skm.com.tw/brand/892)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [THEODORA'S](https://www.skm.com.tw/brand/3413)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店 B1F
-新光三越台中中港店 B1F
-新光三越台南新天地 4F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店 B1F  
+新光三越台中中港店 B1F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 B1F  
 [Tommy Hilfiger 配件](https://www.skm.com.tw/brand/13026)  
-新光三越台北信義新天地A8 3F
+新光三越台北信義新天地A8 3F  
 [TOY SELECT](https://www.skm.com.tw/brand/1618)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店 B1F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店 B1F  
+新光三越台中中港店 B1F  
 [TRACEY CHEN](https://www.skm.com.tw/brand/1173)  
-新光三越台北南西店 4F
-新光三越台北天母店二館 1F
+新光三越台北南西店 4F  
+新光三越台北天母店二館 1F  
 [TRAVELER](https://www.skm.com.tw/brand/2251)  
-新光三越台北南西店 8F
-新光三越台南中山店 7F
+新光三越台北南西店 8F  
+新光三越台南中山店 7F  
 [Triumph 黛安芬](https://www.skm.com.tw/brand/12091)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越台北天母店 6F
-新光三越桃園站前店 8F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越台北天母店 6F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [TROLLBEADS](https://www.skm.com.tw/brand/2017)  
-新光三越台北南西店 2F
+新光三越台北南西店 2F  
 [Tart Tart 日本起士塔](https://www.skm.com.tw/brand/13197)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [The MAPLE MANIA 楓糖男孩](https://www.skm.com.tw/brand/3009)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [TG蔬坊The Greenery](https://www.skm.com.tw/brand/1007)  
-新光三越台北信義新天地A8 B2F
+新光三越台北信義新天地A8 B2F  
 [TGI FRIDAYS](https://www.skm.com.tw/brand/596)  
-新光三越台南新天地 6F
+新光三越台南新天地 6F  
 [T2R](https://www.skm.com.tw/brand/12370)  
-新光三越台北信義新天地A11 5F
+新光三越台北信義新天地A11 5F  
 [TAI YANG TANG 太陽堂老店](https://www.skm.com.tw/brand/11308)  
-新光三越台北站前店 B2F
-新光三越高雄左營店彩虹市集 3F
+新光三越台北站前店 B2F  
+新光三越高雄左營店彩虹市集 3F  
 [TAIWANIZE](https://www.skm.com.tw/brand/11400)  
-新光三越台北信義新天地A9 B1F
+新光三越台北信義新天地A9 B1F  
 [TAKEO KIKUCHI](https://www.skm.com.tw/brand/11842)  
-新光三越台北信義新天地A9 3F
-新光三越台中中港店 5F
+新光三越台北信義新天地A9 3F  
+新光三越台中中港店 5F  
 [TAN&LUCIANA 陳探月&袁憶甄](https://www.skm.com.tw/brand/11063)  
-新光三越嘉義垂楊店 2F
-新光三越台南新天地 3F
-新光三越高雄左營店 2F
+新光三越嘉義垂楊店 2F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 2F  
 [TASAKI](https://www.skm.com.tw/brand/12924)  
-新光三越台北信義新天地A9 2F
+新光三越台北信義新天地A9 2F  
 [TAST Boutique](https://www.skm.com.tw/brand/11946)  
-新光三越台中中港店 3F
-新光三越台南新天地 2F
+新光三越台中中港店 3F  
+新光三越台南新天地 2F  
 [TAS-女鞋](https://www.skm.com.tw/brand/11448)  
-新光三越台北站前店 2F
-新光三越台南新天地 GF
-新光三越高雄三多店 2F
+新光三越台北站前店 2F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 2F  
 [TaylorMade](https://www.skm.com.tw/brand/12846)  
-新光三越台北信義新天地A9 5F
+新光三越台北信義新天地A9 5F  
 [TC Top Cap Steakhouse by Danny](https://www.skm.com.tw/brand/12854)  
-新光三越台北信義新天地A4 5F
+新光三越台北信義新天地A4 5F  
 [TEA STRUCK](https://www.skm.com.tw/brand/11955)  
-新光三越台北信義新天地A4 B2F
+新光三越台北信義新天地A4 B2F  
 [TEMPUR](https://www.skm.com.tw/brand/11600)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台北南西店 7F
-新光三越台北天母店 4F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
-新光三越高雄三多店 9F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台北南西店 7F  
+新光三越台北天母店 4F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 9F  
 [TEN REN 天仁茗茶](https://www.skm.com.tw/brand/12629)  
-新光三越台北信義新天地A11 B2F
-新光三越台北南西店 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A11 B2F  
+新光三越台北南西店 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [TENDAYS KIDS](https://www.skm.com.tw/brand/12123)  
-新光三越台北站前店 8F
-新光三越嘉義垂楊店 9F
-新光三越台南中山店 8F
-新光三越高雄左營店 5F
+新光三越台北站前店 8F  
+新光三越嘉義垂楊店 9F  
+新光三越台南中山店 8F  
+新光三越高雄左營店 5F  
 [TENDAYS 恬褋仕](https://www.skm.com.tw/brand/12823)  
-新光三越台北信義新天地A8 6F
-新光三越台北信義新天地A9 B1F
-新光三越台北站前店 9F
-新光三越台中中港店 7F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北信義新天地A9 B1F  
+新光三越台北站前店 9F  
+新光三越台中中港店 7F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [TESCOM](https://www.skm.com.tw/brand/12390)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [TESLA](https://www.skm.com.tw/brand/12231)  
-新光三越台北信義新天地A11 1F
-新光三越台南新天地 1F
+新光三越台北信義新天地A11 1F  
+新光三越台南新天地 1F  
 [TEVA](https://www.skm.com.tw/brand/12681)  
-新光三越台北南西店 8F
-新光三越台中中港店 12F
+新光三越台北南西店 8F  
+新光三越台中中港店 12F  
 [THE BODY SHOP 美體小舖](https://www.skm.com.tw/brand/12005)  
-新光三越台北信義新天地A8 B1F
-新光三越台北信義新天地A11 B1F
-新光三越桃園站前店 1F
-新光三越台中中港店 B1F
-新光三越台南中山店 2F
-新光三越台南新天地 2F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北信義新天地A11 B1F  
+新光三越桃園站前店 1F  
+新光三越台中中港店 B1F  
+新光三越台南中山店 2F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 3F  
 [THE BRIDGE皮件](https://www.skm.com.tw/brand/12345)  
-新光三越台南新天地 2F
+新光三越台南新天地 2F  
 [THE NORTH FACE](https://www.skm.com.tw/brand/12019)  
-新光三越台北信義新天地A11 5F
-新光三越台北南西店 8F
-新光三越台北南西店 8F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
+新光三越台北信義新天地A11 5F  
+新光三越台北南西店 8F  
+新光三越台北南西店 8F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
 [THE NORTH FACE URBAN EXPLORATION/TNF UE](https://www.skm.com.tw/brand/12047)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 2F
-新光三越台南新天地 4F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 2F  
+新光三越台南新天地 4F  
 [THE SMART WOODEN TOYS 佳欣國際](https://www.skm.com.tw/brand/11423)  
-新光三越台南新天地 3F
-新光三越高雄左營店 5F
+新光三越台南新天地 3F  
+新光三越高雄左營店 5F  
 [THERMOS 膳魔師](https://www.skm.com.tw/brand/12588)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [THOMAS SABO](https://www.skm.com.tw/brand/11581)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [THOUZANDS](https://www.skm.com.tw/brand/11896)  
-新光三越台北信義新天地A9 3F
+新光三越台北信義新天地A9 3F  
 [THREE](https://www.skm.com.tw/brand/12863)  
-新光三越台北信義新天地A8 1F
-新光三越台北站前店 1F
-新光三越台中中港店 1F
+新光三越台北信義新天地A8 1F  
+新光三越台北站前店 1F  
+新光三越台中中港店 1F  
 [TIAMO 禧龍](https://www.skm.com.tw/brand/11939)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 8F  
 [TIARA TIARA](https://www.skm.com.tw/brand/12720)  
-新光三越台北信義新天地A11 B1F
-新光三越台北南西店 B1F
-新光三越桃園站前店 3F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台北南西店 B1F  
+新光三越桃園站前店 3F  
+新光三越台中中港店 B1F  
 [TIFF](https://www.skm.com.tw/brand/11054)  
-新光三越台北信義新天地A8 B1F
-新光三越桃園站前店 4F
+新光三越台北信義新天地A8 B1F  
+新光三越桃園站前店 4F  
 [TIFFANY&CO.](https://www.skm.com.tw/brand/11230)  
-新光三越台北信義新天地A9 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A9 1F  
+新光三越台南新天地 GF  
 [TIGER FAMILY](https://www.skm.com.tw/brand/12199)  
-新光三越台北信義新天地A8 5F
-新光三越台中中港店 6F
-新光三越嘉義垂楊店 9F
+新光三越台北信義新天地A8 5F  
+新光三越台中中港店 6F  
+新光三越嘉義垂楊店 9F  
 [Tiimec 探覓刻](https://www.skm.com.tw/brand/11762)  
-新光三越台北南西店三館 4F
-新光三越台南中山店 B1F
-新光三越台南新天地 4F
+新光三越台北南西店三館 4F  
+新光三越台南中山店 B1F  
+新光三越台南新天地 4F  
 [Timberland 天柏嵐](https://www.skm.com.tw/brand/11922)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A11 5F
-新光三越台北站前店 7F
-新光三越台北南西店三館 4F
-新光三越台北南西店三館 4F
-新光三越台北天母店二館 2F
-新光三越桃園站前店 6F
-新光三越台中中港店 5F
-新光三越台南中山店 6F
-新光三越台南中山店 6F
-新光三越台南新天地 4F
-新光三越台南新天地小西門 B1F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A11 5F  
+新光三越台北站前店 7F  
+新光三越台北南西店三館 4F  
+新光三越台北南西店三館 4F  
+新光三越台北天母店二館 2F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 5F  
+新光三越台南中山店 6F  
+新光三越台南中山店 6F  
+新光三越台南新天地 4F  
+新光三越台南新天地小西門 B1F  
+新光三越高雄左營店 6F  
 [TISSOT 天梭](https://www.skm.com.tw/brand/11818)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [TITLEIST](https://www.skm.com.tw/brand/12161)  
-新光三越台北信義新天地A8 3F
+新光三越台北信義新天地A8 3F  
 [tittot琉園](https://www.skm.com.tw/brand/11118)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [TOD'S](https://www.skm.com.tw/brand/11111)  
-新光三越台北信義新天地A9 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A9 1F  
+新光三越台南新天地 GF  
 [tokuyo](https://www.skm.com.tw/brand/11954)  
-新光三越台北信義新天地A9 B1F
-新光三越台北站前店 11F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A9 B1F  
+新光三越台北站前店 11F  
+新光三越台南新天地 B1F  
 [TOMICA SQUARE 多美小汽車館](https://www.skm.com.tw/brand/12587)  
-新光三越台北信義新天地A8 5F
-新光三越高雄左營店 5F
+新光三越台北信義新天地A8 5F  
+新光三越高雄左營店 5F  
 [TOMMY HILFIGER](https://www.skm.com.tw/brand/11415)  
-新光三越台北站前店 6F
-新光三越台南中山店 6F
-新光三越台南新天地 4F
+新光三越台北站前店 6F  
+新光三越台南中山店 6F  
+新光三越台南新天地 4F  
 [TOMMY HILFIGER CHILDREN](https://www.skm.com.tw/brand/12732)  
-新光三越台北信義新天地A8 5F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 5F  
+新光三越台南新天地 3F  
 [TOMMY HILFIGER.女](https://www.skm.com.tw/brand/11506)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [TOMMY JEANS](https://www.skm.com.tw/brand/10893)  
-新光三越台北信義新天地A11 3F
-新光三越台北南西店三館 2F
-新光三越台中中港店 5F
-新光三越台南新天地 4F
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店三館 2F  
+新光三越台中中港店 5F  
+新光三越台南新天地 4F  
 [TOM'S WORLD 湯姆熊](https://www.skm.com.tw/brand/12362)  
-新光三越台中中港店 13F
-新光三越台南中山店 11F
-新光三越台南新天地 6F
-新光三越高雄三多店 14F
-新光三越高雄左營店 10F
-新光三越高雄左營店彩虹市集 2F
+新光三越台中中港店 13F  
+新光三越台南中山店 11F  
+新光三越台南新天地 6F  
+新光三越高雄三多店 14F  
+新光三越高雄左營店 10F  
+新光三越高雄左營店彩虹市集 2F  
 [TONIA NICOLE](https://www.skm.com.tw/brand/11868)  
-新光三越台北站前店 9F
-新光三越嘉義垂楊店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北站前店 9F  
+新光三越嘉義垂楊店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [too cool for school](https://www.skm.com.tw/brand/12607)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [TOP DO](https://www.skm.com.tw/brand/12612)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 4F
-新光三越台北南西店 3F
-新光三越台北天母店 3F
-新光三越桃園站前店 2F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 4F  
+新光三越台北南西店 3F  
+新光三越台北天母店 3F  
+新光三越桃園站前店 2F  
 [TRAVEL FOX 旅狐 /FLY](https://www.skm.com.tw/brand/12012)  
-新光三越桃園站前店 7F
+新光三越桃園站前店 7F  
 [TRAVELER STATION/CROWN 美冠](https://www.skm.com.tw/brand/11557)  
-新光三越台南中山店 6F
+新光三越台南中山店 6F  
 [TRAVELER 旅行者](https://www.skm.com.tw/brand/12411)  
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台南新天地 5F
-新光三越高雄左營店 7F
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 7F  
 [TRIPOSE](https://www.skm.com.tw/brand/11755)  
-新光三越桃園站前店 3F
+新光三越桃園站前店 3F  
 [TRUSSARDI](https://www.skm.com.tw/brand/11943)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [Tsu Sheng Machine Repair Shoes 足昇機器修鞋](https://www.skm.com.tw/brand/11176)  
-新光三越台北站前店 B2F
+新光三越台北站前店 B2F  
 [tuctuc](https://www.skm.com.tw/brand/12647)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [TUMI](https://www.skm.com.tw/brand/12554)  
-新光三越台北信義新天地A9 3F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A9 3F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [TWG Tea](https://www.skm.com.tw/brand/12785)  
-新光三越台北信義新天地A4 B2F
-新光三越台北信義新天地A8 B2F
-新光三越台中中港店 B2F
-新光三越台南新天地 B2F
+新光三越台北信義新天地A4 B2F  
+新光三越台北信義新天地A8 B2F  
+新光三越台中中港店 B2F  
+新光三越台南新天地 B2F  
 [uMeal](https://www.skm.com.tw/brand/13066)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [une nana cool](https://www.skm.com.tw/brand/11703)  
-新光三越台南新天地 4F
+新光三越台南新天地 4F  
 [Uni Weather](https://www.skm.com.tw/brand/2006)  
-新光三越高雄左營店 3F
+新光三越高雄左營店 3F  
 [URBAN UNITS](https://www.skm.com.tw/brand/743)  
-新光三越台北信義新天地A11 4F
+新光三越台北信義新天地A11 4F  
 [UUIN](https://www.skm.com.tw/brand/1183)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [UCHINO MYMY](https://www.skm.com.tw/brand/13210)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [UCHINO 舞津濃](https://www.skm.com.tw/brand/12196)  
-新光三越台北南西店 6F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台北南西店 6F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [UN1DEUX2TROIS3](https://www.skm.com.tw/brand/12116)  
-新光三越台北信義新天地A8 2F
+新光三越台北信義新天地A8 2F  
 [UNDER ARMOUR](https://www.skm.com.tw/brand/11363)  
-新光三越台北信義新天地A11 4F
-新光三越台中中港店 12F
-新光三越台南新天地 5F
-新光三越高雄左營店 7F
-新光三越高雄左營店 7F
+新光三越台北信義新天地A11 4F  
+新光三越台中中港店 12F  
+新光三越台南新天地 5F  
+新光三越高雄左營店 7F  
+新光三越高雄左營店 7F  
 [uniarts](https://www.skm.com.tw/brand/12300)  
-新光三越台北站前店 3F
-新光三越桃園站前店 3F
-新光三越台南中山店 2F
-新光三越台南新天地 4F
-新光三越高雄三多店 2F
+新光三越台北站前店 3F  
+新光三越桃園站前店 3F  
+新光三越台南中山店 2F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 2F  
 [UNIQLO](https://www.skm.com.tw/brand/11174)  
-新光三越台北南西店三館 6F
-新光三越台中中港店 11F
-新光三越台南中山店 7F
-新光三越台南新天地 5F
-新光三越高雄左營店彩虹市集 2F
+新光三越台北南西店三館 6F  
+新光三越台中中港店 11F  
+新光三越台南中山店 7F  
+新光三越台南新天地 5F  
+新光三越高雄左營店彩虹市集 2F  
 [UNITED COLORS OF BENETTON](https://www.skm.com.tw/brand/11973)  
-新光三越台南新天地 4F
+新光三越台南新天地 4F  
 [UNITED COLORS OF BENETTON 班尼頓](https://www.skm.com.tw/brand/11192)  
-新光三越台北信義新天地A8 5F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 5F  
+新光三越台南新天地 3F  
 [URE](https://www.skm.com.tw/brand/12259)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 3F
-新光三越台北南西店 B1F
-新光三越台北天母店 2F
-新光三越桃園站前店 3F
-新光三越台南中山店 3F
-新光三越台南新天地 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 3F  
+新光三越台北南西店 B1F  
+新光三越台北天母店 2F  
+新光三越桃園站前店 3F  
+新光三越台南中山店 3F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 3F  
 [URSA有熊運動](https://www.skm.com.tw/brand/11422)  
-新光三越台北信義新天地A11 4F
+新光三越台北信義新天地A11 4F  
 [USERWATS](https://www.skm.com.tw/brand/12304)  
-新光三越桃園站前店 3F
-新光三越台中中港店 11F
+新光三越桃園站前店 3F  
+新光三越台中中港店 11F  
 [VISPRING](https://www.skm.com.tw/brand/12951)  
-新光三越台中中港店 7F
+新光三越台中中港店 7F  
 [VACANZA](https://www.skm.com.tw/brand/2028)  
-新光三越台北南西店三館 1F
-新光三越台中中港店 B1F
+新光三越台北南西店三館 1F  
+新光三越台中中港店 B1F  
 [VEDI VERO 葛洛麗雅](https://www.skm.com.tw/brand/12972)  
-新光三越台中中港店 5F
+新光三越台中中港店 5F  
 [VINE VERA](https://www.skm.com.tw/brand/3130)  
-新光三越台北天母店二館 1F
+新光三越台北天母店二館 1F  
 [VOUX](https://www.skm.com.tw/brand/3175)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [VERVE](https://www.skm.com.tw/brand/13207)  
-新光三越台北信義新天地A11 4F
+新光三越台北信義新天地A11 4F  
 [VA VENDOME AOYAMA](https://www.skm.com.tw/brand/11766)  
-新光三越台北信義新天地A8 1F
-新光三越台中中港店 3F
+新光三越台北信義新天地A8 1F  
+新光三越台中中港店 3F  
 [VALERON](https://www.skm.com.tw/brand/12813)  
-新光三越台南新天地 B1F
+新光三越台南新天地 B1F  
 [VANGER](https://www.skm.com.tw/brand/12694)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [VANS](https://www.skm.com.tw/brand/11831)  
-新光三越台中中港店 11F
-新光三越台南新天地 5F
+新光三越台中中港店 11F  
+新光三越台南新天地 5F  
 [Vecs Gardenia](https://www.skm.com.tw/brand/12872)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [VEGE CREEK蔬河](https://www.skm.com.tw/brand/12750)  
-新光三越台北信義新天地A11 B2F
+新光三越台北信義新天地A11 B2F  
 [VENCHI](https://www.skm.com.tw/brand/12517)  
-新光三越台北信義新天地A11 1F
-新光三越台北南西店三館 1F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 1F  
+新光三越台北南西店三館 1F  
+新光三越台中中港店 B1F  
 [vensers](https://www.skm.com.tw/brand/11520)  
-新光三越台北站前店 7F
-新光三越台南新天地小西門 1F
+新光三越台北站前店 7F  
+新光三越台南新天地小西門 1F  
 [VESSEL](https://www.skm.com.tw/brand/11195)  
-新光三越台北信義新天地A9 5F
+新光三越台北信義新天地A9 5F  
 [Vestiaire De Miss P](https://www.skm.com.tw/brand/12568)  
-新光三越台北信義新天地A11 B1F
+新光三越台北信義新天地A11 B1F  
 [VICTORIA/BIG TRAIN 維多利亞](https://www.skm.com.tw/brand/12402)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 7F
-新光三越桃園站前店 6F
-新光三越台中中港店 11F
-新光三越嘉義垂楊店 5F
-新光三越台南中山店 6F
-新光三越台南新天地 5F
-新光三越高雄三多店 6F
-新光三越高雄左營店 B1F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 7F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 11F  
+新光三越嘉義垂楊店 5F  
+新光三越台南中山店 6F  
+新光三越台南新天地 5F  
+新光三越高雄三多店 6F  
+新光三越高雄左營店 B1F  
 [VICTORINOX](https://www.skm.com.tw/brand/11017)  
-新光三越台北信義新天地A8 3F
-新光三越台北信義新天地A11 3F
-新光三越台北南西店 5F
-新光三越台中中港店 5F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 3F  
+新光三越台北信義新天地A11 3F  
+新光三越台北南西店 5F  
+新光三越台中中港店 5F  
+新光三越台南新天地 2F  
 [Victorinox(廚刀)](https://www.skm.com.tw/brand/12824)  
-新光三越台北信義新天地A8 7F
+新光三越台北信義新天地A8 7F  
 [VIF](https://www.skm.com.tw/brand/10962)  
-新光三越台南新天地 3F
+新光三越台南新天地 3F  
 [viga wang](https://www.skm.com.tw/brand/12634)  
-新光三越台北信義新天地A11 2F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 2F
-新光三越台南新天地 3F
-新光三越高雄左營店 2F
+新光三越台北信義新天地A11 2F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 2F  
+新光三越台南新天地 3F  
+新光三越高雄左營店 2F  
 [VITA MIX](https://www.skm.com.tw/brand/11065)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [VIVENTY](https://www.skm.com.tw/brand/11932)  
-新光三越台北南西店 1F
-新光三越台中中港店 B1F
-新光三越台南中山店 2F
-新光三越台南新天地 GF
-新光三越高雄三多店 2F
-新光三越高雄左營店 1F
+新光三越台北南西店 1F  
+新光三越台中中港店 B1F  
+新光三越台南中山店 2F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 2F  
+新光三越高雄左營店 1F  
 [VIVIENNE WESTWOOD](https://www.skm.com.tw/brand/12740)  
-新光三越台中中港店 3F
+新光三越台中中港店 3F  
 [VLENS](https://www.skm.com.tw/brand/12386)  
-新光三越高雄左營店 4F
+新光三越高雄左營店 4F  
 [VORNADO 雯麗](https://www.skm.com.tw/brand/11854)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [V-TEX waterproof](https://www.skm.com.tw/brand/12726)  
-新光三越台北信義新天地A11 4F
+新光三越台北信義新天地A11 4F  
 [VALMONT](https://www.skm.com.tw/brand/1468)  
-新光三越台北信義新天地A8 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台南新天地 GF  
 [W WEAR](https://www.skm.com.tw/brand/3017)  
-新光三越台北信義新天地A11 3F
+新光三越台北信義新天地A11 3F  
 [Wacoal 華歌爾](https://www.skm.com.tw/brand/12826)  
-新光三越台北信義新天地A8 2F
-新光三越台北站前店 5F
-新光三越台北南西店 4F
-新光三越台北天母店 3F
-新光三越桃園站前店 8F
-新光三越台中中港店 4F
-新光三越嘉義垂楊店 8F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台北站前店 5F  
+新光三越台北南西店 4F  
+新光三越台北天母店 3F  
+新光三越桃園站前店 8F  
+新光三越台中中港店 4F  
+新光三越嘉義垂楊店 8F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [Wacoal 華歌爾睡衣](https://www.skm.com.tw/brand/11367)  
-新光三越台北信義新天地A8 2F
-新光三越台中中港店 4F
-新光三越台南中山店 5F
-新光三越台南新天地 3F
-新光三越高雄三多店 5F
-新光三越高雄左營店 4F
+新光三越台北信義新天地A8 2F  
+新光三越台中中港店 4F  
+新光三越台南中山店 5F  
+新光三越台南新天地 3F  
+新光三越高雄三多店 5F  
+新光三越高雄左營店 4F  
 [WATER PRO](https://www.skm.com.tw/brand/2250)  
-新光三越台北南西店三館 4F
-新光三越台中中港店 12F
+新光三越台北南西店三館 4F  
+新光三越台中中港店 12F  
 [WAVE SHINE](https://www.skm.com.tw/brand/2035)  
-新光三越台北南西店三館 3F
-新光三越台南新天地 4F
+新光三越台北南西店三館 3F  
+新光三越台南新天地 4F  
 [WEKII 德國上健康](https://www.skm.com.tw/brand/12980)  
-新光三越台北站前店 11F
-新光三越台北南西店 8F
-新光三越台北天母店二館 2F
-新光三越桃園站前店 7F
-新光三越嘉義垂楊店 4F
-新光三越台南中山店 10F
-新光三越台南新天地 4F
-新光三越高雄左營店 6F
+新光三越台北站前店 11F  
+新光三越台北南西店 8F  
+新光三越台北天母店二館 2F  
+新光三越桃園站前店 7F  
+新光三越嘉義垂楊店 4F  
+新光三越台南中山店 10F  
+新光三越台南新天地 4F  
+新光三越高雄左營店 6F  
 [WOKY](https://www.skm.com.tw/brand/13034)  
-新光三越台北信義新天地A11 B1F
-新光三越台南中山店 B1F
-新光三越台南新天地小西門 B1F
+新光三越台北信義新天地A11 B1F  
+新光三越台南中山店 B1F  
+新光三越台南新天地小西門 B1F  
 [WOO:D](https://www.skm.com.tw/brand/1841)  
-新光三越台北信義新天地A11 3F
-新光三越台南新天地小西門 B1F
+新光三越台北信義新天地A11 3F  
+新光三越台南新天地小西門 B1F  
 [WOOD FOREST](https://www.skm.com.tw/brand/12956)  
-新光三越高雄左營店彩虹市集 1F
+新光三越高雄左營店彩虹市集 1F  
 [woosa](https://www.skm.com.tw/brand/2778)  
-新光三越台北信義新天地A8 B1F
-新光三越台南中山店 2F
-新光三越台南新天地 2F
+新光三越台北信義新天地A8 B1F  
+新光三越台南中山店 2F  
+新光三越台南新天地 2F  
 [WALTZ 華爾滋](https://www.skm.com.tw/brand/12429)  
-新光三越台北信義新天地A8 3F
-新光三越台北站前店 6F
-新光三越台北南西店 5F
-新光三越桃園站前店 6F
-新光三越台中中港店 5F
-新光三越台南中山店 7F
-新光三越台南新天地 2F
-新光三越高雄左營店 6F
+新光三越台北信義新天地A8 3F  
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
+新光三越桃園站前店 6F  
+新光三越台中中港店 5F  
+新光三越台南中山店 7F  
+新光三越台南新天地 2F  
+新光三越高雄左營店 6F  
 [WANG DE CHUAN 王德傳](https://www.skm.com.tw/brand/11680)  
-新光三越台中中港店 B2F
+新光三越台中中港店 B2F  
 [WANG TEA 有記名茶](https://www.skm.com.tw/brand/12920)  
-新光三越台南中山店 B2F
-新光三越高雄左營店 B2F
+新光三越台南中山店 B2F  
+新光三越高雄左營店 B2F  
 [WANTO3](https://www.skm.com.tw/brand/11722)  
-新光三越嘉義垂楊店 8F
+新光三越嘉義垂楊店 8F  
 [WATERFORD](https://www.skm.com.tw/brand/10946)  
-新光三越台北信義新天地A8 6F
+新光三越台北信義新天地A8 6F  
 [WATPURE 美而浦](https://www.skm.com.tw/brand/12328)  
-新光三越台北信義新天地A8 7F
-新光三越台北南西店 7F
-新光三越台北天母店 4F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
-新光三越高雄三多店 10F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北南西店 7F  
+新光三越台北天母店 4F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
+新光三越高雄三多店 10F  
+新光三越高雄左營店 9F  
 [WEDGWOOD](https://www.skm.com.tw/brand/12241)  
-新光三越台北信義新天地A8 6F
-新光三越台北南西店 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台北南西店 7F  
+新光三越台南新天地 B1F  
 [WEDGWOOD瑋緻活(瓷器)](https://www.skm.com.tw/brand/12904)  
-新光三越台北信義新天地A8 6F
-新光三越台中中港店 8F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台中中港店 8F  
+新光三越台南新天地 B1F  
 [WEEKEND MaxMara](https://www.skm.com.tw/brand/12870)  
-新光三越台北南西店 4F
+新光三越台北南西店 4F  
 [WELL FIT](https://www.skm.com.tw/brand/12358)  
-新光三越台南新天地小西門 B1F
+新光三越台南新天地小西門 B1F  
 [WENTEX](https://www.skm.com.tw/brand/12432)  
-新光三越台北信義新天地A8 6F
-新光三越台北站前店 9F
+新光三越台北信義新天地A8 6F  
+新光三越台北站前店 9F  
 [WHIPLE.女裝](https://www.skm.com.tw/brand/11994)  
-新光三越台北信義新天地A11 2F
-新光三越台南新天地 3F
+新光三越台北信義新天地A11 2F  
+新光三越台南新天地 3F  
 [WHOO 后](https://www.skm.com.tw/brand/12481)  
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台中中港店 1F
-新光三越嘉義垂楊店 1F
-新光三越台南中山店 1F
-新光三越台南新天地 GF
-新光三越高雄三多店 1F
-新光三越高雄左營店 1F
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台中中港店 1F  
+新光三越嘉義垂楊店 1F  
+新光三越台南中山店 1F  
+新光三越台南新天地 GF  
+新光三越高雄三多店 1F  
+新光三越高雄左營店 1F  
 [WILDWOOD](https://www.skm.com.tw/brand/12277)  
-新光三越台北信義新天地A9 4F
+新光三越台北信義新天地A9 4F  
 [WMF](https://www.skm.com.tw/brand/11001)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 8F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 8F  
 [Wolford](https://www.skm.com.tw/brand/11101)  
-新光三越台北信義新天地A9 2F
+新光三越台北信義新天地A9 2F  
 [WOLSEY](https://www.skm.com.tw/brand/10940)  
-新光三越台北站前店 6F
-新光三越台北南西店 5F
+新光三越台北站前店 6F  
+新光三越台北南西店 5F  
 [XLARGE](https://www.skm.com.tw/brand/1088)  
-新光三越台北南西店三館 2F
+新光三越台北南西店三館 2F  
 [XRAGE](https://www.skm.com.tw/brand/13177)  
-新光三越台北信義新天地A11 3F
+新光三越台北信義新天地A11 3F  
 [XING](https://www.skm.com.tw/brand/10945)  
-新光三越台北信義新天地A8 B1F
-新光三越台北站前店 3F
-新光三越台北南西店 3F
-新光三越台南中山店 4F
-新光三越台南新天地 4F
-新光三越高雄三多店 4F
-新光三越高雄左營店 3F
+新光三越台北信義新天地A8 B1F  
+新光三越台北站前店 3F  
+新光三越台北南西店 3F  
+新光三越台南中山店 4F  
+新光三越台南新天地 4F  
+新光三越高雄三多店 4F  
+新光三越高雄左營店 3F  
 [Y KIDS](https://www.skm.com.tw/brand/12970)  
-新光三越台北信義新天地A8 4F
+新光三越台北信義新天地A8 4F  
 [Y-3](https://www.skm.com.tw/brand/1842)  
-新光三越台南新天地小西門 1F
+新光三越台南新天地小西門 1F  
 [YBG.INC](https://www.skm.com.tw/brand/2822)  
-新光三越台北南西店三館 4F
-新光三越台中中港店 5F
-新光三越嘉義垂楊店 5F
-新光三越台南新天地 4F
+新光三越台北南西店三館 4F  
+新光三越台中中港店 5F  
+新光三越嘉義垂楊店 5F  
+新光三越台南新天地 4F  
 [Yen.accessory](https://www.skm.com.tw/brand/12971)  
-新光三越高雄左營店彩虹市集 1F
+新光三越高雄左營店彩虹市集 1F  
 [YOGIBO](https://www.skm.com.tw/brand/900)  
-新光三越台中中港店 6F
-新光三越台南新天地 B1F
+新光三越台中中港店 6F  
+新光三越台南新天地 B1F  
 [yuer](https://www.skm.com.tw/brand/822)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [YALE](https://www.skm.com.tw/brand/12837)  
-新光三越台北信義新天地A8 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 7F  
+新光三越台南新天地 B1F  
 [YAMAHA](https://www.skm.com.tw/brand/12016)  
-新光三越台北信義新天地A8 5F
-新光三越台南新天地 3F
+新光三越台北信義新天地A8 5F  
+新光三越台南新天地 3F  
 [YECCA VECCA](https://www.skm.com.tw/brand/11669)  
-新光三越台北信義新天地A11 2F
-新光三越台中中港店 B1F
+新光三越台北信義新天地A11 2F  
+新光三越台中中港店 B1F  
 [YIN HWA](https://www.skm.com.tw/brand/11696)  
-新光三越台北南西店 4F
+新光三越台北南西店 4F  
 [YOKU MOKU](https://www.skm.com.tw/brand/11930)  
-新光三越台北信義新天地A4 B2F
-新光三越台北南西店 B2F
-新光三越台北天母店二館 1F
+新光三越台北信義新天地A4 B2F  
+新光三越台北南西店 B2F  
+新光三越台北天母店二館 1F  
 [YSANNE](https://www.skm.com.tw/brand/12733)  
-新光三越台北信義新天地A4 3F
+新光三越台北信義新天地A4 3F  
 [YSL BEAUTE 聖羅蘭](https://www.skm.com.tw/brand/12165)  
-新光三越台北信義新天地A8 1F
-新光三越台北信義新天地A11 1F
-新光三越台北站前店 1F
-新光三越台北南西店 1F
-新光三越台中中港店 1F
-新光三越台南新天地 GF
+新光三越台北信義新天地A8 1F  
+新光三越台北信義新天地A11 1F  
+新光三越台北站前店 1F  
+新光三越台北南西店 1F  
+新光三越台中中港店 1F  
+新光三越台南新天地 GF  
 [YUPENG SHIH](https://www.skm.com.tw/brand/11355)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [YUWEN](https://www.skm.com.tw/brand/11042)  
-新光三越台北信義新天地A11 2F
+新光三越台北信義新天地A11 2F  
 [YVES DELORME 寬庭典藏寢飾](https://www.skm.com.tw/brand/11459)  
-新光三越台北信義新天地A8 6F
-新光三越台北南西店 7F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
+新光三越台北信義新天地A8 6F  
+新光三越台北南西店 7F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
 [YVONNE COLLECTION](https://www.skm.com.tw/brand/11984)  
-新光三越台北信義新天地A8 6F
-新光三越台北南西店 7F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北南西店 7F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [YVONNE 以旺](https://www.skm.com.tw/brand/11005)  
-新光三越台北信義新天地A8 6F
-新光三越台北南西店 7F
-新光三越台中中港店 7F
-新光三越台南新天地 B1F
-新光三越高雄左營店 8F
+新光三越台北信義新天地A8 6F  
+新光三越台北南西店 7F  
+新光三越台中中港店 7F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 8F  
 [ZAN ZAN](https://www.skm.com.tw/brand/1747)  
-新光三越台北信義新天地A8 B1F
+新光三越台北信義新天地A8 B1F  
 [ZOJIRUSHI 象印](https://www.skm.com.tw/brand/12602)  
-新光三越台北信義新天地A8 7F
-新光三越台北站前店 10F
-新光三越台北南西店 7F
-新光三越台中中港店 8F
-新光三越嘉義垂楊店 10F
-新光三越台南中山店 9F
-新光三越台南新天地 B1F
-新光三越高雄左營店 9F
+新光三越台北信義新天地A8 7F  
+新光三越台北站前店 10F  
+新光三越台北南西店 7F  
+新光三越台中中港店 8F  
+新光三越嘉義垂楊店 10F  
+新光三越台南中山店 9F  
+新光三越台南新天地 B1F  
+新光三越高雄左營店 9F  
 [ZOUBA 走吧](https://www.skm.com.tw/brand/11951)  
-新光三越台北信義新天地A8 3F
-新光三越台北南西店 8F
-新光三越台南新天地 5F
+新光三越台北信義新天地A8 3F  
+新光三越台北南西店 8F  
+新光三越台南新天地 5F  
 [ZWILLING 雙人](https://www.skm.com.tw/brand/12092)  
-新光三越台北信義新天地A8 7F
-新光三越台中中港店 8F
+新光三越台北信義新天地A8 7F  
+新光三越台中中港店 8F  
 ## [Sogo](https://info.sogo.com.tw/)  
 [&](https://info.sogo.com.tw/hcbc/brand/200301114524507684)  
 SOGO 新竹店 2F  
