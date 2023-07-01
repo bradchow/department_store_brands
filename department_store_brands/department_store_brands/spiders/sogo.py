@@ -198,7 +198,7 @@ class SogoSpider(scrapy.Spider):
         for key in sorted_data:
             data = self.data[key]
             if self.OUTPUT_TO_MD == 0:
-                print(key)                
+                print(key)
                 pprint.pprint(self.data[key])
             else:
                 for item in data:
