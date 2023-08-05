@@ -184,28 +184,24 @@ class SogoSpider(scrapy.Spider):
     def update_data(self, brand_name, mall, floor, url):
         if brand_name not in self.data:
             self.data[brand_name] = []
-            self.data[brand_name].append(url)
 
         location = {
             "mall": mall,
-            "floor": floor
+            "floor": floor,
+            "url": url
         }
 
         self.data[brand_name].append(location)
 
     def closed(self, reason):
+        print("closed() is called")
         sorted_data = sorted(self.data.keys())
         for key in sorted_data:
+            print(key + " " + " ")
             data = self.data[key]
-            if self.OUTPUT_TO_MD == 0:
-                print(key)
-                pprint.pprint(self.data[key])
-            else:
-                for item in data:
-                    if isinstance(item, str):
-                        print(f"[{key}]({item})" + " " + " ")
-                    elif isinstance(item, dict):
-                        print(f"{item['mall']} {item['floor']}" + " " + " ")
+            for item in data:
+                if isinstance(item, dict):
+                    print(f"[{item['mall']} {item['floor']}]({item['url']})" + " " + " ")
         if self.OUTPUT_TO_JSON == 1:
             sorted_dict = {key: self.data[key] for key in sorted_data}
             json_data = json.dumps(sorted_dict, ensure_ascii=False)

@@ -24,13 +24,15 @@ class ShinKongMitsukoshiSpider(scrapy.Spider):
             for info in infos:
                 brand_name = info.xpath('.//a/div/text()').get()
                 url = info.xpath('.//a/@href').get()
-                print("[" + brand_name + "](" + url + ")  ")
+                if self.OUTPUT_TO_MD == 0:
+                    print("[" + brand_name + "](" + url + ")  ")
                 locations = info.xpath('.//div/ul/li')
                 for location in locations:
                     mall = self.PREFIX_MALL_NAME + (str)(location.xpath('.//text()').get().replace('\n', '').replace('\t', '').replace(' ', '').split('\xa0')[0])
                     floor = (str)(location.xpath('.//text()').get().replace('\n', '').replace('\t', '').replace(' ', '').split('\xa0')[1])
                     # print((str)(location.xpath('.//text()').get().replace('\n', '').replace('\t', '').replace(' ', '')) + " " + " ")
-                    print(mall + " " + floor + " " + " ")
+                    if self.OUTPUT_TO_MD == 0:
+                        print(mall + " " + floor + " " + " ")
                     self.update_data(brand_name = brand_name, mall = mall, floor = floor, url = url)
             #Yield for next page
             self.page_num = self.page_num + 1
@@ -43,11 +45,11 @@ class ShinKongMitsukoshiSpider(scrapy.Spider):
     def update_data(self, brand_name, mall, floor, url):
         if brand_name not in self.data:
             self.data[brand_name] = []
-            self.data[brand_name].append(url)
 
         location = {
             "mall": mall,
-            "floor": floor
+            "floor": floor,
+            "url": url
         }
 
         self.data[brand_name].append(location)
@@ -55,15 +57,18 @@ class ShinKongMitsukoshiSpider(scrapy.Spider):
     def closed(self, reason):
         sorted_data = sorted(self.data.keys())
         for key in sorted_data:
+            print(key + " " + " ")
+            data = self.data[key]
             if self.OUTPUT_TO_MD == 0:
                 print(key)
                 pprint.pprint(self.data[key])
             else:
                 for item in data:
-                    if isinstance(item, str):
-                        print(f"[{key}]({item})" + " " + " ")
-                    elif isinstance(item, dict):
-                        print(f"{item['mall']} {item['floor']}" + " " + " ")
+                    #if isinstance(item, str):
+                    #    print(f"[{key}]({item})" + " " + " ")
+                    if isinstance(item, dict):
+                        #print(f"{item['mall']} {item['floor']}" + " " + " ")
+                        print(f"[{item['mall']} {item['floor']}]({item['url']})" + " " + " ")
         sorted_dict = {key: self.data[key] for key in sorted_data}
         if self.OUTPUT_TO_JSON == 1:
             json_data = json.dumps(sorted_dict, ensure_ascii=False)
