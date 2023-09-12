@@ -12,7 +12,7 @@ class ShinKongMitsukoshiSpider(scrapy.Spider):
     PREFIX_MALL_NAME = "新光三越"
 
     #output to json format
-    OUTPUT_TO_JSON = 0
+    OUTPUT_TO_JSON = 1
     
     def parse(self, response):
         if self.OUTPUT_TO_MD == 0:
@@ -72,5 +72,5 @@ class ShinKongMitsukoshiSpider(scrapy.Spider):
         sorted_dict = {key: self.data[key] for key in sorted_data}
         if self.OUTPUT_TO_JSON == 1:
             json_data = json.dumps(sorted_dict, ensure_ascii=False)
-            with open('../json/ShinKongMitsukoshi.json', 'w', encoding='utf-8') as file:
+            with open('json/ShinKongMitsukoshi.json', 'w', encoding='utf-8') as file:
                 file.write(json_data)

@@ -7,12 +7,17 @@
 ## 授權
 本項目使用 [MIT 授權條款](./LICENSE.md) 進行授權
 
+## 使用方法
+cd department_store_brands
+scrapy crawl Sogo > sogo.md
+scrapy crawl ShinKongMitsuk oshi > shin.md
+
 ## 內容
 [新光三越](#新光三越)  
 [Sogo](#sogo)  
 
 ## 更新  
-時間：2023/8/5
+時間：2023/9/12
 
 ## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)  
 & by TAN&LUCIANA  
@@ -33,7 +38,6 @@
 [新光三越台北信義新天地A4 1F](https://www.skm.com.tw/brand/12704)  
 [新光三越台北信義新天地A9 1F](https://www.skm.com.tw/brand/12704)  
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/12704)  
-[新光三越台北天母店二館 1F](https://www.skm.com.tw/brand/12704)  
 [新光三越台中中港店 2F](https://www.skm.com.tw/brand/12704)  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/12704)  
 10/10 HOPE  
@@ -60,8 +64,9 @@
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/11552)  
 2020 EYEhaus  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/12670)  
-[新光三越台南中山店 1F](https://www.skm.com.tw/brand/12670)  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/12670)  
+2020EYEhaus  
+[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/1601)  
 21 CENTURY風味館  
 [新光三越台南中山店 B2F](https://www.skm.com.tw/brand/11847)  
 22 OCTOBRE  
@@ -88,8 +93,6 @@
 [新光三越台北南西店 7F](https://www.skm.com.tw/brand/12216)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/12216)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12216)  
-3NITY  
-[新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/11339)  
 50%  
 [新光三越台南新天地小西門 B2F](https://www.skm.com.tw/brand/12800)  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/12800)  
@@ -100,11 +103,8 @@
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/10909)  
 :CHOCOOLATE  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/12615)  
-[新光三越台北南西店三館 2F](https://www.skm.com.tw/brand/12615)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/12615)  
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/12615)  
-ABBY兒童眼鏡  
-[新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/11325)  
 ABC MART  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11771)  
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/11771)  
@@ -118,9 +118,6 @@ ACQUA DI PARMA
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/11309)  
 ACUPUNCTURE  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/10944)  
-[新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/10944)  
-[新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/10944)  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/10944)  
 ADDICTION  
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/12227)  
 AESOP  
@@ -138,7 +135,7 @@ AIGLE
 AILI 愛力  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/12896)  
 AILI.旅行箱 愛力  
-[新光三越台北站前店 6F](https://www.skm.com.tw/brand/12417)  
+[新光三越台北站前店 7F](https://www.skm.com.tw/brand/12417)  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/12417)  
 [新光三越桃園站前店 6F](https://www.skm.com.tw/brand/12417)  
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/12417)  
@@ -147,9 +144,10 @@ AILI.旅行箱 愛力
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/12417)  
 AIR SPACE  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11779)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11779)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/11779)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/11779)  
 AKALIKO  
-[新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/12006)  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/12006)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12006)  
 ALBION 艾倫比亞  
@@ -165,8 +163,6 @@ ALESSI
 [新光三越台北天母店 4F](https://www.skm.com.tw/brand/11550)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11550)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11550)  
-ALL WEARS  
-[新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/12150)  
 ALLSAINTS  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12876)  
 [新光三越台北南西店三館 2F](https://www.skm.com.tw/brand/12876)  
@@ -184,16 +180,19 @@ AMA
 AMEDEI  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/2632)  
 AMO 阿默蛋糕  
-[新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/12412)  
 [新光三越台北南西店 B2F](https://www.skm.com.tw/brand/12412)  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/12412)  
 ANELET-安奇  
 [新光三越台北南西店三館 1F](https://www.skm.com.tw/brand/13033)  
 ANGLE  
 [新光三越台北南西店 5F](https://www.skm.com.tw/brand/11157)  
-[新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/11157)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11157)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/11157)  
+ANNY PEPE 吉彥  
+[新光三越台南新天地 3F](https://www.skm.com.tw/brand/11909)  
+ANY BEARS  
+[新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/13315)  
+[新光三越台南中山店 B1F](https://www.skm.com.tw/brand/13315)  
 ANYSIS  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/12583)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12583)  
@@ -235,6 +234,7 @@ ARNOLD PALMER
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12692)  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/12692)  
 ARNOLD PALMER女包  
+[新光三越台北站前店 3F](https://www.skm.com.tw/brand/12528)  
 [新光三越嘉義垂楊店 3F](https://www.skm.com.tw/brand/12528)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12528)  
 ART HAUS  
@@ -257,7 +257,6 @@ ARTSO亞梭傢俬-兒童傢俱
 [新光三越高雄左營店 5F](https://www.skm.com.tw/brand/12509)  
 AS  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12784)  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/12784)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/12784)  
 [新光三越桃園站前店 2F](https://www.skm.com.tw/brand/12784)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12784)  
@@ -298,14 +297,13 @@ AVINA
 AVIVI  
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/1839)  
 AZUR  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12189)  
 [新光三越台北站前店 4F](https://www.skm.com.tw/brand/12189)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12189)  
+[新光三越嘉義垂楊店 3F](https://www.skm.com.tw/brand/12189)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12189)  
 [新光三越高雄左營店 2F](https://www.skm.com.tw/brand/12189)  
 Aape  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/12717)  
-[新光三越台北南西店三館 1F](https://www.skm.com.tw/brand/12717)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/12717)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12717)  
 Agapebaby  
@@ -315,13 +313,14 @@ Agapebaby
 [新光三越高雄左營店 5F](https://www.skm.com.tw/brand/3559)  
 AiLock 智慧鎖  
 [新光三越台北站前店 10F](https://www.skm.com.tw/brand/12960)  
-[新光三越台南中山店 2F](https://www.skm.com.tw/brand/12960)  
 Alexander McQueen  
 [新光三越台北信義新天地A9 1F](https://www.skm.com.tw/brand/11674)  
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/11674)  
 Alexandre de Paris-亞歷山卓亞洲  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/10896)  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/10896)  
+Anita Su  
+[新光三越嘉義垂楊店 3F](https://www.skm.com.tw/brand/3071)  
 Anny Princess 安妮公主  
 [新光三越台北站前店 8F](https://www.skm.com.tw/brand/11406)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11406)  
@@ -332,7 +331,6 @@ AroMart艾樂曼
 [新光三越桃園站前店 9F](https://www.skm.com.tw/brand/12321)  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/12321)  
 Aubade  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12567)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/12567)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12567)  
 Aveda Hair Salon  
@@ -356,15 +354,18 @@ BAGMANIA
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12654)  
 BAKER STREET  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/12736)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/12736)  
 BALENCIAGA  
 [新光三越台北信義新天地A9 1F](https://www.skm.com.tw/brand/11486)  
-[新光三越台中中港店 1F](https://www.skm.com.tw/brand/11486)  
 [新光三越台中中港店 2F](https://www.skm.com.tw/brand/11486)  
+[新光三越台中中港店 1F](https://www.skm.com.tw/brand/11486)  
 BALLY  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/414)  
 BALMUDA  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/12024)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/12024)  
+BANANA MONKEY  
+[新光三越台南新天地 5F](https://www.skm.com.tw/brand/13287)  
 BAO BAO ISSEY MIYAKE  
 [新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/11824)  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/11824)  
@@ -399,7 +400,6 @@ BEE CHENG HIANG 美珍香
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/11479)  
 BELLINI女鞋  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/12761)  
-[新光三越桃園站前店 2F](https://www.skm.com.tw/brand/12761)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12761)  
 [新光三越高雄三多店 2F](https://www.skm.com.tw/brand/12761)  
 BENEFIT  
@@ -413,8 +413,6 @@ BENITY
 [新光三越高雄三多店 2F](https://www.skm.com.tw/brand/11990)  
 BESIDE U  
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/11690)  
-BEST 北之特  
-[新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/11096)  
 BETTY'S  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/10902)  
 [新光三越桃園站前店 5F](https://www.skm.com.tw/brand/10902)  
@@ -422,11 +420,6 @@ BETTY'S
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/10902)  
 [新光三越高雄三多店 4F](https://www.skm.com.tw/brand/10902)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/10902)  
-BH  
-[新光三越台南中山店 10F](https://www.skm.com.tw/brand/11801)  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11801)  
-[新光三越高雄三多店 10F](https://www.skm.com.tw/brand/11801)  
-[新光三越高雄左營店 7F](https://www.skm.com.tw/brand/11801)  
 BILLY KIDS  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/12224)  
 BIOCHEM 倍優  
@@ -462,11 +455,11 @@ BLUE WAY 普威
 [新光三越高雄三多店 6F](https://www.skm.com.tw/brand/11452)  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/11452)  
 BO DEREK女包  
-[新光三越台北站前店 5F](https://www.skm.com.tw/brand/12874)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12874)  
 [新光三越台南中山店 3F](https://www.skm.com.tw/brand/12874)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12874)  
 BO DEREK女鞋  
+[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11089)  
 [新光三越桃園站前店 2F](https://www.skm.com.tw/brand/11089)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11089)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11089)  
@@ -493,10 +486,13 @@ BOBSON 伯布森/SUNSISTER
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/11395)  
 BONNY&READ  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/2033)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/2033)  
 [新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/2033)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/2033)  
 [新光三越台南新天地小西門 1F](https://www.skm.com.tw/brand/2033)  
 [新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/2033)  
+BONPOINT  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13311)  
 BORSALINI  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12923)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12923)  
@@ -565,6 +561,7 @@ BWT
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/12229)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/12229)  
 BYHUE  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/13147)  
 [新光三越嘉義垂楊店 2F](https://www.skm.com.tw/brand/13147)  
 BYREDO  
 [新光三越台中中港店 2F](https://www.skm.com.tw/brand/12939)  
@@ -588,8 +585,6 @@ Baby Organics
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/12107)  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/12107)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12107)  
-Barbour  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/2328)  
 Been Teen 嬪婷  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11183)  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/11183)  
@@ -635,13 +630,14 @@ C.P. COMPANY
 [新光三越台北信義新天地A9 3F](https://www.skm.com.tw/brand/11695)  
 CACO  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11150)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11150)  
 [新光三越台北南西店三館 4F](https://www.skm.com.tw/brand/11150)  
 [新光三越桃園站前店 5F](https://www.skm.com.tw/brand/11150)  
-[新光三越台中中港店 11F](https://www.skm.com.tw/brand/11150)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/11150)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11150)  
-[新光三越台南新天地小西門 B2F](https://www.skm.com.tw/brand/11150)  
+[新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/11150)  
 [新光三越高雄三多店 B1F](https://www.skm.com.tw/brand/11150)  
-[新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/11150)  
+[新光三越高雄左營店彩虹市集 2F](https://www.skm.com.tw/brand/11150)  
 CAFE IN  
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/13058)  
 CAFÉ TRICO 三色旗  
@@ -653,7 +649,6 @@ CALIFORNIA REPUBLIC
 [新光三越高雄三多店 6F](https://www.skm.com.tw/brand/11342)  
 CALVIN KLEIN  
 [新光三越台北天母店二館 1F](https://www.skm.com.tw/brand/2224)  
-[新光三越台南新天地 4F](https://www.skm.com.tw/brand/2224)  
 CALVIN KLEIN JEANS  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/12037)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/12037)  
@@ -669,6 +664,8 @@ CANDACE
 [新光三越桃園站前店 2F](https://www.skm.com.tw/brand/12788)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12788)  
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/12788)  
+CANI  
+[新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/13300)  
 CARDINA  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11445)  
 [新光三越高雄三多店 3F](https://www.skm.com.tw/brand/11445)  
@@ -688,24 +685,27 @@ CASETiFY
 CASIO 卡西歐  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11534)  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11534)  
-[新光三越台北南西店三館 2F](https://www.skm.com.tw/brand/11534)  
 [新光三越台中中港店 11F](https://www.skm.com.tw/brand/11534)  
 CASIO 翡仕  
 [新光三越台南中山店 B1F](https://www.skm.com.tw/brand/13052)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/13052)  
-[新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/13052)  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/13052)  
 CASTELBAJAC  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/10950)  
 [新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/10950)  
+[新光三越台中中港店 5F](https://www.skm.com.tw/brand/10950)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/10950)  
 CATH KIDSTON  
-[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/12819)  
+[新光三越台北站前店 3F](https://www.skm.com.tw/brand/12819)  
 [新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12819)  
+[新光三越台南新天地 4F](https://www.skm.com.tw/brand/12819)  
 CELINE  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12261)  
 CERRUTI 1881  
 [新光三越台北信義新天地A9 3F](https://www.skm.com.tw/brand/11189)  
+CHAMPION CPFU  
+[新光三越台南中山店 2F](https://www.skm.com.tw/brand/11458)  
+[新光三越台南新天地 4F](https://www.skm.com.tw/brand/11458)  
 CHANEL JEWELRY 香奈兒高級珠寶  
 [新光三越台北信義新天地A4 1F](https://www.skm.com.tw/brand/11455)  
 CHANEL 香奈兒  
@@ -733,10 +733,8 @@ CHANTECAILLE 香緹卡
 CHARISMA  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/12954)  
 CHARM  
-[新光三越台北站前店 4F](https://www.skm.com.tw/brand/12099)  
 [新光三越高雄左營店 2F](https://www.skm.com.tw/brand/12099)  
 CHARRIOL  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12771)  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/12771)  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/12771)  
 CHEESE CAKE 1  
@@ -752,12 +750,10 @@ CHEN YEI
 CHENG KWAN JANG 正官庄  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/11108)  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/11108)  
-[新光三越台北南西店 B2F](https://www.skm.com.tw/brand/11108)  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/11108)  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/11108)  
 [新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/11108)  
 CHIC CHOC 奇可俏可  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11359)  
 [新光三越高雄三多店 1F](https://www.skm.com.tw/brand/11359)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/11359)  
 CHIU MIN CHU  
@@ -776,17 +772,14 @@ CHURROS
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/1185)  
 CIENTA  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11716)  
-CILO CALA  
-[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/1894)  
 CINDY  
 [新光三越台北站前店 4F](https://www.skm.com.tw/brand/12888)  
-[新光三越台北南西店 3F](https://www.skm.com.tw/brand/12888)  
 [新光三越台北天母店 3F](https://www.skm.com.tw/brand/12888)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12888)  
 CINDY Q  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/2735)  
 CITY DIAMOND 引雅  
-[新光三越台北站前店 5F](https://www.skm.com.tw/brand/11659)  
+[新光三越台北站前店 4F](https://www.skm.com.tw/brand/11659)  
 [新光三越台南中山店 2F](https://www.skm.com.tw/brand/11659)  
 CK CALVIN KLEIN.女裝  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12710)  
@@ -842,10 +835,9 @@ COACH
 [新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/12914)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/12914)  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/12914)  
-[新光三越台南新天地 GF](https://www.skm.com.tw/brand/12914)  
-[新光三越高雄左營店 1F](https://www.skm.com.tw/brand/12914)  
 COCO JASMINE  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/3593)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/3593)  
 [新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/3593)  
 COCOLULU  
 [新光三越高雄三多店 4F](https://www.skm.com.tw/brand/13240)  
@@ -880,7 +872,6 @@ CONCEPT OF BEIGE,
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12212)  
 CONI  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/12385)  
-[新光三越高雄左營店 4F](https://www.skm.com.tw/brand/12385)  
 CONTIGO  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/2517)  
 CONVERSE  
@@ -890,6 +881,8 @@ CONVERSE
 [新光三越嘉義垂楊店 6F](https://www.skm.com.tw/brand/11094)  
 [新光三越台南中山店 10F](https://www.skm.com.tw/brand/11094)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/11094)  
+CONVERSE KIDS  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13313)  
 CORNING WINE HOUSE 康齡酒藏  
 [新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/12862)  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/12862)  
@@ -907,9 +900,6 @@ COSMED 康是美
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/11871)  
 [新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/11871)  
 [新光三越高雄左營店彩虹市集 1F](https://www.skm.com.tw/brand/11871)  
-COVERNAT  
-[新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/12034)  
-[新光三越台中中港店 11F](https://www.skm.com.tw/brand/12034)  
 COWA  
 [新光三越桃園站前店 6F](https://www.skm.com.tw/brand/12933)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/12933)  
@@ -917,16 +907,14 @@ COWA
 CREMIA｜北海道冰淇淋之神  
 [新光三越台中中港店 10F](https://www.skm.com.tw/brand/13055)  
 CROCS 卡駱馳  
-[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11291)  
 [新光三越台北信義新天地A11 5F](https://www.skm.com.tw/brand/11291)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11291)  
 [新光三越台北南西店三館 4F](https://www.skm.com.tw/brand/11291)  
 [新光三越台中中港店 11F](https://www.skm.com.tw/brand/11291)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11291)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/11291)  
 CUDOS  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/13222)  
-CUMAR UNDERWEAR  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/12540)  
 CUMAR.女裝  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11062)  
 [新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11062)  
@@ -938,7 +926,6 @@ CUMAR.皮件
 [新光三越台北南西店 5F](https://www.skm.com.tw/brand/11449)  
 [新光三越桃園站前店 6F](https://www.skm.com.tw/brand/11449)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/11449)  
-[新光三越台南中山店 6F](https://www.skm.com.tw/brand/11449)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11449)  
 [新光三越高雄三多店 6F](https://www.skm.com.tw/brand/11449)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/11449)  
@@ -954,7 +941,6 @@ CUMAR休閒服
 [新光三越高雄三多店 6F](https://www.skm.com.tw/brand/11029)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/11029)  
 CUMAR女包  
-[新光三越台北站前店 3F](https://www.skm.com.tw/brand/11545)  
 [新光三越桃園站前店 4F](https://www.skm.com.tw/brand/11545)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11545)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/11545)  
@@ -968,6 +954,7 @@ CUMAR男鞋
 [新光三越台北站前店 6F](https://www.skm.com.tw/brand/11344)  
 [新光三越台北南西店 5F](https://www.skm.com.tw/brand/11344)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/11344)  
+[新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/11344)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11344)  
 [新光三越高雄三多店 6F](https://www.skm.com.tw/brand/11344)  
 CURIO BOUTIQUE 居禮名店  
@@ -990,18 +977,13 @@ Cartier
 Champion Kids  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/12541)  
 Chantelle  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12316)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/12316)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12316)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12316)  
 Cherif Perfume  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/10952)  
-Chlansilk  
-[新光三越台北站前店 5F](https://www.skm.com.tw/brand/12147)  
 Chope Chope By JL Studio  
 [新光三越台北信義新天地A4 4F](https://www.skm.com.tw/brand/12675)  
-Christian Louboutin  
-[新光三越台北信義新天地A9 1F](https://www.skm.com.tw/brand/12982)  
 Chunyin  
 [新光三越高雄左營店 2F](https://www.skm.com.tw/brand/3414)  
 Clay Derman  
@@ -1018,22 +1000,16 @@ Columbia 哥倫比亞
 [新光三越台北信義新天地A11 5F](https://www.skm.com.tw/brand/11392)  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/11392)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11392)  
-Cote Noire  
-[新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12186)  
 Cotélac  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12909)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12909)  
 [新光三越台北天母店 3F](https://www.skm.com.tw/brand/12909)  
-Cuisinart美膳雅  
-[新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/12381)  
 Curista Coffee 奎士咖啡  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/13133)  
 D&D Jewelry  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12857)  
 DA VILLAGE  
 [新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/12075)  
-DAILY STATEMENT  
-[新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/13090)  
 DAISO JAPAN 大創百貨  
 [新光三越台南新天地小西門 B2F](https://www.skm.com.tw/brand/11275)  
 [新光三越高雄左營店彩虹市集 2F](https://www.skm.com.tw/brand/11275)  
@@ -1053,6 +1029,7 @@ DANSKIN
 DARPHIN 朵法  
 [新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/10969)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/10969)  
+[新光三越台北天母店 1F](https://www.skm.com.tw/brand/10969)  
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/10969)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/10969)  
 DAVIDS  
@@ -1084,11 +1061,9 @@ DEYA
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/12806)  
 [新光三越高雄左營店彩虹市集 1F](https://www.skm.com.tw/brand/12806)  
 DIANA  
-[新光三越台北站前店 5F](https://www.skm.com.tw/brand/12535)  
+[新光三越台北站前店 4F](https://www.skm.com.tw/brand/12535)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12535)  
-[新光三越高雄左營店 4F](https://www.skm.com.tw/brand/12535)  
 DIANA女鞋  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11020)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/11020)  
 [新光三越桃園站前店 2F](https://www.skm.com.tw/brand/11020)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11020)  
@@ -1111,6 +1086,8 @@ DIOR迪奧
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12011)  
 [新光三越高雄三多店 1F](https://www.skm.com.tw/brand/12011)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/12011)  
+DIPTYQUE-客林  
+[新光三越台北信義新天地A9 1F](https://www.skm.com.tw/brand/2712)  
 DISK-潮男誌  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/12338)  
 DITA  
@@ -1137,6 +1114,8 @@ DONQ 東客
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/12897)  
 [新光三越台南中山店 B2F](https://www.skm.com.tw/brand/12897)  
 [新光三越高雄三多店 B2F](https://www.skm.com.tw/brand/12897)  
+DOUBLE U  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13278)  
 DOUCHANGLEE  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12617)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12617)  
@@ -1165,8 +1144,6 @@ DRUNK ELEPHANT 醉象
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/12976)  
 DTB BAGS  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/3012)  
-DUBI  
-[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/2031)  
 DUE ITALIAN  
 [新光三越台北信義新天地A4 B2F](https://www.skm.com.tw/brand/2409)  
 DYCTEAM  
@@ -1264,9 +1241,6 @@ EPISODE
 ERICA STORE  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12700)  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/12700)  
-[新光三越台南新天地 4F](https://www.skm.com.tw/brand/12700)  
-ESPACE  BEAUTE  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11723)  
 ESPACE BEAUTE  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/2715)  
 ESTEE LAUDER 雅詩蘭黛  
@@ -1285,8 +1259,10 @@ ESTEE LAUDER 雅詩蘭黛
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/11900)  
 ETVOS  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12879)  
+EVENLESS  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13273)  
 EVEROSE 愛芙蓉  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11802)  
+[新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/11802)  
 EVO  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/11717)  
 EVVON  
@@ -1295,7 +1271,6 @@ EXPERIENCE
 [新光三越台北天母店 3F](https://www.skm.com.tw/brand/11030)  
 [新光三越高雄左營店 2F](https://www.skm.com.tw/brand/11030)  
 Ea  
-[新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/11514)  
 [新光三越桃園站前店 2F](https://www.skm.com.tw/brand/11514)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11514)  
 [新光三越嘉義垂楊店 2F](https://www.skm.com.tw/brand/11514)  
@@ -1311,7 +1286,6 @@ Envitaly戀義酒藏
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/3248)  
 F'ees  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/12297)  
-[新光三越台北站前店 8F](https://www.skm.com.tw/brand/12297)  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/12297)  
 [新光三越桃園站前店 5F](https://www.skm.com.tw/brand/12297)  
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/12297)  
@@ -1320,19 +1294,12 @@ F'ees
 [新光三越高雄左營店 5F](https://www.skm.com.tw/brand/12297)  
 FABIANA FILIPPI  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/12603)  
-FACE  
-[新光三越台北站前店 3F](https://www.skm.com.tw/brand/12760)  
-FACHA  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/12601)  
 FAIR LADY  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/11529)  
-[新光三越台北天母店 1F](https://www.skm.com.tw/brand/11529)  
-[新光三越台南中山店 2F](https://www.skm.com.tw/brand/11529)  
+[新光三越台北天母店 2F](https://www.skm.com.tw/brand/11529)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11529)  
 [新光三越高雄三多店 2F](https://www.skm.com.tw/brand/11529)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/11529)  
-FARZO  
-[新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/273)  
 FASHION SHOW 流行秀  
 [新光三越嘉義垂楊店 2F](https://www.skm.com.tw/brand/11860)  
 FASTER 名人泳裝  
@@ -1341,8 +1308,6 @@ FASTER 名人泳裝
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/11110)  
 FAURE LE PAGE  
 [新光三越台北信義新天地A4 2F](https://www.skm.com.tw/brand/2706)  
-FCUK French Connection  
-[新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/11952)  
 FECA 鐵碳  
 [新光三越高雄三多店 9F](https://www.skm.com.tw/brand/11315)  
 FENDI  
@@ -1353,15 +1318,17 @@ FERRAGAMO
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/11965)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11965)  
 FESTARIA  
+[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11487)  
+[新光三越台北站前店 1F](https://www.skm.com.tw/brand/11487)  
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/11487)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/11487)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11487)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/11487)  
 FFFF  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12903)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12903)  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/12903)  
 [新光三越台南中山店 4F](https://www.skm.com.tw/brand/12903)  
+[新光三越台南新天地 4F](https://www.skm.com.tw/brand/12903)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/12903)  
 FILA KIDS  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/12804)  
@@ -1391,7 +1358,6 @@ FISSLER 菲仕樂
 FITFLOP  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/11295)  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/11295)  
-[新光三越台中中港店 4F](https://www.skm.com.tw/brand/11295)  
 [新光三越嘉義垂楊店 3F](https://www.skm.com.tw/brand/11295)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11295)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/11295)  
@@ -1419,6 +1385,8 @@ FLYING EAGLE 飛鷹
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/12435)  
 FM  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/12501)  
+FM SHOES  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13277)  
 FOLLI FOLLIE  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/11519)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/11519)  
@@ -1447,6 +1415,7 @@ FRED PERRY
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/11959)  
 FREE  
 [新光三越台北站前店 4F](https://www.skm.com.tw/brand/12288)  
+[新光三越嘉義垂楊店 3F](https://www.skm.com.tw/brand/12288)  
 FREEDOM JAPAN  
 [新光三越台南中山店 4F](https://www.skm.com.tw/brand/11172)  
 FUJI按摩椅  
@@ -1455,15 +1424,16 @@ FUJI按摩椅
 FUTURO  
 [新光三越台北站前店 2F](https://www.skm.com.tw/brand/13024)  
 [新光三越台北南西店 B1F](https://www.skm.com.tw/brand/13024)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13024)  
 Fees Beaute  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/13104)  
 Florian Taiwan 福里安花神  
 [新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/12742)  
 [新光三越台中中港店 2F](https://www.skm.com.tw/brand/12742)  
+Forever Fun  
+[新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/13301)  
 Full Want扶旺號  
 [新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/11453)  
-F’ees BEAUTE  
-[新光三越台北南西店 3F](https://www.skm.com.tw/brand/11451)  
 G/FORE  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/13148)  
 G2000  
@@ -1475,7 +1445,7 @@ G2000
 G2000.女裝  
 [新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/10949)  
 GARDENA  
-[新光三越台南中山店 2F](https://www.skm.com.tw/brand/12258)  
+[新光三越台南中山店 7F](https://www.skm.com.tw/brand/12258)  
 GARMIN  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/12306)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/12306)  
@@ -1491,11 +1461,10 @@ GBA吉比鮮釀
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/3286)  
 [新光三越台北南西店三館 8F](https://www.skm.com.tw/brand/3286)  
 [新光三越台中中港店 13F](https://www.skm.com.tw/brand/3286)  
-GBT II 鋼彈旗艦2號店  
-[新光三越高雄左營店彩虹市集 2F](https://www.skm.com.tw/brand/11536)  
 GDC  
+[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/10947)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/10947)  
-[新光三越台北天母店 1F](https://www.skm.com.tw/brand/10947)  
+[新光三越台北天母店 2F](https://www.skm.com.tw/brand/10947)  
 GELATO PIQUE CAFÉ  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11134)  
 GENNIE'S MATERNITY奇妮孕哺  
@@ -1521,10 +1490,9 @@ GEORGE喬治皮鞋
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/10922)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/10922)  
 GETCHI  
+[新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/3099)  
 [新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/3099)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/3099)  
-GIEVES&HAWKES  
-[新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/11861)  
 GINKGO LIN 林銀杏  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/12246)  
 [新光三越台北南西店 B2F](https://www.skm.com.tw/brand/12246)  
@@ -1539,11 +1507,12 @@ GINKOO
 [新光三越台南中山店 5F](https://www.skm.com.tw/brand/12049)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12049)  
 GINZA DIAMOND SHIRAISHI  
-[新光三越桃園站前店 1F](https://www.skm.com.tw/brand/11035)  
+[新光三越桃園站前店 2F](https://www.skm.com.tw/brand/11035)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/11035)  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/11035)  
 GIORDANO LADIES  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12731)  
+[新光三越台北站前店 4F](https://www.skm.com.tw/brand/12731)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12731)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12731)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12731)  
@@ -1572,8 +1541,6 @@ GIORGIO VARALLI
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/2359)  
 GLADLESS  
 [新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12962)  
-GLITTER  
-[新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/2084)  
 GLOBAL WORK  
 [新光三越台北天母店 2F](https://www.skm.com.tw/brand/13135)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/13135)  
@@ -1612,10 +1579,10 @@ GREEN GATE
 GREEN PARKS  
 [新光三越台北天母店 2F](https://www.skm.com.tw/brand/11992)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11992)  
-[新光三越嘉義垂楊店 5F](https://www.skm.com.tw/brand/11992)  
+[新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/11992)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/11992)  
 GREEN PINE  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/12728)  
+[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/12728)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/12728)  
 [新光三越桃園站前店 2F](https://www.skm.com.tw/brand/12728)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12728)  
@@ -1652,8 +1619,6 @@ Gelovery Gift
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/13017)  
 Gigo智高  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/12505)  
-Gontran Cherrier Bakery  
-[新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/491)  
 Gtech 匯聚  
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/11916)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/11916)  
@@ -1676,6 +1641,7 @@ HABIBI
 HABU 童鞋  
 [新光三越台北站前店 8F](https://www.skm.com.tw/brand/12662)  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/12662)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/12662)  
 [新光三越嘉義垂楊店 9F](https://www.skm.com.tw/brand/12662)  
 [新光三越台南中山店 8F](https://www.skm.com.tw/brand/12662)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12662)  
@@ -1686,6 +1652,7 @@ HAIKEE 海記醬油雞
 HALLMARK  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/173)  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/173)  
+[新光三越嘉義垂楊店 8F](https://www.skm.com.tw/brand/173)  
 [新光三越台南中山店 8F](https://www.skm.com.tw/brand/173)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/173)  
 HAMILTON  
@@ -1704,7 +1671,6 @@ HANG TEN
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11128)  
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/11128)  
 HANRO  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12919)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12919)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12919)  
 HAO 小豪包膜  
@@ -1740,7 +1706,6 @@ HERBIVORE
 [新光三越台北信義新天地A4 2F](https://www.skm.com.tw/brand/10916)  
 HERBOX 荷柏園  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/12571)  
-[新光三越台南中山店 2F](https://www.skm.com.tw/brand/12571)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12571)  
 HERMES  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12929)  
@@ -1748,7 +1713,9 @@ HERMES BEAUTY
 [新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/11712)  
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/11712)  
 HERSCHEL  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/12766)  
 [新光三越台北南西店三館 4F](https://www.skm.com.tw/brand/12766)  
+[新光三越桃園站前店 5F](https://www.skm.com.tw/brand/12766)  
 [新光三越台中中港店 11F](https://www.skm.com.tw/brand/12766)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/12766)  
 HEYA  
@@ -1767,10 +1734,6 @@ HITACHI
 [新光三越台北南西店 7F](https://www.skm.com.tw/brand/12088)  
 HOGAN  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/248)  
-HOII  
-[新光三越台北南西店 3F](https://www.skm.com.tw/brand/12753)  
-HOM  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/12699)  
 HOME SHOP  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12701)  
 [新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12701)  
@@ -1781,7 +1744,6 @@ HOME SHOP
 HOME WORKING  
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/11294)  
 [新光三越台北站前店 9F](https://www.skm.com.tw/brand/11294)  
-[新光三越台北南西店 7F](https://www.skm.com.tw/brand/11294)  
 [新光三越桃園站前店 9F](https://www.skm.com.tw/brand/11294)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11294)  
 [新光三越嘉義垂楊店 10F](https://www.skm.com.tw/brand/11294)  
@@ -1795,8 +1757,6 @@ HONMA
 [新光三越台北南西店 5F](https://www.skm.com.tw/brand/1819)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/1819)  
 HONOLULU CAFÉ 檀島香港茶餐廳  
-[新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11377)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11377)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11377)  
 HPW TIME  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11632)  
@@ -1849,10 +1809,10 @@ Hodin Choice
 [新光三越嘉義垂楊店 3F](https://www.skm.com.tw/brand/13091)  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/13091)  
 Hugsie  
-[新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/2701)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/2701)  
 [新光三越高雄左營店 5F](https://www.skm.com.tw/brand/2701)  
 Hurley  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11055)  
 [新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/11055)  
 [新光三越台南中山店 2F](https://www.skm.com.tw/brand/11055)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11055)  
@@ -1872,8 +1832,6 @@ ICB
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/11052)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11052)  
 [新光三越高雄左營店 2F](https://www.skm.com.tw/brand/11052)  
-ICU  
-[新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/2009)  
 IENA  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11551)  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/11551)  
@@ -1884,7 +1842,6 @@ IF
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11385)  
 [新光三越台北站前店 4F](https://www.skm.com.tw/brand/11385)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/11385)  
-[新光三越桃園站前店 2F](https://www.skm.com.tw/brand/11385)  
 IKEUCHI池內有機  
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/1739)  
 IKKS  
@@ -1947,7 +1904,6 @@ IZABO
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/12543)  
 IZZUE  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/12610)  
-[新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/12610)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/12610)  
 Isabelle Wen 溫慶珠  
 [新光三越嘉義垂楊店 2F](https://www.skm.com.tw/brand/12042)  
@@ -1965,15 +1921,12 @@ JACK NICKLAUS
 [新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/11085)  
 [新光三越台北站前店 6F](https://www.skm.com.tw/brand/11085)  
 [新光三越台北南西店 5F](https://www.skm.com.tw/brand/11085)  
-JADE STAR 璽星  
-[新光三越台北站前店 5F](https://www.skm.com.tw/brand/12958)  
-[新光三越台北南西店 4F](https://www.skm.com.tw/brand/12958)  
 JAMBA JUICE  
 [新光三越台中中港店 10F](https://www.skm.com.tw/brand/2405)  
 JB MurMur Talk毛毛頭寵物俱樂部  
 [新光三越台北站前店 8F](https://www.skm.com.tw/brand/3633)  
 JEEP  
-[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/12578)  
+[新光三越台北南西店 8F](https://www.skm.com.tw/brand/1814)  
 JEN YUAN 珍苑  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/12865)  
 JENNYA婕妮雅  
@@ -1991,6 +1944,8 @@ JILL STUART.設計師服飾
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/11202)  
 JILL by JILLSTUART  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12508)  
+JIM GATES R.H.C.  
+[新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/867)  
 JINS  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11744)  
 [新光三越台北站前店 3F](https://www.skm.com.tw/brand/11744)  
@@ -2006,8 +1961,6 @@ JIU ZHEN NAN 舊振南
 [新光三越台北南西店 B2F](https://www.skm.com.tw/brand/12050)  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/12050)  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/12050)  
-JIUJIU  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/1692)  
 JO MALONE LONDON  
 [新光三越台北信義新天地A4 2F](https://www.skm.com.tw/brand/11184)  
 [新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/11184)  
@@ -2030,21 +1983,20 @@ JOHAN
 JOHNSON 喬山  
 [新光三越台北信義新天地A11 5F](https://www.skm.com.tw/brand/12590)  
 [新光三越嘉義垂楊店 10F](https://www.skm.com.tw/brand/12590)  
+[新光三越嘉義垂楊店 10F](https://www.skm.com.tw/brand/12590)  
 [新光三越台南中山店 9F](https://www.skm.com.tw/brand/12590)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12590)  
 [新光三越高雄三多店 10F](https://www.skm.com.tw/brand/12590)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/12590)  
 JORDAN  
 [新光三越台中中港店 2F](https://www.skm.com.tw/brand/1402)  
+JORDON  
+[新光三越台北信義新天地A11 5F](https://www.skm.com.tw/brand/717)  
 JORI  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/11398)  
 JOSEPH  
 [新光三越台北信義新天地A4 2F](https://www.skm.com.tw/brand/12780)  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/12780)  
-JOSEPH STUDIO  
-[新光三越台中中港店 3F](https://www.skm.com.tw/brand/11258)  
-JOTT  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/10932)  
 JOY COLORi  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/11527)  
 JTC  
@@ -2073,24 +2025,23 @@ JURA 卡布蘭莎
 [新光三越台北南西店 7F](https://www.skm.com.tw/brand/11877)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11877)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11877)  
-JURLIQUE 茱莉蔻  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11061)  
 JUST BLOOM  
-[新光三越台北站前店 1F](https://www.skm.com.tw/brand/12746)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/12746)  
 JUST DIAMOND  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12651)  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/12651)  
+[新光三越台北站前店 1F](https://www.skm.com.tw/brand/12651)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/12651)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12651)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12651)  
 JUST GOLD  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/11846)  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11846)  
+[新光三越台北站前店 1F](https://www.skm.com.tw/brand/11846)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/11846)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/11846)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11846)  
 JUST J'S MISS  
-[新光三越台北站前店 5F](https://www.skm.com.tw/brand/11775)  
+[新光三越台北站前店 4F](https://www.skm.com.tw/brand/11775)  
+[新光三越台中中港店 4F](https://www.skm.com.tw/brand/11775)  
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/11775)  
 Jabra  
 [新光三越台北信義新天地A9 5F](https://www.skm.com.tw/brand/3170)  
@@ -2130,7 +2081,6 @@ KANEBO 佳麗寶
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/12730)  
 KANGOL  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/11341)  
-[新光三越台北南西店三館 1F](https://www.skm.com.tw/brand/11341)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/11341)  
 KANGOL KIDS  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/12969)  
@@ -2141,13 +2091,11 @@ KAVA
 KAWAKUBO  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/12083)  
 KEDS  
-[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11340)  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11340)  
 [新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/11340)  
 [新光三越台中中港店 11F](https://www.skm.com.tw/brand/11340)  
-[新光三越嘉義垂楊店 5F](https://www.skm.com.tw/brand/11340)  
-[新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/11340)  
 KEELEY ANN  
+[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11299)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11299)  
 [新光三越嘉義垂楊店 2F](https://www.skm.com.tw/brand/11299)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11299)  
@@ -2167,6 +2115,7 @@ KERASTASE 巴黎卡詩
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/11383)  
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/11383)  
 [新光三越台南中山店 1F](https://www.skm.com.tw/brand/11383)  
+[新光三越台南新天地 GF](https://www.skm.com.tw/brand/11383)  
 [新光三越高雄三多店 1F](https://www.skm.com.tw/brand/11383)  
 KEY COFFEE  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/11944)  
@@ -2174,10 +2123,10 @@ KEY COFFEE
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/11944)  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/11944)  
 KEY WEAR  
+[新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/13086)  
 [新光三越台南中山店 5F](https://www.skm.com.tw/brand/13086)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/13086)  
-KID BLUE  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/10948)  
+[新光三越高雄左營店 4F](https://www.skm.com.tw/brand/13086)  
 KIEHL'S COFFEE HOUSE  
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/11827)  
 KIEHL'S契爾氏  
@@ -2206,11 +2155,8 @@ KINLOCH ANDERSON.女裝
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/11214)  
 KINOSHO TRANSIT  
 [新光三越台北信義新天地A9 5F](https://www.skm.com.tw/brand/11145)  
-[新光三越台北南西店 5F](https://www.skm.com.tw/brand/11145)  
-[新光三越台北天母店二館 2F](https://www.skm.com.tw/brand/11145)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11145)  
 KINOSHOHAMPU  
-[新光三越台北站前店 4F](https://www.skm.com.tw/brand/10919)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/10919)  
 KIPLING  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11374)  
@@ -2225,7 +2171,6 @@ KNIGHTS BRIDGE.女裝
 [新光三越桃園站前店 4F](https://www.skm.com.tw/brand/12214)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12214)  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/12214)  
-[新光三越台南中山店 3F](https://www.skm.com.tw/brand/12214)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/12214)  
 KOBE Sweets  
 [新光三越台北南西店 B2F](https://www.skm.com.tw/brand/1392)  
@@ -2235,8 +2180,6 @@ KOKKO
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11558)  
 KONIG 金格  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/12187)  
-KORA  
-[新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11574)  
 KOSE 高絲  
 [新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/12918)  
 [新光三越台北站前店 1F](https://www.skm.com.tw/brand/12918)  
@@ -2257,8 +2200,6 @@ KUHN RIKON 瑞康屋
 [新光三越嘉義垂楊店 10F](https://www.skm.com.tw/brand/12472)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12472)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/12472)  
-KUOSH  
-[新光三越台北站前店 4F](https://www.skm.com.tw/brand/10938)  
 KURA CHIKA by PORTER  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/1843)  
 KYBUN  
@@ -2285,7 +2226,7 @@ Kinloch Anderson休閒服
 Kinloch Anderson童裝  
 [新光三越台北站前店 8F](https://www.skm.com.tw/brand/12582)  
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/12582)  
-[新光三越台南中山店 8F](https://www.skm.com.tw/brand/12582)  
+[新光三越嘉義垂楊店 9F](https://www.skm.com.tw/brand/12582)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12582)  
 Kinloch Anderson金安德森  
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/12272)  
@@ -2302,8 +2243,6 @@ KizzKizz
 KlassiC.  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/3219)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/3219)  
-KnightsBridge  
-[新光三越台南新天地 4F](https://www.skm.com.tw/brand/2853)  
 Krispy Kreme  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/537)  
 K－SWISS  
@@ -2326,7 +2265,7 @@ L'HERBOFLORE-蕾舒翠
 L'OCCITANE 歐舒丹  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11564)  
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/11564)  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11564)  
+[新光三越台北站前店 1F](https://www.skm.com.tw/brand/11564)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/11564)  
 [新光三越台北天母店二館 1F](https://www.skm.com.tw/brand/11564)  
 [新光三越桃園站前店 1F](https://www.skm.com.tw/brand/11564)  
@@ -2379,7 +2318,6 @@ LACOSTE.服飾
 LACOSTE.配件  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12119)  
 LADIES 蕾黛絲  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12850)  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/12850)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/12850)  
 [新光三越台北天母店 3F](https://www.skm.com.tw/brand/12850)  
@@ -2391,8 +2329,6 @@ LADIES 蕾黛絲
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/12850)  
 LADY M  
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/13106)  
-LADY ME  
-[新光三越高雄左營店 4F](https://www.skm.com.tw/brand/10941)  
 LAGOSTINA  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/12498)  
 [新光三越嘉義垂楊店 10F](https://www.skm.com.tw/brand/12498)  
@@ -2402,7 +2338,6 @@ LAKING
 [新光三越桃園站前店 6F](https://www.skm.com.tw/brand/12397)  
 [新光三越台中中港店 11F](https://www.skm.com.tw/brand/12397)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/12397)  
-[新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/12397)  
 [新光三越高雄三多店 B1F](https://www.skm.com.tw/brand/12397)  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/12397)  
 LANCOME 蘭蔻  
@@ -2422,10 +2357,12 @@ LANCOME 蘭蔻
 LANEIGE 蘭芝  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/10998)  
 LAPAGE  
+[新光三越台北南西店 4F](https://www.skm.com.tw/brand/12513)  
 [新光三越台南中山店 2F](https://www.skm.com.tw/brand/12513)  
+LAUTREAMONT  
+[新光三越台中中港店 4F](https://www.skm.com.tw/brand/12693)  
 LAVIDO  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/641)  
-[新光三越高雄左營店 5F](https://www.skm.com.tw/brand/641)  
 LAZARE  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/11303)  
 LE COQ SPORTIF  
@@ -2437,6 +2374,7 @@ LE COQ SPORTIF.SPORT
 [新光三越桃園站前店 7F](https://www.skm.com.tw/brand/12446)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/12446)  
 [新光三越嘉義垂楊店 6F](https://www.skm.com.tw/brand/12446)  
+[新光三越台南中山店 2F](https://www.skm.com.tw/brand/12446)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/12446)  
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/12446)  
 LE COUVENT  
@@ -2553,18 +2491,12 @@ LOVFEE
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/11531)  
 LOWRYS FARM  
 [新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12388)  
-LUCIANO  
-[新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/11021)  
-[新光三越台南新天地 2F](https://www.skm.com.tw/brand/11021)  
-LUMI  
-[新光三越台北站前店 3F](https://www.skm.com.tw/brand/12156)  
 LYNX  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/12202)  
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/12202)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12202)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/12202)  
 La Felino  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12493)  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/12493)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/12493)  
 [新光三越桃園站前店 8F](https://www.skm.com.tw/brand/12493)  
@@ -2577,7 +2509,6 @@ La Mode
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/12892)  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12892)  
 La Vie Aisee 金華歌爾  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12620)  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/12620)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/12620)  
 [新光三越台北天母店 3F](https://www.skm.com.tw/brand/12620)  
@@ -2587,7 +2518,6 @@ La Vie Aisee 金華歌爾
 [新光三越高雄三多店 5F](https://www.skm.com.tw/brand/12620)  
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/12620)  
 Lady  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12191)  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/12191)  
 [新光三越台北天母店 6F](https://www.skm.com.tw/brand/12191)  
 [新光三越台南中山店 5F](https://www.skm.com.tw/brand/12191)  
@@ -2598,6 +2528,7 @@ Lauren Ralph Lauren
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11032)  
 Le Polka  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/1135)  
+[新光三越台北南西店 3F](https://www.skm.com.tw/brand/1135)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/1135)  
 LeSportsac  
 [新光三越台北站前店 3F](https://www.skm.com.tw/brand/12832)  
@@ -2609,7 +2540,6 @@ Little Garden小花園
 Little house  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/1110)  
 Lofan露蒂芬  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12360)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12360)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12360)  
 Loro Piana  
@@ -2637,7 +2567,7 @@ MAC
 MACADAMIA  
 [新光三越台北信義新天地A4 4F](https://www.skm.com.tw/brand/11957)  
 MACANNA 麥坎納  
-[新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/12124)  
+[新光三越嘉義垂楊店 3F](https://www.skm.com.tw/brand/12124)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/12124)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/12124)  
 MADE IN HEAVEN  
@@ -2646,7 +2576,8 @@ MAESTA
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/359)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/359)  
 MAGY  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11633)  
+[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11633)  
+[新光三越台北站前店 3F](https://www.skm.com.tw/brand/11633)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/11633)  
 [新光三越台北天母店 1F](https://www.skm.com.tw/brand/11633)  
 [新光三越桃園站前店 2F](https://www.skm.com.tw/brand/11633)  
@@ -2677,6 +2608,8 @@ MANGO
 [新光三越台南中山店 3F](https://www.skm.com.tw/brand/10984)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/10984)  
 [新光三越高雄三多店 2F](https://www.skm.com.tw/brand/10984)  
+MANHATTAN  
+[新光三越台北站前店 6F](https://www.skm.com.tw/brand/13289)  
 MARAIS瑪黑家居  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/12948)  
 MARC JACOBS  
@@ -2693,7 +2626,6 @@ MARELLI
 MARIGOLD  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/12964)  
 MARILYN 瑪麗蓮  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11708)  
 [新光三越桃園站前店 8F](https://www.skm.com.tw/brand/11708)  
 MARINA YACHTING  
 [新光三越台北信義新天地A9 3F](https://www.skm.com.tw/brand/13023)  
@@ -2708,7 +2640,6 @@ MARU.A
 MARYLING  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/12934)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12934)  
-[新光三越台中中港店 4F](https://www.skm.com.tw/brand/12934)  
 MASSE  
 [新光三越台北站前店 11F](https://www.skm.com.tw/brand/2533)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/2533)  
@@ -2716,7 +2647,7 @@ MASTER MAX
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12605)  
 [新光三越台北站前店 4F](https://www.skm.com.tw/brand/12605)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12605)  
-[新光三越台北天母店 2F](https://www.skm.com.tw/brand/12605)  
+[新光三越台北天母店 3F](https://www.skm.com.tw/brand/12605)  
 [新光三越桃園站前店 2F](https://www.skm.com.tw/brand/12605)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12605)  
 [新光三越台南中山店 5F](https://www.skm.com.tw/brand/12605)  
@@ -2728,14 +2659,17 @@ MATSUZAKA TEI 樂軒松阪亭
 MAUVIEL  
 [新光三越台北站前店 10F](https://www.skm.com.tw/brand/11201)  
 [新光三越台北天母店 4F](https://www.skm.com.tw/brand/11201)  
+MAVEN  
+[新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/13302)  
 MAWA  
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/11457)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11457)  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11457)  
 MAX&Co.  
-[新光三越台南新天地 2F](https://www.skm.com.tw/brand/11651)  
+[新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/11651)  
+MAXIM  
+[新光三越台北南西店 3F](https://www.skm.com.tw/brand/13303)  
 MA－TSU Mi  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/12719)  
+[新光三越台北站前店 3F](https://www.skm.com.tw/brand/12719)  
 [新光三越桃園站前店 4F](https://www.skm.com.tw/brand/12719)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12719)  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/12719)  
@@ -2754,10 +2688,11 @@ MEISSEN 國裕
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/10994)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/10994)  
 MELROSE  
+[新光三越台北站前店 3F](https://www.skm.com.tw/brand/11419)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/11419)  
+[新光三越嘉義垂楊店 2F](https://www.skm.com.tw/brand/11419)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11419)  
 MELVITA 蜜葳特  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11845)  
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/11845)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11845)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11845)  
@@ -2767,10 +2702,6 @@ MERRELL
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/11576)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/11576)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11576)  
-MEY 智誠  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/11278)  
-MFA  
-[新光三越台北信義新天地A4 4F](https://www.skm.com.tw/brand/12725)  
 MIACUCINA  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/11623)  
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/11623)  
@@ -2798,9 +2729,7 @@ MIELE嘉儀
 [新光三越高雄三多店 10F](https://www.skm.com.tw/brand/11301)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/11301)  
 MIKIMOTO  
-[新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/11572)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/11572)  
-[新光三越台北天母店二館 1F](https://www.skm.com.tw/brand/11572)  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/11572)  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/11572)  
 MILK17 純新烘焙  
@@ -2815,14 +2744,10 @@ MINI ONE
 [新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/11682)  
 MISS  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11817)  
-[新光三越嘉義垂楊店 2F](https://www.skm.com.tw/brand/11817)  
 MISS 21  
-[新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/11778)  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11778)  
+[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11778)  
 [新光三越台北南西店三館 1F](https://www.skm.com.tw/brand/11778)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11778)  
-MISSCHU  
-[新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/13176)  
 MISTER DONUT  
 [新光三越台南中山店 B2F](https://www.skm.com.tw/brand/11853)  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/11853)  
@@ -2844,10 +2769,8 @@ MLB
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/10995)  
 MLB KOREA  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/11113)  
-[新光三越台北南西店三館 2F](https://www.skm.com.tw/brand/11113)  
+[新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/11113)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/11113)  
-MO BO  
-[新光三越台南新天地 4F](https://www.skm.com.tw/brand/3217)  
 MOBELLIO  
 [新光三越台北信義新天地A9 3F](https://www.skm.com.tw/brand/13032)  
 MOISELLE  
@@ -2855,19 +2778,20 @@ MOISELLE
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12637)  
 MOLLIFIX  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/2236)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/2236)  
 [新光三越台北南西店三館 4F](https://www.skm.com.tw/brand/2236)  
 [新光三越台南中山店 B1F](https://www.skm.com.tw/brand/2236)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/2236)  
 MONCEAU FLEURS  
-[新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/12368)  
 [新光三越台北南西店 B2F](https://www.skm.com.tw/brand/12368)  
-[新光三越台北天母店 B1F](https://www.skm.com.tw/brand/12368)  
 MONCLER  
 [新光三越台北信義新天地A4 1F](https://www.skm.com.tw/brand/12940)  
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/12940)  
 MONDAINE  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/1742)  
 [新光三越台北南西店 5F](https://www.skm.com.tw/brand/1742)  
+MONNALISA  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13312)  
 MONTAGUT休閒服  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/11271)  
 [新光三越台北站前店 6F](https://www.skm.com.tw/brand/11271)  
@@ -2908,8 +2832,11 @@ MOUNTNEER
 [新光三越桃園站前店 7F](https://www.skm.com.tw/brand/2239)  
 MRS. FAITH'S 費太太  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/11313)  
+MU GOLF  
+[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/13139)  
 MUJI 無印良品  
 [新光三越台北站前店 3F](https://www.skm.com.tw/brand/11587)  
+[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11587)  
 [新光三越台中中港店 11F](https://www.skm.com.tw/brand/11587)  
 [新光三越台南中山店 B1F](https://www.skm.com.tw/brand/11587)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11587)  
@@ -2924,10 +2851,7 @@ MUNSINGWEAR 企鵝
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/12185)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12185)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/12185)  
-MY SIDE  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/2536)  
 MYSTOCK  
-[新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/12957)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12957)  
 Maison Francis Kurkdjian  
 [新光三越台北信義新天地A9 1F](https://www.skm.com.tw/brand/11912)  
@@ -2947,10 +2871,7 @@ Miopane
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/11319)  
 [新光三越高雄三多店 B2F](https://www.skm.com.tw/brand/11319)  
 [新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/11319)  
-Mirco Poma  
-[新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/11838)  
 Mode Marie 曼黛瑪璉  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11242)  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/11242)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/11242)  
 [新光三越台北天母店 6F](https://www.skm.com.tw/brand/11242)  
@@ -2962,8 +2883,6 @@ Mode Marie 曼黛瑪璉
 [新光三越高雄三多店 5F](https://www.skm.com.tw/brand/11242)  
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/11242)  
 Modern Girl 瑪登瑪朵  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/10933)  
-[新光三越台北站前店 5F](https://www.skm.com.tw/brand/10933)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/10933)  
 [新光三越桃園站前店 8F](https://www.skm.com.tw/brand/10933)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/10933)  
@@ -2973,8 +2892,6 @@ Modern Girl 瑪登瑪朵
 Monkey Bow  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/1072)  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/1072)  
-Moonshine Coffee  
-[新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/2839)  
 Mother Garden  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/11731)  
 Mountain Hardwear  
@@ -2991,10 +2908,11 @@ MyAnime Square
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/12797)  
 N.CORE  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/11597)  
+NAIGAI  
+[新光三越台北南西店 3F](https://www.skm.com.tw/brand/13304)  
 NARA CAMICIEE  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/12334)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12334)  
-[新光三越台中中港店 4F](https://www.skm.com.tw/brand/12334)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12334)  
 NARS  
 [新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/11915)  
@@ -3004,7 +2922,6 @@ NARS
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11915)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/11915)  
 NATIVE  
-[新光三越台北南西店三館 4F](https://www.skm.com.tw/brand/790)  
 [新光三越台中中港店 11F](https://www.skm.com.tw/brand/790)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/790)  
 NATURAL BEAUTY BASIC  
@@ -3027,9 +2944,14 @@ NAUTICA KIDS
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/11286)  
 [新光三越嘉義垂楊店 9F](https://www.skm.com.tw/brand/11286)  
 NAVY SELECT SHOP  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11043)  
 [新光三越台北南西店三館 4F](https://www.skm.com.tw/brand/11043)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/11043)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11043)  
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/11043)  
+[新光三越高雄左營店彩虹市集 2F](https://www.skm.com.tw/brand/11043)  
+NAZO  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13260)  
 NESPRESSO  
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/12425)  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/12425)  
@@ -3048,7 +2970,6 @@ NIKE
 [新光三越台北站前店 11F](https://www.skm.com.tw/brand/12573)  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/12573)  
 [新光三越台北南西店三館 5F](https://www.skm.com.tw/brand/12573)  
-[新光三越台北天母店二館 B1F](https://www.skm.com.tw/brand/12573)  
 [新光三越桃園站前店 7F](https://www.skm.com.tw/brand/12573)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/12573)  
 [新光三越嘉義垂楊店 6F](https://www.skm.com.tw/brand/12573)  
@@ -3085,7 +3006,6 @@ NU
 [新光三越嘉義垂楊店 5F](https://www.skm.com.tw/brand/11517)  
 [新光三越台南中山店 6F](https://www.skm.com.tw/brand/11517)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11517)  
-[新光三越高雄三多店 7F](https://www.skm.com.tw/brand/11517)  
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/11517)  
 NUNUNU  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/11050)  
@@ -3094,7 +3014,6 @@ New Era
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/12182)  
 [新光三越台北南西店三館 4F](https://www.skm.com.tw/brand/12182)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/12182)  
-[新光三越台南新天地 5F](https://www.skm.com.tw/brand/12182)  
 Nike Kids  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/12349)  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/12349)  
@@ -3103,8 +3022,6 @@ Nike Kids
 Noodle & Boo  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/11467)  
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/11467)  
-NuBra  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11310)  
 NutriMate 你滋美得  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/10914)  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/10914)  
@@ -3130,8 +3047,9 @@ OAKLEY OSTORE
 OCEAN MANGO  
 [新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/13206)  
 OFFERMANN  
-[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/12250)  
 [新光三越高雄左營店 2F](https://www.skm.com.tw/brand/12250)  
+OGAWA  
+[新光三越台南中山店 10F](https://www.skm.com.tw/brand/11267)  
 OH HER  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/13107)  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/13107)  
@@ -3144,6 +3062,8 @@ OHANA MAHAALO
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12010)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12010)  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/12010)  
+OKASANG  
+[新光三越台中中港店 B2F](https://www.skm.com.tw/brand/13285)  
 OLENS  
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/12922)  
 [新光三越台北站前店 1F](https://www.skm.com.tw/brand/12922)  
@@ -3178,6 +3098,7 @@ ONETEASPOON
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/10987)  
 [新光三越台北南西店三館 4F](https://www.skm.com.tw/brand/10987)  
 [新光三越台中中港店 11F](https://www.skm.com.tw/brand/10987)  
+[新光三越台南新天地 2F](https://www.skm.com.tw/brand/10987)  
 ONITSUKA TIGER  
 [新光三越台北南西店三館 2F](https://www.skm.com.tw/brand/12781)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/12781)  
@@ -3185,8 +3106,6 @@ OPEN FOR KIDS
 [新光三越嘉義垂楊店 9F](https://www.skm.com.tw/brand/12830)  
 OR.f. 錯誤  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/11228)  
-ORENZI歐倫琪  
-[新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11825)  
 ORIGINS 品木宣言  
 [新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/12104)  
 [新光三越台北站前店 1F](https://www.skm.com.tw/brand/12104)  
@@ -3195,7 +3114,7 @@ ORIGINS 品木宣言
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12104)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/12104)  
 ORIN  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/10935)  
+[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/10935)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/10935)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/10935)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/10935)  
@@ -3219,8 +3138,6 @@ OTTO 奧圖
 [新光三越台南中山店 2F](https://www.skm.com.tw/brand/12195)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12195)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/12195)  
-OUI  
-[新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/12283)  
 OUTDOOR  
 [新光三越桃園站前店 5F](https://www.skm.com.tw/brand/12431)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/12431)  
@@ -3237,7 +3154,7 @@ Omas 歐嬤德式美食
 [新光三越台北南西店 B2F](https://www.skm.com.tw/brand/12996)  
 P*S COMPANY  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11099)  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11099)  
+[新光三越台北站前店 3F](https://www.skm.com.tw/brand/11099)  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/11099)  
 [新光三越台南中山店 4F](https://www.skm.com.tw/brand/11099)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/11099)  
@@ -3268,24 +3185,18 @@ PANASONIC
 [新光三越台南中山店 9F](https://www.skm.com.tw/brand/11461)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11461)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/11461)  
-PANASONIC按摩椅  
-[新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/12252)  
 PANDORA  
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/12268)  
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/12268)  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/12268)  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/12268)  
 PANSY  
-[新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/11876)  
 [新光三越台北站前店 9F](https://www.skm.com.tw/brand/11876)  
 PAN手感的店  
 [新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/13127)  
 PAO CHUAN 寶泉  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/11579)  
-PARKVIEW晴天家居  
-[新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/12827)  
 PASSIONATA  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12377)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/12377)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12377)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12377)  
@@ -3309,6 +3220,8 @@ PHILIP B
 PHILIPS 飛利浦  
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/11049)  
 [新光三越台北站前店 10F](https://www.skm.com.tw/brand/11049)  
+[新光三越台北南西店 7F](https://www.skm.com.tw/brand/11049)  
+[新光三越嘉義垂楊店 10F](https://www.skm.com.tw/brand/11049)  
 [新光三越台南中山店 9F](https://www.skm.com.tw/brand/11049)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11049)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/11049)  
@@ -3336,8 +3249,6 @@ PING
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/11515)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11515)  
 [新光三越高雄三多店 6F](https://www.skm.com.tw/brand/11515)  
-PINK  
-[新光三越台南新天地 4F](https://www.skm.com.tw/brand/12139)  
 PIPPY  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/12738)  
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/12738)  
@@ -3345,12 +3256,9 @@ PIPPY
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12738)  
 [新光三越高雄左營店 5F](https://www.skm.com.tw/brand/12738)  
 PIZZA CUT FIVE  
-[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/10918)  
-[新光三越台北站前店 3F](https://www.skm.com.tw/brand/10918)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/10918)  
 [新光三越台北南西店三館 4F](https://www.skm.com.tw/brand/10918)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/10918)  
-PLAY UP  
-[新光三越台北南西店 6F](https://www.skm.com.tw/brand/2767)  
 PLAYBOY GOLF  
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/11753)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11753)  
@@ -3387,17 +3295,15 @@ POLO RALPH LAUREN
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/12838)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/12838)  
 POLO RALPH LAUREN DENIM  
-[新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/13027)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/13027)  
 POLO RALPH LAUREN MEN 雷夫羅倫  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/11698)  
 [新光三越台北南西店 5F](https://www.skm.com.tw/brand/11698)  
-[新光三越台北天母店二館 2F](https://www.skm.com.tw/brand/11698)  
 POLO RALPH LAUREN WOMEN  
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/13187)  
 POONE  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11509)  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11509)  
+[新光三越台北站前店 3F](https://www.skm.com.tw/brand/11509)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/11509)  
 [新光三越高雄三多店 4F](https://www.skm.com.tw/brand/11509)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/11509)  
@@ -3407,7 +3313,7 @@ PORTER INTERNATIONAL
 [新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/12687)  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/12687)  
 [新光三越台北站前店 7F](https://www.skm.com.tw/brand/12687)  
-[新光三越台北南西店三館 1F](https://www.skm.com.tw/brand/12687)  
+[新光三越台北南西店三館 2F](https://www.skm.com.tw/brand/12687)  
 [新光三越桃園站前店 3F](https://www.skm.com.tw/brand/12687)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/12687)  
 [新光三越嘉義垂楊店 5F](https://www.skm.com.tw/brand/12687)  
@@ -3433,6 +3339,7 @@ PUMA
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/12120)  
 [新光三越台北南西店三館 5F](https://www.skm.com.tw/brand/12120)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/12120)  
+[新光三越嘉義垂楊店 6F](https://www.skm.com.tw/brand/12120)  
 [新光三越台南中山店 10F](https://www.skm.com.tw/brand/12120)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/12120)  
 [新光三越高雄三多店 7F](https://www.skm.com.tw/brand/12120)  
@@ -3450,8 +3357,6 @@ PUMA SELECT
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/10978)  
 [新光三越高雄三多店 7F](https://www.skm.com.tw/brand/10978)  
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/10978)  
-PYXIS 翡仕  
-[新光三越桃園站前店 4F](https://www.skm.com.tw/brand/12521)  
 Pal'las Palace  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/12835)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12835)  
@@ -3469,8 +3374,6 @@ Pierre Cardin休閒服
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/12413)  
 Pierre Cardin百翊(襯衫)  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/12369)  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/12369)  
-[新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/12369)  
 Pierre Cardin皮件.山二  
 [新光三越台北站前店 6F](https://www.skm.com.tw/brand/11772)  
 [新光三越桃園站前店 6F](https://www.skm.com.tw/brand/11772)  
@@ -3492,9 +3395,7 @@ QBER
 QUEEN SHOP  
 [新光三越高雄左營店 2F](https://www.skm.com.tw/brand/13150)  
 QUIKSILVER/ROXY  
-[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/12793)  
-[新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/12793)  
-[新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/12793)  
+[新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/12793)  
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/12793)  
 RABEANCO  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12039)  
@@ -3526,12 +3427,11 @@ RECARO
 [新光三越台北天母店 6F](https://www.skm.com.tw/brand/1656)  
 [新光三越台南中山店 8F](https://www.skm.com.tw/brand/1656)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/1656)  
-RECLASSIFIED調香室  
-[新光三越台南新天地 2F](https://www.skm.com.tw/brand/12067)  
 RED HOUSE  
 [新光三越台北站前店 4F](https://www.skm.com.tw/brand/11057)  
 [新光三越嘉義垂楊店 3F](https://www.skm.com.tw/brand/11057)  
 REEBOK  
+[新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/12093)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/12093)  
 REFORMHAUS 德風健康館  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/11245)  
@@ -3544,8 +3444,6 @@ REGAL 永城
 [新光三越台北站前店 6F](https://www.skm.com.tw/brand/12142)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12142)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/12142)  
-REGATTA CLUB  
-[新光三越台北站前店 6F](https://www.skm.com.tw/brand/13092)  
 REUN  
 [新光三越台北站前店 10F](https://www.skm.com.tw/brand/13031)  
 REVE  
@@ -3566,6 +3464,7 @@ RMK
 ROBERTA 休閒服  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/11235)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/11235)  
+[新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/11235)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/11235)  
 ROBERTO BRAVO  
 [新光三越台北信義新天地A4 2F](https://www.skm.com.tw/brand/13136)  
@@ -3631,7 +3530,6 @@ Roger Vivier
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11774)  
 Roots  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/12410)  
-[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/12410)  
 [新光三越台北信義新天地A11 5F](https://www.skm.com.tw/brand/12410)  
 [新光三越台北站前店 7F](https://www.skm.com.tw/brand/12410)  
 [新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/12410)  
@@ -3653,8 +3551,7 @@ Roots Kids
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11719)  
 [新光三越高雄左營店 5F](https://www.skm.com.tw/brand/11719)  
 Rosemaid 羅絲美睡衣  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12061)  
-[新光三越台北站前店 5F](https://www.skm.com.tw/brand/12061)  
+[新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/12061)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12061)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12061)  
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/12061)  
@@ -3671,6 +3568,8 @@ SABON
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/12715)  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/12715)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12715)  
+SACA  
+[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/222)  
 SAINT LAURENT  
 [新光三越台北信義新天地A9 1F](https://www.skm.com.tw/brand/12759)  
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/12759)  
@@ -3699,12 +3598,14 @@ SAMSONITE 新秀麗
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12424)  
 SAMSUNG  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11925)  
+SANDRO  
+[新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/2913)  
+[新光三越台中中港店 3F](https://www.skm.com.tw/brand/2913)  
 SAUCONY  
 [新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/11304)  
 SAVOR  
 [新光三越高雄三多店 3F](https://www.skm.com.tw/brand/944)  
 SAVVY 莎薇  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11412)  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/11412)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/11412)  
 [新光三越桃園站前店 8F](https://www.skm.com.tw/brand/11412)  
@@ -3729,7 +3630,7 @@ SEIKO
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/12660)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12660)  
 SHARON  
-[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/1892)  
+[新光三越台北站前店 4F](https://www.skm.com.tw/brand/1892)  
 [新光三越桃園站前店 4F](https://www.skm.com.tw/brand/1892)  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/1892)  
 SHEE'S FINE JEWELRY 侍好珠寶  
@@ -3791,8 +3692,11 @@ SIMPLY YOURS類似簡約
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/12346)  
 SISJEANS  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/12831)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/12831)  
+[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12831)  
 [新光三越桃園站前店 3F](https://www.skm.com.tw/brand/12831)  
 [新光三越台中中港店 11F](https://www.skm.com.tw/brand/12831)  
+[新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/12831)  
 SISLEY  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/11293)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/11293)  
@@ -3879,13 +3783,10 @@ SOCIE 施舒雅
 [新光三越台北南西店 9F](https://www.skm.com.tw/brand/11544)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11544)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11544)  
-SOLEIL  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11837)  
 SOMMA  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/11072)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11072)  
 SOPHIA 蘇菲亞  
-[新光三越台北站前店 5F](https://www.skm.com.tw/brand/11178)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/11178)  
 [新光三越嘉義垂楊店 2F](https://www.skm.com.tw/brand/11178)  
 [新光三越台南中山店 1F](https://www.skm.com.tw/brand/11178)  
@@ -3896,12 +3797,14 @@ SOUNDSGOOD
 [新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/12228)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/12228)  
 SPANCONNY ACCESSORY  
+[新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/1375)  
 [新光三越桃園站前店 4F](https://www.skm.com.tw/brand/1375)  
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/1375)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/1375)  
 SPIEGELAU  
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/10974)  
 SPINGLE MOVE  
+[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/3632)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/3632)  
 SPORT b.  
 [新光三越台北南西店三館 2F](https://www.skm.com.tw/brand/12207)  
@@ -3943,16 +3846,17 @@ STILE TOP
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/11867)  
 STOKKE  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/11833)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/11833)  
 STRAUSS有情門  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/3422)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/3422)  
 [新光三越高雄三多店 7F](https://www.skm.com.tw/brand/3422)  
 STRESSLESS 艾克尼斯  
+[新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/11554)  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/11554)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11554)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/11554)  
 SU:M37  
-[新光三越台南新天地 GF](https://www.skm.com.tw/brand/12774)  
 [新光三越高雄三多店 1F](https://www.skm.com.tw/brand/12774)  
 SUGAR SPICE 糖村  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/11444)  
@@ -3968,7 +3872,6 @@ SUMMER LOVE 夏之戀
 [新光三越高雄三多店 4F](https://www.skm.com.tw/brand/11904)  
 SUN FLOWER三花  
 [新光三越桃園站前店 7F](https://www.skm.com.tw/brand/11465)  
-[新光三越高雄左營店彩虹市集 1F](https://www.skm.com.tw/brand/11465)  
 SUNNY HILLS微熱山丘  
 [新光三越台中中港店 10F](https://www.skm.com.tw/brand/1861)  
 SUPER GOLF  
@@ -3996,7 +3899,6 @@ SWATCH
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12281)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/12281)  
 SWEAR 思薇爾  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11018)  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/11018)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/11018)  
 [新光三越台北天母店 6F](https://www.skm.com.tw/brand/11018)  
@@ -4008,18 +3910,12 @@ SWEAR 思薇爾
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/11018)  
 SWEET HOME雅筑傢飾  
 [新光三越台北信義新天地A4 4F](https://www.skm.com.tw/brand/12096)  
-SWEET TOUCH  
-[新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/13047)  
-SWG  
-[新光三越台南中山店 10F](https://www.skm.com.tw/brand/12708)  
-[新光三越台南新天地 5F](https://www.skm.com.tw/brand/12708)  
 SWITCH EASY  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/3576)  
 SYLVAIN LEFEBVRE  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/2216)  
 [新光三越高雄三多店 4F](https://www.skm.com.tw/brand/2216)  
 Salute 莎露  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11528)  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/11528)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/11528)  
 [新光三越桃園站前店 8F](https://www.skm.com.tw/brand/11528)  
@@ -4038,20 +3934,15 @@ Sebamed 施巴
 [新光三越台北站前店 9F](https://www.skm.com.tw/brand/11335)  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/11335)  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/11335)  
-[新光三越台南中山店 2F](https://www.skm.com.tw/brand/11335)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11335)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/11335)  
 Seduir  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/1134)  
 Simone Pérèle  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11971)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/11971)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/11971)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11971)  
-Simple for life  
-[新光三越台南新天地小西門 1F](https://www.skm.com.tw/brand/12968)  
 Soft Stretch  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12798)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12798)  
 Stayreal  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12705)  
@@ -4069,8 +3960,6 @@ Sussu bakery
 [新光三越台北信義新天地A4 B2F](https://www.skm.com.tw/brand/3560)  
 T2R  
 [新光三越台北信義新天地A11 5F](https://www.skm.com.tw/brand/12370)  
-TACS  
-[新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/3574)  
 TAI YANG TANG 太陽堂老店  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/11308)  
 [新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/11308)  
@@ -4091,9 +3980,6 @@ TAS-女鞋
 [新光三越高雄三多店 2F](https://www.skm.com.tw/brand/11448)  
 TASAKI  
 [新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/12924)  
-TAST Boutique  
-[新光三越台中中港店 3F](https://www.skm.com.tw/brand/11946)  
-[新光三越台南新天地 2F](https://www.skm.com.tw/brand/11946)  
 TC Top Cap Steakhouse by Danny  
 [新光三越台北信義新天地A4 5F](https://www.skm.com.tw/brand/12854)  
 TEA STRUCK  
@@ -4112,10 +3998,7 @@ TEN REN 天仁茗茶
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/12629)  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/12629)  
 TENDAYS KIDS  
-[新光三越台北站前店 8F](https://www.skm.com.tw/brand/12123)  
 [新光三越嘉義垂楊店 9F](https://www.skm.com.tw/brand/12123)  
-[新光三越台南中山店 8F](https://www.skm.com.tw/brand/12123)  
-[新光三越高雄左營店 5F](https://www.skm.com.tw/brand/12123)  
 TENDAYS 恬褋仕  
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/12823)  
 [新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/12823)  
@@ -4128,7 +4011,6 @@ TESCOM
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12390)  
 TESLA  
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/12231)  
-[新光三越台南新天地 1F](https://www.skm.com.tw/brand/12231)  
 TEVA  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/12681)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/12681)  
@@ -4139,15 +4021,17 @@ TG蔬坊The Greenery
 THE BODY SHOP 美體小舖  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/12005)  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12005)  
-[新光三越桃園站前店 1F](https://www.skm.com.tw/brand/12005)  
+[新光三越桃園站前店 2F](https://www.skm.com.tw/brand/12005)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12005)  
 [新光三越台南中山店 2F](https://www.skm.com.tw/brand/12005)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12005)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/12005)  
 THE BRIDGE皮件  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/12345)  
-THE FIFTH TEASE  
-[新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/13071)  
+THE LADYWORE  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13280)  
+THE MONSTER  
+[新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/13314)  
 THE NORTH FACE  
 [新光三越台北信義新天地A11 5F](https://www.skm.com.tw/brand/12019)  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/12019)  
@@ -4194,7 +4078,6 @@ TIFF
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11054)  
 [新光三越桃園站前店 4F](https://www.skm.com.tw/brand/11054)  
 TIFFANY&CO.  
-[新光三越台北信義新天地A9 1F](https://www.skm.com.tw/brand/11230)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11230)  
 TIGER FAMILY  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/12199)  
@@ -4215,7 +4098,6 @@ TOM FORD BEAUTY
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/965)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/965)  
 TOM'S WORLD 湯姆熊  
-[新光三越台中中港店 13F](https://www.skm.com.tw/brand/12362)  
 [新光三越台南中山店 11F](https://www.skm.com.tw/brand/12362)  
 [新光三越台南新天地 6F](https://www.skm.com.tw/brand/12362)  
 [新光三越高雄三多店 14F](https://www.skm.com.tw/brand/12362)  
@@ -4230,6 +4112,7 @@ TOMMY HILFIGER
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/11415)  
 TOMMY HILFIGER CHILDREN  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/12732)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/12732)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12732)  
 TOMMY HILFIGER.女  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/11506)  
@@ -4255,13 +4138,16 @@ TOY SELECT
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/1618)  
 TRACEY CHEN  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/1173)  
-[新光三越台北天母店二館 1F](https://www.skm.com.tw/brand/1173)  
+TRAQ  
+[新光三越台中中港店 11F](https://www.skm.com.tw/brand/3064)  
+[新光三越嘉義垂楊店 5F](https://www.skm.com.tw/brand/3064)  
 TRAVEL FOX 旅狐 /FLY  
 [新光三越桃園站前店 7F](https://www.skm.com.tw/brand/12012)  
 TRAVELER  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/2251)  
 [新光三越台南中山店 7F](https://www.skm.com.tw/brand/2251)  
 TRAVELER STATION/CROWN 美冠  
+[新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/11557)  
 [新光三越台南中山店 6F](https://www.skm.com.tw/brand/11557)  
 TRAVELER 旅行者  
 [新光三越台北站前店 11F](https://www.skm.com.tw/brand/12411)  
@@ -4288,6 +4174,7 @@ Tart Tart 日本起士塔
 [新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/13197)  
 TaylorMade  
 [新光三越台北信義新天地A9 5F](https://www.skm.com.tw/brand/12846)  
+[新光三越台中中港店 5F](https://www.skm.com.tw/brand/12846)  
 The MAPLE MANIA 楓糖男孩  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/3009)  
 Tiimec 探覓刻  
@@ -4325,15 +4212,16 @@ Triumph 黛安芬
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/12091)  
 Tsu Sheng Machine Repair Shoes 足昇機器修鞋  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/11176)  
-UCHINO MYMY  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/13210)  
 UCHINO 舞津濃  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/12196)  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/12196)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12196)  
+UNCLE LEMON  
+[新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/13284)  
 UNDER ARMOUR  
 [新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/11363)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/11363)  
+[新光三越嘉義垂楊店 6F](https://www.skm.com.tw/brand/11363)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11363)  
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/11363)  
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/11363)  
@@ -4363,7 +4251,6 @@ URSA有熊運動
 [新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/11422)  
 USERWATS  
 [新光三越桃園站前店 3F](https://www.skm.com.tw/brand/12304)  
-[新光三越台中中港店 11F](https://www.skm.com.tw/brand/12304)  
 UUIN  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/1183)  
 Uni Weather  
@@ -4428,10 +4315,12 @@ VITA MIX
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11065)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11065)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/11065)  
+VIVA HEART  
+[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/13138)  
 VIVENTY  
+[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11932)  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/11932)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11932)  
-[新光三越台南中山店 2F](https://www.skm.com.tw/brand/11932)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11932)  
 [新光三越高雄三多店 2F](https://www.skm.com.tw/brand/11932)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/11932)  
@@ -4442,7 +4331,6 @@ VLENS
 VORNADO 雯麗  
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/11854)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11854)  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11854)  
 VOUX  
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/3175)  
 Vecs Gardenia  
@@ -4483,6 +4371,7 @@ WATPURE 美而浦
 [新光三越高雄三多店 10F](https://www.skm.com.tw/brand/12328)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/12328)  
 WAVE SHINE  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/2035)  
 [新光三越台北南西店三館 3F](https://www.skm.com.tw/brand/2035)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/2035)  
 WEDGWOOD  
@@ -4493,8 +4382,6 @@ WEDGWOOD瑋緻活(瓷器)
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/12904)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/12904)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12904)  
-WEEKEND MaxMara  
-[新光三越台北南西店 4F](https://www.skm.com.tw/brand/12870)  
 WEKII 德國上健康  
 [新光三越台北站前店 11F](https://www.skm.com.tw/brand/12980)  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/12980)  
@@ -4535,6 +4422,7 @@ WOLSEY
 [新光三越台北南西店 5F](https://www.skm.com.tw/brand/10940)  
 WOO:D  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/1841)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/1841)  
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/1841)  
 WOOD FOREST  
 [新光三越高雄左營店彩虹市集 1F](https://www.skm.com.tw/brand/12956)  
@@ -4551,17 +4439,19 @@ Wacoal 華歌爾
 [新光三越高雄三多店 5F](https://www.skm.com.tw/brand/12826)  
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/12826)  
 Wacoal 華歌爾睡衣  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11367)  
+[新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/11367)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/11367)  
 [新光三越台南中山店 5F](https://www.skm.com.tw/brand/11367)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11367)  
 [新光三越高雄三多店 5F](https://www.skm.com.tw/brand/11367)  
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/11367)  
+Weekend MaxMara  
+[新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/12870)  
+[新光三越台北南西店 4F](https://www.skm.com.tw/brand/12870)  
 Wolford  
 [新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/11101)  
 XING  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/10945)  
-[新光三越台北南西店 3F](https://www.skm.com.tw/brand/10945)  
 [新光三越台南中山店 4F](https://www.skm.com.tw/brand/10945)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/10945)  
 [新光三越高雄三多店 4F](https://www.skm.com.tw/brand/10945)  
@@ -4589,11 +4479,12 @@ YBG.INC
 YECCA VECCA  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/11669)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11669)  
+YF LUXURY  
+[新光三越台北站前店 4F](https://www.skm.com.tw/brand/13310)  
 YIN HWA  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/11696)  
 YOGIBO  
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/900)  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/900)  
 YOKU MOKU  
 [新光三越台北信義新天地A4 B2F](https://www.skm.com.tw/brand/11930)  
 [新光三越台北南西店 B2F](https://www.skm.com.tw/brand/11930)  
@@ -4642,14 +4533,12 @@ ZOJIRUSHI 象印
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12602)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/12602)  
 ZOUBA 走吧  
-[新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/11951)  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/11951)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11951)  
 ZWILLING 雙人  
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/12092)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/12092)  
 aPure  
-[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/12110)  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/12110)  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/12110)  
 adidas KIDS  
@@ -4693,9 +4582,14 @@ aimerfeel
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12796)  
 airweave愛維福  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/2506)  
+ajpeace  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13279)  
 alice & olivia  
 [新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/11180)  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/11180)  
+and per se  
+[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/13290)  
+[新光三越台中中港店 5F](https://www.skm.com.tw/brand/13290)  
 asics亞瑟士  
 [新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/11756)  
 [新光三越台北南西店三館 5F](https://www.skm.com.tw/brand/11756)  
@@ -4707,6 +4601,7 @@ b-monster
 [新光三越台北信義新天地A9 5F](https://www.skm.com.tw/brand/11386)  
 baby baby cool  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/12811)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/12811)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12811)  
 [新光三越高雄左營店 5F](https://www.skm.com.tw/brand/12811)  
 bac 休閒服  
@@ -4732,9 +4627,8 @@ chicco
 [新光三越高雄左營店 5F](https://www.skm.com.tw/brand/11046)  
 cop copine  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/11855)  
-[新光三越台北站前店 3F](https://www.skm.com.tw/brand/11855)  
+[新光三越台北站前店 4F](https://www.skm.com.tw/brand/11855)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/11855)  
-[新光三越台北天母店 3F](https://www.skm.com.tw/brand/11855)  
 cosmescents 伊聖詩  
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/11219)  
 [新光三越台北站前店 9F](https://www.skm.com.tw/brand/11219)  
@@ -4758,6 +4652,8 @@ earth music&ecology
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/11892)  
 [新光三越高雄三多店 3F](https://www.skm.com.tw/brand/11892)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/11892)  
+easy~spirit  
+[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11122)  
 en-suey 銀穗  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12935)  
 [新光三越台北站前店 4F](https://www.skm.com.tw/brand/12935)  
@@ -4797,7 +4693,6 @@ home+y
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/3412)  
 iROO  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/11726)  
-[新光三越台北南西店 3F](https://www.skm.com.tw/brand/11726)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/11726)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11726)  
 iStore  
@@ -4842,10 +4737,12 @@ me ISSEY MIYAKE
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/11353)  
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/11353)  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/11353)  
+me.luxe  
+[新光三越台北南西店 3F](https://www.skm.com.tw/brand/13291)  
 mia mia   
 [新光三越嘉義垂楊店 3F](https://www.skm.com.tw/brand/11851)  
 miki house  
-[新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/13028)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13028)  
 new balance 紐巴倫  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/12422)  
 [新光三越台北信義新天地A11 4F](https://www.skm.com.tw/brand/12422)  
@@ -4857,38 +4754,38 @@ new balance 紐巴倫
 [新光三越嘉義垂楊店 6F](https://www.skm.com.tw/brand/12422)  
 [新光三越台南中山店 10F](https://www.skm.com.tw/brand/12422)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/12422)  
-[新光三越高雄三多店 7F](https://www.skm.com.tw/brand/12422)  
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/12422)  
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/12422)  
 niko and ...  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/10903)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/10903)  
+nomel  
+[新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/3596)  
+[新光三越台中中港店 B1F](https://www.skm.com.tw/brand/3596)  
 non stop  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/12688)  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/12688)  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/12688)  
 [新光三越台南中山店 4F](https://www.skm.com.tw/brand/12688)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12688)  
+[新光三越高雄三多店 4F](https://www.skm.com.tw/brand/12688)  
 odbo  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12071)  
 [新光三越高雄左營店 B1F](https://www.skm.com.tw/brand/12071)  
 peter wu  
 [新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/12973)  
+[新光三越台中中港店 3F](https://www.skm.com.tw/brand/12973)  
 poyouli  
 [新光三越台北南西店 1F](https://www.skm.com.tw/brand/11077)  
 rag&bone  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/11435)  
 rather  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/1182)  
-russet  
-[新光三越台北站前店 4F](https://www.skm.com.tw/brand/11720)  
 scion  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/1209)  
 self-portrait  
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/12319)  
 [新光三越台中中港店 3F](https://www.skm.com.tw/brand/12319)  
 sloggi  
-[新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12875)  
 [新光三越台北站前店 5F](https://www.skm.com.tw/brand/12875)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/12875)  
 [新光三越桃園站前店 8F](https://www.skm.com.tw/brand/12875)  
@@ -4905,9 +4802,10 @@ smeg
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12249)  
 strellson  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/11532)  
-[新光三越台北南西店 5F](https://www.skm.com.tw/brand/11532)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/11532)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11532)  
+the Diner樂子  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/13261)  
 the Little House  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/892)  
 tittot琉園  
@@ -4922,12 +4820,8 @@ tokuyo
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11954)  
 [新光三越高雄三多店 10F](https://www.skm.com.tw/brand/11954)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/11954)  
-too cool for school  
-[新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12607)  
 tuctuc  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/12647)  
-uMeal  
-[新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/13066)  
 une nana cool  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/11703)  
 uniarts  
@@ -4938,7 +4832,6 @@ uniarts
 [新光三越高雄三多店 2F](https://www.skm.com.tw/brand/12300)  
 vensers  
 [新光三越台北站前店 7F](https://www.skm.com.tw/brand/11520)  
-[新光三越台南新天地小西門 1F](https://www.skm.com.tw/brand/11520)  
 viga wang  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12634)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12634)  
@@ -4951,8 +4844,6 @@ woosa
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/2778)  
 yuer  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/822)  
-一口鍾情  
-[新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/13077)  
 一家人OUR FAMILY  
 [新光三越台南中山店 4F](https://www.skm.com.tw/brand/11602)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11602)  
@@ -4983,8 +4874,6 @@ yuer
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/11780)  
 中國牛肉麵小館  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/11362)  
-丰樂食堂  
-[新光三越台中中港店 12F](https://www.skm.com.tw/brand/13114)  
 丸亀製麵  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/11898)  
 [新光三越台北站前店 B1F](https://www.skm.com.tw/brand/11898)  
@@ -5006,10 +4895,6 @@ yuer
 [新光三越高雄三多店 9F](https://www.skm.com.tw/brand/11913)  
 乾杯燒肉居酒屋  
 [新光三越台中中港店 13F](https://www.skm.com.tw/brand/10924)  
-了凡油雞  
-[新光三越嘉義垂楊店 B1F](https://www.skm.com.tw/brand/1039)  
-[新光三越台南新天地 B2F](https://www.skm.com.tw/brand/1039)  
-[新光三越高雄左營店彩虹市集 4F](https://www.skm.com.tw/brand/1039)  
 京都勝牛 Katsugyu  
 [新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/12203)  
 京都西川  
@@ -5026,8 +4911,6 @@ yuer
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12747)  
 佳佳甜品 KaiKai Dessert  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12414)  
-侍茶匠  
-[新光三越台北信義新天地A4 B1F](https://www.skm.com.tw/brand/13006)  
 傅家香炭滴雞精  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/2819)  
 [新光三越高雄三多店 B2F](https://www.skm.com.tw/brand/2819)  
@@ -5045,7 +4928,6 @@ yuer
 [新光三越高雄左營店彩虹市集 B2F](https://www.skm.com.tw/brand/11677)  
 兩班家  
 [新光三越台北信義新天地A9 6F](https://www.skm.com.tw/brand/12510)  
-[新光三越台北天母店 7F](https://www.skm.com.tw/brand/12510)  
 [新光三越台中中港店 9F](https://www.skm.com.tw/brand/12510)  
 [新光三越台南新天地 6F](https://www.skm.com.tw/brand/12510)  
 八陽海鮮小吃  
@@ -5061,14 +4943,10 @@ yuer
 初虎MINI  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/13080)  
 初魚 鮨  
-[新光三越台北信義新天地A9 7F](https://www.skm.com.tw/brand/12076)  
 [新光三越台中中港店 9F](https://www.skm.com.tw/brand/12076)  
 創意童玩  
 [新光三越高雄左營店 5F](https://www.skm.com.tw/brand/12108)  
-力雄茶行  
-[新光三越台北站前店 B2F](https://www.skm.com.tw/brand/13038)  
 功夫銷魂麵  
-[新光三越台北南西店三館 B1F](https://www.skm.com.tw/brand/11280)  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/11280)  
 勝博殿  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/12017)  
@@ -5111,6 +4989,7 @@ yuer
 [新光三越台北信義新天地A4 B2F](https://www.skm.com.tw/brand/11259)  
 史萊姆實驗室  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/3681)  
+[新光三越台中中港店 6F](https://www.skm.com.tw/brand/3681)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/3681)  
 吉品養生  
 [新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/11226)  
@@ -5128,12 +5007,9 @@ yuer
 呷哺呷哺  
 [新光三越台北南西店三館 7F](https://www.skm.com.tw/brand/13153)  
 和田精緻涮涮鍋  
-[新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/11041)  
 [新光三越台北南西店三館 B1F](https://www.skm.com.tw/brand/11041)  
 咖雞窩  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/3661)  
-咿啵喲poki&waffle  
-[新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/13061)  
 品品雞蛋仔  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/13043)  
 哈玩具 HOBBY TOY  
@@ -5142,11 +5018,8 @@ yuer
 [新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/3462)  
 善菓屋  
 [新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/751)  
-[新光三越台北南西店三館 1F](https://www.skm.com.tw/brand/751)  
+[新光三越台北南西店三館 B1F](https://www.skm.com.tw/brand/751)  
 喜佳縫紉  
-[新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/11019)  
-[新光三越台北站前店 9F](https://www.skm.com.tw/brand/11019)  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11019)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/11019)  
 喬山按摩館  
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/11170)  
@@ -5197,10 +5070,6 @@ yuer
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/10904)  
 天時福  
 [新光三越台北信義新天地A4 B1F](https://www.skm.com.tw/brand/3263)  
-太陽蕃茄拉麵  
-[新光三越台北南西店三館 B1F](https://www.skm.com.tw/brand/567)  
-夯極號  
-[新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/3573)  
 奇哥  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/12086)  
 [新光三越台北站前店 8F](https://www.skm.com.tw/brand/12086)  
@@ -5233,10 +5102,6 @@ yuer
 [新光三越嘉義垂楊店 11F](https://www.skm.com.tw/brand/2635)  
 [新光三越高雄三多店 11F](https://www.skm.com.tw/brand/2635)  
 [新光三越高雄左營店彩虹市集 4F](https://www.skm.com.tw/brand/2635)  
-好煮藝灶咖  
-[新光三越台北站前店 B1F](https://www.skm.com.tw/brand/13042)  
-好男人理容院  
-[新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/3168)  
 威瑪舒培  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/1324)  
 [新光三越高雄三多店 B2F](https://www.skm.com.tw/brand/1324)  
@@ -5248,14 +5113,13 @@ yuer
 [新光三越嘉義垂楊店 8F](https://www.skm.com.tw/brand/11091)  
 [新光三越台南中山店 9F](https://www.skm.com.tw/brand/11091)  
 安心巧廚  
-[新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/11149)  
 [新光三越台北南西店 B2F](https://www.skm.com.tw/brand/11149)  
 [新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/11149)  
 安格優食  
 [新光三越高雄三多店 B2F](https://www.skm.com.tw/brand/376)  
 宏亞香水  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/10900)  
-[新光三越台北站前店 7F](https://www.skm.com.tw/brand/10900)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/10900)  
 宏記鳳凰卷  
 [新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/12311)  
 家家買  
@@ -5283,15 +5147,10 @@ yuer
 [新光三越台北信義新天地A9 4F](https://www.skm.com.tw/brand/3167)  
 小米專賣店  
 [新光三越台北南西店三館 4F](https://www.skm.com.tw/brand/12633)  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/12633)  
-[新光三越台南新天地小西門 1F](https://www.skm.com.tw/brand/12633)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/12633)  
-小紅點新加坡食堂  
-[新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/11961)  
 小莘星  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/2346)  
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/2346)  
-[新光三越台南新天地 3F](https://www.skm.com.tw/brand/2346)  
 小象樹  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/12516)  
 尖牙義式廚房  
@@ -5313,16 +5172,12 @@ yuer
 布萊恩  
 [新光三越嘉義垂楊店 B1F](https://www.skm.com.tw/brand/11540)  
 常景生技  
-[新光三越台北信義新天地A4 B1F](https://www.skm.com.tw/brand/2782)  
 [新光三越台北天母店 B1F](https://www.skm.com.tw/brand/2782)  
 [新光三越嘉義垂楊店 B1F](https://www.skm.com.tw/brand/2782)  
 [新光三越台南中山店 B2F](https://www.skm.com.tw/brand/2782)  
 [新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/2782)  
 幸福烘焙  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/11599)  
-幸福翔綺西螺麻糬大王  
-[新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/13044)  
-[新光三越台南新天地 B2F](https://www.skm.com.tw/brand/13044)  
 幸福頌  
 [新光三越嘉義垂楊店 B1F](https://www.skm.com.tw/brand/3283)  
 康寧餐具  
@@ -5331,8 +5186,6 @@ yuer
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/2595)  
 康維他  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/665)  
-廟東清水排骨麵  
-[新光三越台南新天地 B2F](https://www.skm.com.tw/brand/13117)  
 廣信服裝工作室  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/11443)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/11443)  
@@ -5359,7 +5212,6 @@ yuer
 怡眾  
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/10920)  
 [新光三越台北南西店 7F](https://www.skm.com.tw/brand/10920)  
-[新光三越桃園站前店 9F](https://www.skm.com.tw/brand/10920)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/10920)  
 恆隆行  
 [新光三越台北信義新天地A4 B1F](https://www.skm.com.tw/brand/12927)  
@@ -5373,6 +5225,7 @@ yuer
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/12927)  
 惠而麗 Fairy  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/3369)  
+[新光三越嘉義垂楊店 8F](https://www.skm.com.tw/brand/3369)  
 想想咖哩  
 [新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/12998)  
 [新光三越台北南西店三館 B1F](https://www.skm.com.tw/brand/12998)  
@@ -5382,8 +5235,6 @@ yuer
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/806)  
 慕時尚  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/11324)  
-懿品乳酪菓子手造所  
-[新光三越台南中山店 B2F](https://www.skm.com.tw/brand/1128)  
 成真可可  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/13108)  
 手信坊  
@@ -5403,7 +5254,6 @@ yuer
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/12864)  
 [新光三越台北站前店 6F](https://www.skm.com.tw/brand/12864)  
 [新光三越台北南西店 5F](https://www.skm.com.tw/brand/12864)  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/12864)  
 斑鳩的窩  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/13079)  
 新光影城  
@@ -5435,6 +5285,7 @@ yuer
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/2630)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/2630)  
 [新光三越台北天母店 2F](https://www.skm.com.tw/brand/2630)  
+[新光三越台中中港店 4F](https://www.skm.com.tw/brand/2630)  
 星台VIONIC  
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/482)  
 春上布丁蛋糕  
@@ -5449,6 +5300,7 @@ yuer
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/12289)  
 春稻  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/12743)  
+[新光三越高雄左營店 2F](https://www.skm.com.tw/brand/12743)  
 春芳號  
 [新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/3571)  
 時境  
@@ -5472,11 +5324,11 @@ yuer
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/13115)  
 望月  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/3509)  
-木待制  
-[新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/3572)  
 朱記餡餅  
 [新光三越台北站前店 B1F](https://www.skm.com.tw/brand/10899)  
 [新光三越台北南西店三館 B1F](https://www.skm.com.tw/brand/10899)  
+杏子小食堂  
+[新光三越台南中山店 B2F](https://www.skm.com.tw/brand/13283)  
 東京牛奶起司工房  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/419)  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/419)  
@@ -5490,8 +5342,6 @@ yuer
 [新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/12144)  
 松賀  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/13113)  
-枕好睡  
-[新光三越台南中山店 4F](https://www.skm.com.tw/brand/13035)  
 林曉同  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12400)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12400)  
@@ -5522,8 +5372,6 @@ yuer
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/11884)  
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/11884)  
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/11884)  
-次男燒肉  
-[新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/13069)  
 欣葉.台菜  
 [新光三越台北信義新天地A9 8F](https://www.skm.com.tw/brand/12102)  
 [新光三越台北南西店 8F](https://www.skm.com.tw/brand/12102)  
@@ -5586,7 +5434,6 @@ yuer
 [新光三越台中中港店 10F](https://www.skm.com.tw/brand/12885)  
 [新光三越台南新天地 6F](https://www.skm.com.tw/brand/12885)  
 湯尼鍋燒  
-[新光三越台南新天地 B2F](https://www.skm.com.tw/brand/13057)  
 [新光三越高雄左營店彩虹市集 4F](https://www.skm.com.tw/brand/13057)  
 源酒屋  
 [新光三越台南中山店 B2F](https://www.skm.com.tw/brand/3182)  
@@ -5604,14 +5451,10 @@ yuer
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/11436)  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/11436)  
 [新光三越高雄左營店彩虹市集 4F](https://www.skm.com.tw/brand/11436)  
-漿樣子  
-[新光三越台中中港店 B2F](https://www.skm.com.tw/brand/2683)  
 潤燕窩  
 [新光三越台北天母店 B1F](https://www.skm.com.tw/brand/2684)  
 潮人物  
 [新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/12044)  
-潮傢俬  
-[新光三越台北站前店 8F](https://www.skm.com.tw/brand/468)  
 潮品集 ‧ 潮坊 CHAO PING JI  
 [新光三越台北信義新天地A4 6F](https://www.skm.com.tw/brand/13095)  
 澳們打邊爐  
@@ -5640,20 +5483,20 @@ yuer
 [新光三越台南中山店 9F](https://www.skm.com.tw/brand/12254)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12254)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/12254)  
+特物館 女鞋  
+[新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/13305)  
 犀牛手工鞋  
 [新光三越高雄左營店彩虹市集 1F](https://www.skm.com.tw/brand/11631)  
 犬印  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/11638)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11638)  
-獅寶煲  
-[新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/13101)  
 獅牌  
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/12575)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/12575)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12575)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/12575)  
-珊瑚橘 SUN WOO TEA  
-[新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/2403)  
+王爺王肉羹  
+[新光三越台中中港店 12F](https://www.skm.com.tw/brand/13281)  
 琉璃工房  
 [新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/11612)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11612)  
@@ -5689,14 +5532,14 @@ yuer
 皇家竹炭  
 [新光三越台北站前店 9F](https://www.skm.com.tw/brand/12213)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12213)  
-皇寶  
-[新光三越高雄三多店 9F](https://www.skm.com.tw/brand/1499)  
 益可福生態牧場  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/12532)  
 盜飯  
 [新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/2488)  
 盧亞香水  
+[新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/11993)  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/11993)  
+[新光三越台北站前店 2F](https://www.skm.com.tw/brand/11993)  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/11993)  
 [新光三越台南中山店 1F](https://www.skm.com.tw/brand/11993)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11993)  
@@ -5731,7 +5574,6 @@ yuer
 [新光三越高雄三多店 9F](https://www.skm.com.tw/brand/11803)  
 精格修改室  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12545)  
-[新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12545)  
 紅花鐵板燒  
 [新光三越台北信義新天地A4 6F](https://www.skm.com.tw/brand/12327)  
 [新光三越台北天母店 7F](https://www.skm.com.tw/brand/12327)  
@@ -5751,8 +5593,6 @@ yuer
 綠藤生機  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/12276)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12276)  
-維京牛排  
-[新光三越高雄左營店彩虹市集 4F](https://www.skm.com.tw/brand/13073)  
 綺華麗  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/11107)  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/11107)  
@@ -5798,13 +5638,10 @@ yuer
 耕讀園  
 [新光三越台南中山店 12F](https://www.skm.com.tw/brand/11687)  
 聖荃童鞋  
-[新光三越台北站前店 8F](https://www.skm.com.tw/brand/11068)  
 [新光三越台北南西店 6F](https://www.skm.com.tw/brand/11068)  
 [新光三越桃園站前店 8F](https://www.skm.com.tw/brand/11068)  
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/11068)  
 [新光三越高雄左營店 5F](https://www.skm.com.tw/brand/11068)  
-職男的捲店  
-[新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/3567)  
 肉多多  
 [新光三越台北天母店 5F](https://www.skm.com.tw/brand/377)  
 [新光三越高雄三多店 12F](https://www.skm.com.tw/brand/377)  
@@ -5828,8 +5665,6 @@ yuer
 [新光三越桃園站前店 8F](https://www.skm.com.tw/brand/2901)  
 艋舺雞排  
 [新光三越高雄左營店彩虹市集 4F](https://www.skm.com.tw/brand/13128)  
-艾比眼鏡  
-[新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/1113)  
 艾芝園  
 [新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/3005)  
 艾芬波斯館  
@@ -5845,8 +5680,6 @@ yuer
 [新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/11934)  
 花田囍飾  
 [新光三越台南新天地小西門 B1F](https://www.skm.com.tw/brand/11125)  
-英國奶奶  
-[新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/13013)  
 茶工坊  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/12525)  
 茶湯會  
@@ -5898,7 +5731,6 @@ yuer
 [新光三越台北南西店 5F](https://www.skm.com.tw/brand/11790)  
 西華  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11071)  
-[新光三越台南中山店 9F](https://www.skm.com.tw/brand/11071)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11071)  
 覺旅咖啡  
 [新光三越台北信義新天地A4 B1F](https://www.skm.com.tw/brand/13094)  
@@ -5962,8 +5794,6 @@ yuer
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/12563)  
 [新光三越高雄三多店 B2F](https://www.skm.com.tw/brand/12563)  
 [新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/12563)  
-辣杯杯  
-[新光三越台北南西店三館 B1F](https://www.skm.com.tw/brand/3469)  
 農純鄉  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/2680)  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/2680)  
@@ -5989,8 +5819,8 @@ yuer
 [新光三越嘉義垂楊店 2F](https://www.skm.com.tw/brand/11382)  
 郭老師寶寶副食品  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/11404)  
-鄉間座  
-[新光三越台北天母店二館 3F](https://www.skm.com.tw/brand/1219)  
+鄉野餃子麵館  
+[新光三越高雄左營店 B2F](https://www.skm.com.tw/brand/11980)  
 酒神樂  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/12337)  
 采躍科技  
@@ -6004,15 +5834,12 @@ yuer
 金億昌海鮮粥 蝦仁飯專賣店  
 [新光三越高雄三多店 B2F](https://www.skm.com.tw/brand/13072)  
 [新光三越高雄左營店彩虹市集 4F](https://www.skm.com.tw/brand/13072)  
-金天丼帝  
-[新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/3657)  
 金子半之助  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/11336)  
 金宗家  
 [新光三越高雄左營店彩虹市集 4F](https://www.skm.com.tw/brand/2559)  
 金帛手製  
 [新光三越台北信義新天地A11 B2F](https://www.skm.com.tw/brand/3301)  
-[新光三越台南新天地 B2F](https://www.skm.com.tw/brand/3301)  
 金木馬文創輕食  
 [新光三越高雄左營店彩虹市集 1F](https://www.skm.com.tw/brand/1559)  
 金格名床  
@@ -6025,8 +5852,6 @@ yuer
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/12709)  
 金瑩  
 [新光三越台北天母店 3F](https://www.skm.com.tw/brand/12157)  
-鉄火燒肉  
-[新光三越台中中港店 B2F](https://www.skm.com.tw/brand/13105)  
 銀座杏子日式豬排  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/10989)  
 銀站  
@@ -6038,7 +5863,7 @@ yuer
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11493)  
 鎮金店  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/2734)  
-[新光三越桃園站前店 1F](https://www.skm.com.tw/brand/2734)  
+[新光三越桃園站前店 2F](https://www.skm.com.tw/brand/2734)  
 [新光三越台南中山店 1F](https://www.skm.com.tw/brand/2734)  
 開丼  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/11191)  
@@ -6053,14 +5878,11 @@ yuer
 [新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/1442)  
 阿華師  
 [新光三越高雄三多店 B2F](https://www.skm.com.tw/brand/11741)  
-阿鍋家  
-[新光三越台中中港店 12F](https://www.skm.com.tw/brand/13112)  
 陶作坊  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11033)  
 陶八  
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/12436)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/12436)  
-[新光三越台南新天地小西門 B2F](https://www.skm.com.tw/brand/12436)  
 集雅社  
 [新光三越台北信義新天地A8 7F](https://www.skm.com.tw/brand/10999)  
 [新光三越台北站前店 10F](https://www.skm.com.tw/brand/10999)  
@@ -6072,7 +5894,6 @@ yuer
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/10999)  
 [新光三越高雄三多店 10F](https://www.skm.com.tw/brand/10999)  
 雙全生活館  
-[新光三越台北站前店 10F](https://www.skm.com.tw/brand/11153)  
 [新光三越台北天母店 4F](https://www.skm.com.tw/brand/11153)  
 雪嶽山  
 [新光三越台北南西店三館 B1F](https://www.skm.com.tw/brand/11082)  
@@ -6101,8 +5922,6 @@ yuer
 韓鶴亭  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/11763)  
 [新光三越台北站前店 B1F](https://www.skm.com.tw/brand/11763)  
-頂呱呱  
-[新光三越台南新天地 B2F](https://www.skm.com.tw/brand/11596)  
 順一  
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/12735)  
 飛捷義大利生活館  
@@ -6125,8 +5944,6 @@ yuer
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/12671)  
 馥御牛肉干  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/1756)  
-馬卡諦義大利冰淇淋  
-[新光三越台北信義新天地A4 B1F](https://www.skm.com.tw/brand/3213)  
 高麗園  
 [新光三越台南中山店 12F](https://www.skm.com.tw/brand/691)  
 魔髮屋  
@@ -6149,6 +5966,8 @@ yuer
 [新光三越台南新天地 6F](https://www.skm.com.tw/brand/12555)  
 [新光三越高雄三多店 B2F](https://www.skm.com.tw/brand/12555)  
 [新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/12555)  
+麻小二  
+[新光三越台南新天地 B2F](https://www.skm.com.tw/brand/13282)  
 麻辣45  
 [新光三越台中中港店 9F](https://www.skm.com.tw/brand/3339)  
 黃子庚  
@@ -6166,9 +5985,9 @@ yuer
 點睛品  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/12356)  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12356)  
-[新光三越台北站前店 2F](https://www.skm.com.tw/brand/12356)  
+[新光三越台北站前店 1F](https://www.skm.com.tw/brand/12356)  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/12356)  
-[新光三越桃園站前店 1F](https://www.skm.com.tw/brand/12356)  
+[新光三越桃園站前店 2F](https://www.skm.com.tw/brand/12356)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/12356)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12356)  
 [新光三越高雄三多店 1F](https://www.skm.com.tw/brand/12356)  
@@ -6249,6 +6068,7 @@ AILI皮飾
 ALBION  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351512113)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628256440)  
+[SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436542)  
 ALDO  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/220210185218897437)  
 ALEXANDRE DE PARIS  
@@ -6361,12 +6181,11 @@ AllSaints
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/200617173708971869)  
 Amina Rubinacci  
 [SOGO 台北敦化館 3F](https://info.sogo.com.tw/tp3/brand/1803081631327463)  
-Anita Su  
-[SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/220906190750650520)  
 Apple  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/190822203057634823)  
 Arnold Palmer  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/18030816351616358)  
+[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/230831205946248009)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282648245)  
 Arus  
 [SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/191007144005272302)  
@@ -6381,8 +6200,6 @@ Aunt Stella
 [SOGO 高雄店 B2](https://info.sogo.com.tw/ks/brand/1803081621571685)  
 Aunt Stella詩特莉  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635148750)  
-Avivi  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/190916183922359643)  
 B&W  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351649452)  
 [SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330442335)  
@@ -6404,15 +6221,11 @@ BALMUDA
 BAO BAO ISSEY MIYAKE  
 [SOGO 台北復興館 1F](https://info.sogo.com.tw/tp2/brand/18030816330363128)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/200228211049620596)  
-BARONECE休閒  
-[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294694206)  
 BBL  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351686548)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244510417)  
 BBL Premium  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294714257)  
-BD EYEWEAR  
-[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/210529122000568177)  
 BEN&1966  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628256542)  
 BEST HOME COLLECTION  
@@ -6451,6 +6264,7 @@ BOSCH
 BOSE  
 [SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330444341)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294716263)  
+[SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/230906165533320958)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/211109184514122106)  
 BOSS  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/180428145858830805)  
@@ -6502,8 +6316,6 @@ BYHUE
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/230319154103501861)  
 Baccarat  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294713256)  
-Baker Street貝克街  
-[SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/210923122224958631)  
 Beauty Gallery  
 [SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/190707204134566680)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282627194)  
@@ -6573,8 +6385,6 @@ CASTELBAJAC
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/220225162711277356)  
 CAT  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/230328155936801677)  
-CATH KIDSTON  
-[SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/220521115302195027)  
 CELINE  
 [SOGO 台北敦化館 1F](https://info.sogo.com.tw/tp3/brand/1803081631326637)  
 CERRUIT 1881(皮件)  
@@ -6648,6 +6458,8 @@ COMO STORE / KEEN
 [SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330414265)  
 CONVERSE  
 [SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351697579)  
+CORBAN  
+[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230825153206419450)  
 COVERMARK  
 [SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/181125202638496574)  
 COWA  
@@ -6673,9 +6485,10 @@ CUMAR
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635148856)  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330400223)  
 [SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/220930152849635825)  
-[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294696211)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244422196)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244482346)  
+CUMAR皮飾  
+[SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351625388)  
 CURISTA COFFEE奎士咖啡  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/230211132353592196)  
 CYRANO  
@@ -6694,7 +6507,6 @@ Carnival嘉裕
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351632409)  
 Cath Kidston  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/210818142131648460)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/220315172209670954)  
 Celinda  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822115324678905)  
 Cha Rrá  
@@ -6779,6 +6591,11 @@ DECORTE(黛珂)
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257259)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436957)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570143)  
+DELSEY  
+[SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230823171155235416)  
+[SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330432308)  
+DENNIS FEI 髮品  
+[SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230818120912497165)  
 DESCENTE GOLF  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/220916165233270943)  
 DEVIN  
@@ -6801,8 +6618,6 @@ DOUCHANGLEE
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/210414131932554856)  
 DOUGHNUT  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/230301130154279855)  
-DR.WU  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/230314114502529890)  
 DUNOON  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351654471)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294720277)  
@@ -6815,6 +6630,7 @@ Dance With Dragon
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/230227165804253571)  
 Danskin  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/200417183929801265)  
+[SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/230822204419286942)  
 DeLonghi 迪朗奇  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282683350)  
 DeSire  
@@ -6832,6 +6648,7 @@ Diffa
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/200802204315653143)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294664129)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/18030816282614162)  
+[SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244396127)  
 Dior  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351518126)  
 [SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351545181)  
@@ -6967,8 +6784,6 @@ FLYING EAGLE
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/200301165929497590)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282653263)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/180406112749453425)  
-FOOTA  
-[SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282653264)  
 FOOTDISC  
 [SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/190912151818179482)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/220225162517722219)  
@@ -6980,8 +6795,12 @@ FREE
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/18030816282615164)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244397130)  
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/1803081621571788)  
+FREED  
+[SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230818120346288274)  
 FRETTE  
 [SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330458373)  
+FRÉDÉRIC MALLE  
+[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/230825181223292737)  
 FUJIYA不二家洋菓子  
 [SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/180308163302975)  
 FUJI按摩椅  
@@ -7041,6 +6860,8 @@ GAUDI
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282654266)  
 GAUDI HOMME  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/180527172419182544)  
+GC deco  
+[SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/230903190425747611)  
 GD SHOP  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/190729161302218621)  
 GDC  
@@ -7063,8 +6884,6 @@ GIANT
 [SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330415268)  
 GIESSWEIN  
 [SOGO 台北敦化館 4F](https://info.sogo.com.tw/tp3/brand/1803081631327670)  
-GIEVES & HAWKES  
-[SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351634414)  
 GINKOO  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/210826182906274815)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294665134)  
@@ -7117,6 +6936,8 @@ GUNZE
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351592304)  
 Georg Jensen  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/210528142550472651)  
+Geox  
+[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/230831205525694520)  
 Ginza Diamond Shiraishi  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/210826183912246759)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/200620204218766178)  
@@ -7175,7 +6996,6 @@ HOGAN
 [SOGO 台北復興館 3F](https://info.sogo.com.tw/tp2/brand/18030816330372151)  
 HOM  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/200802163538450171)  
-[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/200620145716272371)  
 HOME WORKING  
 [SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/200817155202784951)  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215782255)  
@@ -7230,8 +7050,6 @@ Häagen-Dazs
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633030316)  
 [SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180308162946196)  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/180308162825476)  
-Höchster Porzellan-Manufaktur  
-[SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/210427135543830118)  
 I'm PASTA PLUS  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/200930204456931453)  
 I-PRIMO  
@@ -7328,6 +7146,7 @@ JINS眼鏡
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330403233)  
 JNBY  
 [SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351513116)  
+[SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/230802173539251909)  
 JO MALONE LONDON  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/190430143605594627)  
 [SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330350101)  
@@ -7382,8 +7201,6 @@ K-SWISS
 [SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351708605)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282670313)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244456285)  
-KADOKADO  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/220809135238713402)  
 KAI  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351659485)  
 KAI貝印  
@@ -7397,20 +7214,16 @@ KANGOL KIDS
 KASHIWA  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/190321182400945598)  
 KEDS  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/210910232138995421)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/200109201906219596)  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/1803081621571172)  
 KEF  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822120846884212)  
-KENT&CURWEN  
-[SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330434314)  
 KENWOOD  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351659486)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294724292)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282689366)  
 KENZO  
 [SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351594313)  
-[SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351592306)  
 [SOGO 台北復興館 3F](https://info.sogo.com.tw/tp2/brand/18030816330374155)  
 [SOGO 台北敦化館 2F](https://info.sogo.com.tw/tp3/brand/1803081631327051)  
 KE嘉儀企業  
@@ -7426,8 +7239,6 @@ KINAZ
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282601130)  
 KINOSHO  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/220713164109430162)  
-KINOSHO TRANSIT  
-[SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230301100754631458)  
 KIPLING  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/1803081621571173)  
 KOKKO  
@@ -7476,8 +7287,8 @@ Kinloch Anderson
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/230713153638994157)  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/18030816294759370)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/190927152154728371)  
+[SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/230906142655536166)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282670312)  
-[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244426210)  
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/1803081621570041)  
 Kinloch Anderson(男裝)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244486359)  
@@ -7504,8 +7315,6 @@ L'OCCITANE
 [SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/211002175826753942)  
 [SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633032045)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437885)  
-L.ERICKSON  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/200906165841362486)  
 LA BOUTIQUE de Joël Robuchon侯布雄法式精品甜點  
 [SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633031739)  
 LA MER  
@@ -7521,6 +7330,8 @@ LA MODE
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/191028210150478927)  
 LAB SERIES  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330434316)  
+LAC  
+[SOGO 台北敦化館 B2](https://info.sogo.com.tw/tp3/brand/230831115355872058)  
 LAC 保健食品領導品牌  
 [SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/210625172407282712)  
 LACOSTE  
@@ -7615,6 +7426,7 @@ LLADRO
 LOAKE男鞋  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351636420)  
 LOJEL  
+[SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/230814175542463409)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/230318172426955760)  
 LONGCHAMP  
 [SOGO 台北復興館 3F](https://info.sogo.com.tw/tp2/brand/18030816330374156)  
@@ -7628,9 +7440,7 @@ LOUIS VUITTON
 LOUIS VUITTON (MEN)  
 [SOGO 台北復興館 2F](https://info.sogo.com.tw/tp2/brand/180404173423143076)  
 LOVFEE  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/220914174406318829)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/221227133851465524)  
-[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/220515173243377277)  
 LOWRYS FARM  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149475)  
 [SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294654103)  
@@ -7639,13 +7449,13 @@ LOWRYS FARM
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/1803081621571275)  
 LYCORIS  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/220821190647194258)  
-L'ERBOLARIO 蕾莉歐  
+L`ERBOLARIO 蕾莉歐  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294668143)  
-L'OCCITANE  
+L`OCCITANE  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257978)  
-L'OCCITANE 歐舒丹  
+L`OCCITANE 歐舒丹  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570454)  
-L'Occitane歐舒丹  
+L`Occitane歐舒丹  
 [SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463758)  
 La Fe'ta  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294669144)  
@@ -7740,7 +7550,6 @@ MAJESTIC LEGON
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/200105160212566571)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/180914122225516720)  
 MAJOR MADE  
-[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/220903205505928981)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/221205174248833840)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230225112814655917)  
 [SOGO 高雄店 5F](https://info.sogo.com.tw/ks/brand/220819153937390282)  
@@ -7782,6 +7591,8 @@ MAYU+
 MCS  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/210911115534971553)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/190531135853343150)  
+MCS(Marlboro Classics)  
+[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/230831205812110447)  
 MEADIALUNA  
 [SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294654104)  
 MEISSEN  
@@ -7843,10 +7654,6 @@ MOLLIFIX
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/220222143337191594)  
 MONNALISA  
 [SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/200821151839394305)  
-MONTAGUT休閒  
-[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294703230)  
-MONTAGUT皮件  
-[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294702229)  
 MONTAGUT襪帕  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330435318)  
 MONTAGUT襯衫  
@@ -7984,8 +7791,6 @@ NARS
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351533160)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258592)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437989)  
-NARUMI  
-[SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351650457)  
 NATURAL BEAUTY BASIC  
 [SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/190331212313308708)  
 NAUTICA  
@@ -8053,6 +7858,8 @@ OGAWA
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244517440)  
 OH!HER  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230514124702287161)  
+OLAPLEX®  
+[SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/230824173025973654)  
 OLENS  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/200906165338402586)  
 OMEGA  
@@ -8087,8 +7894,6 @@ ORIN
 ORiental TRaffic  
 [SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/210924152025776285)  
 [SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464168)  
-ORiental Traffic  
-[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244431222)  
 OSIM  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351666503)  
 [SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330449355)  
@@ -8112,6 +7917,8 @@ Orobianco
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294705237)  
 Oshkosh&carter's  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244491375)  
+P.Seven茶香水  
+[SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230818120531762937)  
 PAIDEL  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149371)  
 PALLADIUM  
@@ -8119,6 +7926,7 @@ PALLADIUM
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282659282)  
 PAL'LAS PALACE  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330388193)  
+[SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/210414131859434927)  
 PANDORA  
 [SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330355112)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258694)  
@@ -8140,10 +7948,14 @@ PEPPER'S
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/200901150853578793)  
 PEPPER’S  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/220216122026698763)  
+PESCE  
+[SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/230721142545123383)  
 PET PARADISE  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330406242)  
 PETER RABBIT HOME STUDIO  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351685543)  
+PGA TOUR  
+[SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230818123818726971)  
 PHILIPS  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351667505)  
 [SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330450357)  
@@ -8184,8 +7996,6 @@ PIPPY
 [SOGO 高雄店 7F](https://info.sogo.com.tw/ks/brand/18030816215746159)  
 PIQUADRO  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/220927145142750934)  
-PLAY BOY鞋  
-[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/220401120425783371)  
 PLAYBOY  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244433226)  
 PLAYBOY GOLF  
@@ -8226,6 +8036,8 @@ PPFM HOMME
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/200521211959309024)  
 PRADA  
 [SOGO 台北敦化館 1F](https://info.sogo.com.tw/tp3/brand/1803081631326843)  
+PREMIER  
+[SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/230825184541697774)  
 PS company  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635147125)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282605138)  
@@ -8268,10 +8080,7 @@ Pelutini
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/200406194419580482)  
 Penhaligon's  
 [SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/190707204059130689)  
-Playmobil  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351710612)  
 Premier  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/190707203817310974)  
 [SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/200303143902878032)  
 RAINS  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/230301125938381053)  
@@ -8447,7 +8256,6 @@ SISLEY
 [SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464374)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/18030816282591104)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/220227174652176859)  
-[SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624438297)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570864)  
 SISSO  
 [SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/220824183301178864)  
@@ -8469,6 +8277,8 @@ SKECHERS
 SKECHERS KIDS  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/181003113754470715)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244499394)  
+SKYMART  
+[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230825153348312952)  
 SLOGGI  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/200914084450189974)  
 SM2  
@@ -8513,13 +8323,14 @@ STOKKE
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/230601160220175541)  
 STORY  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282608145)  
+STRELLSON  
+[SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330439326)  
 SUNUP BABY  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/200828180705161162)  
 SUPER GOLF  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/210924040951913079)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244492376)  
 SUPERDRY  
-[SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/211008113059901090)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/210621214734776464)  
 SUQQU  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351542175)  
@@ -8581,8 +8392,6 @@ Stadler Form
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294742334)  
 Staub  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351671514)  
-Strellson  
-[SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330439326)  
 Stressless  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/180922124307267413)  
 Sui  
@@ -8664,6 +8473,8 @@ TISSOT手錶
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330440329)  
 TOD'S  
 [SOGO 台北敦化館 1F](https://info.sogo.com.tw/tp3/brand/200306171525275516)  
+TOM FORD  
+[SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/230825222329577584)  
 TOM FORD BEAUTY  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351545182)  
 TOMMY  
@@ -8687,10 +8498,10 @@ TOSHIBA
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822120350531785)  
 TOY PARK其曜玩具  
 [SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351713619)  
+TOYSELECT  
+[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/230826153923950995)  
 TRAQ  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/220529143755338756)  
-TRAVEL FOX  
-[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294711251)  
 TRAVELER  
 [SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330424291)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294690193)  
@@ -8706,7 +8517,6 @@ TUANTUAN團團
 TUMI  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351643438)  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330441331)  
-[SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/18030816244390107)  
 TUTUKAKI 司康小売所  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/220916122628592800)  
 TWG Tea  
@@ -8741,6 +8551,8 @@ Tonia Nicole
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282700397)  
 Travel Fox  
 [SOGO 高雄店 5F](https://info.sogo.com.tw/ks/brand/18030816215757186)  
+Traveler Station  
+[SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/230908173623411210)  
 Triumph  
 [SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351610347)  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330393204)  
@@ -8774,8 +8586,6 @@ UNTITLED
 Under Armour  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294712252)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244465306)  
-VA Vendome Aoyama  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812194001870136)  
 VALERON  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351694573)  
 VALMONT  
@@ -8851,10 +8661,10 @@ Wacoal(華歌爾睡衣)
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282637223)  
 Waltz  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351646444)  
-Whiple  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812113035423625)  
 Whirlpool  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822113257614787)  
+Whirlpool 惠而浦  
+[SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/230903141707797832)  
 Wolford  
 [SOGO 台北敦化館 2F](https://info.sogo.com.tw/tp3/brand/1803081631327255)  
 Wolsey  
@@ -8878,7 +8688,6 @@ YAMAHA
 YECCA VECCA  
 [SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812111747923117)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/210216194604380929)  
-[SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/210414132039143323)  
 YEN-Lin HSU(許艷玲)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282638224)  
 YIN HWA(盈樺)  
@@ -8886,8 +8695,6 @@ YIN HWA(盈樺)
 YOKU MOKU  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/180308163514556)  
 YSL  
-[SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351545183)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330361124)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/220901135544731983)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/18030816244391110)  
 YVONNE COLLECTION  
@@ -8962,10 +8769,6 @@ arnold palmer
 asics  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294693202)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282667302)  
-b.club  
-[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244420187)  
-b.tempt'd  
-[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244420188)  
 beard papa  
 [SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/180308163302952)  
 [SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180308162946182)  
@@ -9007,6 +8810,8 @@ clé de peau BEAUTÉ
 [SOGO 台北敦化館 B1](https://info.sogo.com.tw/tp3/brand/1803081631326022)  
 clé de peau BEAUTÉ 肌膚之鑰  
 [SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034896)  
+coen  
+[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/230829184136780474)  
 columbia  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282668307)  
 cop.copine  
@@ -9053,11 +8858,10 @@ gd shop
 [SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/210306170453924697)  
 gelato pique  
 [SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812112108618371)  
-gimo's  
-[SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282628199)  
 giordano ladies  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294666135)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/18030816282616167)  
+[SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/230802173314543705)  
 glimmer boutique  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/230304113000323471)  
 gonnaEXPRESS  
@@ -9070,8 +8874,6 @@ harman/kardon
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822120640871701)  
 helena Rubinstein Mall赫蓮娜  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/221022181337870465)  
-hengstyle  
-[SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220627172741230486)  
 hengstyle 恆隆行  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294722286)  
 hengstyle恆隆行  
@@ -9175,8 +8977,10 @@ non stop
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244417176)  
 non-stop  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149679)  
+norns  
+[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/230904174502801238)  
 olivo  
-[SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/210414131957502328)  
+[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/210414131957502328)  
 olsen  
 [SOGO 台北敦化館 4F](https://info.sogo.com.tw/tp3/brand/1803081631327874)  
 omo cafe  
@@ -9203,8 +9007,6 @@ sisley
 [SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330358118)  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330438324)  
 [SOGO 台北敦化館 B1](https://info.sogo.com.tw/tp3/brand/1803081631326331)  
-sisley(2F護膚室)  
-[SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244407155)  
 sloggi  
 [SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351609345)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294673155)  
@@ -9215,13 +9017,14 @@ socie hair施舒雅美髮沙龍
 [SOGO 台北忠孝館 12F](https://info.sogo.com.tw/tp1/brand/18030816351719631)  
 [SOGO 台北敦化館 5F](https://info.sogo.com.tw/tp3/brand/1803081631328180)  
 socie施舒雅美容世界  
-[SOGO 台北忠孝館 12F](https://info.sogo.com.tw/tp1/brand/18030816351726642)  
 [SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/230608130043363255)  
 [SOGO 台北敦化館 5F](https://info.sogo.com.tw/tp3/brand/1803081631328281)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294689191)  
 [SOGO 中壢店 10F](https://info.sogo.com.tw/zl/brand/18030816282718432)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/180415165321317786)  
 [SOGO 高雄店 15F](https://info.sogo.com.tw/ks/brand/18030816215793279)  
+soda n' cream  
+[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/230904174718647910)  
 sodastream  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294742333)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282697390)  
@@ -9230,8 +9033,6 @@ staub
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822112602457765)  
 strellson  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282664293)  
-su:m37°甦秘  
-[SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/18030816282593106)  
 sui  
 [SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294659115)  
 tender leaf  
@@ -9268,6 +9069,8 @@ viga wang
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/220204141635953055)  
 [SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294662122)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/200301114552358517)  
+vivi ann  
+[SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/230831204212151522)  
 wacoal  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330394206)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294674158)  
@@ -9285,8 +9088,6 @@ whiple
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628255012)  
 一二三水餃  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/180308163514567)  
-一口鹹派  
-[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/220924205156968916)  
 一富士豆腐  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/180308163514588)  
 三合院粵式料理‧港式飲茶  
@@ -9309,16 +9110,15 @@ whiple
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628255217)  
 丸亀製麵  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628255013)  
+丹尼索KIDS HAIR  
+[SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/230830154216818500)  
 九如  
 [SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/18030816351505100)  
-乳油木之家  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294661120)  
 乾唐軒  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351680534)  
 五個銅貨  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244400138)  
 亞梭傢俬  
-[SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/200509191119153101)  
 [SOGO 高雄店 7F](https://info.sogo.com.tw/ks/brand/220404135901424888)  
 京品  
 [SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462213)  
@@ -9367,8 +9167,6 @@ whiple
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/200513135705410167)  
 冉冉ZAN ZAN  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/220417122436481125)  
-冠瑋眼鏡  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/211201135636836765)  
 凍心炸冰淇淋  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230725172308295305)  
 凱林鐵板燒  
@@ -9421,8 +9219,6 @@ whiple
 [SOGO 高雄店 B1](https://info.sogo.com.tw/ks/brand/220814171606924545)  
 哈玩具  
 [SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351717627)  
-哈皮樂園  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351716626)  
 哥本哈根  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244532471)  
 喫茶趣  
@@ -9502,8 +9298,6 @@ whiple
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244508413)  
 寶雅  
 [SOGO 中壢店 10F](https://info.sogo.com.tw/zl/brand/201118112114307156)  
-小三元  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/220826193710127942)  
 小南門傳統豆花  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633032248)  
 就是綠Bgreen  
@@ -9617,6 +9411,8 @@ whiple
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215789271)  
 星巴克咖啡  
 [SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462111)  
+星球工坊  
+[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230827130601907091)  
 映象音響  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351678529)  
 晶湯匙  
@@ -9680,6 +9476,8 @@ whiple
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294692197)  
 正官庄  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635146922)  
+正記南京板鴨  
+[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/230816191625324913)  
 比得兔  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/210530225107706879)  
 法徠麗香水  
@@ -9729,6 +9527,8 @@ whiple
 [SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/191011120908860688)  
 無二 永齡農場  
 [SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633030113)  
+牧亞吉鮮屋  
+[SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230827130307219582)  
 王師父餅舖  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635146719)  
 王德傳  
@@ -9831,6 +9631,8 @@ whiple
 [SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633030723)  
 義廚寶  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/230505163613594544)  
+翠亨生活館  
+[SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/230829161301129041)  
 老乾杯  
 [SOGO 台北復興館 11F](https://info.sogo.com.tw/tp2/brand/211025160256766453)  
 老協珍  
@@ -9994,6 +9796,8 @@ whiple
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/200905114633739165)  
 陶八  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/221221184503294426)  
+雅筑傢飾  
+[SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/230903182328738080)  
 集雅社  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822120131377606)  
 雪花秀  
@@ -10052,8 +9856,6 @@ whiple
 [SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/191011122050559292)  
 麥當勞  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628256030)  
-麻十七  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/220809135158956461)  
 黃淑琦  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/210305151529752280)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294681170)  

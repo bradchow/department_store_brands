@@ -194,7 +194,7 @@ class SogoSpider(scrapy.Spider):
         self.data[brand_name].append(location)
 
     def closed(self, reason):
-        print("closed() is called")
+        #print("closed() is called")
         sorted_data = sorted(self.data.keys())
         for key in sorted_data:
             print(key + " " + " ")
@@ -205,5 +205,5 @@ class SogoSpider(scrapy.Spider):
         if self.OUTPUT_TO_JSON == 1:
             sorted_dict = {key: self.data[key] for key in sorted_data}
             json_data = json.dumps(sorted_dict, ensure_ascii=False)
-            with open('../json/sogo.json', 'w', encoding='utf-8') as file:
+            with open('json/sogo.json', 'w', encoding='utf-8') as file:
                 file.write(json_data)
