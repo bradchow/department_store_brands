@@ -17,7 +17,7 @@ scrapy crawl ShinKongMitsukoshi > shin.md
 [Sogo](#sogo)  
 
 ## 更新  
-時間：2023/11/25
+時間：2023/12/04
 
 ## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)  
 & by TAN&LUCIANA  
