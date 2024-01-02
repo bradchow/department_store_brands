@@ -4,10 +4,18 @@ import pprint
 from urllib.parse import urlparse, urlunparse
 from scrapy_selenium import SeleniumRequest
 import json
+import logging
+import os
 
 class SogoSpider(scrapy.Spider):
-    name = "Sogo"
     
+    logfile_path = "SogoSpider.log"
+    if os.path.exists(logfile_path):
+        os.remove(logfile_path)
+    logging.basicConfig(filename=logfile_path, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+    name = "Sogo"
+
     #output to .md format and it can be pasted on github
     OUTPUT_TO_MD = 1
 
@@ -130,7 +138,8 @@ class SogoSpider(scrapy.Spider):
                 break
 
         url_parts = response.url.split("/")
-        floor = url_parts[-1]
+        floor = response.xpath('//div[@id="dk4-combobox"]/text()').get()
+        logging.info(f"floor: {floor}")
         if self.OUTPUT_TO_MD == 0:
             print(floor)
 
@@ -175,7 +184,7 @@ class SogoSpider(scrapy.Spider):
                 # dont_filter is set to True for allowing request the same url
                 yield SeleniumRequest(url=response.url, callback=self.parse, meta={'retry': retry_count}, dont_filter=True)
             else:
-                print("Element not found for: " + response.url)
+                logging.error("[ERR] Element not found for: " + response.url)
 
     def write_to_file(self, words):
         with open("logging.log", "a") as f:
