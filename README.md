@@ -603,6 +603,7 @@ BURBERRY
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/12852)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12852)  
 [新光三越DIAMONDTOWERS一館 1F](https://www.skm.com.tw/brand/12852)  
+[新光三越DIAMONDTOWERS一館 2F](https://www.skm.com.tw/brand/12852)  
 BVLGARI  
 [新光三越台北信義新天地A4 1F](https://www.skm.com.tw/brand/12211)  
 BWT  
@@ -664,6 +665,9 @@ Bgreen
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/12522)  
 Blazing  
 [新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11388)  
+Bonnie sugar手作甜點專門店  
+[新光三越台中中港店 B2F](https://www.skm.com.tw/brand/838)  
+[新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/838)  
 Bugatti  
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/11390)  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11390)  
@@ -4911,8 +4915,6 @@ berji
 [新光三越台南中山店 3F](https://www.skm.com.tw/brand/2081)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/2081)  
 [新光三越高雄左營店 4F](https://www.skm.com.tw/brand/2081)  
-bonnie sugar  
-[新光三越高雄左營店彩虹市集 3F](https://www.skm.com.tw/brand/838)  
 cama cafe  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/12465)  
 chicco  
@@ -5900,8 +5902,6 @@ yuer
 [新光三越台南新天地 6F](https://www.skm.com.tw/brand/12898)  
 [新光三越高雄三多店 12F](https://www.skm.com.tw/brand/12898)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/12898)  
-甜入心菲  
-[新光三越台中中港店 B2F](https://www.skm.com.tw/brand/2672)  
 田中  
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/12799)  
 田原香滴雞精-BABY FOOD  
@@ -6434,7 +6434,7 @@ yuer
 鼓豆咖啡  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/12628)  
 龜記  
-[新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/3016)
+[新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/3016)  
 ## [Sogo](https://info.sogo.com.tw/)  
 & by TAN & LUCIANA  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/200301114524507684)  
