@@ -11,13 +11,15 @@
 cd department_store_brands  
 scrapy crawl Sogo > sogo.md  
 scrapy crawl ShinKongMitsukoshi > shin.md  
+scrapy crawl FEDS > FEDS.md  
 
 ## 內容
 [新光三越](#新光三越)  
 [Sogo](#sogo)  
+[遠東百貨](#遠東百貨)  
 
 ## 更新  
-時間：2024/01/01
+時間：2024/02/01
 
 ## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)  
 & by TAN&LUCIANA  
@@ -10254,3 +10256,4392 @@ whiple
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351585287)  
 龜記茗品  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230318202640570649)  
+## [遠東百貨](https://www.feds.com.tw/tw/1/Home)  
+& by tan&luciana  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=3310&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=10743&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+0918  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=6189&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3306&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3307&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10944&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=3308&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3309&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+10/10 HOPE  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=10546&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+1010湘食堂  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=286&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+1929英國彼得兔寢具  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4277&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4278&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10129&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4279&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+2020EYEhaus  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10488&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=6815&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+21PLUS風味館  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10953&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+21風味館  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=167&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=77&RestaurantId=175&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 12F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=95&RestaurantId=144&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 12F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=148&RestaurantId=326&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+22 OCTOBRE  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3576&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+23區  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3577&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10861&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=11217&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=3578&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3579&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+2Sweet 甜蜜約定  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3916&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+3M  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4192&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10444&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4193&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+45R  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=10345&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+6IXTY8IGHT  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=9425&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10431&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=8667&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=9599&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+7-ELEVEN 便利商店  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9309&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=8826&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=6854&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+8HAPPY  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3312&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=11370&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=3315&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3317&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+8：AT  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10466&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+ABC MART  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=11201&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10966&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=10954&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=10969&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=10988&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+ABC-MART GRAND STAGE  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=9734&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+ADABAT  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5333&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+ADMIXX  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=10610&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=10605&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+AIGLE  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9224&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6467&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10166&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=7235&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5836&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+AIR SPACE  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=11299&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=11364&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+ALDO  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10820&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+ALESSI  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9290&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4298&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=10386&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10445&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4299&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+ALL BLACK  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11183&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=3146&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+ALL WEARS  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=11102&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=10659&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+ALLSAINTS  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=11460&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11351&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+AMEDEO TESTONI  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=10573&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=10063&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+AMO 阿默  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5371&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=5372&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+ANIS  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=10784&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+ANYBEARS  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=11341&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=11386&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=11365&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+AOR MORE  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11082&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+APIVITA  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=9422&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+APM Monaco  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9170&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=8577&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10494&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=11446&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+APPLE蘋果泳裝  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=11111&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=10914&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+AQUAZZURA  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=11334&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+ART18  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=11001&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+ART64  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=7067&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+AS  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=3150&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3151&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=3152&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10519&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3153&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3154&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+ASHANTI  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=11029&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+ASKO (慎康)  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=10765&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4980&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10400&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4981&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=9053&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+ATUNAS 歐都納  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=6068&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=10001&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6120&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+AUDEMARS PIGUET  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9234&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+AUROGEM 歐莉寶  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=10649&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+AVEDA  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9146&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=6919&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=8668&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10239&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=7034&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B1](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=107&StoreId=11276&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=7052&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+AVVJOY  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=11059&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+AZUR Select shop  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=3592&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=7036&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11432&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=11307&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3595&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=3596&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Aesop  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11457&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=9661&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+American Tourister  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6445&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Anita Su  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=7319&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=10266&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=7387&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3585&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=11257&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Ann by asin  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=3148&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Anny's 安妮公主  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=4619&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=4620&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4621&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Apple (STUDIO A 晶實科技)  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=9172&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10330&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=4881&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Apple (宏驜 LIFONE)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=4919&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Apple 授權經銷商  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=4882&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=4883&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B1](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=107&StoreId=4884&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=4885&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=4886&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Apure  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=11066&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Aquanaut 奧可那泳裝  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=9673&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Arc'teryx  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9249&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6472&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=8451&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=10943&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Arnold Palmer  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5852&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5863&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=7070&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3333&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+AroMart 艾樂曼市集  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9741&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4093&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Ashley Tasi 蔡佳瑾  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=4070&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Ashley Tsai蔡佳瑾  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11428&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=11180&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Aubade  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=2907&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Aunt Stella 詩特莉  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=61&RestaurantId=179&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=108&RestaurantId=178&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+Auntie Anne's  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=10695&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Avida 森美達珠寶  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=2916&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Avivi  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=10502&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=8856&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=10298&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+A|X ARMANI EXCHANGE  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9145&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=11094&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+B&G德國農莊複合式茶館  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=58&RestaurantId=341&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+B&O  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=6398&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+BAG TO YOU百達遊  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=9904&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+BALILLA  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=8416&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=7222&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+BALLY  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9233&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10487&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=11349&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+BALMAIN  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=11478&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+BALMAIN PARIS HAIR COUTURE  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10539&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+BALMUDA  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5081&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5082&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4924&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=5084&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+BANG & OLUFSEN  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=9989&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+BAO BAO ISSEY MIYAKE  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=10619&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+BARBOUR  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=11292&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+BARONECE休閒  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=11346&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+BATIS巴帝斯  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=8846&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=8638&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=11071&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+BEKA 貝卡  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=4407&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+BENETTON 班尼頓  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=3532&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+BENETTON 童裝  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=10705&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=6307&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=6151&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+BERLYETAGA 柏麗塔嘉  
+[Top City 台中大遠百 B1](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=107&StoreId=10908&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+BESV  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=10600&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+BH 健身器材  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9441&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+BIG TRAIN  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=11300&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+BIOCHEM 倍優  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=6256&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=9057&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=7317&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+BIOTHERM 碧兒泉  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5640&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6561&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6797&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=8993&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6188&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+BIRKENSTOCK  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9241&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6463&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5869&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+BIS IN DEI  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=6844&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+BLUEWAY／地藏小王／鬼洗／箱子  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=5952&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=6642&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=8725&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=6327&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6099&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+BLVCK PARIS  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=11261&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=11262&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+BOBBI BROWN 芭比布朗  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5638&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5684&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6562&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10243&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7008&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5702&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6006&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+BOBSON  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=5953&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5812&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=6644&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6946&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5861&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+BOLON  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=9099&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+BONNY&READ  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=11193&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+BOSCH  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5028&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5029&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10405&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5030&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5031&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+BOSE  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=10291&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10402&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=11232&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+BOSS  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=2831&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10791&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+BOTTEGA VENETA  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5609&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+BOUCHERON  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=10733&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+BRAPPERS  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5347&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=5349&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+BRAUN BUFFEL (羅德)  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=6029&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=9780&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=11207&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10919&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5796&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=10913&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+BRAUN 百靈  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5195&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5196&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5197&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5198&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5199&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=5202&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+BRIC'S  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9934&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+BRITA (慎康)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4984&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4985&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4982&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+BROOKS  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=9256&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10184&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+BRUNELLO CUCINELLI  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=2813&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+BSX  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=5982&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+BUFFALO 牛頭牌炊具  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=4302&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4303&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4304&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5945&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4308&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+BURBERRY  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10484&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+BVLGARI  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10798&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6801&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+BWT  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10526&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Baby City  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=11011&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Baby City 娃娃城  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=9287&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4624&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10120&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4626&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=4628&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Baker Street  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=9878&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Barbour  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=8939&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Beard Papa's  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5375&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Been Teen 嬪婷  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=2926&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=2927&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=2928&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=2929&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=2930&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=2931&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=2932&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=2933&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Belonging Select  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9109&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Ben Davis  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=10804&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Bershka  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=3597&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Betty's  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3340&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3341&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=3343&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+BeyondSenses  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=11002&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Bgreen  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=10651&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10127&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=9962&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=10679&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Bishop  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3962&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Black&White  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=9509&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=8455&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Bo Derek  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3155&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Boboli  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4631&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4632&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Bonnie Sugar  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=9652&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Bose  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=4877&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=4875&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4876&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Brooks Brothers  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=2812&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Brusa  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9339&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5376&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+C R Y  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10936&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+CACO  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10218&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=6340&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=10853&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+CALVIN KLEIN HOME  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9740&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+CAMPER  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=10738&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+CARTERS/OSHKOSH  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=10781&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9572&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+CASIO  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11442&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+CHA CHA THÉ 采采食茶文化  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=61&RestaurantId=195&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=105&RestaurantId=196&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+CHANEL  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9707&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=2816&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+CHANEL 香奈兒  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5627&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5678&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6564&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7009&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5703&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6195&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6886&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+CHANTE非常衣著  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=11392&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=10341&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+CHARIN YEH 葉珈伶  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=9795&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11426&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=9058&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+CHARLES & KEITH  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=8578&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=8432&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+CHARRIOL  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9197&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=8587&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+CHAUMET  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6287&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+CHIC CHOC  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6244&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+CHOICE  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3158&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11185&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+CLAID  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5840&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6625&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10219&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6968&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=5983&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=6165&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+CLARINS 克蘭詩  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5637&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11491&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6565&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10245&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=10939&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6235&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=5999&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6207&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6892&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+CLINIQUE 倩碧  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5642&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11326&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6566&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7012&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6998&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+CLUB DESIGNER  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=11175&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11477&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+CLUB MONACO  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=9022&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+COACH  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11475&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6558&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6750&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=5655&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+COCOSHNIK  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=11089&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+COLOR REGION 玩彩地帶  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9811&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+CONI 康倪  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=9430&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=7038&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=7150&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=6158&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6895&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+CONVERSE  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=10588&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=10799&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=11136&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5893&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6114&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+COSME DECORTE  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=8532&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6567&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6243&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+COVERMARK  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=8463&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+CREED  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9394&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+CROCS  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=9813&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=8990&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=11151&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+CUMAR  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=10614&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3451&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+CUMAR 內著  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=11403&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+CUMAR 包包  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3635&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=3636&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=9017&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+CUMAR 服飾  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=8879&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11080&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=6161&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+CUMAR 男裝  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6873&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 6F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=115&StoreId=7214&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=7176&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Café at ALESSI Store  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=176&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=99&RestaurantId=177&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Calvin Klein Jeans  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=6414&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=3535&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=3536&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Calvin Klein Sport  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=10616&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Calvin Klein Underwear  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=2934&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=2935&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=2936&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=2937&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Camel Active  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=5362&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=8797&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Carhartt WIP  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9248&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5847&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5821&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=11416&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Carnival 嘉裕西服  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=6041&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Cartier  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6802&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Caspia LiLi  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=8755&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Champion  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5830&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10210&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5865&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=11393&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Chantelle 仙黛爾  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=2939&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=2940&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=2941&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=2942&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Chloé  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9232&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11418&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=2818&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Chopard  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6803&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Clarks  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6451&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5797&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Cold Stone  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=10897&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10934&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=11003&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+Columbia  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6470&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=8775&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10165&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5837&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=7342&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Complit(漂亮一身)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10522&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Crate & Barrel  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4590&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Crocodile junior 小鱷魚童裝  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=11384&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Crocodile 皮件 (祥銓)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6446&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6634&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10187&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=6980&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=7175&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=5789&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+D&L  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=10842&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=11479&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+D'ACCORD  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=11363&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=11359&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+DAKS  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=9413&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+DAKS MEN  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=10729&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+DAMIANI  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=11467&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+DANIEL WONG  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=11401&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+DANSKIN  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=10019&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10918&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+DARPHIN  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11314&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10947&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+DAY&DAY  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9529&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4399&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+DC  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=6845&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=6915&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+DEARFACE達菲思  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=10821&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+DELONGHI (迪朗奇)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4942&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4943&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4947&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+DELVAUX  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=11274&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+DENISE  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3657&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+DEPOT  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=11091&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+DESKER  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=10990&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+DIANA  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3299&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3300&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=3301&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3302&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+DINTAIFUNG 鼎泰豐  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=172&RestaurantId=270&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=173&RestaurantId=269&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=61&RestaurantId=76&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11134&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=89&RestaurantId=137&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=108&RestaurantId=78&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+DIOR MEN  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=11468&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+DITA  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3355&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3356&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3357&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+DR  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9126&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+DR.CINK 達特聖克  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=8652&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=10684&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10254&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=8565&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+DR.WU  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=11464&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+DRESSY  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3651&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3652&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+DYACO  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10185&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5894&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+DYACO GARMIN  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=10046&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+DYCTEAM  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9270&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Dailo  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3348&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3349&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3350&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=3351&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+De Beers  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=11492&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+DeSire  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3164&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=3165&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Diamond House 鑽石屋  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=9087&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=2944&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=2945&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=2946&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=8605&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Diana 黛安娜  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=11390&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3969&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=8762&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=11131&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=3971&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=8779&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=3972&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3973&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Dickies  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=9532&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=10017&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10155&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Diffa  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=10713&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=3646&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3647&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=3648&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=10055&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=3649&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=10706&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3650&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Dior  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6804&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Dior 迪奧  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9122&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5629&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5681&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6568&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10235&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7014&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5707&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6241&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6902&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6193&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6884&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Dishege 得意吉義式冰淇淋  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=7169&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+Dleet李倍  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=11093&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Dogday狗日子寵物精品  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=10809&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10719&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+DollBao逗寶  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=7379&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Droite Lautreamont  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10937&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Dyson  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5185&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5186&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5187&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10393&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5188&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5189&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=5192&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=11078&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+E WEAR.FAVVI  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=8582&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3366&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10191&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+E001 Classic  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=8482&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=9496&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=8484&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=7302&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+ECCO  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6450&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6636&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=6983&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+EDWIN  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=5296&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5297&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=5298&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=5299&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5300&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 5F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=116&StoreId=5301&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=5302&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=5303&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+EMPORIO ARMANI  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=10745&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=6391&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+EPISODE  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=10847&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+ESOPO  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6051&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5851&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=11203&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5984&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+ESTĒE LAUDER 雅詩蘭黛  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9114&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=8531&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=8572&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6570&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10247&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7015&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6288&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6248&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6007&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6196&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6887&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+EXP 俊克  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3666&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=10014&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=9640&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Ea  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=3168&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3169&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Eden Park  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9173&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5827&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Electrolux伊萊克斯  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=11042&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Elite+  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3661&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Elizabeth Arden 伊麗莎白雅頓  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6569&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6236&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6891&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Ellesse  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=9892&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Emilie Louis  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=10873&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=10855&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+F.F.F.F.  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3370&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=8413&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+FAIR LADY  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=3171&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=10667&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=8666&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3172&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3173&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=3174&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3176&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=10624&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+FANTINO  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=5337&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+FASHION MAGIC  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=10295&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3674&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=11233&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+FASHION SHOW  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=3979&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=9984&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+FERRAGAMO  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=2873&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+FET 內衣  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=6044&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6448&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5799&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 5F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=116&StoreId=10817&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+FILA  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=9257&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6063&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6491&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=8776&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10161&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=6784&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5895&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7113&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=9536&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+FILA kids  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=10367&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10104&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4658&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=8927&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+FIVE PENCE 五個銅貨  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3680&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=3681&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+FLAVOR FIELD 麵包  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5388&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5685&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+FLOTEMP福樂添  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=11009&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+FOOD OPERA食代館  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9497&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+FOSSIL  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=10666&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+FRAAS  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3686&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+FRANZ 法藍瓷  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4532&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4533&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4534&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4535&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4538&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+FREE  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3377&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=3378&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3379&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=3381&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=3382&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3383&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3384&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+FUJI按摩椅  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5214&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10397&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5215&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5216&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=8674&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+FUTURE LAB 未來實驗室  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=10318&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=9881&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+FairyTale  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=10587&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+FamilyMart 全家便利商店  
+[高雄大遠百 12F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=148&StoreId=6933&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+FansFassiii KRYOLAN歌劇魅影  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11439&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Fantasy  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=3978&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Fantino  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10529&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Feilo mina 菲洛米娜  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=2957&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=2958&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=2959&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Fika Fika Cafe  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=188&RestaurantId=274&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+Fine Show  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=11388&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+FitFlop  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9929&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=9091&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3181&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Fjällräven  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9274&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=10783&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+FoodRepublic 大食代  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5389&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 12F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=95&StoreId=5390&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+FreeLand  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3522&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Funbox  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=9279&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 8F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=37&StoreId=4660&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4661&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=4662&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10117&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=4663&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4664&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=4665&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=4666&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=4667&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=4668&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Fées Beauté  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=11287&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Fées 法緻  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4653&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10112&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4654&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+G2000  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=11336&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6620&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10217&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6949&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5829&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6145&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+GAME休閒館  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=10005&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10399&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=9715&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=10691&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+GAP  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=8613&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3688&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=3689&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+GARMIN  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=9779&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=9742&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+GDC  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=3183&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=10801&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=3184&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=11221&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3186&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=3187&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=11366&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3190&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+GEORG JENSEN  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9187&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=8525&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6759&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=11381&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=10065&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+GERLIFEN 格麗芬  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=3691&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+GETCHI  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=11246&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=11249&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+GINZA DIAMOND  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=9906&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+GIORDANO  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=5276&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5864&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=5277&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=5278&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=5279&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=5280&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=5281&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5282&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+GIORGIO ARMANI  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11096&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10946&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=10938&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+GLASSTIQUE  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9235&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+GODIVA  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9305&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5394&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10263&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5397&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+GOGI韓式  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=407&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+GOGO SPORT  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=10885&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+GOOD GUY 好漢童鞋  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4683&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=4684&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4686&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+GOZO  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3387&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=10844&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+GRACE CONTINENTAL  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=2824&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+GRAND ONIL  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=11398&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+GREENGATE  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9760&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+GU  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=8908&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10208&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B1](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=107&StoreId=3575&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=8907&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+GUCCI  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5608&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10482&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+GUCCI W&J  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=9725&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=11047&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+GUERLAIN 嬌蘭  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9117&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5651&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11325&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7017&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5710&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6246&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6204&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Gennie's 奇妮  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=4670&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4672&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=4674&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Gino Pasco 岩島成  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5391&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=5392&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Giovanni Valentino  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=8637&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Global Work  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=8488&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+Gluck  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=197&RestaurantId=415&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Grastyle  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=10548&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Green Parks  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=8551&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+Gucci Timepieces & Jewelry  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9230&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+H&M  
+[Top City 台中大遠百 B1](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=107&StoreId=11046&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 公園店 1F](https://www.feds.com.tw/tw/34/MallInfo/FloorStore?FloorId=142&StoreId=10967&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 公園店 2F](https://www.feds.com.tw/tw/34/MallInfo/FloorStore?FloorId=7&StoreId=10968&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=11069&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=11070&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+H2O  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=9790&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=7389&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=9755&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+HA BABY  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=10701&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=10309&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=10822&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=11397&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+HABU 哈布童鞋  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=10071&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+HAMILTON  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9200&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=6390&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+HANDS 台隆手創館  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4588&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4589&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+HANG TEN  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=5315&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=5319&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=7181&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5321&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+HANRO  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=9127&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+HAZZYS  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9133&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=11419&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10323&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+HAZZYS 休閒  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=5261&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+HEARTS ON FIRE  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11459&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10478&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6761&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+HERMÈS  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6806&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+HERYA'S  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=9927&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+HITACHI 日立  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9386&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5019&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=8784&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10409&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5020&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=8839&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+HITACHI／SHARP (培芝家電)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=7002&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=7003&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=7005&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=7006&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+HOI好生活  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10528&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+HOME WORKING  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=4108&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=7049&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4110&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=6281&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4111&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+HONMA  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=10597&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+HOOTERS  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=198&RestaurantId=421&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+HOT TOYS  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=11045&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+HUANG SHU CHI  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10325&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=4056&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+HUNTER  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9136&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=9418&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Half Half  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10471&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Half half  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=9789&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=11361&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Hanako Goods  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=10006&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=10572&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=10726&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10703&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=11052&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=10585&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Hart Schaffner Marx (歐風西服)  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=8420&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=8596&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6608&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5792&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7142&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6140&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=9832&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Helena Rubinstein  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11270&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Her&him  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=11368&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Hill Top 山頂鳥  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=6067&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6656&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10175&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6936&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5838&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 6F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=115&StoreId=6154&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7115&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6118&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5775&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Honey Key  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=9469&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Hooters  
+[遠百信義 A13 14F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=185&RestaurantId=278&tab=floor-14F&EntryPoint=info_floors&Source=Website)  
+Hugsie  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9805&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Hush Puppies  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6048&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6621&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6967&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+HÁI Swimwear  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=10887&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Häagen-Dazs  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=45&RestaurantId=199&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=59&RestaurantId=198&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=77&RestaurantId=200&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10262&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=89&RestaurantId=201&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=108&RestaurantId=202&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+I-PRIMO  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=2976&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11443&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+IF  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=3708&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=3709&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3710&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=8490&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+IMAGER-37  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=10905&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=10831&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10904&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+INI  
+[台南大遠百 成功店 B1](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=128&StoreId=8634&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=10848&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+INLook  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=10056&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=3352&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+INSIDE OUT內外生活  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=11412&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11424&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=11174&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+IOI Casual  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=8831&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+IPSA  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=8547&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+IRIS  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=11389&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+ISPO+  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=10606&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+ISPO+OUTDOOR  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=11420&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=8791&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=7336&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+IZABO  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6180&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=9680&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Iris Girls  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=8437&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=3405&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=3406&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Isabelle Wen 溫慶珠  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=9794&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=10229&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Ivy's  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=8887&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+IÉNA  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3397&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3398&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=9799&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B1](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=128&StoreId=3399&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3400&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+J&NINA  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=10635&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10326&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=9913&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+J'star 璽星珠寶  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3129&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+JACK NICKLAUS  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10172&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5329&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=5330&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+JADEGIA 玉世家  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=5736&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+JBL  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4926&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+JEC  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11493&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+JETEZO裘堤婼  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=10590&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=10257&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+JEWEL CAFE  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=10709&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+JEpoque  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=11162&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+JEpoque Entrepôt  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=11280&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+JHDiamond 玉雪齋  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=2979&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+JILL by JILLSTUART  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=6421&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10324&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+JIMMY CHOO  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=11456&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+JINS 眼鏡  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11054&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10203&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3731&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=11104&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=10617&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+JNBY  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10537&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3729&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+JO MALONE LONDON  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11447&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=11472&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+JOAN  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=3722&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3723&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3724&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+JOHNSON 喬山健康科技  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5244&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5245&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5246&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10388&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5247&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5248&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=10042&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=5249&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=5250&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+JOMODEL  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=11367&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+JOSEPH  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=2838&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+JOY COLORI  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9211&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=9375&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+JUNIOR COFFEE  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9291&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4349&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10923&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=8717&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4351&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4352&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+J'S MISS  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=3718&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3719&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=9639&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11437&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=3720&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3721&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+JackWolfskin 飛狼  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7156&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=8670&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Jaeger-LeCoulte  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=10734&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Jeep  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5822&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6645&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10176&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Jeffrey Campbell  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9156&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=9392&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10440&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11182&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Jessica  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=3726&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Jolly factory  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10472&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11301&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Jollyard 潔麗雅  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4127&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9787&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4129&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10136&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4130&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4131&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Jura 優瑞  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5144&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Just Diamond  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=2980&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=2981&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Just Gold  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=2982&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10506&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=2983&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+K.ANDERSON 金安德森童裝  
+[遠百板橋 8F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=37&StoreId=6037&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4694&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+K.SWISS  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=10979&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=11109&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6493&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=11065&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10178&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=10958&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5897&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6112&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+KA 襯衫  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=11179&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7157&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+KANEBO 佳麗寶國際櫃  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=10021&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=10022&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=10023&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=10025&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=10026&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=10027&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=10028&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+KANEBO 佳麗寶東京櫃  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5649&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6572&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7018&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6238&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6001&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6191&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6883&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+KANGOL  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=11240&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=10867&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=11188&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=9847&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+KAPPA  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=6649&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10181&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5896&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6113&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5766&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+KAWAKUBO  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=3733&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3734&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=11288&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=11132&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3739&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+KEEN  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6938&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5892&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+KENZO  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7369&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=2839&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+KERAIA 克萊亞  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=3990&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3991&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=3994&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=3995&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3996&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3997&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=3998&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+KOSÉ 高絲  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5647&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6573&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6242&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6010&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6205&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6890&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Kadia  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=3213&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Kaffee Amadeus  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5370&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Kanaii Boom  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=2985&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Keds  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9637&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Keeley Ann  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=3220&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+KeyWear奇威服飾  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=11013&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11427&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=11308&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Kiehl's 契爾氏  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5639&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11315&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=8682&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10251&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7019&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5712&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6000&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6197&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6880&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Kinloch Anderson Baby  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4701&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=4702&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Kinloch Anderson 女裝  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3410&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3413&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=6767&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=3416&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=3417&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3418&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Kinloch Anderson 男裝  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=8417&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6957&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=6316&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 6F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=115&StoreId=9018&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Kipling  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3751&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=3756&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+KnightsBridge  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=3421&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3422&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=3423&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3424&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=6301&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=3426&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=10623&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Kuan'S Living 寬庭生活館  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4194&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4196&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+L'ERBOLARIO 蕾莉歐  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9294&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4116&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=4117&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4118&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10128&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=4119&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4120&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=4121&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6996&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=4124&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=4125&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+L'OCCITANE 歐舒丹  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11316&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6574&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10238&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=8759&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6233&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6203&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=9453&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+L.Erickson  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=11090&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+LA MER 海洋拉娜  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9111&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=8571&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=8563&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10232&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7021&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5715&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+LAC  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=7315&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10290&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=6856&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+LACE  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=10360&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=3429&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=9016&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B1](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=128&StoreId=3430&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=11230&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+LACHELN 雷迅  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=11160&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+LACOSTE  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6614&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6942&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5831&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 5F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=116&StoreId=6228&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+LACOSTE LIVE  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6547&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+LAKING  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=9777&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=9649&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+LANCÔME 蘭蔻  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9116&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5633&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5677&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6091&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10249&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6092&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5716&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6093&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6008&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6094&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6095&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+LANEIGE 蘭芝  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5632&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+LAURA MERCIER  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10255&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+LAUREN RALPH LAUREN  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=10646&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+LAUTRĒAMONT  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=3769&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3770&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+LAVIDO  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10107&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+LE CREUSET 法廚  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4311&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=6851&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4314&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+LEGO ® Certified Store TW - Msyaming Group台灣樂高授權專賣店  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9179&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=10589&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=9922&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+LEGO 樂高主題館  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4708&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4711&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+LEONARD  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=11355&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+LEVI'S  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9242&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=5305&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5809&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=5307&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10213&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=5308&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5309&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 5F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=116&StoreId=5310&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7109&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=5311&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=5312&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+LINDARICO  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=11313&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=9824&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10329&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+LOEWE  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10483&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+LONDEE 龍笛 (蔡孟夏)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4001&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=7328&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=4002&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=10833&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=9615&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=11337&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=10856&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+LONGCHAMP  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6751&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+LONGINES  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9214&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11396&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=5737&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+LORANZO ROMANZA  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=7310&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+LORDEX  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=11156&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+LORYA 眼鏡  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=3788&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+LYNX  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=5324&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10173&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+La Felino 法利諾  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=2987&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+La Féta  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3760&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=3761&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3762&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=3763&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+La Prairie  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=9735&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+La Vie Aisee 金華歌爾  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=2993&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=2994&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=2995&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=2996&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=2997&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=2998&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=2999&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Lab  
+[高雄大遠百 17F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=143&StoreId=10583&tab=floor-17F&EntryPoint=info_floors&Source=Website)  
+Ladies 蕾黛絲  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3001&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3002&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3003&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3004&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3005&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=3006&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3007&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3008&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=3009&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Lady  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=2968&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=2969&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=2970&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=11037&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=11192&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=2973&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=2974&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=2975&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Lady M  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=172&RestaurantId=271&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=195&RestaurantId=417&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Lady Me  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=10068&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+LadyM  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11463&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Lapage  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9192&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Le Polka  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=11115&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10921&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11441&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=10850&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Le premier 送子鳥  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4705&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+LeSportsac  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3780&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Lee Jeans  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=10866&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Les Néréides  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=8740&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Little Garden  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=11129&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4717&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=11140&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Little Garden PALETTE  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11025&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=11068&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Lofan  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3011&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Lonsdale  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=11141&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Louis Vuitton  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=11498&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Lowrys Farm  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3433&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=11168&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=10843&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Lucy's  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3789&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10221&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=9105&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=3790&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+Luna Del Rey  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=10834&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+M'S GRACY  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=3817&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+M.A.C  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5682&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6575&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10244&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7022&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5719&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+MA TSU MI  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3439&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3442&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+MACANNA 麥坎納  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=3229&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3230&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=10736&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11181&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=3234&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=10297&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3236&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+MAGIQUE WARDROBE  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=8411&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=10725&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=7276&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+MAGY  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=3238&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=3239&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3240&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3241&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=3242&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3243&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3244&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+MAJESTIC LEGON  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3443&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10188&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+MAKE UP FOR EVER  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5671&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5720&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6211&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+MANGO  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3548&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=3550&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+MANHATTAN 美好挺  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=5285&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=6318&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+MANOMANO馬卡龍  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=11060&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+MARC JACOBS  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=11452&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+MARILYN 瑪麗蓮  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3012&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3013&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+MASTER MAX  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=3804&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3805&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=10260&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=3806&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3807&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=5617&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+MASTINA  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3452&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+MAWA 登旺  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=4089&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=9013&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+MAX&CO.  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=7032&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=10335&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+MAZU童.衣著  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=11215&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+MBJ  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11083&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+MELROSE  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3245&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=3246&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+MERRELL  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6062&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6500&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=6657&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5899&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5770&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+MICHAEL KORS  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7368&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=2849&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+MIDO  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9202&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=6426&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+MIKIMOTO  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6202&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+MISS21  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=5923&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+MIU MIU  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=8808&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+MK MICHEL KLEIN  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=11176&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+MK MICHEL KLEIN 服飾  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=9420&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+MLB KOREA  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=10647&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+MO-BO  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=10877&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+MO-MO-PARADISE  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=54&RestaurantId=434&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=413&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+MONTAGUT  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=11238&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+MONTAGUT 夢特嬌  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=7251&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10130&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4204&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=4205&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=4206&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=4207&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+MONTAGUT 襯衫  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=9542&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=10716&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10168&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=5352&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+MONTBLANC  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=8526&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=2853&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10477&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=5738&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+MORLEY 西服  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=8748&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=7064&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+MOSS CLUB  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3463&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=6766&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3465&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=3466&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3467&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3468&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+MUJI 無印良品  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=4592&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=4593&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=4594&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10122&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=4595&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=4596&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=4597&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=4598&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Maison de FLEUR & JUJURY  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10523&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Mama&Dada  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=10782&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Mami cooking 韓國道地小菜  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11272&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=11074&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+Marelli  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=5973&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6456&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=11202&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10920&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Massimo Dutti  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=3801&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Mayu+  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5924&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4284&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4285&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+McDonald's 麥當勞  
+[遠百板橋 12F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=33&StoreId=5932&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=52&StoreId=5415&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=5416&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=5420&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 12F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=95&StoreId=5417&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=5418&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=5419&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 B1](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=169&StoreId=9620&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Mia C’bon  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=5409&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Micro 睿兒國際  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=6858&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Midoliya  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3456&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=3457&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=3458&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Mike Frederiqo  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=11157&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Miofeel  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=11148&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Mister Donut  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=10896&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10933&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=10892&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 B1](https://www.feds.com.tw/tw/52/MallInfo/FloorRestaurant?FloorId=169&RestaurantId=446&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+Mitsubishi 三菱  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=10982&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9530&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=7090&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5027&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Mizuno  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6485&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=10375&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10182&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5900&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Mochi Mochi 鬆餅屋  
+[台南大遠百 公園店 3F](https://www.feds.com.tw/tw/34/MallInfo/FloorRestaurant?FloorId=18&RestaurantId=359&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Modern Girl 瑪登瑪朵  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3026&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3027&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3029&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3030&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3031&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=3032&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Monkey Bow  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=11328&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11302&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Mont-Bell  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=8678&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5839&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+MoonSTAR  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=9855&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Munsingwear 企鵝  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=5962&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6545&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6627&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10153&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6951&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5844&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 6F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=115&StoreId=7200&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6126&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+My de Girl  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3818&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+NAGASHIRO BOUTIQUE  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9219&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+NAIL NAIL  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9975&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+NARA CAMICIE  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=8958&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+NATURALLY JOJO  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=9767&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=8548&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=7362&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+NAUTICA  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=5960&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6550&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6615&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10148&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=10874&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+NEIGHBORHOOD  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=10972&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+NESPRESSO  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=9972&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=10948&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+NEWERA  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=9717&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=10076&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+NIKE  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=9260&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6057&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=6653&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10160&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=6779&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5903&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 5F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=116&StoreId=6229&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7112&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6106&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5768&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+NIKE (福城)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6490&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+NIKE KICKS LOUNGE  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=8600&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=6839&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+NIKE YOUNG ATHLETES  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4735&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=4736&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=4737&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=4739&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+NIKE kids  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=6308&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+NOSE WAY  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=10534&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+NOSE WAY 迷香人  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11423&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+NOUVELLE TOKYO  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=11289&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+NU健康守護鍺  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=11206&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=9094&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Natures purest  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4730&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=4731&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Nest巢家居  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10974&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+New Balance  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=10980&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=11107&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=11476&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=11064&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10917&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=10940&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=11186&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=10884&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Nitori 宜得利家居  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=10418&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=11408&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=10747&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=11130&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=10712&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+O'MUSES  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=6267&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+OFFERMANN  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=11245&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+OGAWA  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=11268&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10525&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=11298&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=11360&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+OGUMA  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=11465&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11118&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=11357&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=11112&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+OJO SALON  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=10633&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+OLENS  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10521&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+OMEGA  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=8524&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=8431&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+ONE Gourmet  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9358&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+ONEBOY  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=10652&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=11067&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=10803&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=9883&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 6F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=115&StoreId=10819&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=11145&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=11075&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+ONEBOY HOME  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=11224&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+ORIN  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3264&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=3265&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11184&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+ORIS 豪利時  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9195&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=6425&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+ORTR  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10202&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+OSAN  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=11258&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+OSIM  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9301&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5232&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5233&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5234&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10404&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5235&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5236&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=5238&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=5239&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5240&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+OUTDOOR  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10426&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=11076&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+OWNDAYS  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10212&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=3824&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=3825&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=9891&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Origins 品木宣言  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5645&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11324&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6576&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7023&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6186&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6877&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+O’right SPA香氛  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=10653&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=10342&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10449&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+PANDORA  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=6392&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=2859&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6757&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=11377&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+PANERAI  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6807&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+PENHALIGON'S  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9196&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+PEPPER'S  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=3832&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=3833&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+PERTER RABBIT  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=4297&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+PERTH'S KEY 栢司金  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4086&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+PESARO 黃蕙玲  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=10612&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=8498&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+PHILIPS  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10411&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5149&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=5153&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+PIAGET  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5700&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+PICO 比可  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4237&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=11236&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+PIERRE BALMAIN 襯衫  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=5970&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6479&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5817&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+PING  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=11406&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=11208&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10965&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=10963&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=11345&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+PINYAN 品硯  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=7271&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+PIPPY  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=4751&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=4752&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+PLAYBOY GOLF  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10428&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=8794&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+PLAYBOY 鞋類  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=8874&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3269&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+PLAYBOY專門店  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=9431&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3835&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=3836&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=9600&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3838&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+PLEATS PLEASE ISSEY MIYAKE  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=11095&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=4017&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10486&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=4019&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=4021&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+POLAR BEAR 北極熊  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=9510&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=9681&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+POLO RALPH LAUREN  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9216&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=11453&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10489&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6748&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=2867&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+POONE  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3480&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3481&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=11369&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3483&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=3484&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=3485&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+PORTER INTERNATIONAL  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6462&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6966&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=6089&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+POU DOU DOU  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=10054&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=9798&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10189&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9062&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=11309&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+POYA Beauty 寶雅  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=10860&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B1](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=128&StoreId=10863&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=10859&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+PPFM HOMME  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10215&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=6832&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6910&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+PRADA  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=8809&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+PROKAN波樂  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=10753&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=10658&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+PROMESSA  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=10303&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+PROPHECY MOROCCO 柏翡斯  
+[Top City 台中大遠百 B1](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=107&StoreId=11055&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+PS COMPANY  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3487&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+PUHU  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=11161&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+PULL&BEAR  
+[Top City 台中大遠百 B1](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=107&StoreId=8959&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+PULO布蘿國民襪館  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=10776&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+PUMA  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=9253&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6059&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6499&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=6654&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10162&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=6781&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5904&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7122&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6109&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+PURE LIFE  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=10889&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+PYXIS  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3847&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Pal'las Palace  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=8535&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Palladium  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9251&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6070&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6464&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10156&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5873&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Panasonic  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9388&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4930&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=8877&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10403&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=8825&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4931&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=11020&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=8744&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+Passionata 貝莎娜塔  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3033&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3034&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3036&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Pearl de Flore  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=11411&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Pearly Gates  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10152&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Per-Pcs 派彼仕  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6610&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5794&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Perfume Dance 跳舞香水  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=168&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Perng yuh芃諭  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=10016&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Philips 飛利浦  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9390&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5146&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5147&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5148&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5150&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=5151&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=5152&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5154&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Phiten銀谷  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=11205&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=10942&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Pierre Cardin 休閒  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=7262&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=11204&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6628&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=10955&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=11235&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Pierre Cardin皮件  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=10685&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Pintoo  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=10638&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Pomelo Korea  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=10560&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Power Sleep 知識睡眠館  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=11008&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4291&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4292&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4293&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=4294&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4295&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=4296&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+QUIKSILVER & ROXY  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9920&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+R&F  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=10739&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=11092&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=11385&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+RABEANCO  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3849&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+RADO  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9198&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11285&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10491&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+RASASI拉莎斯  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=10748&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+RECARO  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9745&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+RED HOUSE  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=11414&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=9911&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=3856&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3857&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+REEBOK CLASSIC  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9269&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+RENE CAOVILLA  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=11469&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+RIMOWA  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10985&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=11404&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+RITE  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=9525&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+RMK  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5646&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+ROBINMAY  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=10802&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+ROOTS  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9132&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=3552&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6047&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=6417&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=3554&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10322&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3555&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6947&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5867&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=9982&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=3556&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3557&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+ROOTS KIDS  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=9852&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=4759&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10106&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=4760&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4761&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=4762&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+ROXY  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=8688&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10164&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5866&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=7069&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3558&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+ROYAL ELASTICS  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5886&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=10371&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5874&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Ralph Lauren Children  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=11417&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Reebok  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6484&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7124&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6117&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Relove  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=9856&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Repetto  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=10749&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Roberta di Camerino 襯衫  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=9464&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6963&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=6798&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 6F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=115&StoreId=7199&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6148&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Roberta di Camerino 西服  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=5994&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=7080&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Roger Vivier  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=11466&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Rosemaid 羅絲美  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3038&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3040&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+SABON  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=9988&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10240&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SAIKABO韓國旬彩料理  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=370&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+SAISON du SOLEIL  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=5433&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+SAKImoto嵜本  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=60&RestaurantId=372&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SAMSONITE  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=11483&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+SAMSUNG  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=10780&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SANLIKE 邁達康高爾夫  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6543&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=6981&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+SANRIO 三麗鷗  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4765&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+SCOTTISH HOUSE  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3491&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3492&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10192&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3493&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=3494&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+SCULPTOR BARBER  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=10346&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+SEIKO  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=11113&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+SHIATZY CHEN  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=10594&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=2875&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=11356&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=2877&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=2878&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SHISEIDO 資生堂 國際櫃  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9112&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5630&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5683&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6582&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10248&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7025&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5723&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6250&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6005&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6201&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6888&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SHISEIDO 資生堂 東京櫃  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5628&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11319&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6581&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10242&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7024&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6249&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6200&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6881&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SHOEX  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3280&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3294&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=6088&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+SIKA  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=7259&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=10852&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+SIMMONS席夢思  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9739&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10124&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4185&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4186&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4187&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+SIMONE ROCHA  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=10810&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SISLEY 服飾  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=11303&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+SK-II  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9120&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5626&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5679&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6578&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10241&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6762&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5726&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6237&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=6003&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6190&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6882&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SKECHERS  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=9259&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6055&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=8598&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=6655&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10163&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=6780&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=6985&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 5F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=116&StoreId=6231&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7120&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6105&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=8891&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+SKECHERS (童鞋)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4775&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+SKECHERS USA  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=9076&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+SM  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=3270&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=5611&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SOBDEALL  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9244&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10425&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=8540&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+SOCIE 施舒雅  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=8871&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=6668&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+SOLE  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=11343&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+SONY  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9302&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=11209&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+SPORT b.  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9137&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=4071&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=4072&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=4073&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SST&C  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=9066&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+STARBRANDS+  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9222&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+STARBUCKS  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=187&RestaurantId=346&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=201&StoreId=10289&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+STEVE MADDEN  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=7365&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=8663&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10567&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=10737&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=8443&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=8922&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+STEVE MADDEN CAFE  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10808&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+STOKKE  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=10663&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+STUSSY  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9247&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+SUN FLOWER 三花  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=8616&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+SUN UP BABY  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=9286&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=9713&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9744&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+SUPER GOLF  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=5322&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+SWAROVSKI  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9180&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=2882&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=2883&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6760&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=11333&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6252&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=2887&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+SWEAR 思薇爾  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3074&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3075&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=3078&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3079&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3080&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=3081&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Saeco  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10970&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Salute 莎露  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3044&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3045&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3046&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3047&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3048&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=3049&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3050&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3051&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Samansa Mos2  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11079&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Samsonite  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=11241&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6641&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5801&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Samsung  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=4898&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=8786&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10387&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4899&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=4918&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Savvy 莎薇  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3053&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3054&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3055&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3056&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3057&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=3058&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3059&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3060&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=3061&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Secret Castle秘密城堡  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=11422&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11425&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+See's CANDIES  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9304&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=8841&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=11062&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+Sharon  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=9370&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Silwa 西華名鍋  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=4431&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10141&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4432&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Simone Pérèle  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3062&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3063&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Simple Joy  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=10362&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+SingBee  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10108&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Sloggi  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3065&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3066&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3067&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3068&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3069&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3070&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Sony Center  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=10997&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Sony Center 紳鑫  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9764&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Sony Mobile  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10971&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Sophiaroy facemask n+1 tufting簇絨  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=10883&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Spectragem思彼垂銀  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=9966&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Stadler Form 瑞士時尚家電  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=10383&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+Starbucks 星巴克  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=43&RestaurantId=149&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=59&RestaurantId=318&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=366&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=77&RestaurantId=216&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=88&RestaurantId=163&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 11F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=96&RestaurantId=181&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorRestaurant?FloorId=120&RestaurantId=154&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=126&RestaurantId=208&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=159&RestaurantId=234&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorRestaurant?FloorId=168&RestaurantId=214&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Strellson  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=2879&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Sulwhasoo 雪花秀  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=11271&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7027&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Superdry  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=10864&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=10865&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=10082&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Sylvain Lefebvre  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=11256&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Sylvain Lefebvre希梵  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=11347&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Séduir  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=11024&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+TAKARA TOMY 三合一交通旗艦館  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4795&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+TAN&LUCIANA 陳探月&袁憶甄  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=10878&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=11339&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+TASAKI  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11486&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=6755&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=5743&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+TAST  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=10557&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=10598&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+TEMPUR 丹普  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9278&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4262&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9277&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4264&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10126&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4265&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4266&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=10675&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+TENDAYS 恬褋仕  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=6173&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4256&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10451&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4257&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=8963&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=4259&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4260&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+TESLA  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10553&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+TEVA  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=10320&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=10083&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+THE BODY SHOP 美體小舖  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11087&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6182&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6893&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+THEROMS  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=10959&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+TIAMO  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4430&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+TIARA TIARA GOODS  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10474&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+TIFF  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=10305&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+TIFFANY & Co.  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6809&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+TIGER 虎牌  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5122&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5123&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5124&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10389&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5125&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=10069&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=5127&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=5128&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5129&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+TISSOT 天梭  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=2894&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=2895&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10492&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+TOD'S  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11103&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=11048&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+TOM FORD  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11263&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+TOMMY HILFIGER  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3566&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5262&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+TOMMY 童裝  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4779&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4780&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+TONGER 彤格  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3886&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+TOP-DO  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=3888&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+TORY BURCH  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11488&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+TOYSELECT  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=10351&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10430&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+TRAQ  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=11219&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+TRAVELER旅行者  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=6066&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6659&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10174&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6934&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5843&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 6F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=115&StoreId=6155&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7114&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6119&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5774&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+TSUJIRI  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=188&RestaurantId=273&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+TUDOR  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=11458&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+TUMI  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=9952&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=11311&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+TWG Tea  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10536&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+The North Face  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6468&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6658&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10427&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=6935&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5842&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6121&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+The North Face UE  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=8911&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=9020&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Theodora's  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11085&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Think Pink  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7158&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Thule  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=11399&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Tiara Tiara Goods  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=9978&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3495&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=11310&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+TigerFamily  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=9853&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=11195&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9743&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+Timberland  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=10869&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=5264&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=5265&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=5266&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10167&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=5267&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=6330&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 5F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=116&StoreId=5269&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=5270&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=5271&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+TimeVallée  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10681&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Tion Belini 皮鞋  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6639&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Tonia Nicole 東妮寢飾  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9295&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4174&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4176&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10121&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4177&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4178&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=8964&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=4179&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=4180&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4181&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=4182&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Travel Fox 旅狐  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=10767&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Triumph 黛安芬  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=9129&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3083&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3084&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3085&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10200&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3086&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3087&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=3088&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3089&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3090&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=3091&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+True Religion  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9178&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Trussardi Home 日比  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=6360&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4248&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+U CARE  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=10002&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+U're  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=3499&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3500&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3501&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3502&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3503&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=7333&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3504&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+UCHINO  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=8962&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+UNIARTS  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10796&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+UNIQLO  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=6422&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=3573&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10147&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 B1](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=169&StoreId=3574&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+UNIQUE SLIME LAB 史萊姆實驗室  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=8992&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=11273&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10119&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9850&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+UNIVERSITY OF CAMBRIDGE  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=5356&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=5357&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=5359&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+USTINI我挺你健康鞋  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=11006&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Ucom 益康屋  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4418&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=11213&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10924&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4421&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Under Armour  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=9261&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6482&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=9560&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10157&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=10957&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5907&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=11222&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+VA Vendome Aoyama  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3898&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+VALMONT  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10253&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B1](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=107&StoreId=11126&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+VANGER  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=11387&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+VANS  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=9718&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+VERSACE  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=8487&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+VICTORINOX  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=2899&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=8774&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=6324&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=7225&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+VINCE CAMUTO  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9154&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=11284&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=8640&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+VIVENTY  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3285&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+VIYA'S  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=10103&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10196&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=7095&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+VK水晶  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=11150&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+VLENS  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10220&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+VORNADO (雯麗)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=6372&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+VOUX  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=9942&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Vacheron Constantin 江詩丹頓  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=10777&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=10770&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Van Cleef & Arpels  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6810&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Vensers  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=9846&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Venus&S  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=10862&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+Verve  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=11350&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+Vitamix／Buydeem  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5204&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5205&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10394&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=7061&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5207&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+Vivi ann  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=11372&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=11242&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=10846&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+Vivienne Diamant  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=11380&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Vivienne Westwood  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9210&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+WATPURE 美而浦  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9389&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5172&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10392&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=8715&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+WE  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=11354&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+WEDGWOOD  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4241&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10507&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4244&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=9100&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+WHITEROCK  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=10722&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+WMF  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4448&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10450&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+WOKY  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10952&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Wacoal 華歌爾  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=9131&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3099&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3100&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3101&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10201&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3102&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3103&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=3104&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3105&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3106&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=3107&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+Waltz  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=6028&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10535&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=8711&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11353&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=7398&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Weekend Max Mara  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=2900&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Whiple  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=9956&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+White Rock  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9271&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=10720&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Whittard  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10999&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=11405&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+Whoo 后  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5635&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6583&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7028&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6251&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=5997&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6209&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6889&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Wolsey  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=9102&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6538&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5845&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6131&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+Woosa パンケーキ 屋莎鬆餅屋  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=41&RestaurantId=328&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=197&RestaurantId=395&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=104&RestaurantId=153&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=158&RestaurantId=171&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+XING  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=3510&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3511&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=8512&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+XLARGE  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9246&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=8507&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+XRAGE  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=10664&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+Y's YOHJI YAMAMOTO  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=8614&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Y-3  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9209&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=11495&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=4036&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+YAMAHA  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=9409&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=8662&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+YBG  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=9980&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+YECCA VECCA  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10520&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+YOKU MOKU  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=8754&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+YSL  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5662&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10250&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7029&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5728&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+Yamazaki 山崎麵包  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=5450&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+Yvonne Collection以旺  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4564&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+ZAN ZAN 冉冉  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=11057&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+ZOJIRUSHI 象印  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5131&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5132&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5133&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10395&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5134&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5135&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=5137&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=5138&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+ZOLA  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=11376&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+ZWILLING 雙人  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10962&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=11295&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=11073&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+Zegna  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=11291&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+a la sha  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3318&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3319&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3320&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=3321&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=5747&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 2F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=126&StoreId=7215&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3322&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+a-fa  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=6384&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B1](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=128&StoreId=8639&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+abito  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3526&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+adidas  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=9254&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6053&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6497&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=6646&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10159&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=6778&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5888&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 5F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=116&StoreId=6230&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7121&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6107&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5767&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+adidas Originals  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5856&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10429&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5889&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+adidas kids  
+[遠百板橋 8F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=37&StoreId=4608&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4609&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=4610&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10105&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=4611&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4612&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=4613&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=4614&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+agapebaby  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=9921&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=11123&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10111&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=7079&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4680&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=4681&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=10875&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+agete  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10593&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=11378&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+agnès b.  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6557&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10490&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=10828&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+anySiS  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=9842&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+arena  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=8560&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+arnold palmer 包包  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10224&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+asics  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6496&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5890&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6111&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+aziza  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=10352&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+bb.q CHICKEN  
+[Top City 台中大遠百 12F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=95&RestaurantId=426&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+be;eza  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=11410&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+belif  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6931&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+berji 泊姿  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=5657&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+beside·u  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=10890&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+blank.  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=10824&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=11487&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=11034&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=11051&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=11121&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+borsalini  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=3610&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3611&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+bossini.X  
+[遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=11032&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=11101&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+cambridge  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=11138&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+chicco  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4637&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=4638&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10110&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4639&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=4640&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+city'super  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9306&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5381&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10273&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5382&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+clé de peau BEAUTÉ 肌膚之鑰  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9110&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5644&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5672&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6563&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10237&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7011&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+cop. copine  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3630&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=3631&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3632&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=10872&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3633&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+cosmescents 伊聖詩芳療生活館  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=6918&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=6600&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7037&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=5754&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=10687&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+crocodile  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=8815&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+dunhill  
+[Top City 台中大遠百 2F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=105&StoreId=9060&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+foota  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=11116&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=8978&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+gd shop  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=11253&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+giordano ladies  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=8407&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10190&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+great living  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10470&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=11172&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+half half  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11081&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+himolla  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10029&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+iCB  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3703&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3704&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3705&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+iDrip Coffee  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=10786&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+iROO  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=3701&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3702&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+iloom怡倫家居  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=10981&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9571&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+iloom韓國No.1 兒童家居  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=10728&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=9416&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+ivys & mooris  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=11440&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+juliArt 覺亞  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4094&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4095&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=4096&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+kafeD德式精品咖啡  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=453&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+komm-31  
+[台南大遠百 成功店 B1](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=128&StoreId=9936&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=9845&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+la f  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11438&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+le coq sportif  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=178&StoreId=9267&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=6064&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6495&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 8F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=69&StoreId=6651&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10180&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=6785&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5898&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 5F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=116&StoreId=8921&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=11304&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=6115&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5772&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+le coq sportif GOLF  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=5966&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6537&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=8773&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=5293&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=5294&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+mamas & papas  
+[遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=10989&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+mamaway 媽媽餵  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3132&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=8994&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10198&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=8746&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+maru.a  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=11375&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3444&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3445&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=10660&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=3448&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+masse瑪謝律動椅  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=11264&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10935&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=9491&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+me ISSEY MIYAKE  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=4009&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+mia mia  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=8574&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=3809&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3810&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=9595&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+nR192行李箱  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=10752&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+native  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10211&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=8544&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=6914&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+niko and…  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11448&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10195&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=9711&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+norns  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11084&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=11214&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+odbo  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=11344&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=10080&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=9801&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+open for kids  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=11281&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+oui  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=11413&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+pink  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=10902&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=11371&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=10845&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+pokolini波克里妮  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=11255&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+puma kids  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=11124&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+rather  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=10787&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+repipi armario  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10497&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+roborock  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=11283&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=11117&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+sealy 席伊麗  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9292&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4230&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4231&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10125&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4232&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4233&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+shu uemura 植村秀  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=5634&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=5622&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6579&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7026&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=5724&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 1F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=120&StoreId=6239&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=5996&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=6187&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6878&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+sisley  
+[遠百信義 A13 1F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=172&StoreId=9113&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=8530&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10233&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+sisley  希思黎  
+[Mega City 板橋大遠百 1F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=60&StoreId=6269&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 1F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=76&StoreId=6577&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 1F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=88&StoreId=7089&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=6270&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=7041&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6894&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+sophia 蘇菲亞  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3130&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11430&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+studio CLIP  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11449&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=10879&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+swatch  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=10656&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+tittot 琉園  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4501&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4502&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4503&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+tokuyo  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5208&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10396&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=8822&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=8996&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+tripose  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=11231&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+tuc tuc  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=11277&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+uniarts  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=3893&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+vacanza accessory 假期飾品  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=9436&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=11191&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+zuny  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10035&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+ココディール  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3516&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=6556&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=6765&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=8837&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+一家人 OUR FAMILY  
+[遠百板橋 1F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=44&StoreId=10717&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+一樂洋食  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=406&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+一風堂  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=193&RestaurantId=416&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+三味香  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5458&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+上善蔬食  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=390&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+上菜。片皮鴨專賣店  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=409&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+串家物語  
+[遠百板橋 11F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=34&RestaurantId=256&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+丸亀製麵  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=61&RestaurantId=86&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=11312&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+丸松床墊  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9761&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+也花 也草  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=10718&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+乾唐軒  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=11135&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4486&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4488&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+乾杯燒肉居酒屋  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=382&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B1](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=128&RestaurantId=230&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+了凡  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=61&RestaurantId=437&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10422&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+亞梭傢俬  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=10226&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=9507&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=8982&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10132&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4576&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+京工  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=10358&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+京盛宇  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=9700&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+京都苑  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=8973&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+京都西川  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=10060&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=10228&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10131&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=10476&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10457&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=10040&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+今生金飾  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=3109&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10800&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+今生金飾Golden Life  
+[高雄大遠百 1F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=159&StoreId=11286&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+以旺 YVONNE COLLECTION  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=10613&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4563&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10459&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+伊萊克斯  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=10983&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10410&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+佐恩  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=10960&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+佳醫  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=10991&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=11297&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=11017&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+佳醫（線上購物）  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=9493&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+來思比 iRobot  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9378&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5139&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5140&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10390&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5141&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5142&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=7400&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+偷飯賊  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=294&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=379&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+億長御坊  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=61&RestaurantId=188&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+元氣咖哩  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=5465&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+元艇  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=8620&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=9687&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+先亞香氛  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=10062&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+先喝道  
+[Top City 台中大遠百 12F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=95&StoreId=8489&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 12F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=148&StoreId=7193&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+八番赤野日本料理  
+[遠百板橋 12F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=33&StoreId=5457&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+冠英時計  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=6348&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=151&StoreId=6913&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+初魚 鐵板燒  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=10893&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+初魚 鮨  
+[Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=11122&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+創意美術  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9098&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+創舍/space creart  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10544&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+劉媽媽抄手大滷麵  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=10901&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+劉家冠軍牛肉麵  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=10314&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+勝勢豬排  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=136&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+勝博殿  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=387&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+勝博殿日式炸豬排  
+[遠百板橋 13F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=32&RestaurantId=452&tab=floor-13F&EntryPoint=info_floors&Source=Website)  
+半分鐘  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=175&StoreId=9985&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+半島精品店  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5471&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+博多拉麵  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=5541&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=5542&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+卡汀娜  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=10771&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+古典玫瑰園  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=9012&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 12F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=148&RestaurantId=185&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+合點壽司  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=193&RestaurantId=376&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=108&RestaurantId=364&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+吉 天麩羅  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=408&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+吉品初筵港式茶居  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=399&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+吉品養生  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=10627&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+吉達興 (三菱可菱水)  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5037&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+名人泳裝  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5879&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+吳寶春  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9434&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=10694&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+周大福  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3121&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+周氏蝦捲  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=5495&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+周薇設計師珠寶  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=10145&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+品東西家居  
+[台南大遠百 成功店 B1](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=128&StoreId=10700&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+喜佳縫紉精品  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4578&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4579&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+喜福刈包  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=175&StoreId=11227&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+喫茶趣Togo  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5447&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5448&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=5449&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+喬登戶外  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=9177&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+嘉儀  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9384&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4988&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4989&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10926&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=10941&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=6371&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+四川吳抄手  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=293&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=432&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+團團 TUAN TUAN  
+[遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=9194&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10480&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+均岱鍋具  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10975&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=11296&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+培元堂  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=10707&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=11275&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=11159&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=11373&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+塔吉特  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5552&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+夏之戀  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=7294&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+夏利夫香水  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=9064&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+夢樂莊園  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10640&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+夢特嬌  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10032&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+大創DAISO  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=10812&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10910&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 17F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=143&StoreId=10826&tab=floor-17F&EntryPoint=info_floors&Source=Website)  
+大古鐵器  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4509&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+大師修  
+[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=10087&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=11167&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+大心  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=193&RestaurantId=422&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+大戶屋  
+[遠百板橋 12F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=33&RestaurantId=396&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 9F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=68&RestaurantId=88&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=193&RestaurantId=378&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=149&RestaurantId=173&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+大河屋燒肉丼 串燒  
+[遠百板橋 12F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=33&RestaurantId=347&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 9F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=68&RestaurantId=361&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=380&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 7F](https://www.feds.com.tw/tw/37/MallInfo/FloorRestaurant?FloorId=114&RestaurantId=353&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=149&RestaurantId=344&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+大霹靂  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=11461&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+天仁Chaffee  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9310&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+天仁喫茶趣  
+[高雄大遠百 12F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=148&RestaurantId=93&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+天吉屋  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=61&RestaurantId=94&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+奇哥  
+[遠百板橋 8F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=37&StoreId=4812&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4813&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10109&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=4814&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4815&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=4817&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+奇華餅家  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5496&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+奎士咖啡  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=175&StoreId=11489&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+奧斯汀寢具  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10950&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+媽咪雞蛋仔  
+[Mega City 板橋大遠百 10F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=51&StoreId=9071&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+嬌瓔珠寶  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=9899&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+孩好。好生活  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10114&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9749&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+宏星飛利浦智能居家  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=11119&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+富山香堂  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=11290&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+富珠寶／大地珠寶  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=2963&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=2964&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+寢室物語  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4221&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+寶貝可可麗  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=4630&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+寶貝媽咪  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3126&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+小乖制作所  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10442&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+小南門豆花  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=188&RestaurantId=301&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+小福利麻辣鍋  
+[遠百竹北 8F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=202&RestaurantId=404&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+小米(鴻邁科技)  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=9660&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10331&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+山二皮件  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=7160&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+山崎隆史  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=8862&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=10805&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+山林 Mountneer  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=11402&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+山神帆立貝 (生鮮超市)  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=10607&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+山頭火拉麵  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=91&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 11F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=96&RestaurantId=92&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+嶢陽茶行  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5562&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+巨源  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=9083&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+常景生技  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=10673&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+幸福台灣 (宏遠)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=11338&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+康寧餐具  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4491&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4492&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=7066&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4494&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+康是美藥妝店  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9314&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=5527&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5528&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=8741&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=5529&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=5530&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=5531&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=6184&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+引雅珠寶  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3111&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=3113&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=3114&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3115&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+張養真 CHANG (養) CHEN  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=9733&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=9614&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+彈珠公賣局  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=11171&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=10568&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+彌菓  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9704&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+彩繪樹  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=11327&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+彬太郎  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=10070&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+御園坊  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=8843&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+御奉茗茶  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5534&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=5535&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+德國LIEBHERR利勃  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=10377&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+德風健康館  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5430&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10278&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5692&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+忠青商行  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=440&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+快車肉乾  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=8447&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+怡眾  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=11212&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10927&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=10964&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=10993&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+恆隆行  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=6362&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=6363&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=6364&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10408&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=6365&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=6366&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=6369&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=6370&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+想想拾花  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10495&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+愛力皮件  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=8710&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=9888&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6135&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+愛加  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10036&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+愛德蘭絲  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=3925&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+愛買  
+[遠百花蓮 B1](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=169&StoreId=11267&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+慕可幕客  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10951&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+慢慢來義式料理  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=9655&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+掌廚  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=4343&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4344&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4345&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4346&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4348&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+摩登新貴  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11433&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+敬統奧斯汀  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=11282&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+敲敲金工  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10496&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+斑鳩的窩  
+[台南大遠百 公園店 4F](https://www.feds.com.tw/tw/34/MallInfo/FloorRestaurant?FloorId=141&RestaurantId=237&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+新力康 SUPER MUM  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=7266&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+新巴黎  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5582&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+新葡苑  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=123&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=196&RestaurantId=424&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+新馬辣  
+[遠百板橋 11F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=34&RestaurantId=255&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+新馬辣Plus+  
+[遠百信義 A13 14F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=185&RestaurantId=280&tab=floor-14F&EntryPoint=info_floors&Source=Website)  
+方師傅  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=7101&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+施巴  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4143&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=8770&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=4146&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4147&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=4149&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4150&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+施房茶舍  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=175&StoreId=10811&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+施舒雅眉睫專門店  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=8855&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+日日裝茶  
+[遠百板橋 12F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=33&StoreId=11482&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=11496&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+日春木瓜牛奶  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=289&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+日藥本舖  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9376&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10540&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+旭集 和食集錦  
+[遠百信義 A13 9F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=180&RestaurantId=281&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 8F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=202&RestaurantId=385&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+昂路名鞋館  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=11127&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+明水然・樂  
+[遠百信義 A13 14F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=185&RestaurantId=447&tab=floor-14F&EntryPoint=info_floors&Source=Website)  
+星丼食堂  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=5514&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+春水堂人文茶館  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=260&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=58&RestaurantId=242&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=393&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=103&RestaurantId=350&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=123&RestaurantId=204&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+時時香SHANN RICE BAR  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=412&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+晶璽健康生活館  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=10143&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+晶藝 崠屋  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4516&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+智誠  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=11139&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+曙 SHU MUSE  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=11329&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+曼黛瑪璉  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=3016&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3017&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3018&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10199&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3019&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=3020&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=3021&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=3022&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3023&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=3024&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+月之戀人  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5466&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+月月Thai  
+[遠百信義 A13 14F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=185&RestaurantId=325&tab=floor-14F&EntryPoint=info_floors&Source=Website)  
+有熊運動  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=9825&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=6840&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+木火柴燒牛排  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=122&RestaurantId=445&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+札幌藥妝  
+[遠百桃園 9F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=68&StoreId=10337&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=10052&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=10312&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 12F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=148&StoreId=10634&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+朱記餡餅粥店  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=261&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 9F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=80&RestaurantId=166&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+松發肉骨茶  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=188&RestaurantId=300&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+林佳樺  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=11391&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11434&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+林曉同  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=9121&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+林臣英  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=10630&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=9014&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+林銀杏  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=7382&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+果然匯  
+[遠百板橋 11F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=34&RestaurantId=254&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 8F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=202&RestaurantId=386&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+根來  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6454&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 5F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=116&StoreId=10818&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+格蕾寢具  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10949&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+梨花韓式料理  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=10797&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+植享家 Bonnie House  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=7165&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+樂子the Diner美式餐廳  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=410&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+樂檸漢堡  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=188&RestaurantId=304&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 公園店 1F](https://www.feds.com.tw/tw/34/MallInfo/FloorRestaurant?FloorId=142&RestaurantId=332&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+樟之物語  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=175&StoreId=10762&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+樺達奶茶  
+[Mega City 板橋大遠百 10F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=51&StoreId=6972&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 12F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=95&StoreId=5744&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=6123&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+檀島香港茶餐廳  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=193&RestaurantId=388&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+檳城南洋美食  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=10088&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+欣地  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10456&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+欣美SINGBEE  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=10565&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+歐萊德  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=10455&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+正官庄  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5479&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=5480&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=5481&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5482&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+毛屋 Máo wū  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=10699&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+池內有機  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9758&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+沅保奶茶  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=11451&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+沐白 小農沐場  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=11497&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+法蝶珠寶  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3123&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+泫璇  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4551&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+泰享家  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=11012&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+泰泰太夯  
+[遠百桃園 9F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=68&RestaurantId=443&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+洛貝爾時尚家居  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=11018&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+津津韓式小吃  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=175&StoreId=9405&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+浜町食事處  
+[新竹大遠百 9F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=80&RestaurantId=362&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+海壽司  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=11260&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=9410&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+海底撈火鍋  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=56&RestaurantId=187&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=85&RestaurantId=155&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 12F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=95&RestaurantId=169&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=152&RestaurantId=340&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+涓豆腐  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=411&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+涮乃葉壽司日式涮涮鍋  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=178&RestaurantId=259&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+涮乃葉日式涮涮鍋  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=35&RestaurantId=116&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=394&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=97&RestaurantId=339&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 7F](https://www.feds.com.tw/tw/37/MallInfo/FloorRestaurant?FloorId=114&RestaurantId=221&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=124&RestaurantId=117&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 9F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=151&RestaurantId=247&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 B1](https://www.feds.com.tw/tw/52/MallInfo/FloorRestaurant?FloorId=169&RestaurantId=146&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+淳申和風洋食  
+[新竹大遠百 9F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=80&RestaurantId=433&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+添好運  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=61&RestaurantId=118&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=414&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+湯姆熊歡樂世界 Tom's World  
+[遠百板橋 8F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=37&StoreId=8618&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 12F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=65&StoreId=6874&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=7330&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=7227&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 公園店 3F](https://www.feds.com.tw/tw/34/MallInfo/FloorStore?FloorId=18&StoreId=7334&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 12F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=148&StoreId=7196&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+源之家  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9669&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=10755&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+漂亮一身 BEAUTE  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=6385&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3599&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+漢來上海湯包  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=193&RestaurantId=397&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+牛品牛排  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10452&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+牛角日本燒肉專門店  
+[遠百板橋 13F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=32&RestaurantId=95&tab=floor-13F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 12F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=65&RestaurantId=96&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=87&RestaurantId=97&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 11F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=96&RestaurantId=98&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+特物館  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=10792&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+特福  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9531&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+珍緣締  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=10582&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+琉璃工房  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4506&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+瓦城泰國料理  
+[遠百板橋 13F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=32&RestaurantId=99&tab=floor-13F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=125&RestaurantId=100&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 12F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=148&RestaurantId=101&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+甜蜜約定  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=10907&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+田原香  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=9607&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=11063&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+異國食品館  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9351&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=10637&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=8603&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=6591&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10648&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=9697&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5691&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 4F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=117&StoreId=10992&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=7149&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=10827&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 B1](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=169&StoreId=11239&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+皇室羽毛工房  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4287&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4288&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4290&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+皇家竹炭  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4570&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+真愛密碼  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=11216&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+眼鏡市場  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=10343&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 2F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=43&StoreId=9610&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=9634&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=86&StoreId=10293&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=9641&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+知品縫紉  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=10657&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+知覺  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=9562&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+祥建  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=9082&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10412&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+祥鶴原木傢俱工坊  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=9939&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+福樂添  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=10711&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+禾穗麵屋  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=11015&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+秦老大的小館子  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=448&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+竹光杏仁純  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=175&StoreId=10674&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=10704&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+笠屋木桶燒  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=9705&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+筷炒 KUAICHAO  
+[遠百信義 A13 14F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=185&RestaurantId=285&tab=floor-14F&EntryPoint=info_floors&Source=Website)  
+米塔炙燒牛排專門店  
+[遠百桃園 9F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=68&RestaurantId=431&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=430&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 12F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=148&StoreId=10353&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+米特才藝中心  
+[遠百板橋 8F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=37&StoreId=10723&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=11173&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+米騏亞  
+[遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=3118&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+粥潮  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=11490&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+精光堂時計  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9151&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11086&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 3F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=74&StoreId=9793&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10206&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=3933&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 3F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=157&StoreId=7088&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3936&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+精石寶  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=11252&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+精石殿  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=3926&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+糖村  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5565&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+紅玉滿赤心雞蛋糕  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=343&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=392&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+組曲  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=3941&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=3942&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3943&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+絲路樂活睡眠館  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4566&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+綠工坊Midoristudio  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=11394&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+綠葉•李春枝  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11435&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+綠藤生機  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10515&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+維京牛排  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=149&RestaurantId=358&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+美姬饅頭  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10931&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=11035&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+美珍香  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5518&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+義廚寶  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4410&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4411&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10140&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=4414&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+義式屋古拉爵  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=69&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 12F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=65&RestaurantId=70&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=85&RestaurantId=71&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorRestaurant?FloorId=121&RestaurantId=72&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=124&RestaurantId=73&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 12F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=148&RestaurantId=74&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 B1](https://www.feds.com.tw/tw/52/MallInfo/FloorRestaurant?FloorId=169&RestaurantId=75&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+義饗屋  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=10564&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=368&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+羽衣專業修改  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=6255&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+翟九  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=175&StoreId=11056&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=401&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+翰方御品  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=11450&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+翰林茶棧  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5595&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10285&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+翰林茶館  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=61&RestaurantId=320&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 9F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=68&RestaurantId=124&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=193&RestaurantId=377&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=81&RestaurantId=125&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 11F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=96&RestaurantId=126&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 11F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=96&StoreId=7258&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=129&RestaurantId=127&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+老乾杯  
+[Mega City 板橋大遠百 11F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=50&RestaurantId=449&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+老行家  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=11244&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+老行家 (燕窩)  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=10898&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=8555&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=7316&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=9698&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=6993&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+聖瑪莉  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10274&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+職人手創館  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=11027&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+肉多多火鍋  
+[台南大遠百 公園店 4F](https://www.feds.com.tw/tw/34/MallInfo/FloorRestaurant?FloorId=141&RestaurantId=439&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+膳魔師  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=11211&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+自由區  
+[遠百板橋 3F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=42&StoreId=3905&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10327&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+自由甜點 la Liberté  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9323&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+花木馬  
+[遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=10742&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 4F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=156&StoreId=10670&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+花谷  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=9817&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+茶工坊  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4555&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+草山金工  
+[Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=8926&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+草本24 Thymes  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4105&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10135&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4104&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+荷柏園  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4112&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4113&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+華歌爾睡衣  
+[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=11165&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=6605&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=6774&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=7104&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+華齊堂真燕窩  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=9332&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5548&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=5549&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=5550&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=8446&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+菲仕樂  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=11294&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+菲洛米那  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=10961&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=11293&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+萊博瑞  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=11152&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+萬寶龍  
+[遠百板橋 7F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=38&StoreId=6676&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+萬得利Wonder Day  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=8636&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+葡吉  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=9706&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+蔬坊  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=61&RestaurantId=337&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+藍屋日本料理  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=129&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=384&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+藏壽司  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=40&RestaurantId=357&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=66&RestaurantId=374&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=98&RestaurantId=436&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+街口味TAKEAWAY  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=356&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+裕珍馨  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5557&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=9946&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+裸放茶旅  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=10835&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+詠曦  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=10830&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+誠品書店  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10261&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=8505&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 17F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=143&StoreId=8720&tab=floor-17F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=8782&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+誠品生活  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10579&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4591&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 17F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=143&StoreId=10580&tab=floor-17F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=11259&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+謙碩服裝修改室  
+[遠百信義 A13 B2](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=187&StoreId=9138&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+豆之味  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10413&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+豆腐村  
+[遠百板橋 13F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=32&RestaurantId=102&tab=floor-13F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 12F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=95&RestaurantId=103&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B1](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=128&RestaurantId=104&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+豐曜  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4542&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+貓樂貓咖啡  
+[遠百信義 A13 7F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=178&RestaurantId=427&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+貝里尼  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=383&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 11F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=96&RestaurantId=335&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+貴夫人  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5171&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+踏輕  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=10900&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+農純鄉  
+[遠百板橋 B1](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=45&StoreId=11041&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=9782&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 6F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=71&StoreId=8981&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10415&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=8805&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+追風奇幻島  
+[遠百板橋 8F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=37&StoreId=11250&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+追風奇幻島-愛力獅的奇幻漂流  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=10531&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+遠紡FET機能內著  
+[遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=6637&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 7F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=82&StoreId=7086&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 8F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=152&StoreId=6994&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+鄉間座千層蛋糕  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10543&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+酒殿堂  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=11305&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+醉象Drunk Elephant  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=11330&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+野獸國  
+[遠百信義 A13 3F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=174&StoreId=10230&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 3F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=104&StoreId=10599&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+金大尉不只是鍋物  
+[台南大遠百 公園店 3F](https://www.feds.com.tw/tw/34/MallInfo/FloorRestaurant?FloorId=18&RestaurantId=438&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+金格名床 king koil  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4208&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=4209&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=10761&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+金石堂書店  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6444&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+金色三麥  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=83&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+銀河寶石  
+[遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4539&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+銀穗 ensuey  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=3949&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3950&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3951&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=3952&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=3953&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=3954&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=10851&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+銓盛  
+[Mega City 板橋大遠百 6F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=55&StoreId=6452&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+鎮金店  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11444&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+鑽石屋  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11445&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+長庚生物科技  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5504&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=5505&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=5506&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5690&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=5508&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+開飯川食堂  
+[遠百板橋 13F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=32&RestaurantId=121&tab=floor-13F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=67&RestaurantId=229&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=398&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 11F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=96&RestaurantId=122&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorRestaurant?FloorId=167&RestaurantId=442&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+阿原 YUAN  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5579&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=5581&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+陽光橘子  
+[台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=11395&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+雅之歌  
+[台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=7304&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+集雅社  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9300&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5155&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10406&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=5157&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5158&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=5159&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=5160&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5161&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+集雅社 (大電)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=10854&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+雞二哥  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=175&StoreId=11155&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+雪坊  
+[新竹大遠百 B1](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=89&StoreId=9699&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+雪花齋  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=9722&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+雲象泰式料理  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=10837&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+雷諾瓦  
+[遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=10066&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10118&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+青畑九號  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10555&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+青鳥旅行  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10280&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+非常泰  
+[Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=106&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 11F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=96&RestaurantId=107&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+韓文閣韓式料理  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=5568&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+順雅  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=11026&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+飛捷義大利生活館  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4334&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4335&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=8476&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=4339&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 10F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=150&StoreId=4340&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=4341&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+飛騰家電 VASTER (廣南)  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=11340&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=11342&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+食金湯  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=149&StoreId=5519&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+饅饅好食  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=9987&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10276&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+饗泰多  
+[遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=403&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 3F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=86&RestaurantId=138&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorRestaurant?FloorId=167&RestaurantId=441&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+饗食天堂  
+[遠百板橋 12F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=33&RestaurantId=130&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 9F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=80&RestaurantId=131&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 11F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=96&RestaurantId=132&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 11F](https://www.feds.com.tw/tw/51/MallInfo/FloorRestaurant?FloorId=149&RestaurantId=133&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+香帥蛋糕  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5521&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 1F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=127&StoreId=10294&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+香港啟泰  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5522&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+香米泰國料理  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=175&StoreId=10769&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+香草工坊  
+[遠百桃園 9F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=68&RestaurantId=112&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=129&RestaurantId=113&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+香草集 Just Herb  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9788&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4103&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10134&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=8961&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+馬修嚴選  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=5525&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 B2](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=108&StoreId=5526&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+馬祖新村  
+[遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=291&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10286&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+高島 TAKASIMA  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=5217&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=9440&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10398&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=9054&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+高美芬KAO MEI FEN  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=8814&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+魚喫飯  
+[台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=11143&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+鯉魚好料理  
+[遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=11382&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+麗嬰房  
+[遠百板橋 8F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=37&StoreId=10891&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=11125&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 3F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=197&StoreId=10929&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=10903&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 4F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=124&StoreId=10995&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 6F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=154&StoreId=10882&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 2F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=167&StoreId=11072&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+麗聲時計 RHYTHM  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4587&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+麥森瓷器  
+[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=10984&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4549&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 5F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=84&StoreId=4526&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4544&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+麥雪爾  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=9954&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+麻十七川辣專賣所  
+[遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=193&StoreId=10556&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
+黃子庚  
+[遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=40&StoreId=9168&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=7250&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=7056&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+黑方巧克力  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=10626&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
+黑毛屋  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=400&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+黑毛屋本家  
+[Mega City 板橋大遠百 11F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=50&RestaurantId=450&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
+點8號  
+[遠百桃園 9F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=68&RestaurantId=373&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+點心  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=405&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+點睛品  
+[Mega City 板橋大遠百 3F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=58&StoreId=2952&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=10503&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=2953&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 4F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=103&StoreId=11431&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
+鼎王 鵝媽媽鍋具  
+[遠百板橋 10F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=35&StoreId=4363&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4364&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4365&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=4367&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=4368&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=4370&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
+鼎美玩具  
+[遠百板橋 8F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=37&StoreId=4838&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=4839&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+ＳＵＩ  
+[遠百桃園 2F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=75&StoreId=10744&tab=floor-2F&EntryPoint=info_floors&Source=Website)  

@@ -1425,11 +1425,11 @@ LOWRYS FARM
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/1803081621571275)  
 LYCORIS  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/220821190647194258)  
-L`OCCITANE  
+L'OCCITANE  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257978)  
-L`OCCITANE 歐舒丹  
+L'OCCITANE 歐舒丹  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570454)  
-L`Occitane歐舒丹  
+L'Occitane歐舒丹  
 [SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463758)  
 La Fe'ta  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294669144)  
@@ -1891,7 +1891,7 @@ PAIDEL
 PALLADIUM  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/200521212317921868)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282659282)  
-PAL`LAS PALACE  
+PAL'LAS PALACE  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330388193)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/210414131859434927)  
 PANDORA  
@@ -2757,7 +2757,7 @@ chicco
 [SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351590300)  
 city'super美食生活精緻名店  
 [SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/180308163302964)  
-city`super  
+city'super  
 [SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180308162946183)  
 ck Calvin Klein  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330431305)  
@@ -3649,7 +3649,7 @@ whiple
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244415173)  
 蕾莉歐 L'ERBOLARIO  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351704594)  
-蕾莉歐L`ERBOLARIO  
+蕾莉歐L'ERBOLARIO  
 [SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231002171605318156)  
 蕾黛絲(LADIES)  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215743150)  
