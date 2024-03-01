@@ -15,8 +15,7 @@ class ShinKongMitsukoshiSpider(scrapy.Spider):
     OUTPUT_TO_JSON = 1
     
     def parse(self, response):
-        if self.OUTPUT_TO_MD == 0:
-            print("Parse for: " + response.url)
+        #print("Parse for: " + response.url)
 
         brands_num = len(response.xpath('//div[@class="grid-container grid-lg-4 grid-md-3 grid-xxs-2"]/div'))
         if (brands_num > 0):
