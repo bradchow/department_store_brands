@@ -3,8 +3,6 @@ department_store_brands/json/merged_data.json
 department_store_brands/json/merge_json.py
 department_store_brands/department_store_brands/sogo.md
 department_store_brands/department_store_brands/shin.md
-department_store_brands/json/ShinKongMitsukoshi.json
-department_store_brands/json/sogo.json
 department_store_brands/sogo.md
 *.json
 department_store_brands/FEDS.md
@@ -16,3 +14,4 @@ department_store_brands/101Spider.log
 department_store_brands/101.md
 department_store_brands/sogo.md
 department_store_brands/shin.md
+department_store_brands/department_store_brands/FEDSSpider.log
