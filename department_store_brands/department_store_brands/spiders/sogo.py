@@ -178,8 +178,9 @@ class SogoSpider(scrapy.Spider):
             
         else:
             retry_count = response.meta.get('retry', 0)
+            logging.info(f"retry_count: {retry_count}")
             if retry_count > 0:
-                time.sleep(10)
+                time.sleep(5)
                 retry_count = retry_count - 1
                 # dont_filter is set to True for allowing request the same url
                 yield SeleniumRequest(url=response.url, callback=self.parse, meta={'retry': retry_count}, dont_filter=True)
