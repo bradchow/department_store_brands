@@ -114,19 +114,20 @@ class SogoSpider(scrapy.Spider):
         'https://info.sogo.com.tw/ks/floors/5F', 
         'https://info.sogo.com.tw/ks/floors/6F', 
         'https://info.sogo.com.tw/ks/floors/7F', 
-        'https://info.sogo.com.tw/ks/floors/12F', 
+        'https://info.sogo.com.tw/ks/floors/8F', 
         'https://info.sogo.com.tw/ks/floors/15F',
     ]
     urls_num = 0
     curr_url_num = 0
     data = {}
+    retry_times = 300
 
     def start_requests(self):
         self.urls_num = len(self.urls)
         if self.OUTPUT_TO_MD == 0:
             print("total urls: " + (str)(self.urls_num))
 
-        yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': 100})
+        yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': self.retry_times})
  
     def parse(self, response):
         if self.OUTPUT_TO_MD == 0:
@@ -171,7 +172,7 @@ class SogoSpider(scrapy.Spider):
             
             if self.curr_url_num < self.urls_num:
 #            if self.curr_url_num < 1:
-                yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': 100})
+                yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': self.retry_times})
             else:
                 if self.OUTPUT_TO_MD == 0:
                     print("All brands(" + (str)(self.urls_num) + ") parsed done") 
@@ -180,7 +181,18 @@ class SogoSpider(scrapy.Spider):
             retry_count = response.meta.get('retry', 0)
             logging.info(f"retry_count: {retry_count}")
             if retry_count > 0:
-                time.sleep(5)
+                if retry_count < 250:
+                    time.sleep(10)
+                elif retry_count < 200:
+                    time.sleep(20)
+                elif retry_count < 150:
+                    time.sleep(30)
+                elif retry_count < 100:
+                    time.sleep(40)
+                elif retry_count < 50:
+                    time.sleep(50)
+                else:
+                    time.sleep(5)
                 retry_count = retry_count - 1
                 # dont_filter is set to True for allowing request the same url
                 yield SeleniumRequest(url=response.url, callback=self.parse, meta={'retry': retry_count}, dont_filter=True)

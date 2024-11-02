@@ -90,18 +90,21 @@ class FEDSSpider(scrapy.Spider):
 
         counters_list = response.xpath('//ul[@class="counters-list b-text-left"]')
 
-        for li_element in counters_list.xpath('li[@class="list"]'):
-            href = li_element.xpath('a/@href').get()
-            text = li_element.xpath('a/text()').get()
-            tab_floor = li_element.xpath('a/@href').re_first(r'tab=floor-([^\&]+)')
-            if self.DEBUG == 1:
-                print(f'url: {domainn+href}, text: {text}, tab=floor: {tab_floor}')
-            self.update_data(brand_name=text, mall=display_str, floor=tab_floor, url=domain+href)
+        if len(counters_list) != 0:
+            for li_element in counters_list.xpath('li[@class="list"]'):
+                href = li_element.xpath('a/@href').get()
+                text = li_element.xpath('a/text()').get()
+                tab_floor = li_element.xpath('a/@href').re_first(r'tab=floor-([^\&]+)')
+                if self.DEBUG == 1:
+                    print(f'url: {domain+href}, text: {text}, tab=floor: {tab_floor}')
+                self.update_data(brand_name=text, mall=display_str, floor=tab_floor, url=domain+href)
 
-        self.curr_url_num += 1
+            self.curr_url_num += 1
+        else:
+            print(f"len(counters_list): {len(counters_list)}, for {parsed_url}")
 
         if self.curr_url_num < self.urls_num:
-            yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': 100})
+            yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': 100}, dont_filter=True)
         else:
             if self.OUTPUT_TO_MD == 0:
                 print("All brands(" + (str)(self.urls_num) + ") parsed done") 
