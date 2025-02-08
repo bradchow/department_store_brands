@@ -95,7 +95,7 @@ class FEDSSpider(scrapy.Spider):
                 href = li_element.xpath('a/@href').get()
                 text = li_element.xpath('a/text()').get()
                 tab_floor = li_element.xpath('a/@href').re_first(r'tab=floor-([^\&]+)')
-                if self.DEBUG == 0:
+                if self.DEBUG == 1:
                     print(f'url: {domain+href}, text: {text}, tab=floor: {tab_floor}')
                 self.update_data(brand_name=text, mall=display_str, floor=tab_floor, url=domain+href)
 
