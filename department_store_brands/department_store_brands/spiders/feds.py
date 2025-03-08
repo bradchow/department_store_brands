@@ -101,7 +101,8 @@ class FEDSSpider(scrapy.Spider):
 
             self.curr_url_num += 1
         else:
-            print(f"len(counters_list): {len(counters_list)}, for {parsed_url}")
+            if self.DEBUG == 1:
+                print(f"len(counters_list): {len(counters_list)}, for {parsed_url}")
 
         if self.curr_url_num < self.urls_num:
             yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': 100}, dont_filter=True)
