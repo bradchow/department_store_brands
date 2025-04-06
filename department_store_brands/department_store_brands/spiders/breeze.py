@@ -73,8 +73,8 @@ class FEDSSpider(scrapy.Spider):
         for search_str, display_str in self.search_strings.items():
             if search_str in response.url:
                 if self.DEBUG == 1:        
-                    print (display_str)
-                    print (search_str)
+                    print(f"display_str: {display_str}")
+                    print(f"search_str: {search_str}")
                 break    
         domain = parsed_url.scheme + "://" + parsed_url.netloc 
         if self.DEBUG == 1:
