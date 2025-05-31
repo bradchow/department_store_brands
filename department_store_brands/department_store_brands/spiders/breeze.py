@@ -83,6 +83,9 @@ class FEDSSpider(scrapy.Spider):
 
         divs = response.xpath("//div[contains(@class, 'mix') and contains(@class, 'identity') and contains(@class, 'show_detail')]")
 
+        if self.DEBUG == 1:
+            print(f"divs: {divs}")
+
         for index, div in enumerate(divs):
             # 提取 class 属性
             class_attr = div.xpath('./@class').get()
