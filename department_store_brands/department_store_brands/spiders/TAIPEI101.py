@@ -7,7 +7,7 @@ data = {}
 response = requests.get(url)
 json_data = response.json()
 mall = "台北 101"
-prefix_brand_url = "https://www.taipei-101.com.tw/tw/shopping/brandsearch/"
+prefix_brand_url = "https://www.taipei-101.com.tw/tw/shopping/brandsearch/content/"
 OUTPUT_TO_JSON = 1
 
 def update_data(brand_name, mall, floor, url):
