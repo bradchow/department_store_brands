@@ -65,6 +65,7 @@ class FEDSSpider(scrapy.Spider):
         self.urls_num = len(self.urls)
         if self.DEBUG == 1:
             print(f"total urls: {self.urls_num}")
+            print(f"urls: {self.urls_num}")
 
         yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': 100})
  
