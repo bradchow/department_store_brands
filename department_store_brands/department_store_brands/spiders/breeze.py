@@ -3,11 +3,12 @@ import scrapy
 import pprint
 from urllib.parse import urlparse, urlunparse
 from scrapy_selenium import SeleniumRequest
+from selenium.webdriver.common.by import By
 import json
 import logging
 import os
 
-class FEDSSpider(scrapy.Spider):
+class BreezeSpider(scrapy.Spider):
     
     logfile_path = "breezeSpider.log"
     if os.path.exists(logfile_path):
@@ -15,6 +16,7 @@ class FEDSSpider(scrapy.Spider):
     logging.basicConfig(filename=logfile_path, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     name = "breeze"
+    prefix_brand_url = "https://www.breeze.com.tw/stores/"
 
     #output to .md format and it can be pasted on github
     OUTPUT_TO_MD = 1
@@ -69,7 +71,7 @@ class FEDSSpider(scrapy.Spider):
 
         yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': 100})
  
-    def parse(self, response):
+    def parse(self, response):        
         parsed_url = urlparse(response.url)
         for search_str, display_str in self.search_strings.items():
             if search_str in response.url:
@@ -82,77 +84,38 @@ class FEDSSpider(scrapy.Spider):
             print(f"Parse for: {parsed_url}")
             print(f"domain: {domain}")
 
-        divs = response.xpath("//div[contains(@class, 'mix') and contains(@class, 'identity') and contains(@class, 'show_detail')]")
+        #print(f"response.text from parse(): {response.text}")
 
-        if self.DEBUG == 1:
-            print(f"divs: {divs}")
+        script_data = response.css('#\_\_NEXT\_DATA\_\_::text').get()
 
-        for index, div in enumerate(divs):
-            # 提取 class 属性
-            class_attr = div.xpath('./@class').get()
+        if script_data:
+            next_data = json.loads(script_data)
 
-            # 查找并提取包含 floorX 的部分
-            floor = next((cls for cls in class_attr.split() if cls.startswith('floor')), 'Unknown')
-            floor_number = floor[5:] if floor != 'Unknown' else floor
-
-            if self.DEBUG == 1:
-                print(f"floor: {floor}")
-                print(f"floor_number: {floor_number}")
-            
-            real_floor = self.get_actual_floor(floor_number=floor_number, mall_number=search_str)
-            if real_floor:
+            floors_list = next_data.get('props', {}).get('pageProps', {}).get('initialState', {}).get('branch', {}).get('data', {}).get('floors', {})
+            if floors_list:
                 if self.DEBUG == 1:
-                    print(f"real floor: {real_floor}")
+                    print(f"floors_list: {len(floors_list)} levels。")
 
-            href = div.xpath('./parent::a/@href').get()
-            if href:
-                if self.DEBUG == 1:
-                    print(f"Found href: {href}")
-
-            title = div.xpath('./@title').get()
-
-            # 特別的品牌縮寫會撞到別的品牌的處理
-            if title == 'MK':
-                title = 'MAISON KAYSER'
-
-            if title:
-                if self.DEBUG == 1:
-                    print(f"Found title: {title}")
-
-            self.update_data(brand_name=title, mall=display_str, floor=real_floor, url=href)
-
-            self.curr_url_num += 1
-
-            if self.curr_url_num < self.urls_num:
-                yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': 100})
-            else:
-                if self.OUTPUT_TO_MD == 0:
-                    print("All brands(" + (str)(self.urls_num) + ") parsed done") 
-
-    def get_actual_floor(self, floor_number, mall_number):
-        if self.DEBUG == 1:
-            print(f"get_actual_floor({floor_number}, {mall_number})")
-
-        floor_mapping = {
-            '001': {15: 'B2', 14: 'B1', 17: 'GF', 1: '1F', 2: '2F', 3: '3F', 8: '4F', 9: '5F', 10: '6F', 11: '7F', 12: '8F', 13: '9F'},
-            '003': {14: 'B1', 1: '1F', 2: '2F'},
-            '005': {15: 'B2', 14: 'B1', 1: '1F', 2: '2F', 3: '3F', 8: '4F'},
-            '006': {14: 'B1'},
-            '007': {15: 'B2', 14: 'B1', 1: '1F', 2: '2F', 3: '3F', 8: '4F'},
-            '009': {16: 'B3', 14: 'B1', 1: '1F', 2: '2F', 3: '3F', 8: '4F', 4: '45F', 5: '46F', 6: '47F'},
-            '011': {23: '1F'},
-            '012': {15: 'B2', 14: 'B1', 1: '1F', 2: '2F', 3: '3F', 8: '4F', 9: '5F', 10: '6F', 11: '7F', 5: '46F', 6: '47F', 7: '48F'},
-            '014': {1: '1F', 3: '3F', 25: 'RF'},
-        }
-
-        if mall_number in floor_mapping:
-            actual_floor = floor_mapping[mall_number].get((int)(floor_number), None)
-            if actual_floor:
-                return actual_floor
-            else:
-                return "Invalid number for the given mall."
+                for item in floors_list:
+                    floor_name = item.get('floor_name')
+                    branch_shops = item.get('branch_shops', [])
+                    for shop in branch_shops:
+                        brand_name = shop.get('shop_name')
+                        identifier = shop.get('id')
+                        brand_url = self.prefix_brand_url + (str)(identifier)
+                        if self.DEBUG == 1:
+                            print(brand_name + " " + display_str + " " + floor_name + " " + brand_url + " ")
+                        self.update_data(brand_name=brand_name, mall=display_str, floor=floor_name, url=brand_url)
         else:
-            return "Mall not found."
+            print("can not find __NEXT_DATA__ on <script>")        
+
+        self.curr_url_num += 1
+
+        if self.curr_url_num < self.urls_num:
+            yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': 100})
+        else:
+            if self.OUTPUT_TO_MD == 0:
+                print("All brands(" + (str)(self.urls_num) + ") parsed done") 
 
     def write_to_file(self, words):
         with open("logging.log", "a") as f:
