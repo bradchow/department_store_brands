@@ -138,7 +138,7 @@ class BreezeSpider(scrapy.Spider):
         #print("closed() is called")
         sorted_data = sorted(self.data.keys())
         for key in sorted_data:
-            print(key + " " + " ")
+            #print(key + " " + " ")
             data = self.data[key]
             for item in data:
                 if isinstance(item, dict):
