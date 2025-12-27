@@ -15,7 +15,7 @@ NEWSPIDER_MODULE = "department_store_brands.spiders"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # Fix 403 issue when accessing https://info.sogo.com.tw/tp1/floors/B1
-USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
+#USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36'
 
 
 # Obey robots.txt rules
@@ -41,8 +41,10 @@ ROBOTSTXT_OBEY = False
 
 # Override the default request headers:
 #DEFAULT_REQUEST_HEADERS = {
-#    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-#    "Accept-Language": "en",
+    #"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    #"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    #"Accept-Language": "en",
+    #"Accept-Language": "en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7",
 #}
 
 # Enable or disable spider middlewares
@@ -59,7 +61,14 @@ DOWNLOADER_MIDDLEWARES = {
 
 SELENIUM_DRIVER_NAME = 'chrome'  #瀏覽器名稱
 SELENIUM_DRIVER_EXECUTABLE_PATH = '/Users/bradchou/Documents/driver/chromedriver'  #驅動程式路徑
-SELENIUM_DRIVER_ARGUMENTS = ['-headless']
+# Fix 403 issue when accessing https://info.sogo.com.tw/tp1/floors/B1
+SELENIUM_DRIVER_ARGUMENTS = [
+    '--headless',
+    '--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36',
+    '--disable-blink-features=AutomationControlled',
+    '--no-sandbox',
+    '--disable-dev-shm-usage'
+]
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html

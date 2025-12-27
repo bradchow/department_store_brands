@@ -6,6 +6,7 @@ from scrapy_selenium import SeleniumRequest
 import json
 import logging
 import os
+from scrapy.shell import inspect_response
 
 class SogoSpider(scrapy.Spider):
     
@@ -63,16 +64,6 @@ class SogoSpider(scrapy.Spider):
         'https://info.sogo.com.tw/tp2/floors/9F',
         'https://info.sogo.com.tw/tp2/floors/10F',
         'https://info.sogo.com.tw/tp2/floors/11F',
-        #台北敦化館
-        'https://info.sogo.com.tw/tp3/floors/B2',
-        'https://info.sogo.com.tw/tp3/floors/B1',
-        'https://info.sogo.com.tw/tp3/floors/1F',
-        'https://info.sogo.com.tw/tp3/floors/2F',
-        'https://info.sogo.com.tw/tp3/floors/3F',
-        'https://info.sogo.com.tw/tp3/floors/4F',
-        'https://info.sogo.com.tw/tp3/floors/5F',
-        'https://info.sogo.com.tw/tp3/floors/6F',
-        'https://info.sogo.com.tw/tp3/floors/7F',
         #天母店
         'https://info.sogo.com.tw/tm/floors/B1',
         'https://info.sogo.com.tw/tm/floors/1F', 
@@ -130,6 +121,8 @@ class SogoSpider(scrapy.Spider):
         yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': self.retry_times})
  
     def parse(self, response):
+        #for debug
+        #inspect_response(response, self)
         if self.OUTPUT_TO_MD == 0:
             print("Parse for: " + response.url)
         for search_str, display_str in self.search_strings.items():

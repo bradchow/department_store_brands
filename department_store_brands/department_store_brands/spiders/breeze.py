@@ -122,6 +122,10 @@ class BreezeSpider(scrapy.Spider):
             f.write(words)
 
     def update_data(self, brand_name, mall, floor, url):
+        if not brand_name or not mall or not floor or not url:
+            if self.DEBUG == 1:
+                print("parameter ca not be null")
+            return
         brand_name = brand_name.strip()
         if brand_name not in self.data:
             self.data[brand_name] = []
@@ -138,7 +142,7 @@ class BreezeSpider(scrapy.Spider):
         #print("closed() is called")
         sorted_data = sorted(self.data.keys())
         for key in sorted_data:
-            #print(key + " " + " ")
+            print(key + " " + " ")
             data = self.data[key]
             for item in data:
                 if isinstance(item, dict):
