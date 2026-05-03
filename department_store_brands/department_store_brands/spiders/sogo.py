@@ -111,7 +111,7 @@ class SogoSpider(scrapy.Spider):
     urls_num = 0
     curr_url_num = 0
     data = {}
-    retry_times = 300
+    retry_times = 30
 
     def start_requests(self):
         self.urls_num = len(self.urls)
@@ -174,18 +174,7 @@ class SogoSpider(scrapy.Spider):
             retry_count = response.meta.get('retry', 0)
             logging.info(f"retry_count: {retry_count}")
             if retry_count > 0:
-                if retry_count < 250:
-                    time.sleep(10)
-                elif retry_count < 200:
-                    time.sleep(20)
-                elif retry_count < 150:
-                    time.sleep(30)
-                elif retry_count < 100:
-                    time.sleep(40)
-                elif retry_count < 50:
-                    time.sleep(50)
-                else:
-                    time.sleep(5)
+                time.sleep(5)
                 retry_count = retry_count - 1
                 # dont_filter is set to True for allowing request the same url
                 yield SeleniumRequest(url=response.url, callback=self.parse, meta={'retry': retry_count}, dont_filter=True)
