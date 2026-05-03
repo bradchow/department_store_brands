@@ -212,7 +212,7 @@ class SogoSpider(scrapy.Spider):
         #print("closed() is called")
         sorted_data = sorted(self.data.keys())
         for key in sorted_data:
-            print(key + " " + " ")
+            print(key.replace('`', "'") + " " + " ")
             data = self.data[key]
             for item in data:
                 if isinstance(item, dict):
