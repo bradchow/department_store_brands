@@ -1,25 +1,28 @@
 #!/usr/bin/env python3
 """
-依序執行所有百貨公司爬蟲，驗證輸出 JSON，最後執行 merge_json.py
+依序執行所有百貨公司爬蟲，驗證輸出 MD，最後執行 merge_json.py
 """
 
 import subprocess
 import json
 import os
+import re
 import sys
 import time
 
 SCRAPY_DIR = os.path.join(os.path.dirname(__file__), "department_store_brands")
+MD_DIR = SCRAPY_DIR
 JSON_DIR = os.path.join(SCRAPY_DIR, "json")
 MERGE_SCRIPT = os.path.join(JSON_DIR, "merge_json.py")
 
 SPIDERS = [
-    {"name": "breeze",              "output": "breeze.json",              "min_brands": 100},
-    {"name": "FEDS",                "output": "FEDS.json",                "min_brands": 50},
-    {"name": "Sogo",                "output": "sogo.json",                "min_brands": 100},
-    {"name": "ShinKongMitsukoshi",  "output": "ShinKongMitsukoshi.json",  "min_brands": 100},
-    {"name": "UniUStyle",           "output": "UniUStyle.json",           "min_brands": 50},
-    {"name": "TAIPEI101",           "output": "TAIPEI101.json",           "min_brands": 50},
+    {"name": "breeze",             "output": "breeze.md",     "min_brands": 100},
+    {"name": "FEDS",               "output": "FEDS.md",       "min_brands": 50},
+    {"name": "Sogo",               "output": "sogo.md",       "min_brands": 100},
+    {"name": "ShinKongMitsukoshi", "output": "shin.md",       "min_brands": 100},
+    {"name": "UniUStyle",          "output": "uni_ustyle.md", "min_brands": 50},
+    {"name": "TAIPEI101",          "output": "101.md",        "min_brands": 50,
+     "script": "department_store_brands/spiders/TAIPEI101.py"},
 ]
 
 def log(msg):
@@ -27,77 +30,55 @@ def log(msg):
     print(msg)
     print('='*60)
 
-def run_spider(spider_name):
-    log(f"執行爬蟲：{spider_name}")
+def run_spider(spider_info):
+    name = spider_info["name"]
+    log(f"執行爬蟲：{name}")
     start = time.time()
-    result = subprocess.run(
-        ["scrapy", "crawl", spider_name],
-        cwd=SCRAPY_DIR,
-        capture_output=False,
-    )
+    if "script" in spider_info:
+        cmd = [sys.executable, spider_info["script"]]
+    else:
+        cmd = ["scrapy", "crawl", name]
+    result = subprocess.run(cmd, cwd=SCRAPY_DIR, capture_output=False)
     elapsed = time.time() - start
     print(f"\n耗時：{elapsed:.1f} 秒")
     return result.returncode == 0
 
-def validate_json(spider_info):
-    json_path = os.path.join(JSON_DIR, spider_info["output"])
+LINK_PATTERN = re.compile(r'^\[.+\]\(https?://.+\)')
+
+def validate_md(spider_info):
+    md_path = os.path.join(MD_DIR, spider_info["output"])
     name = spider_info["name"]
     min_brands = spider_info["min_brands"]
 
     # 檔案存在
-    if not os.path.exists(json_path):
-        print(f"  [FAIL] {name}：找不到 {json_path}")
+    if not os.path.exists(md_path):
+        print(f"  [FAIL] {name}：找不到 {md_path}")
         return False
 
     # 檔案大小
-    size = os.path.getsize(json_path)
+    size = os.path.getsize(md_path)
     if size == 0:
         print(f"  [FAIL] {name}：檔案是空的")
         return False
 
-    # 可以解析 JSON
-    try:
-        with open(json_path, encoding="utf-8") as f:
-            data = json.load(f)
-    except json.JSONDecodeError as e:
-        print(f"  [FAIL] {name}：JSON 解析失敗 - {e}")
-        return False
+    with open(md_path, encoding="utf-8") as f:
+        lines = [line.rstrip() for line in f if line.strip()]
 
-    # 是 dict
-    if not isinstance(data, dict):
-        print(f"  [FAIL] {name}：JSON 根節點不是 dict")
-        return False
+    link_lines = [l for l in lines if LINK_PATTERN.match(l)]
+    brand_lines = [l for l in lines if not LINK_PATTERN.match(l)]
 
     # 品牌數量
-    brand_count = len(data)
+    brand_count = len(brand_lines)
     if brand_count < min_brands:
         print(f"  [FAIL] {name}：品牌數量 {brand_count} 低於最小值 {min_brands}")
         return False
 
-    # 每個品牌的 entry 格式
-    errors = []
-    for brand, entries in data.items():
-        if not isinstance(entries, list) or len(entries) == 0:
-            errors.append(f"品牌「{brand}」的 entries 不是非空 list")
-            continue
-        for entry in entries:
-            if not isinstance(entry, dict):
-                errors.append(f"品牌「{brand}」有非 dict entry")
-                break
-            missing = [k for k in ("mall", "floor", "url") if k not in entry]
-            if missing:
-                errors.append(f"品牌「{brand}」缺少欄位：{missing}")
-                break
-        if len(errors) >= 5:
-            break
-
-    if errors:
-        print(f"  [FAIL] {name}：資料格式錯誤")
-        for e in errors:
-            print(f"    - {e}")
+    # 至少有一個連結
+    if not link_lines:
+        print(f"  [FAIL] {name}：找不到任何位置連結")
         return False
 
-    print(f"  [OK] {name}：{brand_count} 個品牌，檔案大小 {size:,} bytes")
+    print(f"  [OK] {name}：{brand_count} 個品牌，{len(link_lines)} 個位置，檔案大小 {size:,} bytes")
     return True
 
 def run_merge():
@@ -114,13 +95,13 @@ def main():
 
     for spider_info in SPIDERS:
         # 執行爬蟲
-        success = run_spider(spider_info["name"])
+        success = run_spider(spider_info)
         if not success:
             print(f"  [WARN] {spider_info['name']} 爬蟲回傳非零 exit code，繼續驗證...")
 
         # 驗證輸出
         log(f"驗證：{spider_info['name']}")
-        if not validate_json(spider_info):
+        if not validate_md(spider_info):
             failed_spiders.append(spider_info["name"])
 
     print(f"\n{'='*60}")

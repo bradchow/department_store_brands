@@ -138,6 +138,8 @@ GDC
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/976)  
 GIANNI CHIARINI  
 [DREAM PLAZA 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/537)  
+GLOBAL WORK  
+[統一時代台北店 B1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/168)  
 GOSHO  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1059)  
 GOWILD  

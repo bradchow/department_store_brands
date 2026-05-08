@@ -68,6 +68,15 @@ class ShinKongMitsukoshiSpider(scrapy.Spider):
                     if isinstance(item, dict):
                         #print(f"{item['mall']} {item['floor']}" + " " + " ")
                         print(f"[{item['mall']} {item['floor']}]({item['url']})" + " " + " ")
+        if self.OUTPUT_TO_MD == 1:
+            md_lines = []
+            for key in sorted_data:
+                md_lines.append(key + "  ")
+                for item in self.data[key]:
+                    if isinstance(item, dict):
+                        md_lines.append(f"[{item['mall']} {item['floor']}]({item['url']})  ")
+            with open('shin.md', 'w', encoding='utf-8') as f:
+                f.write('\n'.join(md_lines) + '\n')
         sorted_dict = {key: self.data[key] for key in sorted_data}
         if self.OUTPUT_TO_JSON == 1:
             json_data = json.dumps(sorted_dict, ensure_ascii=False)

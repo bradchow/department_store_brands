@@ -9,12 +9,16 @@
 
 ## 使用方法
 cd department_store_brands  
+(1)
 scrapy crawl ShinKongMitsukoshi > shin.md  
 scrapy crawl Sogo > sogo.md  
 scrapy crawl FEDS > FEDS.md  
 scrapy crawl breeze > breeze.md  
-python3 department_store_brands/TAIPEI101.py > 101.md
+python3 department_store_brands/TAIPEI101.py > 101.md  
 scrapy crawl UniUStyle > uni_ustyle.md  
+(2)
+run_all_spiders.py
+update_readme.py
 
 ## 內容
 [新光三越](#新光三越)  
@@ -25,7 +29,7 @@ scrapy crawl UniUStyle > uni_ustyle.md
 [統一夢時代/DREAM_PLAZA](#統一夢時代/DREAM_PLAZA)
 
 ## 更新  
-時間：2026/04/28
+時間：2026/05/07
 
 ## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)  
 & by TAN&LUCIANA  
@@ -781,7 +785,6 @@ CHLOE
 [新光三越DIAMONDTOWERS一館 2F](https://www.skm.com.tw/brand/11127)  
 CHOOSHOP  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/13880)  
-[新光三越台北天母店 2F](https://www.skm.com.tw/brand/13880)  
 CHOW TAI FOOK周大福  
 [新光三越台北信義新天地A8 2F](https://www.skm.com.tw/brand/10930)  
 [新光三越台中中港店 4F](https://www.skm.com.tw/brand/10930)  
@@ -1459,6 +1462,7 @@ FRITZ HANSEN
 FUGA FUGA  
 [新光三越台北南西店 4F](https://www.skm.com.tw/brand/14147)  
 FUJI按摩椅  
+[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12403)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/12403)  
 FUTURO  
 [新光三越台北站前店 2F](https://www.skm.com.tw/brand/13024)  
@@ -3423,8 +3427,6 @@ RMK
 ROBERTA 休閒服  
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/11235)  
 [新光三越高雄左營店 6F](https://www.skm.com.tw/brand/11235)  
-[新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/11235)  
-[新光三越高雄左營店 6F](https://www.skm.com.tw/brand/11235)  
 ROBERTA 襯衫  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/12910)  
 [新光三越台北站前店 6F](https://www.skm.com.tw/brand/12910)  
@@ -4746,6 +4748,8 @@ yuer
 [新光三越DIAMONDTOWERS一館 4F](https://www.skm.com.tw/brand/13429)  
 一之鄉  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/3133)  
+一家人OUR FAMILY  
+[新光三越高雄三多店 3F](https://www.skm.com.tw/brand/11602)  
 一蘭ICHIRAN  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12652)  
 三年五班  
@@ -5345,6 +5349,14 @@ yuer
 [新光三越嘉義垂楊店 10F](https://www.skm.com.tw/brand/12254)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12254)  
 [新光三越高雄左營店 9F](https://www.skm.com.tw/brand/12254)  
+牛魔王  
+[新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/13319)  
+[新光三越台北站前店 B1F](https://www.skm.com.tw/brand/13319)  
+[新光三越台北天母店二館 3F](https://www.skm.com.tw/brand/13319)  
+[新光三越嘉義垂楊店 B1F](https://www.skm.com.tw/brand/13319)  
+[新光三越台南新天地 B2F](https://www.skm.com.tw/brand/13319)  
+[新光三越高雄三多店 B2F](https://www.skm.com.tw/brand/13319)  
+[新光三越台南小北門 4F](https://www.skm.com.tw/brand/13319)  
 犀牛盾 RHINOSHIELD  
 [新光三越台北信義新天地A11 3F](https://www.skm.com.tw/brand/14222)  
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/14222)  
@@ -5425,6 +5437,7 @@ yuer
 稍甜  
 [新光三越台北南西店 B2F](https://www.skm.com.tw/brand/13818)  
 筌美術  
+[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11629)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/11629)  
 簡單李  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/489)  
@@ -5770,6 +5783,9 @@ yuer
 [新光三越桃園站前店 9F](https://www.skm.com.tw/brand/11153)  
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/11153)  
 [新光三越台南小北門 3F](https://www.skm.com.tw/brand/11153)  
+雪嶽山  
+[新光三越台中中港店 12F](https://www.skm.com.tw/brand/11082)  
+[新光三越台南新天地 B2F](https://www.skm.com.tw/brand/11082)  
 雷諾瓦拼圖  
 [新光三越嘉義垂楊店 9F](https://www.skm.com.tw/brand/12657)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/12657)  
@@ -8449,6 +8465,8 @@ Whirlpool
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822113257614787)  
 Whirlpool 惠而浦  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/230903141707797832)  
+Wilson  
+[SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/260503134149198983)  
 Woosaパンケーキ 屋莎洋食鬆餅屋  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/210807140850689933)  
 Y's  
@@ -10970,6 +10988,9 @@ KANGOL
 [Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=10867&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=11188&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
 [高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=9847&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+KANGOL複合  
+[遠百板橋 6F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=39&StoreId=11796&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=12032&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 KARLLAGERFELD  
 [遠百信義 A13 2F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=173&StoreId=12004&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
 KAWA  
@@ -11897,6 +11918,9 @@ ROYAL COPENHAGEN 皇家哥本哈根
 ROYAL ELASTICS  
 [Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=5886&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 [遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=10371&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+ROYAL 皇室羽毛工房  
+[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4287&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
+[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4288&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
 Ralph Lauren Children  
 [Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=11417&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
 RedLine  
@@ -12388,7 +12412,6 @@ VERSACE
 [Top City 台中大遠百 1F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=106&StoreId=8487&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
 VIBE  
 [遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=11780&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
-[新竹大遠百 8F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=81&StoreId=12032&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 6F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=101&StoreId=12081&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
 [高雄大遠百 7F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=153&StoreId=12014&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
 VIBE KIDS  
@@ -12995,7 +13018,6 @@ yENLiNE許艷玲
 [遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=432&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
 國王沙嗲  
 [遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=12171&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
-[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=12174&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
 均岱鍋具  
 [Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=11722&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
 [遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10975&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
@@ -13056,6 +13078,7 @@ yENLiNE許艷玲
 [高雄大遠百 5F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=155&StoreId=9899&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
 季樂和牛鐵板燒  
 [遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=188&RestaurantId=459&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=482&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 12F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=95&RestaurantId=463&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
 學生週刊  
 [新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=11898&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
@@ -13374,6 +13397,8 @@ yENLiNE許艷玲
 [遠百信義 A13 B3](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=188&StoreId=12045&tab=floor-B3&EntryPoint=info_floors&Source=Website)  
 牛品牛排  
 [遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=10452&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+牛喜 壽喜燒・水炊鍋  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=483&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
 牛角日本燒肉專門店  
 [遠百板橋 13F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=32&RestaurantId=95&tab=floor-13F&EntryPoint=info_floors&Source=Website)  
 [遠百桃園 12F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=65&RestaurantId=96&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
@@ -13416,9 +13441,6 @@ yENLiNE許艷玲
 [台南大遠百 成功店 B2](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=129&StoreId=7149&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
 [高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=10827&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
 [遠百花蓮 B1](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=169&StoreId=11239&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
-皇室羽毛工房  
-[Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4287&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
-[遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=66&StoreId=4288&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
 真愛密碼  
 [新竹大遠百 2F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=87&StoreId=11216&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 B1](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=107&StoreId=12120&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
@@ -13465,7 +13487,7 @@ yENLiNE許艷玲
 紅玉滿赤心雞蛋糕  
 [遠百信義 A13 4F](https://www.feds.com.tw/tw/55/MallInfo/FloorRestaurant?FloorId=175&RestaurantId=343&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
 [遠百桃園 B1](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=77&StoreId=11928&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
-[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=392&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=12185&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
 納心寶石  
 [Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=12167&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 組曲  
@@ -13609,7 +13631,6 @@ yENLiNE許艷玲
 [Top City 台中大遠百 12F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=95&RestaurantId=103&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
 [台南大遠百 成功店 B1](https://www.feds.com.tw/tw/48/MallInfo/FloorRestaurant?FloorId=128&RestaurantId=104&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
 豆花拾玖  
-[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=12170&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
 [遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=200&StoreId=12173&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
 豐曜  
 [Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=12183&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
@@ -14031,8 +14052,6 @@ ZEGNA
 [台北 101 3F](https://www.taipei-101.com.tw/tw/shopping/brandsearch/content/bc32952e-33c6-4593-8498-b161b4792f33)  
 agete  
 [台北 101 B1](https://www.taipei-101.com.tw/tw/shopping/brandsearch/content/b20250729001-agete)  
-sugarfina  
-[台北 101 B1](https://www.taipei-101.com.tw/tw/shopping/brandsearch/content/b20240424001-sugarfina)  
 vacanza  
 [台北 101 B1](https://www.taipei-101.com.tw/tw/shopping/brandsearch/content/b20201229001-vacanza-)  
 全家便利商店  
@@ -14067,8 +14086,6 @@ vacanza
 [微風南山 4F](https://www.breeze.com.tw/stores/7356)  
 31冰淇淋  
 [微風廣場 B2](https://www.breeze.com.tw/stores/2761)  
-50% FIFTY PERCENT  
-[微風南京 4F](https://www.breeze.com.tw/stores/6937)  
 7-ELEVEN  
 [微風東岸 1F](https://www.breeze.com.tw/stores/7407)  
 99牛排  
@@ -14111,6 +14128,7 @@ BABY MADISON
 [微風信義 2F](https://www.breeze.com.tw/stores/7691)  
 BALENCIAGA  
 [微風廣場 1F](https://www.breeze.com.tw/stores/7553)  
+[微風信義 1F](https://www.breeze.com.tw/stores/8167)  
 BEAMS  
 [微風南山 3F](https://www.breeze.com.tw/stores/7317)  
 BEARD PAPA'S  
@@ -14137,6 +14155,8 @@ BYREDO
 [微風信義 2F](https://www.breeze.com.tw/stores/7794)  
 Baskin-Robbins 31 冰淇淋  
 [微風南山 4F](https://www.breeze.com.tw/stores/7363)  
+Bluerider ART  
+[微風廣場 1F](https://www.breeze.com.tw/stores/7819)  
 Breeze MEGA Studio  
 [微風廣場 8F](https://www.breeze.com.tw/stores/6797)  
 [微風廣場 9F](https://www.breeze.com.tw/stores/6797)  
@@ -14147,16 +14167,12 @@ CELINE
 [微風信義 1F](https://www.breeze.com.tw/stores/605)  
 CHAFFEE  
 [微風南山 B2](https://www.breeze.com.tw/stores/2314)  
-CHANTECAILLE/香緹卡  
-[微風廣場 GF](https://www.breeze.com.tw/stores/8074)  
 CHAO DA ®超大食品  
 [微風台北車站 1F](https://www.breeze.com.tw/stores/7627)  
 CHLOE CHEN  
 [微風信義 3F](https://www.breeze.com.tw/stores/673)  
 CITEN  
 [微風南山 2F](https://www.breeze.com.tw/stores/7989)  
-CLUB 21  
-[微風南山 2F](https://www.breeze.com.tw/stores/7636)  
 CLUB MONACO  
 [微風信義 2F](https://www.breeze.com.tw/stores/630)  
 COMMA  
@@ -14193,6 +14209,8 @@ Damiani
 [微風廣場 1F](https://www.breeze.com.tw/stores/7348)  
 Diptyque  
 [微風信義 2F](https://www.breeze.com.tw/stores/1423)  
+Dogday  
+[微風廣場 GF](https://www.breeze.com.tw/stores/8188)  
 ED Hardy  
 [微風廣場 2F](https://www.breeze.com.tw/stores/7526)  
 EMPORIO ARMANI  
@@ -14256,8 +14274,6 @@ JOHN VARVATOS
 JORDAN  
 [微風松高 B1](https://www.breeze.com.tw/stores/6846)  
 [微風松高 1F](https://www.breeze.com.tw/stores/6846)  
-JQY  
-[微風南京 B1](https://www.breeze.com.tw/stores/4992)  
 Jimmy Choo  
 [微風信義 2F](https://www.breeze.com.tw/stores/647)  
 Jouete  
@@ -14334,7 +14350,8 @@ MIU MIU
 [微風南山 1F](https://www.breeze.com.tw/stores/6179)  
 MK  
 [微風廣場 B2](https://www.breeze.com.tw/stores/27)  
-MOSA  
+MOSA+ 香水洗沐保養  
+[微風台北車站 2F](https://www.breeze.com.tw/stores/8181)  
 [微風南山 B2](https://www.breeze.com.tw/stores/8163)  
 MUJI  
 [微風廣場 3F](https://www.breeze.com.tw/stores/182)  
@@ -14358,16 +14375,12 @@ Molton Brown
 [微風信義 2F](https://www.breeze.com.tw/stores/7074)  
 Morton's The Steakhouse  
 [微風信義 45F](https://www.breeze.com.tw/stores/709)  
-Mount neer  
-[微風南京 3F](https://www.breeze.com.tw/stores/1727)  
 NEW BALANCE  
 [微風信義 B1](https://www.breeze.com.tw/stores/7778)  
 NIKE  
 [微風東岸 1F](https://www.breeze.com.tw/stores/7397)  
 NIKE KICKS LOUNGE  
 [微風信義 B1](https://www.breeze.com.tw/stores/6339)  
-NOVA  
-[微風南京 3F](https://www.breeze.com.tw/stores/7551)  
 Neal's Yard Remedies  
 [微風南京 1F](https://www.breeze.com.tw/stores/1759)  
 NeufNeuf 服飾  
@@ -14382,6 +14395,7 @@ OPATRA
 OSIM　按摩器  
 [微風南京 B1](https://www.breeze.com.tw/stores/869)  
 OWNDAYS  
+[微風廣場 3F](https://www.breeze.com.tw/stores/8147)  
 [微風台北車站 1F](https://www.breeze.com.tw/stores/251)  
 [微風南京 B1](https://www.breeze.com.tw/stores/720)  
 [微風東岸 1F](https://www.breeze.com.tw/stores/7403)  
@@ -14398,8 +14412,6 @@ PRADA
 [微風南山 1F](https://www.breeze.com.tw/stores/8007)  
 PUYI OPTICAL  
 [微風南山 1F](https://www.breeze.com.tw/stores/2393)  
-Panasonic  
-[微風南京 3F](https://www.breeze.com.tw/stores/6298)  
 Paul Smith  
 [微風信義 2F](https://www.breeze.com.tw/stores/632)  
 Pearl de FLORE  
@@ -14463,8 +14475,6 @@ Steiff
 [微風廣場 GF](https://www.breeze.com.tw/stores/6278)  
 SÓl:33  
 [微風信義 3F](https://www.breeze.com.tw/stores/8017)  
-TAKEO KIKUCHI  
-[微風信義 3F](https://www.breeze.com.tw/stores/1451)  
 TASAKI  
 [微風廣場 1F](https://www.breeze.com.tw/stores/7756)  
 TEN THOUSAND  
@@ -14483,8 +14493,6 @@ THOM BROWNE
 [微風南山 1F](https://www.breeze.com.tw/stores/6836)  
 TLC STORE  
 [微風松高 B1](https://www.breeze.com.tw/stores/7940)  
-TOKUYO  
-[微風南京 3F](https://www.breeze.com.tw/stores/1726)  
 TREES BREAD  
 [微風廣場 GF](https://www.breeze.com.tw/stores/6012)  
 TRUE RELIGION  
@@ -14554,6 +14562,7 @@ afternoon研究視
 [微風信義 B1](https://www.breeze.com.tw/stores/7013)  
 alexanderwang  
 [微風廣場 1F](https://www.breeze.com.tw/stores/7710)  
+[微風信義 1F](https://www.breeze.com.tw/stores/8047)  
 [微風南山 1F](https://www.breeze.com.tw/stores/6958)  
 auping  
 [微風廣場 2F](https://www.breeze.com.tw/stores/7890)  
@@ -14635,8 +14644,6 @@ ten thousand coffee
 [微風台北車站 B1](https://www.breeze.com.tw/stores/6962)  
 八千代天丼  
 [微風台北車站 2F](https://www.breeze.com.tw/stores/8072)  
-八月堂  
-[微風台北車站 2F](https://www.breeze.com.tw/stores/8165)  
 八海食潮  
 [微風台北車站 2F](https://www.breeze.com.tw/stores/6436)  
 八番赤野  
@@ -14673,8 +14680,6 @@ ten thousand coffee
 [微風東岸 3F](https://www.breeze.com.tw/stores/7402)  
 喵一日MEOWDAY  
 [微風南京 1F](https://www.breeze.com.tw/stores/8135)  
-回家睡覺  
-[微風南京 3F](https://www.breeze.com.tw/stores/5116)  
 圈粉鋪子  
 [微風南山 B2](https://www.breeze.com.tw/stores/8041)  
 團團 TEE MAKET  
@@ -14818,6 +14823,8 @@ ten thousand coffee
 [微風南山 B2](https://www.breeze.com.tw/stores/7707)  
 本粥  
 [微風台大醫院商場 B1](https://www.breeze.com.tw/stores/7556)  
+札幌藥粧  
+[微風廣場 3F](https://www.breeze.com.tw/stores/8042)  
 朱記餡餅  
 [微風台大醫院商場 B1](https://www.breeze.com.tw/stores/360)  
 東京巴黎甜點  
@@ -14843,8 +14850,6 @@ ten thousand coffee
 [微風台北車站 2F](https://www.breeze.com.tw/stores/7740)  
 橘村屋  
 [微風台北車站 1F](https://www.breeze.com.tw/stores/253)  
-橫濱牛排  
-[微風南京 3F](https://www.breeze.com.tw/stores/794)  
 欣豐  
 [微風台大醫院商場 B1](https://www.breeze.com.tw/stores/365)  
 永心鳳茶  
@@ -14923,6 +14928,8 @@ ten thousand coffee
 [微風台北車站 1F](https://www.breeze.com.tw/stores/8023)  
 盧琴樹  
 [微風台北車站 2F](https://www.breeze.com.tw/stores/7536)  
+真心台菜．香茅廚  
+[微風廣場 GF](https://www.breeze.com.tw/stores/8195)  
 真珠  
 [微風南山 5F](https://www.breeze.com.tw/stores/7731)  
 真食補  
@@ -15081,8 +15088,6 @@ ten thousand coffee
 [微風台北車站 2F](https://www.breeze.com.tw/stores/6693)  
 阿默蛋糕  
 [微風台北車站 1F](https://www.breeze.com.tw/stores/254)  
-集雅社  
-[微風南京 3F](https://www.breeze.com.tw/stores/6840)  
 集雅社(大家電)  
 [微風廣場 2F](https://www.breeze.com.tw/stores/6755)  
 雞三和  
@@ -15105,6 +15110,7 @@ ten thousand coffee
 饗泰多  
 [微風松高 3F](https://www.breeze.com.tw/stores/1548)  
 香之莊園  
+[微風廣場 B1](https://www.breeze.com.tw/stores/7944)  
 [微風廣場 GF](https://www.breeze.com.tw/stores/8186)  
 馬琳糖  
 [微風台北車站 2F](https://www.breeze.com.tw/stores/8144)  
@@ -15281,6 +15287,8 @@ GDC
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/976)  
 GIANNI CHIARINI  
 [DREAM PLAZA 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/537)  
+GLOBAL WORK  
+[統一時代台北店 B1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/168)  
 GOSHO  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1059)  
 GOWILD  
@@ -15529,7 +15537,7 @@ SNOW PEAK
 [統一時代台北店 5F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/316)  
 SOBDEALL  
 [統一時代台北店 5F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1137)  
-SONY
+SONY  
 [統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/474)  
 SPANCONNY  
 [DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/503)  

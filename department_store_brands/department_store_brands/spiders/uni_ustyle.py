@@ -89,6 +89,15 @@ class UniUStyleSpider(scrapy.Spider):
             for item in self.data[key]:
                 if isinstance(item, dict):
                     print(f"[{item['mall']} {item['floor']}]({item['url']})" + "  ")
+        if self.OUTPUT_TO_MD == 1:
+            md_lines = []
+            for key in sorted_data:
+                md_lines.append(key + "  ")
+                for item in self.data[key]:
+                    if isinstance(item, dict):
+                        md_lines.append(f"[{item['mall']} {item['floor']}]({item['url']})  ")
+            with open('uni_ustyle.md', 'w', encoding='utf-8') as f:
+                f.write('\n'.join(md_lines) + '\n')
         if self.OUTPUT_TO_JSON == 1:
             sorted_dict = {key: self.data[key] for key in sorted_data}
             with open('json/UniUStyle.json', 'w', encoding='utf-8') as f:

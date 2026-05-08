@@ -22,6 +22,7 @@ if __name__ == "__main__":
     mall = "台北 101"
     prefix_brand_url = "https://www.taipei-101.com.tw/tw/shopping/brandsearch/content/"
     OUTPUT_TO_JSON = 1
+    OUTPUT_TO_MD = 1
 
     for item in json_data:
         name = item["name"].strip()
@@ -42,6 +43,15 @@ if __name__ == "__main__":
         for item in tmp_data:
             if isinstance(item, dict):
                 print(f"[{item['mall']} {item['floor']}]({item['url']})" + " " + " ")
+    if OUTPUT_TO_MD == 1:
+        md_lines = []
+        for key in sorted_data:
+            md_lines.append(key + "  ")
+            for item in data[key]:
+                if isinstance(item, dict):
+                    md_lines.append(f"[{item['mall']} {item['floor']}]({item['url']})  ")
+        with open('101.md', 'w', encoding='utf-8') as f:
+            f.write('\n'.join(md_lines) + '\n')
     if OUTPUT_TO_JSON == 1:
         sorted_dict = {key: data[key] for key in sorted_data}
         json_data = json.dumps(sorted_dict, ensure_ascii=False)
