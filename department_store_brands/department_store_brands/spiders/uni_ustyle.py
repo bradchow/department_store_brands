@@ -61,7 +61,7 @@ class UniUStyleSpider(scrapy.Spider):
             if not brand_name:
                 continue
 
-            brandstore = item.css('.brandstore::text').get()
+            brandstore = ''.join(item.css('.brandstore *::text, .brandstore::text').getall()).strip()
             if not brandstore or '｜' not in brandstore:
                 logging.warning(f"unexpected brandstore format: {brandstore}")
                 continue
