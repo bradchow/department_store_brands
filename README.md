@@ -16,6 +16,7 @@ scrapy crawl FEDS > FEDS.md
 scrapy crawl breeze > breeze.md  
 python3 department_store_brands/TAIPEI101.py > 101.md  
 scrapy crawl UniUStyle > uni_ustyle.md  
+scrapy crawl Eslite > eslite.md  
 (2)
 run_all_spiders.py
 update_readme.py
@@ -25,8 +26,9 @@ update_readme.py
 [Sogo](#sogo)  
 [遠東百貨](#遠東百貨)  
 [台北101](#台北101)  
-[微風Breeze](#微風Breeze)
-[統一夢時代/DREAM_PLAZA](#統一夢時代/DREAM_PLAZA)
+[微風Breeze](#微風Breeze)   
+[統一夢時代/DREAM_PLAZA](#統一夢時代/DREAM_PLAZA)  
+[誠品Eslite](#誠品Eslite)
 
 ## 更新  
 時間：2026/05/07
@@ -15162,7 +15164,7 @@ ten thousand coffee
 31冰淇淋  
 [DREAM PLAZA B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/428)  
 8happy  
-[ B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1125)  
+[統一時代百貨台北店 B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1125)  
 93COFFEE  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/692)  
 A.P.C.  
@@ -15174,7 +15176,7 @@ ARKIVE STUDIO
 AS  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/198)  
 ASOBI  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/569)  
+[DREAM PLAZA 3F02-2722-0109](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/569)  
 AVEDA  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/397)  
 AVEDA Third Place  
@@ -15216,7 +15218,7 @@ BUFFALO
 Beutii  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/566)  
 Bgreen  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/553)  
+[DREAM PLAZA 3F0911-175-155](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/553)  
 Bisou Bisou Store  
 [DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/505)  
 CCLIFE  
@@ -15268,7 +15270,7 @@ EA
 ESTEE LAUDER  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/416)  
 EVERPOLL  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/564)  
+[DREAM PLAZA 3F0977-500-731](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/564)  
 Engolili英格莉莉  
 [統一時代台北店 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1139)  
 FLIPPER'S  
@@ -15326,7 +15328,7 @@ IPSA
 ISPO+ (山也行)  
 [統一時代台北店 5F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/313)  
 JBL  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/562)  
+[DREAM PLAZA 3F02-2722-0622](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/562)  
 JEANASIS  
 [統一時代台北店 B1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/170)  
 JINS  
@@ -15344,7 +15346,7 @@ KOBE SWEETS
 KOSÉ  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/409)  
 Kaffee Amadeus  
-[統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/117)  
+[統一時代台北店 B2F02-2723-8905](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/117)  
 Kiehl's  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/395)  
 Kinloch Anderson  
@@ -15360,7 +15362,7 @@ LADIES蕾黛絲
 LADY  
 [統一時代台北店 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/244)  
 LAKOLE  
-[DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/491)  
+[DREAM PLAZA B102-2720-3997](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/491)  
 LALINE  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1136)  
 LANCOME  
@@ -15390,7 +15392,7 @@ Levi's
 LillA  
 [DREAM PLAZA 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/596)  
 Lille M & Marais  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/579)  
+[DREAM PLAZA 3F餐廳02-2723-8968 門市 02-2723-8978](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/579)  
 Lucy's  
 [DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/508)  
 MAJESTIC LEGON  
@@ -15420,7 +15422,7 @@ MY SOUND
 Melvita  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/381)  
 Mia C'bon頂級超市  
-[DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/510)  
+[DREAM PLAZA B102-7701-2870](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/510)  
 Mister Donut  
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/126)  
 Mo-Mo-Paradise  
@@ -15428,7 +15430,7 @@ Mo-Mo-Paradise
 Mode Marie曼黛瑪璉  
 [統一時代台北店 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/247)  
 Monotete  
-[DREAM PLAZA 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/601)  
+[DREAM PLAZA 1F02-2722-0399](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/601)  
 Moshi  
 [DREAM PLAZA 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/529)  
 MultiPlay  
@@ -15450,7 +15452,7 @@ NORDACE
 NU  
 [統一時代台北店 5F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/813)  
 Nespresso  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/561)  
+[DREAM PLAZA 3Ftel:0958-230-696](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/561)  
 New Balance  
 [統一時代台北店 4F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/276)  
 O'right 歐萊德  
@@ -15458,7 +15460,7 @@ O'right 歐萊德
 O3O.official  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/449)  
 OGAWA  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/560)  
+[DREAM PLAZA 3F02-2723-3886](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/560)  
 OH! HER  
 [DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/506)  
 OJOSALON  
@@ -15546,7 +15548,7 @@ SST&C
 STANCAVE  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/554)  
 STANLEY 史丹利智能門鎖  
-[統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/757)  
+[統一時代台北店 6F0965-473-488](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/757)  
 STARBUCKS  
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/79)  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/222)  
@@ -15703,7 +15705,7 @@ niko and…
 nonstop  
 [統一時代台北店 B1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1133)  
 rather  
-[DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/495)  
+[DREAM PLAZA B102-2722-6906](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/495)  
 shu uemura  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/380)  
 sloggi  
@@ -15733,7 +15735,7 @@ whiple / w．Simple
 乳油木之家  
 [統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/360)  
 亞尼克  
-[DREAM PLAZA B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/628)  
+[DREAM PLAZA B2F02-2722-4837](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/628)  
 今生金飾  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/212)  
 伊萊克斯  
@@ -15757,7 +15759,7 @@ whiple / w．Simple
 博多天婦羅 やまみ  
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/140)  
 博客來  
-[DREAＭ PLAZA 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/666)  
+[DREAＭ PLAZA 6F02-2722-9882](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/666)  
 原本生活  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/559)  
 吉可頌  
@@ -15791,7 +15793,7 @@ whiple / w．Simple
 寶島眼鏡 FORMOSA  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/573)  
 小南門傳統美食  
-[DREAM PLAZA B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/433)  
+[DREAM PLAZA B2F02-2739-1678](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/433)  
 小南門豆花  
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/99)  
 島瓜  
@@ -15811,7 +15813,7 @@ whiple / w．Simple
 施巴  
 [統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/354)  
 星紅織品  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/568)  
+[DREAM PLAZA 3F0988-794-088](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/568)  
 東山炭燒牛舌  
 [DREAM PLAZA 4F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/590)  
 東門御園坊  
@@ -15903,7 +15905,7 @@ whiple / w．Simple
 開飯川食堂  
 [統一時代台北店 7F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/375)  
 陶作坊xAurli  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/556)  
+[DREAM PLAZA 3F02-7701-2389](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/556)  
 集雅社  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/558)  
 集雅社(Samsung/LG)  
@@ -15946,3 +15948,1794 @@ whiple / w．Simple
 [DREAM PLAZA 5F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/593)  
 龜記  
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/89)  
+## [誠品Eslite](https://meet.eslite.com/tw/tc/cooperationbrand)  
+#CACO  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222054)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222054)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222054)  
+& by tan & luciana  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808220002)  
+&By tan&Luciana  seedproject  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130044)  
+10/10 APOTHECARY  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503120002)  
+100 Phantom Perfumer  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202110280005)  
+1010湘食堂  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222008)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222008)  
+10MOOn  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104010005)  
+19again  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280006)  
+22 deux deux  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130037)  
+23.5° N  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270007)  
+23區 Select  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010029)  
+24HRS  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040007)  
+2nd STREET  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
+2sweet  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222012)  
+31冰淇淋  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270002)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270002)  
+6IXTY8IGHT  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202111110009)  
+7-11 統一超商  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222015)  
+8bit.t.d  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202406010003)  
+A.MOUR  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222671)  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222671)  
+ABC MART  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260007)  
+ACCA KAPPA  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510310007)  
+AISLE by abcense  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310003)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003310007)  
+ALL WEARS  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070027)  
+ALLOYA  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223070)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223070)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223070)  
+AMO阿默典藏蛋糕  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222021)  
+ANK&Outfit  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511300002)  
+ASIA GOAL  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223144)  
+AT&T 法國經典風土  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104160001)  
+AVEDA  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222028)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311290003)  
+AZUR  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202406070001)  
+AirealLand年零 X cozy white  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140009)  
+Alexandre Christie x GOTO  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010010)  
+Alinéa Lova  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504290003)  
+Alto  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222635)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222635)  
+Annie's Collection  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202207150002)  
+Arlink  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509040001)  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509040001)  
+Aroma Woman 芳香小舖  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508290005)  
+Arte White  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202101220002)  
+Artso亞梭傢俬  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130003)  
+Atelier Cologne  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270012)  
+Avivi  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102070001)  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102070001)  
+Aēsop  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210020)  
+B'f 美學進行式  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270009)  
+BAG TO YOU  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280013)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280013)  
+BB YOUR LOVE  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220001)  
+BBL Premium  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130026)  
+BEAMS  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222038)  
+BETTERDAYS  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210008)  
+BIOCHEM 雅聞倍優  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222045)  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222045)  
+BLANK SPACE  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403290002)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403290002)  
+BONNY&READ  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130029)  
+BRAUN BÜFFEL  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403050003)  
+BY YAN Perfume  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230005)  
+BYHUE  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070009)  
+Baby City娃娃城  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070026)  
+BagSmith & CO.  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409090001)  
+Barbour  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903200001)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903200001)  
+BeLLA  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010019)  
+Beau Jewelry  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912180009)  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912180009)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912180009)  
+Beutii  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130012)  
+BiAUTE 錶特  
+[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103160001)  
+Bionatura shoes  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403270001)  
+Bobo Peach 桃子害喜  
+[誠品生活駁二 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603190001)  
+Boom Boom選品服飾  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202211010004)  
+Brigid Accessory  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290011)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290011)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290011)  
+Buddha Rock  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202106260002)  
+Bären Treff 德國派對熊  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511070001)  
+C R Y  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210051)  
+CA4LA  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912030005)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912030005)  
+CABRÓN  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201901140002)  
+CAFE!N  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140008)  
+CAMPER  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508290003)  
+CHAFFEE  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201805190001)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201805190001)  
+CHAKO LAB｜DOUGHNUT  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202512290001)  
+CHANTECAILLE 香緹卡  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403190001)  
+CHECK 2 CHECK  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202512160001)  
+CHEZ宸知  
+[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202204130003)  
+CHIC MOO 起沐  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312110004)  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312110004)  
+CIPU 喜鋪  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222060)  
+CITEN  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308230001)  
+CLASSICO  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222924)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222924)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222924)  
+CNFlower  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222063)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222063)  
+COCO 壹番屋  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210015)  
+COCOSHNIK  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210029)  
+COLD STONE  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210006)  
+COMEBUYTEA  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201809140004)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201809140004)  
+CONVERSE  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070025)  
+COVERNAT  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202512170001)  
+COWA  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310006)  
+[誠品生活屏東店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310006)  
+CRASH BAGGAGE  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260009)  
+CREMIA  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140007)  
+CURISTA COFFEE 奎士咖啡  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307180002)  
+CW手機配件  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601260001)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601260001)  
+CYRANO+  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202405160001)  
+Caltan Design  
+[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222057)  
+[誠品生活駁二 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222057)  
+Calvin Klein  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222058)  
+Candace CMZ  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280020)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280020)  
+Carter's｜OSHKOSH  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010012)  
+Caspia LiLi  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103220004)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103220004)  
+Cherng Design  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103220003)  
+ChooShop  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
+[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
+City Diamond引雅珠寶  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060004)  
+Columbia  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130062)  
+ComeTrue CAFE 成真咖啡  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312180001)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312180001)  
+Cotélac  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210050)  
+Crealive Dept. by FILTER017  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280001)  
+DAISO JAPAN大創百貨  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201906130001)  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201906130001)  
+[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201906130001)  
+DANSKIN  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130011)  
+DEPOT  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202207120001)  
+DIVIOS  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601050001)  
+DOUGHNUT  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223262)  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223262)  
+DR.WILDS 荒野醫生  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603050005)  
+DREAM TREND 凱夢  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210007)  
+DRESSTERIOR  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504290002)  
+Daily Statement  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202010090004)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202010090004)  
+Dinner  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222084)  
+Dleet  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222599)  
+Dleet 李倍  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260003)  
+Domohorn Wrinkle朵茉麗蔻  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060017)  
+Double Take  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222941)  
+DoubleLife雙全生活館  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505210006)  
+Dr. Origins達橙生活館  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202111010009)  
+Dr.Pei  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510020001)  
+Dr.aiR  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010002)  
+E JEANS  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070010)  
+ECSTASY象鼻人  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604010001)  
+ENRICH DESIGN  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270002)  
+En route昂路  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210003)  
+Enrich Restaurant  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401300002)  
+Entadar 海漂計畫  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503060001)  
+FAIR LADY  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060019)  
+FANs CAFÉ  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605050001)  
+FIELD DAY  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270015)  
+FILA  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070022)  
+FILA KIDS  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070024)  
+FLELIS Fragrance 法倈麗香水  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270004)  
+FLIPPER’S  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210064)  
+FOOTER  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222117)  
+FORE 直火料理  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060022)  
+FORMOSA寶島眼鏡  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060006)  
+FRED PERRY  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223258)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223258)  
+FREED  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010023)  
+FROMETO  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040003)  
+FUNKY PRINCESS  
+[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202407300003)  
+Fair Lady + HAPPY FACE  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503250001)  
+Ficelle Design Jewelry  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223245)  
+Findnew 帆紐  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202206010001)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202206010001)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202206010001)  
+Fs57  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280010)  
+Février菲芙利  
+[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222114)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222114)  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222114)  
+G2000  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222122)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222122)  
+GACHA BOX轉蛋專門店  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510040002)  
+GAGA monster  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203300005)  
+GAGAmonster史萊姆怪獸星球  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411130001)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411130001)  
+GARMIN  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409020003)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210001)  
+GAUDI HOMME  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808080001)  
+GIANNI CHIARINI  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903150003)  
+GIORDANO  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210010)  
+GLOBAL WORK  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130010)  
+GLÖ FROYO  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605060003)  
+GRACE GIFT  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070030)  
+Gram&Co.  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223173)  
+H THREE  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222917)  
+HABIBI  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210004)  
+HALOA POKE 夏威夷拌飯  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311060002)  
+HAPPY FACE  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060018)  
+HARPER  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120002)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120002)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120002)  
+HERLS  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222688)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222688)  
+HOLA  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605060002)  
+HOUSUXI 舒希  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510040001)  
+[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510040001)  
+HUNDR.（Projext. Xolar）  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409160006)  
+Half half  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210062)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210062)  
+Hanako goods  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+Herschel  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222998)  
+Himalaya  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222909)  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222909)  
+Home shop  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070008)  
+Hotel V  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202210140001)  
+Hubox  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201809170002)  
+Hurley  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130046)  
+Hästens  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280001)  
+IB-MAN  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510280001)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510280001)  
+IN House  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130028)  
+INTROSTEM  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603300003)  
+ISABELLE WEN溫慶珠  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222601)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222601)  
+ISPO+  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130049)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130049)  
+ITS JEWELRY  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/201810120013)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201810120013)  
+Insta360  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511130001)  
+Isha  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202009020004)  
+JACAL'S  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201904090003)  
+JC eyecon  
+[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603050004)  
+JINART  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601110006)  
+JINS  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+JO MALONE LONDON  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130019)  
+JOHNSON喬山  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130005)  
+JOURNAL STANDARD  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912030001)  
+JUST BLOOM  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210033)  
+Jack Wolfskin  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130018)  
+K-SWISS  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070017)  
+K-WAY  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312110002)  
+KOIZUMI  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020018)  
+KOKKO  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010018)  
+KUAN KUAN  X CRAFT  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102070002)  
+Kamekona Hawaii 夏威夷鐵板燒  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130034)  
+Karen 凱林鐵板燒  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270001)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270001)  
+Keizu   好鞋好設計  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408220001)  
+KlassiC.  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308140003)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308140003)  
+Komm-31  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502110001)  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502110001)  
+Kosuiya香水屋  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222151)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222151)  
+Krispy Kreme  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209160004)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209160004)  
+L'ARTISAN PARFUMEUR  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270013)  
+LAB FE21  
+[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223267)  
+LAC  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202111010006)  
+LADY M  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403190005)  
+LAKING  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270003)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210004)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210004)  
+LAMY  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222755)  
+LAPELA  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040005)  
+LE LABO  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202210310003)  
+LEE  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010017)  
+LIN SHIAO TUNG 林曉同  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222605)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222605)  
+LINDARICO  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130043)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260004)  
+LOTTO  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230004)  
+LOVIN樂恋  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505150001)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505150001)  
+LUSH  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506300002)  
+LYBIR  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309050001)  
+La Mode  
+[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222157)  
+La Mode x SOLOMAX  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130057)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130057)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130057)  
+Laiwear  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510310011)  
+Lapela  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202412120001)  
+Le Polka  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130033)  
+Levi's  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222161)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222161)  
+Life8  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
+Like do 天然手作生活  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601020001)  
+Littdlework  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270008)  
+Little Garden  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202304280003)  
+Little Wonders  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508200002)  
+Lucy’s  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280019)  
+Luxespace浮奢空間  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130045)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130045)  
+MANO MANO  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504160001)  
+MAO’S DOLL 襪娃手創館  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222178)  
+MASMARULEZ  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280003)  
+MAVEN Watches  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202306290003)  
+ME5  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409030005)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409030005)  
+MERCI Design  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201805150008)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201805150008)  
+MIRROR PINK  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130041)  
+MIRROR 皇宣緣  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222184)  
+MO-BO  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222711)  
+MOSA沐莎植感生活  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202206070002)  
+MUJI 無印良品  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222193)  
+Mao's 樂陶陶  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201910240006)  
+Matin Kim  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202412120002)  
+Merite  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202602120001)  
+Mimi's Cafe米米咖啡  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070045)  
+Mister Donut  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201804170001)  
+Monotéte  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120004)  
+Moobulous 木子  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210004)  
+MoreCute茉茉  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060015)  
+Mr.Bed  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510020002)  
+Ms.Latte 拿鐵小姐  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411270001)  
+Mum,Mum 饅饅好食  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209160001)  
+Murose Crystal  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140015)  
+M·A·C  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222172)  
+Mövenpick Café 莫凡彼咖啡館  
+[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506030001)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506030001)  
+N.ONE  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510020003)  
+NEW ERA  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222199)  
+NEXTee  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307110001)  
+NIID  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603090002)  
+NIKE  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201803140009)  
+NINI義大利餐廳  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130052)  
+NONSPACE  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270005)  
+NaNa's Flower House  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202304200011)  
+Neoflam  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010005)  
+Nespresso  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130040)  
+New Balance  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020001)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020001)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020001)  
+New Balance 1906  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409020005)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409020005)  
+Nimmy&Nimmy friend  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504290004)  
+Norns  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
+Nose job 香氛販賣機  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601300003)  
+Nu健康守護鍺  
+[誠品雙和比漾店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222207)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222207)  
+OB STYLE  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308140001)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308140001)  
+OBEIOBEI  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503250008)  
+OHANA MAHAALO  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290014)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290014)  
+[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290014)  
+OHCHACHA  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070037)  
+OH！HER  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203300008)  
+OLIVIA YAO JEWELLERY  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222607)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222607)  
+OLIVIERS&CO  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222212)  
+ON SIDE 飾集合  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603300004)  
+ONJEWELLERY  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508290002)  
+ORI FREDERIQO  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202405310006)  
+ORIGINS品木宣言  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130023)  
+ORiental TRaffic  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309110003)  
+OTTO奧圖珠寶  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505210005)  
+OUR TWO  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270004)  
+Oolab良杯製所  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060014)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060014)  
+Oroobo奧旅博  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010001)  
+Otto2 x 玩劇寶貝  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503200004)  
+Otto2x玩劇寶貝  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308220001)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308220001)  
+P.Seven  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040004)  
+PALLADIUM  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201901300004)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222921)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201901300004)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222921)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201901300004)  
+PAUL  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411180001)  
+PEARL珍珠  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604090001)  
+PENHALIGON'S  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202210310004)  
+PEPPER’S  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
+PERFUN  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411300002)  
+PINSCENT  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140020)  
+PIQUADRO  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010021)  
+PIZZA CUT FIVE  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210005)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210005)  
+PLANTES & PARFUMS  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280008)  
+PLAYBOY  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222232)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010016)  
+PLAYSOUND沛聲  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202310230001)  
+POKE GO  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202108240001)  
+POLINIQ  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222237)  
+POP TOYS 星潮玩  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509290001)  
+POPCORN  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201901300003)  
+PORTER INTERNATIONAL  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222238)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222238)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130048)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130048)  
+POUN POUN  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505200002)  
+POYA Beauty 寶雅  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504300001)  
+PROJEXT  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202406250001)  
+PUMA  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070004)  
+PUMA Select  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280014)  
+Panasonic  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120001)  
+Paul Frank  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222220)  
+Photoism  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601110004)  
+Pinganita  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201804020002)  
+Pintoo  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品雙和比漾店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活花蓮遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活駁二 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活屏東店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+Pipijudy  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202009010006)  
+Poly Lulu  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808010001)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808010001)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808080003)  
+[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808080003)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808080003)  
+Potato Corner  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603050003)  
+QB HOUSE 造型剪髮專門店  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222246)  
+QUEEN OF SHEBA  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222628)  
+QUIKSILVER &ROXY  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222247)  
+RED VELVET 紅絲絨  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202204180003)  
+RED WING SHOES  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060005)  
+REVIVE BLANC  淨白美齒SPA／勺光美學  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104080011)  
+RIM BY JINS  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503070004)  
+RITE  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202303010004)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202303010004)  
+ROSE HOUSE CAFÉ  
+[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201812170006)  
+ROYAL ELASTICS  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230001)  
+Rasasi  
+[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201904150001)  
+Reflection  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410070005)  
+Relove  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270010)  
+Rest in Nature  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503310001)  
+Rizo Jewels  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309010007)  
+Romane x Lifehoho  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310007)  
+Roots  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222257)  
+SABON  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130063)  
+SADOMAIN仙德曼  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222262)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222262)  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222262)  
+SAMBAR SHOES水鹿  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112020003)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112020003)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112020003)  
+SAMSUNG  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202108120002)  
+SCANTEAK 詩肯柚木  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130017)  
+SEOUL MATE  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270009)  
+SHOKZ  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010024)  
+SILVER TWINKLE  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223123)  
+[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223123)  
+SIMMONS席夢思  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130020)  
+SIMPLY YOURS  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504210002)  
+SKECHERS  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201809270007)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201809270007)  
+SKECHERS USA  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210002)  
+SO NICE  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130030)  
+SOBDEALL  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+SOLOMAX  
+[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210072)  
+SON&SUN by KlassiC.  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280002)  
+SOUNDSGOOD  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280023)  
+SPANCONNY 飾品控  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307120003)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307120003)  
+[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307120003)  
+ST.MALO W.  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104010004)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410010001)  
+STARBUCKS COFFEE星巴克  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
+[誠品生活虎尾店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
+[誠品生活駁二 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
+STAYREAL  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209060005)  
+STUDIO A  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222301)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222301)  
+SU:MI 溫室·裏  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280011)  
+SWATCH  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222309)  
+Sankou  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603300002)  
+Santa Maria Novella  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140002)  
+Silver Spring 金工。手作銀飾  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201910230001)  
+Silver.g銀世代  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222278)  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222278)  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222278)  
+Simply Yours  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020003)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020003)  
+S’AIME 東京企劃  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
+TAIWANIZE  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223012)  
+TEMPUR丹普  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210011)  
+TEN.  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270016)  
+TENDAYS  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130022)  
+TENDER.S  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201804150011)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/201804150011)  
+TGI Fridays  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130032)  
+THE BRIDGE  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130053)  
+THE LANE  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201906030001)  
+THÉM  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403190002)  
+TLCSTORE 卡若特品牌館  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503310003)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503310003)  
+TOYSELECT  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410220005)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410220005)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410220005)  
+TRAVELER  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010025)  
+TUANTUAN  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280004)  
+Taichi  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112010006)  
+Tcf. 大振豐洋傘  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603190002)  
+[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603190002)  
+Terry and Andris Jewelry樂石子  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202004200003)  
+The Chips 美式餐廳  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511100001)  
+TheWellery 活樂嶼  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270001)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270001)  
+Thinking Group  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308010001)  
+Tiara Tiara Goods  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060009)  
+Tiara Tiara STORY  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202111110005)  
+Timberland  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202011050002)  
+Tokuyo 按摩椅健康領導品牌  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202304290001)  
+Tonia Nicole東妮寢飾  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130025)  
+Topologie  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410010002)  
+Toy Love  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120005)  
+Traditional WeatherWear  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603050002)  
+Traveler Station  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280015)  
+UNIQLO  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202310310001)  
+UOMO  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222946)  
+URBAN UNITS  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
+[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
+Uffy 無非研製所  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270005)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270005)  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270005)  
+VANA 北歐香氛  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112240002)  
+VANS  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409020004)  
+VEGE CREEK 蔬河  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222330)  
+VICXXO GALLERY  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603160001)  
+VINCENTS WORLD文森先生  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060003)  
+VIVENTY  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503200001)  
+VLENS韓國美瞳  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060013)  
+Vanger  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104080009)  
+Vecs Gardenia 嘉丹妮爾  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223027)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223027)  
+Villa Rizzi 里齊莊園  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040006)  
+Vivienne Westwood  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222338)  
+WEKII  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505090001)  
+WINNIE JEWELRY-唯你珠寶  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223255)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223255)  
+WODEN  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202304200013)  
+Waku Waku Burger  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202005060001)  
+XCTRL  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409020001)  
+XLAND  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409160007)  
+XRAGE  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201905240001)  
+YABI KITCHEN  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104220001)  
+YANKEE CANDLE  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
+[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
+[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
+[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
+YBG.inc  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202012180002)  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202012180002)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202012180002)  
+YODEE優迪  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010011)  
+YOGO冰淇淋  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502270003)  
+YOSEI  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202012090002)  
+YUE BEAUTY  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307040003)  
+YUER  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210048)  
+YUER雨兒  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260005)  
+Yogibo 悠式生活  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808270002)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808270002)  
+Ysanne  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270009)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270009)  
+ZANZAN 冉冉  
+[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202004200005)  
+adidas  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280017)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280017)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280017)  
+adidas KIDS  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070003)  
+adidas Originals  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510010002)  
+adidas／adidas Originals  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070028)  
+agnès b.  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222019)  
+anySiS x Steppi  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010028)  
+beard papa’s  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104080021)  
+belief  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604090002)  
+belonging SELECT  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504140001)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504140001)  
+bitplay  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201908200007)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201908200007)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201908200007)  
+bonnie sugar手作甜點專門店  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260002)  
+by PÓSE  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060008)  
+coen  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403250001)  
+crocs  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503170001)  
+deya  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222877)  
+dienes silver  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222082)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222082)  
+double U  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280006)  
+eYefans  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203300004)  
+ete  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210030)  
+funbox Toys  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070021)  
+gozo  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060010)  
+hearth  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202210310005)  
+i-shan13 蔡依珊  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222603)  
+iBaoarca  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202507300001)  
+iPINK  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020006)  
+iROO+COZY PUNCH  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010027)  
+icolor  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070031)  
+if & n  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210049)  
+inooknit  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140005)  
+juliArt 覺亞  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210053)  
+kotori  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270006)  
+le coq sportif GOLF/le coq sportif  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130013)  
+mamaway  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070014)  
+maru.a  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060011)  
+masse律動  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230002)  
+miacucina  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140006)  
+mini matters  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309010003)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309010003)  
+mizuiro ind  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202602110001)  
+mizuno美津濃  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220006)  
+moshi  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223008)  
+ne Jewelry  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409160011)  
+niko and …  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070005)  
+né jewelry & life  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603090001)  
+plain-me  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
+rather  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003310006)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003310006)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003310006)  
+so that's me  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604300001)  
+studio CLIP  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070007)  
+tiff  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
+uniarts  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222790)  
+va vendome aoyama+  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210031)  
+vacanza× vacanza耳夾專門所  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150005)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150005)  
+vensers  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222332)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222332)  
+viina  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222609)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222609)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505090005)  
+xolar  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280005)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280005)  
+zoobulous玩玩動物園  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605060001)  
+Ü LOHAS 悠樂森活  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130015)  
+à la sha  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070011)  
+七三茶堂7teahouse  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010014)  
+三丘的月光  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260008)  
+三商巧福  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202501100001)  
+上島珈琲店  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223175)  
+中華蕎麦 三藤  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603260001)  
+丸亀製麵  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
+丼究 職人丼飯專門  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040001)  
+九號市集  
+[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410160001)  
+亞瑟蘭印度料理  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280007)  
+伯虎在二樓  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505210002)  
+侍老井 精品和牛燒肉會所  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401300001)  
+元初豆坊 Dauling  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506300009)  
+先喝道  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223198)  
+[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223198)  
+先生手作千層  
+[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309060003)  
+光合箱子  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510210001)  
+全家 Family Mart  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222905)  
+六堆伙房  
+[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210017)  
+六松今苑  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603050001)  
+再來咖啡  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201909160002)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503240001)  
+再睡5分鐘  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070070)  
+凱朵特賣  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202310110001)  
+初魚｜鮨 · 鉄板料亭  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403040002)  
+創意美術  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222458)  
+勝政日式豬排  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130051)  
+包子商行  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504280002)  
+化石先生  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201904220003)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/201904220003)  
+博學屋  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312040002)  
+原味千尋  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222617)  
+原圓家庭  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202305230005)  
+友士  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202211030009)  
+古典玫瑰園  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222913)  
+可可茉  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210005)  
+台灣山崎麵包Yamazaki  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201805280002)  
+台灣黑土X石樂賣所  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202211030001)  
+右兵衛⨯葳林  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504160002)  
+吉甜不辣  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210001)  
+吉豚屋  
+[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210022)  
+名廚排骨  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210008)  
+吹毛求吃  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605080001)  
+周廚牛肉麵  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202501160002)  
+和民手作廚房  
+[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070034)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070034)  
+品選物  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170005)  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170005)  
+喜樂紅豆餅  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508010001)  
+喫茶趣  
+[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223246)  
+嘉義人~古早味糕點  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408290003)  
+國家地理  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604090004)  
+土庫驛可可莊園  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510010001)  
+坤水晶  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222405)  
+城市家居  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010009)  
+大師修SHIFU  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203170002)  
+大心  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222912)  
+大戶屋  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210018)  
+天仁茗茶  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222369)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222369)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222369)  
+天華沉香  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020013)  
+好丘Good Cho's  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210005)  
+好丘Good Cho’s  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502270002)  
+好想摸魚  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210013)  
+好森Ho Sng  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220008)  
+好饈鉄板燒  
+[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210021)  
+子丑生活  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408300001)  
+宏星智能家電  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130009)  
+客美多珈琲  
+[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210019)  
+寇比手工皮件  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202210140002)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912240003)  
+富發牌 FUFA  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202012090005)  
+小丸號方塊屋  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201907080002)  
+小南門傳統美食  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202005290009)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202005290009)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202005290009)  
+小南門餐飲  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222363)  
+小子 SHIAUZ  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270004)  
+小宇宙溜溜球  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050008)  
+小室瓶栽 EASY PLANT  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604220002)  
+小樽手作珈琲  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201907020001)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201907020001)  
+小米之家 誠品生活台南授權店  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604080001)  
+小米之家授權店  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010007)  
+嶼你商行  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100004)  
+弍玖文創  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510090002)  
+彩繪樹親子創意館  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222448)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222448)  
+御前上茶  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505210007)  
+御珠園  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601300001)  
+御私藏Cozy Tea Loft  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601110002)  
+微笑運動用品  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220004)  
+快車肉乾  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222385)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222385)  
+思綢織鹿  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202405310005)  
+恬雨 DANDELION RAIN  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504290001)  
+愛創造Allietare  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290016)  
+慢溫MenWen  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202201060001)  
+懿品乳酪菓子手造所  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104170002)  
+戀家小鋪  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210014)  
+打鐵仔patya  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201812210005)  
+拓銀  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222940)  
+指南針  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270010)  
+敲敲金工Choccy Metal  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223241)  
+斑鳩的窩  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070067)  
+新巴黎香草麻辣滷味  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210002)  
+新肌霓  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202107160003)  
+新馬辣經典麻辣鍋  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130054)  
+方坊Square Studio  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220003)  
+日暮拉麵  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509040002)  
+旺鍋  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411190001)  
+明吉  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903210008)  
+星悅新加坡料理  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070057)  
+春水堂  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222425)  
+春芳號  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503250002)  
+時時香  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130060)  
+晶澈  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203300010)  
+曼黛瑪璉｜瑪登瑪朵  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120003)  
+有情門  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104150002)  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104150002)  
+有空 5mins  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223135)  
+木雕森林  
+[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品宜蘭店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+札幌藥粧  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050010)  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050010)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050010)  
+朱記餡餅粥  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070035)  
+村山 Tsun Shan  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290010)  
+東京選物  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270006)  
+東和製油  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010006)  
+東海模型玩具  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202303010003)  
+松本清  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210014)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210014)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210014)  
+林貞粿行  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605020001)  
+果樹媽媽  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202105130001)  
+根號拾  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100001)  
+森SHEN植萃保養  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280009)  
+極淨  pureness health  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104160005)  
+樂天皇朝  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130036)  
+樂起司  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509040004)  
+樺達奶茶  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222565)  
+橫濱牛排  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604150001)  
+檜山坊  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290005)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290005)  
+檸檬大叔  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208230001)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208230001)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208230001)  
+檸檬生存指南  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202507010002)  
+武松殿  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401080001)  
+永心鳳茶  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008180001)  
+汕頭泉成沙茶潮鍋  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401300003)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401300003)  
+海邊走走  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
+涓豆腐  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130061)  
+淡然有味  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222618)  
+港點大師  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202512040001)  
+源源鋼藝uanuan  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060016)  
+滷台味  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503250003)  
+漢來上海湯包  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060020)  
+漫坑  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209060004)  
+瀾之茶居  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202304200001)  
+熊老闆精選好東西Bear Boss  
+[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312040003)  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312040003)  
+燒肉ChaCha 個人和牛燒肉  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130058)  
+狸小路  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202402170001)  
+王大夫一條根  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008300004)  
+玩具“反”斗城 Toys“R”Us  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504240001)  
+玩聚市集  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604300002)  
+珍御蚵仔煎  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202111010005)  
+珍煮丹TRUEDAN  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912310002)  
+瑞香 Ruei Siang  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603090003)  
+瓦城  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130056)  
+甜蜜約定  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150006)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150006)  
+男研堂  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201911010007)  
+瘋一鍋頂級鍋物  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070041)  
+登義DengYi  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310009)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310009)  
+皇廚一品牛排  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509040003)  
+盧琴樹  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202412230001)  
+眼鏡市場  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210015)  
+知音文創  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202009010004)  
+石之王  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409160002)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409160002)  
+石研室  
+[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210016)  
+神農生活X食習  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808220007)  
+福洱商行  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510280002)  
+笛笛家  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100006)  
+簡單 JANDAN  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202303030001)  
+簡青生活  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280016)  
+米哥烘焙坊  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222383)  
+綠蓋茶．館  
+[誠品台大店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222551)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222551)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222551)  
+綠藤生機  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222690)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222690)  
+維格餅家  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100007)  
+繼光香香雞  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222582)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222582)  
+羅亞戴蒙  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150011)  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150011)  
+[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150011)  
+美珍香  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210003)  
+羚羊宅一番  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605060004)  
+羽革 Feather Leather  
+[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222675)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222675)  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222675)  
+羿唐YTANG  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604030001)  
+翔仔居家  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280007)  
+翰方御品  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202305230003)  
+老蔡水煎包  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601110001)  
+聖保羅  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100002)  
+聖比德  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100003)  
+聖瑪莉SUNMERRY  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222471)  
+聖翔  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201804030005)  
+肉的長谷川  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202405100001)  
+膳馨Shan-Shin  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403140002)  
+舞古賀mini鍋物  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411280001)  
+艷麗南洋鹹甜食  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603300001)  
+芋艿川  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202404020003)  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202404020003)  
+芮蜜渠創  
+[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202407300002)  
+花波兒‧心園藝  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504010003)  
+花鳥川  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100009)  
+英格莉莉  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201905270002)  
+茶籽堂  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210043)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210043)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210043)  
+茶粒茶  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223020)  
+茶萃  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511270001)  
+草山金工  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222441)  
+[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222441)  
+草民森飾  
+[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309060002)  
+[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309060002)  
+[誠品生活屏東店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309060002)  
+華歌爾  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504210001)  
+葡吉手工包子  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210012)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210012)  
+蔬坊  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808220006)  
+蕎菈尼昂  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410070002)  
+薄多義  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222570)  
+藝術城市集  
+[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202204130002)  
+蘇杭365  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140003)  
+蛋蛋屋  
+[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506070001)  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506070001)  
+蜷尾家パン  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505210003)  
+許許兒 XUXUWEAR  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403270002)  
+謙碩服裝修改室  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903180001)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903180001)  
+貝黎飾Belice  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509180001)  
+賽先生科學工廠  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222572)  
+越粉舖 新越南恬淡美食  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222468)  
+迷你樂玩  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220007)  
+迷客夏Milksha  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201812210002)  
+[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201812210002)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201812210002)  
+達橙生活館  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203150001)  
+邊緣工事  
+[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070042)  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070042)  
+郭錦如紀念學苑  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104190001)  
+醇白茶飲Arctic White  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060012)  
+醒寤 Erwachen  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202407260001)  
+野獸國  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222452)  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222452)  
+金 JINEASTERNAU  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202405310002)  
+金春喜韓廚  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505070001)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505070001)  
+金色三麥LE BLE D'OR  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222414)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222414)  
+銀座杏子日式豬排  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070036)  
+銀戀AdoSi  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260010)  
+鋒恩香水by德益  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511270002)  
+長順茶行 Tea Struck  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222616)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222616)  
+開丼 燒肉vs丼飯  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070048)  
+阿原YUAN  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222419)  
+阿默兒手工鞋  
+[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202110180001)  
+[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202110180001)  
+阿默兒經典手工鞋  
+[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104150007)  
+雞湯大叔  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020008)  
+雨傘王  
+[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509300001)  
+雷諾瓦拼圖文化坊  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品宜蘭店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+青春漢堡  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140002)  
+青鳥旅行  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202105180008)  
+非常泰  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403040001)  
+韓姜熙小廚房  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070061)  
+韓鶴亭  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202404160001)  
+頂呱呱  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222454)  
+順成蛋糕  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070049)  
+養元堂  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401240001)  
+養心沙龍  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140001)  
+饗蔬職人  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280025)  
+饞爪爪  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230003)  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230003)  
+香帥蛋糕  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100008)  
+香氛殿堂  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050013)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050013)  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112010003)  
+香草集  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510310001)  
+馥雩。沉藝  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050004)  
+駱姐正雞酒  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222569)  
+駿河屋  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202412020001)  
+高橋咖哩  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408150001)  
+魔梳工坊 GLAMORSPELL  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201810080001)  
+[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201810080001)  
+鮮芋仙  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070039)  
+鶴茶樓  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270008)  
+[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270008)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270008)  
+鹽夢工場  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201910050003)  
+麥當勞  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222181)  
+麵屋武藏  
+[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210018)  
+黑方巧克力  
+[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223177)  
+默爾pasta & pizza  
+[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
+[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
+[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
+[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
+點點心  
+[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130055)  
+龜記茗品  
+[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209160002)  

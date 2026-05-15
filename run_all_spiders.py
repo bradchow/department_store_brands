@@ -23,6 +23,7 @@ SPIDERS = [
     {"name": "UniUStyle",          "output": "uni_ustyle.md", "min_brands": 50},
     {"name": "TAIPEI101",          "output": "101.md",        "min_brands": 50,
      "script": "department_store_brands/spiders/TAIPEI101.py"},
+    {"name": "Eslite",             "output": "eslite.md",     "min_brands": 100},
 ]
 
 def log(msg):
