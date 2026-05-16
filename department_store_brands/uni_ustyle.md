@@ -13,7 +13,7 @@
 31冰淇淋  
 [DREAM PLAZA B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/428)  
 8happy  
-[ B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1125)  
+[統一時代百貨台北店 B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1125)  
 93COFFEE  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/692)  
 A.P.C.  
@@ -25,7 +25,7 @@ ARKIVE STUDIO
 AS  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/198)  
 ASOBI  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/569)  
+[DREAM PLAZA 3F02-2722-0109](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/569)  
 AVEDA  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/397)  
 AVEDA Third Place  
@@ -67,7 +67,7 @@ BUFFALO
 Beutii  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/566)  
 Bgreen  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/553)  
+[DREAM PLAZA 3F0911-175-155](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/553)  
 Bisou Bisou Store  
 [DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/505)  
 CCLIFE  
@@ -119,7 +119,7 @@ EA
 ESTEE LAUDER  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/416)  
 EVERPOLL  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/564)  
+[DREAM PLAZA 3F0977-500-731](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/564)  
 Engolili英格莉莉  
 [統一時代台北店 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1139)  
 FLIPPER'S  
@@ -177,7 +177,7 @@ IPSA
 ISPO+ (山也行)  
 [統一時代台北店 5F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/313)  
 JBL  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/562)  
+[DREAM PLAZA 3F02-2722-0622](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/562)  
 JEANASIS  
 [統一時代台北店 B1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/170)  
 JINS  
@@ -195,7 +195,7 @@ KOBE SWEETS
 KOSÉ  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/409)  
 Kaffee Amadeus  
-[統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/117)  
+[統一時代台北店 B2F02-2723-8905](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/117)  
 Kiehl's  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/395)  
 Kinloch Anderson  
@@ -211,7 +211,7 @@ LADIES蕾黛絲
 LADY  
 [統一時代台北店 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/244)  
 LAKOLE  
-[DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/491)  
+[DREAM PLAZA B102-2720-3997](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/491)  
 LALINE  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1136)  
 LANCOME  
@@ -241,7 +241,7 @@ Levi's
 LillA  
 [DREAM PLAZA 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/596)  
 Lille M & Marais  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/579)  
+[DREAM PLAZA 3F餐廳02-2723-8968 門市 02-2723-8978](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/579)  
 Lucy's  
 [DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/508)  
 MAJESTIC LEGON  
@@ -271,7 +271,7 @@ MY SOUND
 Melvita  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/381)  
 Mia C'bon頂級超市  
-[DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/510)  
+[DREAM PLAZA B102-7701-2870](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/510)  
 Mister Donut  
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/126)  
 Mo-Mo-Paradise  
@@ -279,7 +279,7 @@ Mo-Mo-Paradise
 Mode Marie曼黛瑪璉  
 [統一時代台北店 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/247)  
 Monotete  
-[DREAM PLAZA 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/601)  
+[DREAM PLAZA 1F02-2722-0399](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/601)  
 Moshi  
 [DREAM PLAZA 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/529)  
 MultiPlay  
@@ -301,7 +301,7 @@ NORDACE
 NU  
 [統一時代台北店 5F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/813)  
 Nespresso  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/561)  
+[DREAM PLAZA 3Ftel:0958-230-696](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/561)  
 New Balance  
 [統一時代台北店 4F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/276)  
 O'right 歐萊德  
@@ -309,7 +309,7 @@ O'right 歐萊德
 O3O.official  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/449)  
 OGAWA  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/560)  
+[DREAM PLAZA 3F02-2723-3886](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/560)  
 OH! HER  
 [DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/506)  
 OJOSALON  
@@ -397,7 +397,7 @@ SST&C
 STANCAVE  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/554)  
 STANLEY 史丹利智能門鎖  
-[統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/757)  
+[統一時代台北店 6F0965-473-488](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/757)  
 STARBUCKS  
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/79)  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/222)  
@@ -554,7 +554,7 @@ niko and…
 nonstop  
 [統一時代台北店 B1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1133)  
 rather  
-[DREAM PLAZA B1](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/495)  
+[DREAM PLAZA B102-2722-6906](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/495)  
 shu uemura  
 [統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/380)  
 sloggi  
@@ -584,7 +584,7 @@ whiple / w．Simple
 乳油木之家  
 [統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/360)  
 亞尼克  
-[DREAM PLAZA B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/628)  
+[DREAM PLAZA B2F02-2722-4837](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/628)  
 今生金飾  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/212)  
 伊萊克斯  
@@ -608,7 +608,7 @@ whiple / w．Simple
 博多天婦羅 やまみ  
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/140)  
 博客來  
-[DREAＭ PLAZA 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/666)  
+[DREAＭ PLAZA 6F02-2722-9882](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/666)  
 原本生活  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/559)  
 吉可頌  
@@ -642,7 +642,7 @@ whiple / w．Simple
 寶島眼鏡 FORMOSA  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/573)  
 小南門傳統美食  
-[DREAM PLAZA B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/433)  
+[DREAM PLAZA B2F02-2739-1678](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/433)  
 小南門豆花  
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/99)  
 島瓜  
@@ -662,7 +662,7 @@ whiple / w．Simple
 施巴  
 [統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/354)  
 星紅織品  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/568)  
+[DREAM PLAZA 3F0988-794-088](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/568)  
 東山炭燒牛舌  
 [DREAM PLAZA 4F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/590)  
 東門御園坊  
@@ -754,7 +754,7 @@ whiple / w．Simple
 開飯川食堂  
 [統一時代台北店 7F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/375)  
 陶作坊xAurli  
-[DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/556)  
+[DREAM PLAZA 3F02-7701-2389](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/556)  
 集雅社  
 [DREAM PLAZA 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/558)  
 集雅社(Samsung/LG)  

@@ -118,8 +118,8 @@ class SogoSpider(scrapy.Spider):
         if self.OUTPUT_TO_MD == 0:
             print("total urls: " + (str)(self.urls_num))
 
-        yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': self.retry_times})
- 
+        yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': self.retry_times}, wait_time=5)
+
     def parse(self, response):
         #for debug
         #inspect_response(response, self)
@@ -165,7 +165,7 @@ class SogoSpider(scrapy.Spider):
             
             if self.curr_url_num < self.urls_num:
 #            if self.curr_url_num < 1:
-                yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': self.retry_times})
+                yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': self.retry_times}, wait_time=5)
             else:
                 if self.OUTPUT_TO_MD == 0:
                     print("All brands(" + (str)(self.urls_num) + ") parsed done") 
@@ -177,9 +177,12 @@ class SogoSpider(scrapy.Spider):
                 time.sleep(5)
                 retry_count = retry_count - 1
                 # dont_filter is set to True for allowing request the same url
-                yield SeleniumRequest(url=response.url, callback=self.parse, meta={'retry': retry_count}, dont_filter=True)
+                yield SeleniumRequest(url=response.url, callback=self.parse, meta={'retry': retry_count}, dont_filter=True, wait_time=5)
             else:
                 logging.error("[ERR] Element not found for: " + response.url)
+                self.curr_url_num += 1
+                if self.curr_url_num < self.urls_num:
+                    yield SeleniumRequest(url=self.urls[self.curr_url_num], callback=self.parse, meta={'retry': self.retry_times}, wait_time=5)
 
     def write_to_file(self, words):
         with open("logging.log", "a") as f:

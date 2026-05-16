@@ -31,7 +31,7 @@ update_readme.py
 [誠品Eslite](#誠品Eslite)
 
 ## 更新  
-時間：2026/05/07
+時間：2026/05/16
 
 ## [新光三越](https://www.skm.com.tw/brand_list/?brand_capital=&brand_category=&query=&page=1)  
 & by TAN&LUCIANA  
@@ -43,7 +43,7 @@ update_readme.py
 0918  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11484)  
 [新光三越台北站前店 3F](https://www.skm.com.tw/brand/11484)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11484)  
+[新光三越台北南西店 3F](https://www.skm.com.tw/brand/11484)  
 [新光三越桃園站前店 3F](https://www.skm.com.tw/brand/11484)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11484)  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/11484)  
@@ -372,8 +372,6 @@ BABYCOCCOLE
 [新光三越台中中港店 6F](https://www.skm.com.tw/brand/11246)  
 BABYZEN  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/13025)  
-BACCARAT  
-[新光三越台中中港店 8F](https://www.skm.com.tw/brand/11734)  
 BAGMANIA  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/12654)  
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/12654)  
@@ -437,7 +435,7 @@ BETTY'S
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/10902)  
 [新光三越高雄三多店 4F](https://www.skm.com.tw/brand/10902)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/10902)  
-BHK’S  
+BHK’s  
 [新光三越台南小北門 2F](https://www.skm.com.tw/brand/14283)  
 BILLIONAIRE BOYS CLUB  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/14388)  
@@ -654,8 +652,6 @@ Bgreen
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12522)  
 [新光三越高雄三多店 9F](https://www.skm.com.tw/brand/12522)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/12522)  
-Blazing  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11388)  
 Bonchon Chicken 本村韓食炸雞  
 [新光三越台中中港店 12F](https://www.skm.com.tw/brand/14262)  
 [新光三越台南小北門 3F](https://www.skm.com.tw/brand/14262)  
@@ -729,7 +725,6 @@ CASTELBAJAC
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/356)  
 CATH KIDSTON  
 [新光三越台北站前店 3F](https://www.skm.com.tw/brand/12819)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12819)  
 CELINE  
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/12261)  
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12261)  
@@ -948,7 +943,7 @@ CRYSTAL BALL
 [新光三越台北站前店 2F](https://www.skm.com.tw/brand/13774)  
 CUMAR.女裝  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11062)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11062)  
+[新光三越台北南西店 4F](https://www.skm.com.tw/brand/11062)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11062)  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/11062)  
 CUMAR.皮件  
@@ -1200,7 +1195,6 @@ Dyson
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12280)  
 E WEAR  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/731)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/731)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/731)  
 [新光三越台南中山店 3F](https://www.skm.com.tw/brand/731)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/731)  
@@ -1357,8 +1351,8 @@ FECA 鐵碳
 FEILER  
 [新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/13228)  
 FENDI  
-[新光三越台中中港店 2F](https://www.skm.com.tw/brand/2058)  
 [新光三越台中中港店 1F](https://www.skm.com.tw/brand/2058)  
+[新光三越台中中港店 2F](https://www.skm.com.tw/brand/2058)  
 [新光三越DIAMONDTOWERS一館 1F](https://www.skm.com.tw/brand/2058)  
 FERRAGAMO  
 [新光三越台中中港店 2F](https://www.skm.com.tw/brand/11965)  
@@ -1396,7 +1390,7 @@ FISSLER 菲仕樂
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/12589)  
 FITFLOP  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/11295)  
-[新光三越台北南西店 8F](https://www.skm.com.tw/brand/11295)  
+[新光三越台北南西店 3F](https://www.skm.com.tw/brand/11295)  
 [新光三越嘉義垂楊店 3F](https://www.skm.com.tw/brand/11295)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11295)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/11295)  
@@ -1468,7 +1462,6 @@ FUJI按摩椅
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/12403)  
 FUTURO  
 [新光三越台北站前店 2F](https://www.skm.com.tw/brand/13024)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/13024)  
 Fees Beaute  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/13104)  
 Florian Taiwan 福里安花神  
@@ -1604,7 +1597,6 @@ GOOD GUY 好漢
 GOOPIMADE  
 [新光三越台北信義新天地A9 3F](https://www.skm.com.tw/brand/14375)  
 GOZO  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12158)  
 [新光三越桃園站前店 4F](https://www.skm.com.tw/brand/12158)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12158)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/12158)  
@@ -1728,7 +1720,6 @@ HELENE SPARK
 [新光三越台南小北門 1F](https://www.skm.com.tw/brand/11782)  
 HER&HIM  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11022)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11022)  
 [新光三越桃園站前店 3F](https://www.skm.com.tw/brand/11022)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11022)  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/11022)  
@@ -1797,7 +1788,6 @@ HONMA
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/1819)  
 HONOLULU CAFÉ 檀島香港茶餐廳  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11377)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11377)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11377)  
 HORSEFEATHERS  
 [新光三越台北信義新天地A11 5F](https://www.skm.com.tw/brand/14008)  
@@ -1943,7 +1933,6 @@ Isabelle Wen 溫慶珠
 J&h 晶璽健康生活館  
 [新光三越台北站前店 11F](https://www.skm.com.tw/brand/11198)  
 [新光三越桃園站前店 9F](https://www.skm.com.tw/brand/11198)  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11198)  
 J.LINDEBERG  
 [新光三越台北信義新天地A8 3F](https://www.skm.com.tw/brand/11490)  
 [新光三越台北信義新天地A9 2F](https://www.skm.com.tw/brand/11490)  
@@ -2008,6 +1997,7 @@ JOHNSON 喬山
 [新光三越台南中山店 9F](https://www.skm.com.tw/brand/12590)  
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12590)  
 [新光三越高雄三多店 10F](https://www.skm.com.tw/brand/12590)  
+[新光三越高雄左營店 9F](https://www.skm.com.tw/brand/12590)  
 JORDAN  
 [新光三越台中中港店 2F](https://www.skm.com.tw/brand/1402)  
 JOSEPH  
@@ -2150,7 +2140,6 @@ KILIAN PARIS
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/13259)  
 KINLOCH ANDERSON.女裝  
 [新光三越台北站前店 3F](https://www.skm.com.tw/brand/11214)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11214)  
 [新光三越桃園站前店 4F](https://www.skm.com.tw/brand/11214)  
 [新光三越台南中山店 3F](https://www.skm.com.tw/brand/11214)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/11214)  
@@ -2270,7 +2259,6 @@ L'OCCITANE 歐舒丹
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/11564)  
 L.ERICKSON  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12234)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12234)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12234)  
 L:A BRUKET  
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/3697)  
@@ -2467,13 +2455,13 @@ LOUIS VUITTON 路易威登
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/12825)  
 LOVFEE  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11531)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11531)  
 [新光三越台北天母店 2F](https://www.skm.com.tw/brand/11531)  
 [新光三越桃園站前店 5F](https://www.skm.com.tw/brand/11531)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11531)  
 [新光三越台南小北門 2F](https://www.skm.com.tw/brand/11531)  
 LOWRYS FARM  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12388)  
+[新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/3651)  
+[新光三越台南新天地 4F](https://www.skm.com.tw/brand/3651)  
 LUCIANO MILANO  
 [新光三越台北信義新天地A11 2F](https://www.skm.com.tw/brand/11021)  
 [新光三越台南新天地 2F](https://www.skm.com.tw/brand/11021)  
@@ -2535,8 +2523,6 @@ Lofan露蒂芬
 Loro Piana  
 [新光三越台北信義新天地A4 2F](https://www.skm.com.tw/brand/11646)  
 [新光三越台中中港店 2F](https://www.skm.com.tw/brand/11646)  
-Lotus Home 荷意傢俱  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/13364)  
 Lucy's  
 [新光三越高雄左營店 3F](https://www.skm.com.tw/brand/14163)  
 L‘Artisan Parfumeur  
@@ -2737,7 +2723,6 @@ MISS
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11817)  
 MISS 21  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/11778)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11778)  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11778)  
 MISTER DONUT  
 [新光三越台南中山店 B2F](https://www.skm.com.tw/brand/11853)  
@@ -2810,7 +2795,7 @@ MRS. FAITH'S 費太太
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/11313)  
 MUJI 無印良品  
 [新光三越台北站前店 3F](https://www.skm.com.tw/brand/11587)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11587)  
+[新光三越台北南西店 6F](https://www.skm.com.tw/brand/11587)  
 [新光三越台中中港店 11F](https://www.skm.com.tw/brand/11587)  
 [新光三越台南中山店 B1F](https://www.skm.com.tw/brand/11587)  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11587)  
@@ -2852,7 +2837,6 @@ MaxMara
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/3110)  
 Merite  
 [新光三越台北站前店 2F](https://www.skm.com.tw/brand/13852)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/13852)  
 Miopane  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/11319)  
 [新光三越台中中港店 B2F](https://www.skm.com.tw/brand/11319)  
@@ -2909,10 +2893,6 @@ NARS
 [新光三越台南新天地 GF](https://www.skm.com.tw/brand/11915)  
 [新光三越高雄左營店 1F](https://www.skm.com.tw/brand/11915)  
 [新光三越台南小北門 1F](https://www.skm.com.tw/brand/11915)  
-NATIONAL GEOGRAPHIC APPAREL  
-[新光三越台中中港店 5F](https://www.skm.com.tw/brand/12065)  
-[新光三越台南新天地 4F](https://www.skm.com.tw/brand/12065)  
-[新光三越台南小北門 2F](https://www.skm.com.tw/brand/12065)  
 NATIVE  
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/790)  
 NATURAL BEAUTY BASIC  
@@ -3001,6 +2981,10 @@ NU
 [新光三越台南新天地 5F](https://www.skm.com.tw/brand/11517)  
 [新光三越高雄左營店 7F](https://www.skm.com.tw/brand/11517)  
 [新光三越台南小北門 2F](https://www.skm.com.tw/brand/11517)  
+National Geographic Apparel  
+[新光三越台中中港店 5F](https://www.skm.com.tw/brand/12065)  
+[新光三越台南新天地 4F](https://www.skm.com.tw/brand/12065)  
+[新光三越台南小北門 2F](https://www.skm.com.tw/brand/12065)  
 New Balance Kids  
 [新光三越台北信義新天地A8 5F](https://www.skm.com.tw/brand/12174)  
 New Era  
@@ -3374,7 +3358,6 @@ RACHEL WINE
 RAIN STORY  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12322)  
 [新光三越台北站前店 2F](https://www.skm.com.tw/brand/12322)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12322)  
 [新光三越桃園站前店 4F](https://www.skm.com.tw/brand/12322)  
 RALPH LAUREN CHILDREN  
 [新光三越台北信義新天地A8 4F](https://www.skm.com.tw/brand/10897)  
@@ -3660,7 +3643,6 @@ SIMMONS 席夢思
 [新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11152)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/11152)  
 SIMPLY YOURS  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12346)  
 [新光三越台北天母店 2F](https://www.skm.com.tw/brand/12346)  
 [新光三越桃園站前店 4F](https://www.skm.com.tw/brand/12346)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12346)  
@@ -3730,7 +3712,6 @@ SLIDER
 [新光三越台北信義新天地A11 5F](https://www.skm.com.tw/brand/13570)  
 SM2  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/12471)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12471)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12471)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12471)  
 SNOW FACTORY 雪坊優格  
@@ -3940,8 +3921,6 @@ TAI YANG TANG 太陽堂老店
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/11308)  
 TAKAMI  
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/13434)  
-TAKASHIMA 高島  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/3274)  
 TAKEO KIKUCHI  
 [新光三越台中中港店 5F](https://www.skm.com.tw/brand/11842)  
 TAN&LUCIANA 陳探月&袁憶甄  
@@ -4011,7 +3990,6 @@ THE NORTH FACE URBAN EXPLORATION/TNF UE
 THE SMART WOODEN TOYS 佳欣國際  
 [新光三越台南新天地 3F](https://www.skm.com.tw/brand/11423)  
 THEODORA'S  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/3413)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/3413)  
 THERMOS 膳魔師  
 [新光三越台北信義新天地A8 6F](https://www.skm.com.tw/brand/12588)  
@@ -4022,7 +4000,6 @@ THERMOS 膳魔師
 TIAMO 禧龍  
 [新光三越台中中港店 8F](https://www.skm.com.tw/brand/11939)  
 TIARA TIARA  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12720)  
 [新光三越桃園站前店 3F](https://www.skm.com.tw/brand/12720)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/12720)  
 TIFF  
@@ -4084,12 +4061,12 @@ TOP DO
 [新光三越桃園站前店 3F](https://www.skm.com.tw/brand/12612)  
 TORY BURCH  
 [新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/328)  
-[新光三越台北南西店 1F](https://www.skm.com.tw/brand/328)  
 [新光三越台南新天地 1F](https://www.skm.com.tw/brand/328)  
 TOYSELECT  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/1618)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/1618)  
 [新光三越台南小北門 2F](https://www.skm.com.tw/brand/1618)  
+TRACEY CHEN  
+[新光三越台北南西店 3F](https://www.skm.com.tw/brand/1173)  
 TRANZEND  
 [新光三越台北信義新天地A9 5F](https://www.skm.com.tw/brand/13474)  
 [新光三越嘉義垂楊店 7F](https://www.skm.com.tw/brand/13474)  
@@ -4177,7 +4154,7 @@ URBAN UNITS
 URE  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/12259)  
 [新光三越台北站前店 3F](https://www.skm.com.tw/brand/12259)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12259)  
+[新光三越台北南西店 3F](https://www.skm.com.tw/brand/12259)  
 [新光三越台北天母店 2F](https://www.skm.com.tw/brand/12259)  
 [新光三越桃園站前店 3F](https://www.skm.com.tw/brand/12259)  
 [新光三越台南中山店 3F](https://www.skm.com.tw/brand/12259)  
@@ -4384,7 +4361,7 @@ YONG FULL SELECT
 [新光三越台北南西店 3F](https://www.skm.com.tw/brand/14105)  
 YSANNE  
 [新光三越台北信義新天地A4 3F](https://www.skm.com.tw/brand/12733)  
-[新光三越台北南西店 4F](https://www.skm.com.tw/brand/12733)  
+[新光三越台北南西店 3F](https://www.skm.com.tw/brand/12733)  
 YSL BEAUTE 聖羅蘭  
 [新光三越台北信義新天地A8 1F](https://www.skm.com.tw/brand/12165)  
 [新光三越台北信義新天地A11 1F](https://www.skm.com.tw/brand/12165)  
@@ -4537,7 +4514,6 @@ double U
 earth music&ecology  
 [新光三越台北信義新天地A11 B1F](https://www.skm.com.tw/brand/11892)  
 [新光三越台北站前店 3F](https://www.skm.com.tw/brand/11892)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/11892)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11892)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/11892)  
 [新光三越高雄三多店 3F](https://www.skm.com.tw/brand/11892)  
@@ -4664,7 +4640,6 @@ nomel
 [新光三越台南小北門 2F](https://www.skm.com.tw/brand/3596)  
 non stop  
 [新光三越台北信義新天地A8 B1F](https://www.skm.com.tw/brand/12688)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12688)  
 [新光三越嘉義垂楊店 4F](https://www.skm.com.tw/brand/12688)  
 [新光三越台南中山店 4F](https://www.skm.com.tw/brand/12688)  
 [新光三越台南新天地 4F](https://www.skm.com.tw/brand/12688)  
@@ -5174,7 +5149,6 @@ yuer
 春水堂  
 [新光三越台北信義新天地A9 B1F](https://www.skm.com.tw/brand/12289)  
 [新光三越台北站前店 B2F](https://www.skm.com.tw/brand/12289)  
-[新光三越台北南西店 B1F](https://www.skm.com.tw/brand/12289)  
 [新光三越台北天母店二館 3F](https://www.skm.com.tw/brand/12289)  
 [新光三越桃園站前店 B1F](https://www.skm.com.tw/brand/12289)  
 [新光三越台中中港店 10F](https://www.skm.com.tw/brand/12289)  
@@ -5407,7 +5381,6 @@ yuer
 [新光三越台北信義新天地A4 B1F](https://www.skm.com.tw/brand/1759)  
 皇家竹炭  
 [新光三越台北站前店 9F](https://www.skm.com.tw/brand/12213)  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12213)  
 益可福生態牧場  
 [新光三越台南新天地 B2F](https://www.skm.com.tw/brand/12532)  
 盧亞香水  
@@ -5439,7 +5412,6 @@ yuer
 稍甜  
 [新光三越台北南西店 B2F](https://www.skm.com.tw/brand/13818)  
 筌美術  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/11629)  
 [新光三越高雄左營店 8F](https://www.skm.com.tw/brand/11629)  
 簡單李  
 [新光三越台北信義新天地A8 B2F](https://www.skm.com.tw/brand/489)  
@@ -5733,7 +5705,6 @@ yuer
 銀站  
 [新光三越台北站前店 9F](https://www.skm.com.tw/brand/12642)  
 [新光三越台中中港店 7F](https://www.skm.com.tw/brand/12642)  
-[新光三越台南新天地 B1F](https://www.skm.com.tw/brand/12642)  
 鋒恩香水  
 [新光三越台北南西店 2F](https://www.skm.com.tw/brand/11493)  
 [新光三越台中中港店 B1F](https://www.skm.com.tw/brand/11493)  
@@ -5923,15 +5894,10 @@ yuer
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/241006203332883553)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/200301114524507684)  
 0918  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/210818141839433897)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/1803081629464885)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/190927152022830022)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244418179)  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/1803081621571067)  
-10 mois  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351588292)  
 10/10 HOPE  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034378)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/221022182140520277)  
 100phantom百氛苑  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230411164937440352)  
@@ -5941,28 +5907,19 @@ yuer
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18031615283837)  
 1929居家生活館  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215781251)  
-22 OCTOBRE  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351558217)  
 22 deux deux  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/240909144631376741)  
 23區  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351559218)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/221016173126441972)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244393114)  
 3M  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244509414)  
-45R  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/230227205622720379)  
-52TOYS  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/250409174055825751)  
 A.P.C.  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/240205115741334485)  
 ACE BAGS & LUGGAGE  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/200311153122473764)  
 ACHILLES SORBO  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/240229201324366125)  
-ACQUA DI PARMA  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/260217125546751800)  
 ADIDAS GOLF  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/210924040925255658)  
 ADIDAS ORIGINALS  
@@ -5970,13 +5927,10 @@ ADIDAS ORIGINALS
 AESOP  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/240620133924976730)  
 AIGLE  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351706597)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294685177)  
 AILI皮飾  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351638425)  
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/240716134900715778)  
-ALAIA  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/240122142003235828)  
 ALBION  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351512113)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628256440)  
@@ -5998,18 +5952,13 @@ AMERICAN HOLIC
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/220417121820654900)  
 ANNE DE SOLENE 安妮莎琳  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351685547)  
-ANYSIS  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812112650883841)  
 APM Monaco  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330379167)  
 APPLE  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351644440)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330441332)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282680338)  
 AQUANAUT奧可那  
 [SOGO 高雄店 7F](https://info.sogo.com.tw/ks/brand/240222121910532527)  
-ARC'TERYX  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351706599)  
 ARENA  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/180409150613370781)  
 ARISTON  
@@ -6018,15 +5967,11 @@ ARISTON
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282680339)  
 ARMADA  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351648449)  
-ARMANI EXCHANGE  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/220223112722661808)  
 ARNOLD PALMER  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/210623165449571569)  
 ARTSO  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330442333)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/190531212005176433)  
 AS  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351506102)  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633034481)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628256235)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436645)  
@@ -6034,7 +5979,6 @@ ASICS
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244448260)  
 ASKO  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351649450)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330442334)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294713255)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/201001120824721340)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822115221582253)  
@@ -6045,9 +5989,6 @@ ATUNAS
 ATUNAS歐都納  
 [SOGO 高雄店 7F](https://info.sogo.com.tw/ks/brand/250824153442660242)  
 AVEDA  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/211002175608383511)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034482)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/190322102434458506)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/190909210928891696)  
 AZUR  
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/18030816215723104)  
@@ -6056,8 +5997,6 @@ AZUR select shop
 Aderans愛德蘭絲  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244393116)  
 Aesop  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/251018211907930313)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629462621)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/190415121109164829)  
 AiLi  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282647243)  
@@ -6076,38 +6015,24 @@ Amber café express
 Anita Su  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/240126153811215531)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/260210194828998772)  
-Anya Hindmarch  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/250205112803800799)  
 Apple  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/190822203057634823)  
 Arnold Palmer  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/18030816351616358)  
-Arus  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/191007144005272302)  
 Aubade  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351589295)  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330380170)  
 Aunt Stella  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/180308163302951)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180308162946171)  
 [SOGO 高雄店 B2](https://info.sogo.com.tw/ks/brand/1803081621571685)  
-Aunt Stella詩特莉  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635148750)  
 B&W  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351649452)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330442335)  
 B.V.D  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351630402)  
-BAC CAKE&SWEETS  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/201005165238979312)  
 BACCARAT  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351649453)  
 BAG TO YOU  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282712422)  
 BAGMANIA  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/191206172713747336)  
-BALLY  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/240312191400273195)  
 BALMUDA  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351649454)  
 BAO BAO ISSEY MIYAKE  
@@ -6120,8 +6045,6 @@ BBL
 BBL Premium  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351686548)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294714257)  
-BEBE CLOSET  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/250219145135339456)  
 BEN&1966  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628256542)  
 BEST HOME COLLECTION  
@@ -6139,8 +6062,6 @@ BO DEREK
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633034586)  
 BOBBI BROWN  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351514118)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034587)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629462929)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628256645)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436647)  
 BOBSON  
@@ -6152,12 +6073,10 @@ BOGNER
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/260105123036635276)  
 BOSCH  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351650456)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330442336)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294714259)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244510418)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/18030816215771224)  
 BOSE  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330444341)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294716263)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/230906165533320958)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/211109184514122106)  
@@ -6166,17 +6085,10 @@ BOSS
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351592305)  
 BOSS GOLF  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/250525211803400471)  
-BOSS HOME  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/200728141352381451)  
-BOTANICUS  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/251227185108771383)  
 BRABANTIA  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351652461)  
-BRAPPERS  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330412257)  
 BRAUN  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351652462)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330443337)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294716264)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282682345)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/180920163318864258)  
@@ -6189,11 +6101,9 @@ BRIEFING
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/250918175746194492)  
 BRITA  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351652463)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330444342)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294716265)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822115250769776)  
 BROOKS  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/260228135840384912)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/190724145551585247)  
 BRUNO  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633034588)  
@@ -6206,22 +6116,14 @@ BWT
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282682347)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822113000541041)  
 BWT德國倍世淨水  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/220529163722149050)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/230612124347227245)  
 BYHUE  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231004135849975549)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/230319154103501861)  
 Ba&sh  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/240126153632118673)  
-Barbour  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/250824103625218895)  
-Baskin Robbins 31冰淇淋  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/250505134941271149)  
 Beauty Gallery  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/190707204134566680)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282627194)  
 Been Teen  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351589297)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294663126)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244421190)  
 Been Teen(嬪婷)  
@@ -6229,24 +6131,16 @@ Been Teen(嬪婷)
 Benefit  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628256643)  
 Benteau  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/210818141142406006)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/1803081628257875)  
-Berkemann  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/190601114400383099)  
 Berndes  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351650455)  
 Berndes寶迪  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282681342)  
 Blueair  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/200817155717235594)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294714258)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282681343)  
 Bo Derek  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/240228171230765615)  
-Bonpoint  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/190321165640343919)  
-Bottega Veneta  
-[SOGO 台北復興館 2F](https://info.sogo.com.tw/tp2/brand/200830162047490971)  
 Brooks Brothers  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351572254)  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330429297)  
@@ -6263,18 +6157,12 @@ CALIFORNIA REPUBLIC
 CALVIN KLEIN JEANS  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/18030816351616361)  
 CALVIN KLEIN UNDERWEAR  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210901121515423378)  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/18030816351617362)  
-CAMEL ACTIVE  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330413260)  
 CAMPER  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351548187)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/180531162946234908)  
 CARNIVAL  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294695208)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282649252)  
-CARRARA  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/240728145813916622)  
 CARTIER  
 [SOGO 台北復興館 1F](https://info.sogo.com.tw/tp2/brand/18030816330362125)  
 CASIO  
@@ -6286,14 +6174,10 @@ CASTELBAJAC
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/220225162711277356)  
 CHANEL  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351515120)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/190707204420644903)  
 [SOGO 台北復興館 1F](https://info.sogo.com.tw/tp2/brand/240928161211981839)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629462930)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628256851)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436749)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621569935)  
-CHANTECAILLE  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034690)  
 CHANTELLE  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330380171)  
 CHANTELLE(仙黛爾)  
@@ -6305,7 +6189,6 @@ CHICCO
 CHOICE  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351686551)  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633034691)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231004140249270036)  
 CHRISTIAN LOUBOUTIN  
 [SOGO 台北復興館 3F](https://info.sogo.com.tw/tp2/brand/240513195740167109)  
 CITIZEN  
@@ -6313,15 +6196,12 @@ CITIZEN
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330431302)  
 CLARINS  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351515121)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034795)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629462931)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257053)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436751)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621569936)  
 CLARKS  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/250903172230421098)  
 CLINIQUE  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629462933)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257155)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436853)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621569938)  
@@ -6330,11 +6210,9 @@ CLINIQUE(倩碧)
 CLUB DESIGNER  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/200825140909557342)  
 COACH  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463034)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257156)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436854)  
 COCOSHNIK  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812113303324529)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/221017185125682229)  
 COFFEE LOVER's PLANET  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436855)  
@@ -6344,14 +6222,8 @@ COLE HAAN
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/220827155722236803)  
 COLEMAN  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/240313124116955788)  
-COMO STORE / KEEN  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330414265)  
-CONVERSE  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351697579)  
 CORBAN  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230825153206419450)  
-COVERMARK  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/181125202638496574)  
 COWA  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/250303174839243285)  
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/220406120659938045)  
@@ -6367,7 +6239,6 @@ CROCS
 CRY  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/180904173214598348)  
 CUMAR  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635148856)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/250830152821875711)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244422196)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244482346)  
@@ -6375,14 +6246,7 @@ CUMAR 內著服飾
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/240301152501121611)  
 CUMAR皮飾  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351625388)  
-CURISTA COFFEE奎士咖啡  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/230211132353592196)  
-CYRANO席哈諾  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/231106174710616984)  
-Cafun'e  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/260406154946645809)  
 Calvin Klein  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/250722183658374736)  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/250525211944190509)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/220822165500421414)  
 CandaceCMZ  
@@ -6391,23 +6255,16 @@ Carnival
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244480341)  
 Carnival嘉裕  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351632409)  
-Cath Kidston  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/210818142131648460)  
 CbGäRDN  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/250524152209993114)  
 Celinda  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822115324678905)  
 Chantelle  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351590299)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/210710145138449841)  
-Chantelle Lab  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/230226155643405319)  
 Charisma  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330457372)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294717268)  
 Chloé  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/210927141556105269)  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/240510174959937592)  
 ChooShop  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230514125123698283)  
 Christofle  
@@ -6424,7 +6281,6 @@ Club Monaco
 Coleman  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/230416154444919657)  
 Columbia  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330413261)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294685180)  
 Converse  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244453275)  
@@ -6433,8 +6289,6 @@ Cotélac
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/210414131812209282)  
 Crocs  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/220902155147225102)  
-D+AF  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/250409173806455829)  
 DAIKIN  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/200401171952240662)  
 DAISO JAPAN大創百貨  
@@ -6442,17 +6296,12 @@ DAISO JAPAN大創百貨
 DAKS  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351572256)  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351632407)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/190916184021163977)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294718272)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257157)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436956)  
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/18030816215725108)  
-DANSKIN  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/200921155527730486)  
 DARPHIN  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351517124)  
-DARPHIN朵法  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/220606225816356911)  
 DAY&DAY  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/191108211401267098)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294719273)  
@@ -6461,13 +6310,11 @@ DC
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244453277)  
 DECORTE(黛珂)  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351517125)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463035)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257259)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436957)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570143)  
 DELSEY  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330432308)  
-[SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244482347)  
 DENNIS FEI 髮品  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230818120912497165)  
 DEPOT  
@@ -6478,10 +6325,7 @@ DESCENTE GOLF
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/220916165233270943)  
 DEVIN  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/200801151039587637)  
-DHC  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/260315201120427182)  
 DIANA  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/1803081635147226)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257360)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437059)  
 DIANA(黛安娜)  
@@ -6489,7 +6333,6 @@ DIANA(黛安娜)
 DITA MART  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330400224)  
 DLEET 李倍  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351562228)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/190305180851684179)  
 DOUCHANGLEE  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/210305151421539613)  
@@ -6506,8 +6349,6 @@ Danskin
 DeLonghi 迪朗奇  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282683350)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/241021172546981001)  
-DeSire  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351506103)  
 Dea  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294719274)  
 Delonghi 迪朗奇  
@@ -6524,8 +6365,6 @@ Diffa
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/241017154128862377)  
 Dior  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351518126)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034897)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463037)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257363)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437163)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570144)  
@@ -6534,7 +6373,6 @@ Diva Life
 Dleet李倍  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/260301122226430134)  
 Dolce & Gabbana  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/230916204958257677)  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/250524141351828141)  
 DollBao  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18031614110927)  
@@ -6542,7 +6380,6 @@ Dyson
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294721281)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244511423)  
 E-WEAR  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635148961)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282599125)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244425204)  
 EDWIN  
@@ -6554,7 +6391,6 @@ EDWIN
 ELEGANCE襯衫  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244494382)  
 ELISA GEMS  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/210818141237822922)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282599123)  
 ELLE ACTIVE  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/250321143550713073)  
@@ -6562,21 +6398,16 @@ EPISODE
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/200228202618557507)  
 ESTEE LAUDER  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351520131)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463345)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257566)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437266)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570247)  
-ESTĒE LAUDER  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034999)  
 ETRO  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330371148)  
 Ea  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/1803081635148038)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257361)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437164)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621569324)  
 Electrolux  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/190418215125962077)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244512424)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822114033442164)  
 Electrolux 伊萊克斯  
@@ -6587,7 +6418,6 @@ Electrolux 大小家電
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351655473)  
 Elizabeth Arden  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351519130)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463344)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257465)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437165)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570145)  
@@ -6605,8 +6435,6 @@ F.E.T
 F.F.F.F  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244425205)  
 FAIR LADY  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351520132)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231004140045341338)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257567)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437267)  
 FAIRY  
@@ -6616,10 +6444,6 @@ FAIRY(惠而麗)
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244512425)  
 FANTINO  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/260411194331496931)  
-FEES  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/200601144233686376)  
-FEILOmina 菲洛米娜  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/250207160119657414)  
 FERRAGAMO  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/210927142343383250)  
 FET  
@@ -6627,21 +6451,16 @@ FET
 FEZA EYESALON  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/251203215149273016)  
 FILA  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351697580)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294698216)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282669309)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244455281)  
 [SOGO 高雄店 5F](https://info.sogo.com.tw/ks/brand/18030816215766211)  
-FILA 1911  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/250520151357148912)  
 FILA Kids  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244483351)  
 FILA kids  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282669310)  
 FINN COMFORT  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/240306144043747268)  
-FLAVOR FIELD  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180308162946184)  
 FLYING EAGLE  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/200301165929497590)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282653263)  
@@ -6650,8 +6469,6 @@ FOOTDISC
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/220225162517722219)  
 FRAAS  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/230919141831806113)  
-FRAY I.D  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351563229)  
 FREE  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/210826183313691608)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294665133)  
@@ -6661,14 +6478,9 @@ FREE
 FREED  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230818120346288274)  
 FRÉDÉRIC MALLE  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/230825181223292737)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/231106164829932703)  
 FUGA FUGA  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/240226135002596000)  
-FUJIYA不二家洋菓子  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/180308163302975)  
-FUJI按摩椅  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/201206164245359726)  
 FUN BOX麗嬰國際  
 [SOGO 高雄店 7F](https://info.sogo.com.tw/ks/brand/220404133140736556)  
 Fair Lady  
@@ -6689,14 +6501,9 @@ Fissler
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351656475)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294721280)  
 Fitflop  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351521134)  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/190707153226515828)  
 Fred Perry  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/250302121457939336)  
-Froli  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/190609145710949457)  
-Funbox麗嬰國際  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351707601)  
 G2000  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/200301170055177806)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/200730180828789016)  
@@ -6720,7 +6527,6 @@ GC deco
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/230903190425747611)  
 GDC  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633034793)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231004132530443084)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257362)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437268)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/250717145535241472)  
@@ -6728,12 +6534,10 @@ GEORG JENSEN
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/210927142217616270)  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/191108223203159761)  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/180824152504521829)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463450)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437369)  
 GEOX  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330433310)  
 GETCHI  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/220807143023819063)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/231002204841549089)  
 GINKOO  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/210826182906274815)  
@@ -6745,29 +6549,14 @@ GIORDANO
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282669311)  
 GIORGIO ARMANI  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/180513135821446243)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034794)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/231218140906447452)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/180823142254744823)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437370)  
 GIUSEPPE ZANOTTI  
 [SOGO 台北復興館 3F](https://info.sogo.com.tw/tp2/brand/240513194113677999)  
-GLOBAL WORK kids  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/200601144109109980)  
 GNC健安喜  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/240729173718347449)  
-GODIVA  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633031637)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180308162946195)  
 GOOD GUY  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/18030816294759369)  
-GRACE GIFT  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/191016132424973558)  
-GRAFF  
-[SOGO 台北復興館 2F](https://info.sogo.com.tw/tp2/brand/210124153933975508)  
-GREEN & SAFE  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/180308163302987)  
-GREEN GATE  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/250116223730808901)  
 GREEN PINE  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437371)  
 GREENGATE  
@@ -6775,16 +6564,12 @@ GREENGATE
 GUCCI  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/240913141008666821)  
 [SOGO 台北復興館 1F](https://info.sogo.com.tw/tp2/brand/200328172729949402)  
-[SOGO 台北復興館 2F](https://info.sogo.com.tw/tp2/brand/200328173135930986)  
 GUERLAIN  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351522138)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633031432)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/200303142526821782)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257568)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/200629141953818844)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570349)  
 GUNZE  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351593308)  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351592304)  
 Georg Jensen  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/210528142550472651)  
@@ -6801,14 +6586,11 @@ H.S.M
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244484355)  
 HANAKO GOODS  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/250829120927256647)  
-HANDS 台隆手創館  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330443338)  
 HANG TEN  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282654268)  
 HANRO  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/250606124158558015)  
 HAPPY FACE  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/260301085056625086)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/250920212602303806)  
 HARIO  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351656476)  
@@ -6824,25 +6606,20 @@ HELEN KAMINSKI
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/250910205115850264)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/250305172558757444)  
 HELENE  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/210926135602233342)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/221017184831699642)  
 HENGSTYLE  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282686359)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244513427)  
 HERMES  
 [SOGO 台北復興館 3F](https://info.sogo.com.tw/tp2/brand/18030816330362127)  
-HILL TOP  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351707604)  
 HILL TOP山頂鳥  
 [SOGO 高雄店 7F](https://info.sogo.com.tw/ks/brand/250824153543140604)  
 HIMIKO  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/200827205625324007)  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/220726212345916731)  
 HIROKO KOSHINO  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/250819135129107137)  
 HITACHI  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351657479)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330443339)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294714260)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282686360)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244513428)  
@@ -6854,12 +6631,9 @@ HOGAN
 HOM  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/200802163538450171)  
 HOME WORKING  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/200817155202784951)  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215782255)  
 HOME WORKING 元艇  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/210530225823924889)  
-HOME+Y  
-[SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244485356)  
 HOMESHOP  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/220515173512476469)  
 HOMEWORKING  
@@ -6877,16 +6651,12 @@ HUSH PUPPIES
 Hart Schaffner Marx  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351634415)  
 Heather  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149062)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230825153231304245)  
 Helena Rubinstein 赫蓮娜  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/240822144921847463)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/221022181337870465)  
 Helena Rubinstein(赫蓮娜)  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/220827181345435682)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/231103225722768361)  
-Helly Hansen  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/260228135041623782)  
 Herend  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294723287)  
 Hermès  
@@ -6894,7 +6664,6 @@ Hermès
 Hermès Beauty  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/211002175235699024)  
 Himolla  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/180427171948258267)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/230612123822489804)  
 Honeywell  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351657480)  
@@ -6909,14 +6678,12 @@ Hush Puppies
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282655271)  
 Häagen-Dazs  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633030316)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180308162946196)  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/180308162825476)  
 I-PRIMO  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244399136)  
 IBLUES  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/190722145402920467)  
 ICB  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/1803081635148753)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244398133)  
 ICU 愛視優眼鏡  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/260306121146248517)  
@@ -6927,8 +6694,6 @@ IF
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244399134)  
 IKIGAI 燒肉專門店  
 [SOGO 中壢店 8F](https://info.sogo.com.tw/zl/brand/250613111924960896)  
-IKKS  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351593310)  
 IMAGER-37  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351689560)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294723289)  
@@ -6937,13 +6702,11 @@ IMAGER-37
 INDEX  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282600129)  
 INNISFREE  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149064)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/200105160459812101)  
 INUK  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/260428143520439102)  
 IPSA  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351523139)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463553)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257669)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437472)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570350)  
@@ -6951,14 +6714,8 @@ IRIS
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/210826183435299109)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/18030816282617170)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244400137)  
-ISPO+  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/210911124703532952)  
 IUSE  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/250802183628897821)  
-IWATA  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/240728150521100380)  
-IZABO  
-[SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244486361)  
 Ici et la  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330402229)  
 Iris Girls  
@@ -6976,13 +6733,7 @@ J's Miss
 J.LINDEBERG  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230823172305217412)  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330433312)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/220114203154572105)  
-JAB 品緻美生活  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/230612210937956900)  
-JACADI  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351594312)  
 JACK NICKLAUS  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/19032916432718)  
 [SOGO 高雄店 5F](https://info.sogo.com.tw/ks/brand/220622215005386629)  
 JEEP  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282656272)  
@@ -6991,17 +6742,10 @@ JEEP SPIRIT
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/240901153546289757)  
 JETEZO  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/210531211255897547)  
-JIL SANDER  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/240122141626434501)  
 JINS  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/231212175207241802)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/220317160645166559)  
-JNBY  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351513116)  
 JO MALONE LONDON  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/190430143605594627)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330350101)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/220606231521463807)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/191117162415805866)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/180511211504987785)  
 JO-AN  
@@ -7022,23 +6766,16 @@ JOHNSON按摩椅
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/191011161748484997)  
 JORYA  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/220825205445697445)  
-JOSEPH  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351518128)  
-JOTT  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/250811192405850031)  
 JUN  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/210318112355238877)  
 JUNIOR  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351658482)  
 JURA  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351658483)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330445346)  
 JUST J'S MISS  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/210826183600655024)  
 JUSTIN DAVIS  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/240519171104140041)  
-JW ANDERSON  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/240122141822148844)  
 Jack Nicklaus  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/250204151035257182)  
 Just diamond  
@@ -7047,7 +6784,6 @@ Just diamond
 Just gold  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244401142)  
 K-SWISS  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351708605)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282670313)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244456285)  
 KAI貝印  
@@ -7055,8 +6791,6 @@ KAI貝印
 KANGOL  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/18030816351620375)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/210325174301679908)  
-KANGOL KIDS  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/210815145029472061)  
 KASHIWA  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/190321182400945598)  
 KEDS  
@@ -7069,7 +6803,6 @@ KENWOOD
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282689366)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/241021172637578381)  
 KENZO  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/231015142205568315)  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330374155)  
 KERASTASE  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/240822144000947246)  
@@ -7079,7 +6812,6 @@ KID BLUE
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/191110221504511309)  
 KIEHL'S  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351526145)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463756)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257771)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437577)  
 KINAZ  
@@ -7091,15 +6823,12 @@ KLUT
 KOKKO  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/18030816330351103)  
 KOSE  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/220808142409289990)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463757)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257977)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437578)  
 KOTORI日本小鳥飾品  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/240225141256323636)  
 KUHN RIKON  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351660488)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330446347)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294725295)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282689367)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244514433)  
@@ -7108,11 +6837,7 @@ KYBUN
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/250512145511832261)  
 KYOCERA  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/220211162750640330)  
-Kaffee Amadeus  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633031638)  
-[SOGO 台北復興館 10F](https://info.sogo.com.tw/tp2/brand/18030816330466391)  
 Kanebo  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330350102)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570352)  
 Kanebo(概念櫃)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257770)  
@@ -7120,16 +6845,10 @@ Kangol
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/200822132719930327)  
 Karel Capek 山田詩子紅茶館  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/250411162516715449)  
-Keds  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/260306181525429434)  
 Keeley Ann  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633032044)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628256748)  
-Kiehl's  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/190707204005853244)  
 Kinloch Anderson  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149474)  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351595314)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/230713153638994157)  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/18030816294759370)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/190927152154728371)  
@@ -7140,8 +6859,6 @@ Kinloch Anderson(男裝)
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244486359)  
 Kinloch Anderson(童)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/210318121411449443)  
-KipLing  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/231219170927151082)  
 Kipling  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282601132)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244427211)  
@@ -7156,20 +6873,13 @@ Kuan's Living寬庭美學
 Kybun  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351635418)  
 KÉRASTASE  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/180621125850352846)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/240625133839937015)  
 L'OCCITANE  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/211002175826753942)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633032045)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437885)  
-LA BOUTIQUE de Joël Robuchon侯布雄法式精品甜點  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633031739)  
 LA FELINO(法利諾)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282629202)  
 LA MER  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351527147)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633032146)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463859)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258079)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437783)  
 LA MODE  
@@ -7186,27 +6896,19 @@ LACOSTE
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282656273)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/231002205325752294)  
 LADIES  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351596316)  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330386187)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294669145)  
 LADIES(蕾黛絲)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282630205)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244429215)  
-LADY KELLY 凱莉小姐  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/220808163320382934)  
 LAKING  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/210606164741149984)  
 LANCÔME  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351528150)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330351105)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463860)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258180)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437884)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570455)  
-LAUREN  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/190405154501163181)  
 LAUTREAMONT  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351519129)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/260301123435896393)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/18030816282618175)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244402144)  
@@ -7217,8 +6919,6 @@ LE LABO
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/231026100652273195)  
 LEGO  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/211209161602978282)  
-LEGO積木專賣店  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351708606)  
 LEIFHEIT  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351661491)  
 LEILIAN(蕾儷昂)  
@@ -7228,24 +6928,18 @@ LEONARD
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/250911160741794632)  
 LEVI'S  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/18030816351619369)  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330416272)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294701225)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282658279)  
 LG  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/191011164437681062)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/221229113254457724)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/240607115905396887)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/190225211504302721)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/230925120106208431)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/200401172307332576)  
-LG后  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330352106)  
 LIEBHERR  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294729302)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282690370)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822114803618028)  
-LILY BROWN  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812194340756620)  
 LIN SHIAO TUNG林曉同  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/210420151918667878)  
 LINDARICO  
@@ -7265,17 +6959,13 @@ LOJEL
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/230318172426955760)  
 LONGCHAMP  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330374156)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463964)  
 LOTUS  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351662493)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282690371)  
 LOUIS VUITTON  
 [SOGO 台北復興館 1F](https://info.sogo.com.tw/tp2/brand/18040418062143)  
 [SOGO 台北復興館 3F](https://info.sogo.com.tw/tp2/brand/240928160742249959)  
-LOUIS VUITTON (MEN)  
-[SOGO 台北復興館 2F](https://info.sogo.com.tw/tp2/brand/180404173423143076)  
 LOWRYS FARM  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149475)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282604135)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/190601210209606698)  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/1803081621571275)  
@@ -7283,8 +6973,6 @@ L'OCCITANE
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257978)  
 L'OCCITANE 歐舒丹  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570454)  
-L'Occitane歐舒丹  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463758)  
 La Fe'ta  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294669144)  
 La Felino  
@@ -7296,7 +6984,6 @@ La Feta
 La Féta  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/210823051201894155)  
 La Vie Aisee  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351595315)  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330385186)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/210710152659989008)  
 La Vie Aisee(金華歌爾)  
@@ -7311,27 +6998,16 @@ Lady nara
 [SOGO 台北忠孝館 12F](https://info.sogo.com.tw/tp1/brand/220106182327601328)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/191224131104581292)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/200411160341184961)  
-Lagostina  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330446348)  
-Le Polka  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/220529112424681419)  
-Le Premier  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/260331203742987277)  
 Le Premier 送子鳥  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/210830192032144078)  
+[SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/260504182556309299)  
 Le coq sportif  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244456286)  
-LeSportsac  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294653102)  
 Les Néréides  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351564234)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/220608152416506984)  
-Lesportsac  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210901121411142293)  
 Levi's  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244457288)  
 Lofan  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351597319)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294670148)  
 Loro Piana  
 [SOGO 台北復興館 3F](https://info.sogo.com.tw/tp2/brand/251217170504710862)  
@@ -7342,21 +7018,16 @@ Lynx
 [SOGO 高雄店 5F](https://info.sogo.com.tw/ks/brand/18030816215760195)  
 L’ERBOLARIO  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/211120160240270600)  
-M BEAUTE  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633033058)  
 M'S GRACY  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244405151)  
 M.&KYOKO  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244402145)  
 MAC  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351530153)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463962)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258283)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437680)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570557)  
 MAGY  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351524141)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231004132046377139)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258384)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437681)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621569628)  
@@ -7364,10 +7035,7 @@ MAHOGANY瑪荷尼
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282719434)  
 MAISON DE BEAUTÉ 鋒恩香水  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/251212154040266727)  
-MAISON MARGIELA  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/240122141726408725)  
 MAJESTIC LEGON  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149269)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/180914122225516720)  
 MAJOR MADE  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/221205174248833840)  
@@ -7375,13 +7043,10 @@ MAJOR MADE
 [SOGO 高雄店 5F](https://info.sogo.com.tw/ks/brand/220819153937390282)  
 MAKE UP FOR EVER  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351532157)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463242)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258385)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437782)  
 MAMA&DADA  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/220628182223964893)  
-MAMMUT  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/190908144832442480)  
 MAMMUT長毛象  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/200515171525733604)  
 MANOLO BLAHNIK  
@@ -7395,13 +7060,9 @@ MARU@
 MASTER MAX  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/190321174541417789)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244403147)  
-MAUVIEL1830  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330446349)  
 MAWA  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/191108212750241184)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294730305)  
-MAX&CO.  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351565235)  
 MAYU+  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282691372)  
 MCS  
@@ -7409,14 +7070,11 @@ MCS
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/190531135853343150)  
 MCS(Marlboro Classics)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/230831205812110447)  
-MEADIALUNA  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294654104)  
 MEISSEN  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244516438)  
 MELROSE  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/230525092558641319)  
 MERRELL  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351708607)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294687186)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244458289)  
 MEY  
@@ -7435,18 +7093,10 @@ MIDO手錶
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351637423)  
 MIELE  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/230115164041326122)  
-MIKI HOUSE  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351599324)  
 MIKIMOTO  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/230621190827736817)  
-MINOSHIN  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/231013174053861525)  
-MIOPANE  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/18030816351553206)  
 MIRROR 皇宣緣  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/230621191127857337)  
-MISS21  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/210926135239632090)  
 MITSUBISHI  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351663496)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/200401172511266054)  
@@ -7459,28 +7109,18 @@ MIZUNO
 MIZUSHIMA  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351663497)  
 MK  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294654105)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282619178)  
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/18030816215721100)  
 MK MICHEL KLEIN  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210901181421317593)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244430219)  
 MOISELLE  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330390197)  
-MONCLER  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/240122141522962695)  
-MONNALISA  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/200821151839394305)  
 MONTAGUT襯衫  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/180919182147793149)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294703231)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244489368)  
 MONTBLANC  
 [SOGO 台北復興館 1F](https://info.sogo.com.tw/tp2/brand/18030816330365133)  
-MOONPEARL  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/260413114712750948)  
-MOONSTAR  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351601328)  
 MOONSTAR 機能鞋  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/211010193526957298)  
 MOS BURGER摩斯漢堡  
@@ -7489,26 +7129,16 @@ MOS 摩斯漢堡
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633031740)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/200114123616829802)  
 MOSS CLUB  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/200921155556652264)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244430220)  
 MOTHERHOUSE  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244404150)  
-MUJI  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330417273)  
 MUJI無印良品  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/18030816282620179)  
 MUNSINGWEAR  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244490371)  
 Mada Juice  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/220901124113397217)  
-Maison Francis Kurkdjian  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/230825181522362445)  
-Maison Kitsuné  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/241012151335591757)  
-Mallothi  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/240831182424341489)  
 Mama & Dada  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/201225134354441601)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/230320165843102372)  
 Marelli  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351636422)  
@@ -7522,56 +7152,33 @@ MaxMara
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330374157)  
 McDavid  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351577270)  
-McGREGOR  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351597320)  
-[SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244488365)  
-McHugs  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/260331204054127695)  
 Meissen  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351690565)  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330458374)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282691373)  
 Mia C’bon  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/231222181946189946)  
 Michel Klein  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/200802201404308434)  
 Miele  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330447350)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294731309)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244492377)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822114723508577)  
 Miele 嘉儀  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282692375)  
-Minigold  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/220930182709106615)  
 Mister Donut  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/210523205413951970)  
-Mithus新采  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330447351)  
 Mizuno  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244450266)  
-Mode Marie  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351600326)  
 Mode Marie(曼黛瑪璉)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282631209)  
-Modern Girl  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351601327)  
-Mollifix 瑪莉菲絲  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/200526154557203679)  
 MoonStar  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244489369)  
-Morozoff摩洛索夫  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/200824131526527418)  
 Moser  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351691566)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282693379)  
 Mother Goose USA  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351664499)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294733312)  
-Mr.Cobbler美壽多  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330354110)  
-Mr.cobbler美壽多  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180308162946208)  
 Munsingwear  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/210924041844314504)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294688188)  
@@ -7581,27 +7188,19 @@ My de Girl
 NAIGAI  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351578273)  
 NARA CAMICIE  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351565237)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/18030816282613159)  
 NARA Thai Cuisine  
-[SOGO 台北忠孝館 11F](https://info.sogo.com.tw/tp1/brand/18030816351720634)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/180605221055968436)  
 NARA Thai Cuisine泰式料理  
 [SOGO 高雄店 B1](https://info.sogo.com.tw/ks/brand/220814170322124386)  
 NARS  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351533160)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/240304223956771218)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258592)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437989)  
-NATURAL BEAUTY BASIC  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/190331212313308708)  
 NAUTICA  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/190819134553986028)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282658278)  
-NAUTICA kids  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351602329)  
 NEW BALANCE  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351709610)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282671316)  
 [SOGO 高雄店 5F](https://info.sogo.com.tw/ks/brand/18030816215767215)  
 NEW BALANCE (NB)  
@@ -7609,13 +7208,10 @@ NEW BALANCE (NB)
 NEWYORKER  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/210526135727383333)  
 NIKE  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351710611)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294704234)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282671317)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244459292)  
 [SOGO 高雄店 5F](https://info.sogo.com.tw/ks/brand/18030816215768216)  
-NIKE KICKS LOUNGE  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330418276)  
 NIPPON MADE Onitsuka Tiger  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/240205115104298889)  
 NON‧STOP  
@@ -7628,34 +7224,18 @@ Nachtmann
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351664500)  
 Nachtmann 旺代  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282692376)  
-National Geographic  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/241011144001119510)  
 Natural Beauty Basic  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812113913818926)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244431221)  
-Neighbor Next Door  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/260406160452673138)  
 Nespresso  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/200908160415403877)  
 Nespresso Boutique  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351566238)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/181127182421894072)  
-New Balance 1906  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/230321211750240236)  
-Nice Life 生活家  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330459378)  
-Nike Swim  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/260329170207778153)  
 Nikko  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294734314)  
-Niveole  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351530154)  
 Noritake  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351651459)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282694381)  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215773233)  
-Noritake studio  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330458375)  
 O'right 歐萊德  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244406153)  
 OASIS  
@@ -7668,8 +7248,6 @@ OGUMA
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/251229112741186115)  
 OH!HER  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230514124702287161)  
-OLENS  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/200906165338402586)  
 OMEGA  
 [SOGO 台北復興館 1F](https://info.sogo.com.tw/tp2/brand/181015141714317223)  
 OMRON  
@@ -7687,16 +7265,10 @@ ORIGINS
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624438092)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570558)  
 ORIN  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351534162)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231004132236189397)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258488)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621569730)  
-ORiental TRaffic  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/210924152025776285)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231004132701277905)  
 OSIM  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351666503)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330449355)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294735318)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282695384)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244517441)  
@@ -7704,8 +7276,6 @@ OSIM
 OUTDOOR  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/260401012547338179)  
 OWNDAYS  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149782)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294655107)  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/220417122829545875)  
 Olivia Garden  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/240306182148363283)  
@@ -7725,23 +7295,17 @@ PALLADIUM
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/200521212317921868)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282659282)  
 PANDORA  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330355112)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258694)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624438193)  
 PASSIONATA  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351603333)  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330390198)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/210710152300241939)  
 PASSIONATA(貝莎娜塔)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282632212)  
 PAUL & JOE  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/181008162848765629)  
-PAUL&JOE  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/220831152719283701)  
 PEARLY GATES  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/210924042025451791)  
-PELLE C.C.  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/220524183910171366)  
 PEPPER'S  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/200901150853578793)  
 PESCE  
@@ -7752,7 +7316,6 @@ PGA TOUR
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230818123818726971)  
 PHILIPS  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351667505)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330450357)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294737321)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244518443)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/18030816215775237)  
@@ -7762,10 +7325,7 @@ PHILIPS(美容小家電)
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/230331184904413614)  
 PHILIPS家電  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/230727155227363914)  
-PHILIPS智能鎖  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/200817152906951558)  
 PICO  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330459376)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282696387)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244519444)  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215784260)  
@@ -7780,7 +7340,6 @@ PING
 PINTOO  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/231020212533641319)  
 PIPPY  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351604335)  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/18030816294760372)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282673320)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244495385)  
@@ -7808,16 +7367,13 @@ POLAR BEAR
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/240318201553283261)  
 POLO RALPH LAUREN  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351578274)  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351605336)  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/18030816351627394)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464271)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/250106150557865645)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624438194)  
 POLO Ralph Lauren  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258795)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/200903155213634795)  
 POONE  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/230419174114387823)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244433227)  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/221119104253228838)  
 PORTER INTERNATIONAL  
@@ -7827,16 +7383,11 @@ PORTER INTERNATIONAL
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244459293)  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/18030816215755182)  
 POU DOU DOU  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/200221173344329404)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/200110145439417404)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/190529123247195041)  
 PRADA  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/250830160506251319)  
-PS company  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635147125)  
 PUMA  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351711613)  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330419279)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282673321)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/200511205515440104)  
 PUMA KIDS  
@@ -7852,7 +7403,6 @@ Palladium
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/230303162454178122)  
 Panasonic  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351666504)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330449356)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294736319)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282695385)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244518442)  
@@ -7864,23 +7414,12 @@ Pansy
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/180424160404634205)  
 Paul Smith  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/190819151035169100)  
-Pd by petit doux  
-[SOGO 台北忠孝館 11F](https://info.sogo.com.tw/tp1/brand/210920162945594009)  
 Penhaligon's  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/190707204059130689)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/251021205251611408)  
-Pierre Hermé  
-[SOGO 台北復興館 1F](https://info.sogo.com.tw/tp2/brand/250713120652470482)  
 Pierre Marcolini  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/250624143751847765)  
 Poyouli  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/240208150356454483)  
-Premier  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/200303143902878032)  
-Pâtisserie Francis 旋轉木馬點心坊  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/250209135445510334)  
-QARRA  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/260126173414583421)  
 QUIKSILVER&ROXY  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244461298)  
 RED HOUSE  
@@ -7907,10 +7446,7 @@ RMK
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351537167)  
 ROANJANE  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/250820155350493594)  
-ROBINMAY  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/250409172232288329)  
 ROOKIE  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/220824145307981592)  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/220518175858498593)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/220517162201747748)  
 [SOGO 高雄店 7F](https://info.sogo.com.tw/ks/brand/220609162141142650)  
@@ -7923,19 +7459,11 @@ ROOTSKIDS
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/240906214517896173)  
 ROUGE  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/260213165122295442)  
-ROXY  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/231129194200554527)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294657111)  
 ROYAL COPENHAGEN  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351668508)  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330460380)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294739327)  
 ROYAL DOULTON  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294739328)  
-ROYCE'  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/180308163302988)  
-RabeancoRabeanco  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/24103009381910)  
 Raphael 拉斐爾  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/210324183229585645)  
 Rebecca  
@@ -7946,8 +7474,6 @@ Regatta
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/231129170350571707)  
 Renata  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294737323)  
-Repetto  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/1803081635148039)  
 Richell  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/191108203558606849)  
 Roberta di Camerino襯衫  
@@ -7957,7 +7483,6 @@ Roberta di Camerino西服
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294708243)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282661288)  
 Roots  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294656110)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244461297)  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/18030816215755183)  
 Roots Kids  
@@ -7966,11 +7491,7 @@ Rose Maid(羅絲美)
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282634215)  
 RéVive (麗膚再生)  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351536166)  
-S'AIME  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/230321173930953371)  
 SABON  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351556211)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/220520171800143666)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282608143)  
 SALOMON  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/250831175352719775)  
@@ -7978,24 +7499,18 @@ SAMPO
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/241021173010814312)  
 SAMSUNG  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351669510)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330450359)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/230925123600901392)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/200401172409911046)  
 SAMSUNG電視  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/191120150509606506)  
-SANRIO三麗鷗  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351711615)  
 SANUK  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/260301171306955843)  
 SAVVY  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351608343)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294672154)  
 SAVVY(莎薇)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282635217)  
 SAWAA  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/250524141423778318)  
-SCANPAN  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330451360)  
 SCION  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/240513211041111339)  
 SCOTTISH HOUSE  
@@ -8012,7 +7527,6 @@ SEIKO
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/18030816282622184)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244499393)  
 SHARP  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/200817154955504704)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244520448)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/200401172619251744)  
 SHARP TV  
@@ -8020,7 +7534,6 @@ SHARP TV
 SHIATZY CHEN(夏姿)  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351579275)  
 SHISEIDO 國際櫃  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464272)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570659)  
 SHISEIDO(國際櫃)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258998)  
@@ -8030,36 +7543,28 @@ SHISEIDO(東京櫃)
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624438295)  
 SHISEIDO(資生堂國際櫃)  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351538169)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330357116)  
 SHISEIDO(資生堂東京櫃)  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351537168)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330356115)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/250913120534348108)  
 SIMMONS(席夢思)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244521449)  
 SIMONE PERELE  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351609344)  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330389196)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/210710152327631678)  
 SIMPLY YOURS  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/240226144519868557)  
 SISLEY  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351539171)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464374)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/18030816282591104)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570864)  
 SISSO  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/220824183301178864)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/240830124731461322)  
 SK-II  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351540172)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330359119)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464475)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/18030816282592105)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/18030816244385102)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621570761)  
 SKECHERS  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351712616)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294710247)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282674323)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244462300)  
@@ -8072,16 +7577,9 @@ SKECHERS USA
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/260428144024190839)  
 SLOGGI  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/200914084450189974)  
-SM2  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294658114)  
 SMEG  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/191011161359289977)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/230914130203304369)  
-SNIDEL  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812194225645384)  
-SNOW FACTORY 雪坊優格  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149989)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462010)  
 SNOW FACTORY雪坊優格  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/210428115721624606)  
 SOBDEALL  
@@ -8099,22 +7597,20 @@ SONY
 SPANCONNY飾品控  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/231004151140324831)  
 SPORT B.  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330422287)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/240226144242745524)  
 SPRING  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351670513)  
 SPRING (均岱)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/210227231759655807)  
+SST&C  
+[SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/260504175050473929)  
 STARBUCKS COFFEE 星巴克咖啡  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635150090)  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633031942)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/180831173909289372)  
 STAUB  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244521450)  
 STELLA McCARTNEY  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/250309180642825531)  
 STEVE MADDEN  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/210924190224232491)  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/18030816330359120)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/200818120200173851)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/180818193742112438)  
@@ -8135,11 +7631,9 @@ SUPERGOLF
 [SOGO 高雄店 5F](https://info.sogo.com.tw/ks/brand/240719213213164183)  
 SUQQU  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351542175)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464577)  
 SWAROVSKI  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351671515)  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/250921124443847229)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464578)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628256849)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/18030816244386104)  
 SWATCH  
@@ -8152,12 +7646,9 @@ SWEAR(璀璨思薇爾)
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/250301150331816797)  
 Sabon  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/18030816330355114)  
-Saint Laurent  
-[SOGO 台北復興館 2F](https://info.sogo.com.tw/tp2/brand/230115184300772660)  
 Salomon  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/250831212436155230)  
 Salute  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351607342)  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330389195)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294672153)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244434228)  
@@ -8174,25 +7665,14 @@ Samsonite
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/240821193604686308)  
 Samsung  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/190829122739210340)  
-Sanmin  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351711614)  
-Sarabeth's  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294657112)  
-Scentasia先亞香藝之都  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/260210205429896132)  
-Scottish House  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/210818141430934776)  
 Sealy  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351692568)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294741331)  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215785261)  
 Simmons  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330461381)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294741332)  
 Simply Yours  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/230514124921922513)  
-Sony Store 台北復興直營店  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330452362)  
 Stadler Form  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294742334)  
 Staub  
@@ -8202,7 +7682,6 @@ Stressless
 Sui  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244435231)  
 TAS  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351543176)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/240222142435363173)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/18030816244389105)  
 TASAKI  
@@ -8223,13 +7702,9 @@ TENMA
 TESCOM  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/191120152146146001)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822120229107178)  
-TEVA  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/180421145925930890)  
 THANN  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/240202162630796706)  
 THE BODY SHOP  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/200913165607678768)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294659116)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282609147)  
 THE BRIDGE  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351645441)  
@@ -8241,8 +7716,6 @@ THE NORTH FACE
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294689192)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282674324)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/181115165053869023)  
-THE NORTH FACE Urban Exploration  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330423289)  
 THE PREMIUM YAMAZAKI  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/180308163514523)  
 [SOGO 高雄店 B2](https://info.sogo.com.tw/ks/brand/180308162156801)  
@@ -8279,8 +7752,6 @@ TOM FORD BEAUTY
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351545182)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/230825222329577584)  
 TOMMY HILFIGER  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351567241)  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351610346)  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/18030816351630399)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282666298)  
 TOMMY JEANS  
@@ -8293,14 +7764,10 @@ TOP-DO
 TORY BURCH  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330367140)  
 TOSHIBA  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330453364)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822120350531785)  
-TOY PARK其曜玩具  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351713619)  
 TOYSELECT  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/240522202148532032)  
 TRAVELER  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330424291)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294690193)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282675325)  
 TRAVELER STATION  
@@ -8310,38 +7777,27 @@ TRAVELER旅行者
 [SOGO 高雄店 7F](https://info.sogo.com.tw/ks/brand/250824153635872223)  
 TRUSSARDI-HOME  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351693572)  
-TUANTUAN團團  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/220831153013174153)  
 TUMI  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351643438)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/18030816244390107)  
 TWG Tea  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/180308163514534)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/210211163213803380)  
 Takeo kikuchi  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330439327)  
 TaylorMade GOLF  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/250525211738362239)  
-Théorie Theory  
-[SOGO 台北復興館 10F](https://info.sogo.com.tw/tp2/brand/251002132341720406)  
 Tiamo  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282699394)  
-Tiffany&Co.  
-[SOGO 台北復興館 2F](https://info.sogo.com.tw/tp2/brand/18030816330369144)  
 Tiger Family  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/230226153457388222)  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/240511202228123644)  
 Timberland  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/18030816351629398)  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330424290)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294710249)  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282665296)  
 Titleist  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/240815133324491520)  
 Toli World(威星)  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/240627185805178369)  
-Toli world  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351598323)  
 Tommy Hilfiger  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/250524141316496876)  
 Tonia Nicole  
@@ -8356,42 +7812,24 @@ Traveler Station
 TravelerStation  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/240606175015945996)  
 Triumph  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351610347)  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330393204)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294674157)  
 Triumph(黛安芬)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282636221)  
 U're  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210901121442239275)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/200221173410132886)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/190927152309484022)  
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/18030816215721101)  
-UCC CAFÉ MERCADO  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/190522201626164994)  
 UCC Café Mercado  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/180308163514545)  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628254911)  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/190131120645219348)  
 UCHINO  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330461382)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244523454)  
-UGG australia  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351559219)  
 UNIQLO  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294690194)  
-UNIQUE史萊姆實驗室  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/210325164523336449)  
-UNTITLED  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351568243)  
 Under Armour  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294712252)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244465306)  
-V V HOUSE  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231006141051378760)  
-VA Vendome Aoyama  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812194001870136)  
-VALMONT  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464679)  
 VANS  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/220902175229640234)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244469313)  
@@ -8400,33 +7838,23 @@ VASTAR
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294746343)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/18030816215776241)  
 VERVE  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/241011143826230211)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/230303163216550531)  
 VIBE  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/260215140524929476)  
 VICTORINOX  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351646443)  
-VITA MIX  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/200728192632482608)  
 VIVA HEART  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/260306121056106464)  
 VIVAIA  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/250804163831613784)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/250513122023585742)  
 VIVENTY  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/18030816330361123)  
 VIVIANN  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294660119)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244438238)  
 VORNADO  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351674521)  
 VORNADO 雯麗  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282701400)  
-Van Cleef & Arpels  
-[SOGO 台北復興館 2F](https://info.sogo.com.tw/tp2/brand/18030816330366135)  
-Venchi  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/211001104556281201)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/231002133827956186)  
 Vendome Aoyama  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/18030816244390108)  
 Victorinox  
@@ -8436,29 +7864,21 @@ Viga Wang
 Vitamix  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282701399)  
 WATPURE  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/200815172223482388)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/250317114139416456)  
 WEDGWOOD  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/191011155244677010)  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330462384)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282702401)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/230328162300691114)  
-WEDGWOOD bedding  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330463385)  
 WEEKEND MaxMara  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351579276)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/241028143035816385)  
 WHITEROCK  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/240905182539920535)  
 WILSON  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/250831181522982018)  
 WMF  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351675523)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330454366)  
 WOLL  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294748346)  
-Wacoal  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351611348)  
 Wacoal(華歌爾)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282637222)  
 Wacoal(華歌爾睡衣)  
@@ -8478,8 +7898,6 @@ Y-3
 YAMAHA  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18032215072787)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822120753444060)  
-YECCA VECCA  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812111747923117)  
 YEN-Lin HSU(許艷玲)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282638224)  
 YIN HWA(盈樺)  
@@ -8493,7 +7911,6 @@ YONG FULL SELECT
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/250123170839389938)  
 YSL  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351545183)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/231103230006789826)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/220901135544731983)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/18030816244391110)  
 YVONNE COLLECTION  
@@ -8509,40 +7926,30 @@ ZOJIRUSHI
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/18030816215778245)  
 ZOJIRUSHI(象印)  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351675524)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330455367)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294749350)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282703404)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244526460)  
-ZWILLING  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330455368)  
 a la sha  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/1803081628257873)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244419181)  
 aPure  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/210220163515771438)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/250221181522330447)  
 adabat  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/210924041949462022)  
 adidas  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351705596)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294693199)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282667300)  
 [SOGO 新竹店 4F](https://info.sogo.com.tw/hcbc/brand/18030816244448258)  
 adidas Originals  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/240912141737847957)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294693200)  
 adidas kids  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351588293)  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/190815152123347009)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/181002141943644216)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244478332)  
 [SOGO 高雄店 7F](https://info.sogo.com.tw/ks/brand/220407151856338069)  
 agapebaby  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/220824144356184618)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/250320202514966431)  
-[SOGO 高雄店 7F](https://info.sogo.com.tw/ks/brand/220819154138852256)  
 agete  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/201025201623334389)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/240324174411130332)  
 agnès b.  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330379166)  
@@ -8554,20 +7961,12 @@ airweave
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/200220154518978406)  
 any sis  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/191028140712689425)  
-anySiS  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/250414123918335323)  
 arena  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351706600)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/220423183104935243)  
 asics  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294693202)  
 beard papa  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180308162946182)  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/180308162825461)  
-beard papa’s  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/180308163302952)  
-benefit  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034585)  
 betty's  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282590100)  
 beurer  
@@ -8579,43 +7978,24 @@ bgreen 就是綠
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/200523182736988115)  
 chantelle  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244422193)  
-chicco  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351590300)  
-city'super美食生活精緻名店  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/180308163302964)  
-city'super  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180308162946183)  
 cle de peau BEAUTE 肌膚之鑰  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351516122)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629462932)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628257054)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624436852)  
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/1803081621569937)  
-clé de peau BEAUTÉ 肌膚之鑰  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/1803081633034896)  
-coen  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/230829184136780474)  
 columbia  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282668307)  
-cop.copine  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/1803081635148140)  
 crocs  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/181006143341444513)  
-diptyque  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/180325114537259393)  
 dyson  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351655472)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330444343)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282683351)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/18030816215771226)  
 earth music & ecology  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282598122)  
 [SOGO 高雄店 2F](https://info.sogo.com.tw/ks/brand/220912172012478076)  
 earth music&ecology  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/1803081629465093)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244424202)  
-easy spirit  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/190212185939735251)  
 ecco  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351625387)  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/18030816330421284)  
@@ -8626,26 +8006,15 @@ en-suey
 ete  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/211213114459581484)  
 fitflop  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231004132850795182)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/18030816282593107)  
-flavor field  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633031435)  
 gaimo  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/190710150137229538)  
-gd shop  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/210306170453924697)  
-gelato pique  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812112108618371)  
 giordano ladies  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294666135)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/18030816282616167)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/230802173314543705)  
 glimmer boutique  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/250308150126376562)  
-gonnaEXPRESS  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/200930204418855703)  
-half half  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/220529112309459276)  
 hanro  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330384183)  
 harman/kardon  
@@ -8654,13 +8023,9 @@ hengstyle 恆隆行
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294722286)  
 hengstyle恆隆行  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351656477)  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/200817153853500186)  
-home+y  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/211202171917931796)  
 iCB  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/190802200334704215)  
 iRobot  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330445344)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294724291)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282688364)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244514431)  
@@ -8675,24 +8040,17 @@ just gold
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282629201)  
 just gold‧just diamond  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351574263)  
-kanebo  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/220807191802504058)  
 kate spade  
 [SOGO 台北復興館 4F](https://info.sogo.com.tw/tp2/brand/18030816330373154)  
-kipling  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/1803081629465299)  
 kybun  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/190816162133488142)  
 la prairie  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351528148)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330351104)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629463963)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/220901135649358861)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/180616190409943662)  
 laura mercier  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351529152)  
 le coq sportif  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/18030816330416270)  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294700224)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/220518162503676543)  
 [SOGO 高雄店 5F](https://info.sogo.com.tw/ks/brand/220225124805873899)  
@@ -8701,14 +8059,10 @@ le coq sportif GOLF
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244479336)  
 le coq sportif Golf  
 [SOGO 中壢店 5F](https://info.sogo.com.tw/zl/brand/18030816282656274)  
-les enphants 麗嬰房  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351596317)  
 maje  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/220825205521789016)  
 marimekko  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/240401161830589353)  
-maru.a  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149476)  
 master-piece  
 [SOGO 台北忠孝館 6F](https://info.sogo.com.tw/tp1/brand/18030816351621378)  
 mayu+  
@@ -8720,19 +8074,12 @@ me ISSEY MIYAKE
 me.luxe  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624437886)  
 mont-bell  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/190824130706292311)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294687187)  
-native  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351623382)  
 new balance  
 [SOGO 天母店 5F](https://info.sogo.com.tw/tm/brand/18030816294704233)  
 non stop  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282605137)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244417176)  
-non-stop  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/1803081635149679)  
-norns  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/230904174502801238)  
 olivo  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/210414131957502328)  
 omo cafe  
@@ -8750,20 +8097,13 @@ raycop
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282697389)  
 samsung三星  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/240607115731383374)  
-satana  
-[SOGO 台北復興館 6F](https://info.sogo.com.tw/tp2/brand/231129194258123795)  
 self-portrait  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/210228161435349399)  
 shu uemura(植村秀)  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351539170)  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330357117)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464373)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/1803081628258999)  
 [SOGO 新竹店 1F](https://info.sogo.com.tw/hcbc/brand/1803081624438296)  
-sisley  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/18030816330358118)  
 sloggi  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351609345)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294673155)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282636219)  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/240419162448187955)  
@@ -8772,20 +8112,14 @@ sm2
 socie hair施舒雅美髮沙龍  
 [SOGO 台北忠孝館 12F](https://info.sogo.com.tw/tp1/brand/18030816351719631)  
 socie施舒雅美容世界  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/230608130043363255)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294689191)  
 [SOGO 中壢店 10F](https://info.sogo.com.tw/zl/brand/18030816282718432)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/180415165321317786)  
 [SOGO 高雄店 8F](https://info.sogo.com.tw/ks/brand/241021151122194492)  
-soda n' cream  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/230904174718647910)  
 sodastream  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294742333)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282697390)  
-steppi  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/250414153152147292)  
 sui  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294659115)  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/260128143622689974)  
 testoni  
 [SOGO 台北復興館 7F](https://info.sogo.com.tw/tp2/brand/260116180916771863)  
@@ -8799,23 +8133,11 @@ tokuyo
 tokuyo 按摩椅  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/200107174140269982)  
 tokuyo按摩椅  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330452363)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/241228143037665804)  
 tsumori chisato sleep  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/191110221045389554)  
-tuc tuc  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/260331203327517324)  
-tutto piccolo  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/240215141339644422)  
-under armour  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351714620)  
 uniarts  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/190508171013503399)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/250221180316387919)  
-vacanza accessory 假期飾品  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/191016132447195206)  
-valmont  
-[SOGO 台北復興館 B1](https://info.sogo.com.tw/tp2/brand/210819161853230815)  
 viga wang  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/220204141635953055)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/230919141509362939)  
@@ -8833,8 +8155,6 @@ whiple
 えん日本料理  
 [SOGO 台北復興館 11F](https://info.sogo.com.tw/tp2/brand/18030816330470397)  
 ココディール  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/210812112506759051)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/1803081629465092)  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/18030816282598121)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244440241)  
 ㄚ寶檸檬  
@@ -8845,15 +8165,12 @@ whiple
 一風堂  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/240516164119661698)  
 三合院粵式料理‧港式飲茶  
-[SOGO 台北忠孝館 11F](https://info.sogo.com.tw/tp1/brand/18030816351721635)  
 [SOGO 中壢店 8F](https://info.sogo.com.tw/zl/brand/18030816282713423)  
 [SOGO 新竹店 B1](https://info.sogo.com.tw/hcbc/brand/200707154037283193)  
 三槍牌  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/18030816351644439)  
 三統漢菓子  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/220806183047785376)  
-三花棉業  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/260329170338456117)  
 三菱Cleansui  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351676525)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294750351)  
@@ -8863,24 +8180,14 @@ whiple
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282704405)  
 中島水產  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635146414)  
-中與志  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/260430111254187859)  
 丸亀製麵  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628255013)  
 丹尼索KIDS HAIR  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/230830154216818500)  
-九如  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/18030816351505100)  
-乳油木之家  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/18030816294661120)  
 乾唐軒  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351680534)  
 五個銅貨  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244400138)  
-京品  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462213)  
-京品素食  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633030520)  
 京都 二条茶寮  
 [SOGO 中壢店 8F](https://info.sogo.com.tw/zl/brand/250409141721946271)  
 京都御握丸 ONIMARU  
@@ -8891,8 +8198,6 @@ whiple
 [SOGO 高雄店 1F](https://info.sogo.com.tw/ks/brand/260408150121405209)  
 伊勢路‧勝勢日式豬排  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/180605220534212935)  
-伊勢路勝勢日式豬排  
-[SOGO 台北復興館 10F](https://info.sogo.com.tw/tp2/brand/18030816330466392)  
 伊聖詩  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244410163)  
 伊聖詩芳療生活館cosmescents  
@@ -8906,8 +8211,6 @@ whiple
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351677527)  
 億長御坊  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/220806183543417898)  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633031027)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462623)  
 優瑞 JURA  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244535476)  
 元增水產行  
@@ -8933,21 +8236,15 @@ whiple
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/210604141728709956)  
 千福藥局  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/180308163514609)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462112)  
 南法香頌  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/190407115510532856)  
 友士  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/181012194134452945)  
 台畜  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635146921)  
-吉可頌MyCroissant by Guillaume  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/200822200750861745)  
-吉天婦羅  
-[SOGO 台北忠孝館 11F](https://info.sogo.com.tw/tp1/brand/18030816351722637)  
 名人泳裝FASTER  
 [SOGO 中壢店 9F](https://info.sogo.com.tw/zl/brand/181211214823164403)  
 后  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/1803081629464884)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/18030816282594109)  
 周大福  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351582281)  
@@ -8959,12 +8256,8 @@ whiple
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/18030816282595110)  
 品田牧場｜豬排！たベます！  
 [SOGO 高雄店 B1](https://info.sogo.com.tw/ks/brand/220814171606924545)  
-哈玩具  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351717627)  
 哥本哈根  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244532471)  
-喫茶趣  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/191011121819665447)  
 均岱  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244527464)  
 均岱鍋具  
@@ -8974,17 +8267,12 @@ whiple
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/230328151635604995)  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822112658828003)  
 墾趣  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351718630)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294692198)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282678334)  
 大將作  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244503403)  
-大師兄銷魂麵舖  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/200925201855855277)  
 大戶屋  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/210521121432739481)  
-大田放牧雞  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/230107202547734675)  
 天仁茗茶  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635146516)  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628255318)  
@@ -8996,35 +8284,24 @@ whiple
 太可熊  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/250115160122421881)  
 奇哥  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351612350)  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/18030816294751354)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282677330)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244504405)  
-奇妮  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351598322)  
-奇華  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462214)  
 奇華餅家  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635147328)  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628255623)  
 奧可那  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/260329165740425039)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/260215135428301320)  
 好漢  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282676328)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/210318121827727231)  
-好漢 Good Guy  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351597321)  
 好豆味豆花  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/210828191842361415)  
 妻家房  
 [SOGO 天母店 8F](https://info.sogo.com.tw/tm/brand/18030816294769388)  
 娃娃城  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/18030816294752355)  
-季樂和牛鐵板燒  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/241025113627337190)  
 安妮公主  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/260331204345913930)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/180527171104584588)  
 安心巧廚熟食櫃  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635147227)  
@@ -9038,7 +8315,6 @@ whiple
 寶寶童話兒童攝影館  
 [SOGO 高雄店 15F](https://info.sogo.com.tw/ks/brand/18030816215793280)  
 寶貝媽咪  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351614354)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/240225140941897478)  
 寶雅  
 [SOGO 中壢店 10F](https://info.sogo.com.tw/zl/brand/201118112114307156)  
@@ -9061,7 +8337,6 @@ whiple
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294691195)  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/181006143258599131)  
 巢家居  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/240514114346884912)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244533472)  
 帕喜滿PASIMA  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/251029163421119634)  
@@ -9069,8 +8344,6 @@ whiple
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282705409)  
 席夢思  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/210530225214788219)  
-幼教家  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351715624)  
 康乃久漬物  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635147733)  
 康寧餐具  
@@ -9079,7 +8352,6 @@ whiple
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635147734)  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628255828)  
 廣安階  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/200925201018991177)  
 [SOGO 天母店 8F](https://info.sogo.com.tw/tm/brand/18030816294773395)  
 廣生堂  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635148242)  
@@ -9088,7 +8360,6 @@ whiple
 強老闆3C選貨店  
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/250821201254918572)  
 彩虹森林  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351720633)  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/18030816294752356)  
 彼得兔  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294754359)  
@@ -9102,35 +8373,23 @@ whiple
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244536478)  
 德風健康館  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635148343)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/180411171606975357)  
 思薇爾  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244441244)  
 思薇爾(SWEAR)  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215738139)  
-思薇爾SWEAR  
-[SOGO 台北忠孝館 5F](https://info.sogo.com.tw/tp1/brand/18030816351577271)  
-成真咖啡Come True Coffee  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/190109190340307774)  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/200826183604111847)  
 掌廚  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351682538)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294757365)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282708413)  
-摩洛索夫  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462724)  
 文華珠寶  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282639227)  
 斐利領帶  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/230705163101979958)  
-新巴黎香草麻辣滷味  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633030926)  
 新東陽  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633033263)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462418)  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628256031)  
 [SOGO 高雄店 B2](https://info.sogo.com.tw/ks/brand/1803081621568915)  
 新葡苑  
-[SOGO 台北復興館 10F](https://info.sogo.com.tw/tp2/brand/18030816330468395)  
 [SOGO 天母店 8F](https://info.sogo.com.tw/tm/brand/18030816294771392)  
 施巴  
 [SOGO 中壢店 6F](https://info.sogo.com.tw/zl/brand/18030816282677332)  
@@ -9142,20 +8401,14 @@ whiple
 [SOGO 高雄店 B2](https://info.sogo.com.tw/ks/brand/180308162156845)  
 易眠床  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215789271)  
-星巴克咖啡  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462111)  
 映象音響  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351678529)  
-晶湯匙  
-[SOGO 台北復興館 10F](https://info.sogo.com.tw/tp2/brand/18030816330467394)  
 智誠D'URBAN  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/250401160759800757)  
 曜瑪AMA  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351705595)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282712421)  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244536479)  
-曼曼啃食品  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/260221211909851638)  
 曼黛瑪璉  
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/18030816330395208)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294679166)  
@@ -9165,8 +8418,6 @@ whiple
 [SOGO 高雄店 8F](https://info.sogo.com.tw/ks/brand/250828184431261934)  
 朱記餡餅粥店  
 [SOGO 天母店 8F](https://info.sogo.com.tw/tm/brand/18030816294768385)  
-村山 TSUN SHAN  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231002171410139313)  
 東京巴黎甜點  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/240725141750823513)  
 東京純豆腐  
@@ -9175,18 +8426,12 @@ whiple
 東京西川  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351698582)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294754360)  
-東京食器  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/230303154850788247)  
 東城國際  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/240409194307790760)  
 東妮寢飾  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244511420)  
 東客麵包DONQ  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/190530120216999623)  
-東洋  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/18030816351507105)  
-東門御園坊  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633030621)  
 東青ㄚ母滴雞湯  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635147429)  
 林佳樺  
@@ -9197,8 +8442,6 @@ whiple
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/250818135913735952)  
 森SHEN植萃保養  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/240110210759237682)  
-樂沐糕餅舖 Le Moût Pâtisserie Boulangerie  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/240804153923551629)  
 樂活銀髮Best Care  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351703592)  
 樺達奶茶  
@@ -9210,17 +8453,10 @@ whiple
 歐萊德 O'right  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351704593)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/210608134918175733)  
-歐萊德O'right  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231002171305763500)  
 歐都納  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/210902184529536221)  
 [SOGO 天母店 4F](https://info.sogo.com.tw/tm/brand/18030816294692197)  
 正官庄  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635146922)  
-正記  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/240219142610686472)  
-正記南京板鴨  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/230816191625324913)  
 比得兔  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/210530225107706879)  
 法蝶  
@@ -9249,12 +8485,6 @@ whiple
 [SOGO 台北復興館 5F](https://info.sogo.com.tw/tp2/brand/210305151147254134)  
 漢來海港餐廳  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/18030816294726296)  
-漢來蔬食  
-[SOGO 台北忠孝館 11F](https://info.sogo.com.tw/tp1/brand/18030816351725640)  
-無二  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/191011120908860688)  
-無二 永齡農場  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633030113)  
 燒丼株式會社  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628256338)  
 燒肉LIKE  
@@ -9263,15 +8493,10 @@ whiple
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/260119154706756991)  
 王師父餅舖  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635146719)  
-王德傳  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633030011)  
 理研 RIKEN  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294757364)  
-琉元堂  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/230516115250648199)  
 琉璃工房  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351700585)  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/18030816330464388)  
 [SOGO 高雄店 4F](https://info.sogo.com.tw/ks/brand/18030816215780248)  
 瑪登瑪朵  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244445252)  
@@ -9287,7 +8512,6 @@ whiple
 登旺居家生活館  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244534474)  
 皇品珍  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/200925200550116517)  
 [SOGO 天母店 8F](https://info.sogo.com.tw/tm/brand/18030816294770390)  
 皇家哥本哈根咖啡輕食複合店  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351583284)  
@@ -9295,15 +8519,9 @@ whiple
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244530468)  
 皇寶交趾陶  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/220531145833792614)  
-盛合屋  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/201003115609276463)  
 眼鏡市場  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/200406193142789538)  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/200713145950346872)  
-知品兒童縫紉手作  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/210325164615938086)  
-神樂家  
-[SOGO 台北忠孝館 11F](https://info.sogo.com.tw/tp1/brand/18030816351723638)  
 科羅沙  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351687553)  
 [SOGO 天母店 6F](https://info.sogo.com.tw/tm/brand/18030816294755361)  
@@ -9315,19 +8533,11 @@ whiple
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/240102152348139341)  
 米特製造所  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/241105173456608099)  
-米達人  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633030824)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/220226211102157303)  
 精光堂時計  
 [SOGO 中壢店 3F](https://info.sogo.com.tw/zl/brand/18030816282625192)  
-糖村  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633033768)  
-紅帽象親子樂園  
-[SOGO 中壢店 11F](https://info.sogo.com.tw/zl/brand/18030816282719435)  
 紅豆食府  
 [SOGO 天母店 8F](https://info.sogo.com.tw/tm/brand/18030816294771391)  
 組曲  
-[SOGO 台北忠孝館 3F](https://info.sogo.com.tw/tp1/brand/18030816351569245)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244413168)  
 綠藤生機  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/220822164453467941)  
@@ -9351,8 +8561,6 @@ whiple
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244531470)  
 美壽多修鞋  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/180704174557720159)  
-美珍香  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633030723)  
 義廚寶  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/230505163613594544)  
 老乾杯  
@@ -9364,15 +8572,11 @@ whiple
 聚 日式鍋物  
 [SOGO 台北忠孝館 12F](https://info.sogo.com.tw/tp1/brand/260123185633381946)  
 [SOGO 中壢店 8F](https://info.sogo.com.tw/zl/brand/200731124613273456)  
-肉的長谷川  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/240321162605559402)  
 自由區  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351581279)  
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/18030816294676161)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282640229)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244384100)  
-興葉  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/18030816351510109)  
 舊振南餅店  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635148344)  
 舞紅花鐵板燒  
@@ -9381,8 +8585,6 @@ whiple
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/220806183508589436)  
 花月嵐  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628255624)  
-花樂雅堂  
-[SOGO 台北復興館 9F](https://info.sogo.com.tw/tp2/brand/230303155312383676)  
 芳美精品  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/200509190957934241)  
 芸真苑  
@@ -9390,17 +8592,12 @@ whiple
 茶工坊  
 [SOGO 台北忠孝館 8F](https://info.sogo.com.tw/tp1/brand/18030816351680533)  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/18030816282706411)  
-茶茶小王子  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/240620173344551107)  
 草地町  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628255726)  
 草本24  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351700586)  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231002164230296555)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/210608134854288480)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244412167)  
-荷李活茶街  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/201017202052813817)  
 莎薇  
 [SOGO 新竹店 3F](https://info.sogo.com.tw/hcbc/brand/18030816244444249)  
 莎薇(SAVVY)  
@@ -9423,15 +8620,11 @@ whiple
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/210104154157839745)  
 葉味香台灣小吃  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633033465)  
-葡吉  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462519)  
 蕾莉歐  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/210608134755489282)  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244415173)  
 蕾莉歐 L'ERBOLARIO  
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351704594)  
-蕾莉歐L'ERBOLARIO  
-[SOGO 天母店 2F](https://info.sogo.com.tw/tm/brand/231002171605318156)  
 藍天畫布  
 [SOGO 天母店 7F](https://info.sogo.com.tw/tm/brand/240112164200620884)  
 藍天畫布有機棉  
@@ -9439,8 +8632,8 @@ whiple
 蘇菲亞SOPHIA  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351586289)  
 [SOGO 中壢店 4F](https://info.sogo.com.tw/zl/brand/18030816282646239)  
-虎牌  
-[SOGO 台北復興館 8F](https://info.sogo.com.tw/tp2/brand/18030816330457371)  
+襯衫工房  
+[SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/260504175308498442)  
 許艷玲  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351585286)  
 [SOGO 高雄店 3F](https://info.sogo.com.tw/ks/brand/18030816215739142)  
@@ -9454,29 +8647,18 @@ whiple
 [SOGO 天母店 8F](https://info.sogo.com.tw/tm/brand/240212192352315836)  
 資生堂  
 [SOGO 台北忠孝館 7F](https://info.sogo.com.tw/tp1/brand/250524141503874407)  
-資生堂東京櫃  
-[SOGO 天母店 1F](https://info.sogo.com.tw/tm/brand/210726135416134919)  
 賽門鄧普拉  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633033869)  
-越好吃  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/260312164119156932)  
 農純鄉  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/240219142817695701)  
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/250115154600119085)  
 這一小鍋  
 [SOGO 高雄店 B2](https://info.sogo.com.tw/ks/brand/240821140805837108)  
-這味泰泰  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/200925200936936521)  
 郭榮市手工火腿  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/220806183804676283)  
-酷樂寶  
-[SOGO 台北忠孝館 10F](https://info.sogo.com.tw/tp1/brand/18030816351718629)  
 金安德森  
 [SOGO 新竹店 6F](https://info.sogo.com.tw/hcbc/brand/18030816244530467)  
 金格名床KING KOIL  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/231206151319605943)  
-金澤美味壽司  
-[SOGO 台北忠孝館 11F](https://info.sogo.com.tw/tp1/brand/200602133603346844)  
 金色三麥  
 [SOGO 中壢店 8F](https://info.sogo.com.tw/zl/brand/18030816282715427)  
 金華歌爾 Salute  
@@ -9492,8 +8674,6 @@ whiple
 [SOGO 台北忠孝館 9F](https://info.sogo.com.tw/tp1/brand/18030816351702590)  
 鋒恩香水  
 [SOGO 中壢店 2F](https://info.sogo.com.tw/zl/brand/240901121132791735)  
-錩洲皮鞋  
-[SOGO 台北忠孝館 2F](https://info.sogo.com.tw/tp1/brand/18030816351544179)  
 鑽石屋  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/18030816244418178)  
 鑽石屋珠寶  
@@ -9504,8 +8684,6 @@ whiple
 [SOGO 中壢店 8F](https://info.sogo.com.tw/zl/brand/18030816282716428)  
 闔樂泰  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/210530225656762951)  
-阪前鐵板燒  
-[SOGO 台北忠孝館 11F](https://info.sogo.com.tw/tp1/brand/260113115624618742)  
 阿原  
 [SOGO 新竹店 2F](https://info.sogo.com.tw/hcbc/brand/190305180731431961)  
 阿原YUAN  
@@ -9518,8 +8696,6 @@ whiple
 [SOGO 高雄店 6F](https://info.sogo.com.tw/ks/brand/220822120131377606)  
 雞三和  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/250923161550219857)  
-雪嶽山  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/230821160650708665)  
 雪花秀  
 [SOGO 台北忠孝館 1F](https://info.sogo.com.tw/tp1/brand/18030816351546184)  
 [SOGO 中壢店 1F](https://info.sogo.com.tw/zl/brand/18030816282595111)  
@@ -9528,20 +8704,14 @@ whiple
 [SOGO 天母店 8F](https://info.sogo.com.tw/tm/brand/18030816294773396)  
 非常泰  
 [SOGO 天母店 8F](https://info.sogo.com.tw/tm/brand/18030816294770389)  
-韓京  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/18030816351510110)  
 韓姜熙的小廚房  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/191029182524728124)  
-韓舍  
-[SOGO 台北忠孝館 B1](https://info.sogo.com.tw/tp1/brand/18030816351511111)  
 韓鶴亭  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633033870)  
 飛利浦智能鎖PHILIPSEASYKEY  
 [SOGO 中壢店 7F](https://info.sogo.com.tw/zl/brand/201001122226603663)  
 飯西施滷腳庫  
 [SOGO 天母店 8F](https://info.sogo.com.tw/tm/brand/250416152837649229)  
-餞面禮  
-[SOGO 台北復興館 B3](https://info.sogo.com.tw/tp2/brand/1803081633029910)  
 饗食天堂  
 [SOGO 中壢店 9F](https://info.sogo.com.tw/zl/brand/18030816282717430)  
 香草集  
@@ -9576,7 +8746,6 @@ whiple
 [SOGO 新竹店 5F](https://info.sogo.com.tw/hcbc/brand/18030816244508412)  
 麗緻坊  
 [SOGO 台北忠孝館 B2](https://info.sogo.com.tw/tp1/brand/1803081635148546)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/191011122050559292)  
 麥當勞  
 [SOGO 中壢店 B1](https://info.sogo.com.tw/zl/brand/1803081628256030)  
 黃淑琦  
@@ -9600,7 +8769,6 @@ whiple
 [SOGO 天母店 3F](https://info.sogo.com.tw/tm/brand/210901163535927361)  
 鼎泰豐  
 [SOGO 台北復興館 B2](https://info.sogo.com.tw/tp2/brand/1803081633033667)  
-[SOGO 天母店 B1](https://info.sogo.com.tw/tm/brand/1803081629462520)  
 龍笛LONDEE  
 [SOGO 台北忠孝館 4F](https://info.sogo.com.tw/tp1/brand/18030816351585287)  
 龜記茗品  
@@ -9699,7 +8867,6 @@ AIR SPACE
 ALDO  
 [遠百竹北 2F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=196&StoreId=10820&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
 ALESSI  
-[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=9290&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 [Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=4298&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
 [遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10445&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4299&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
@@ -10281,7 +9448,6 @@ DREAM TREND凱夢
 [Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=11839&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
 DRESSY  
 [遠百桃園 5F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=72&StoreId=3651&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
-[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=3652&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
 [台南大遠百 成功店 3F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=125&StoreId=11505&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
 DYCTEAM  
 [遠百信義 A13 6F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=177&StoreId=9270&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
@@ -10407,13 +9573,11 @@ ESTĒE LAUDER 雅詩蘭黛
 [遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=6887&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
 EXP 俊克  
 [Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=3666&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
-[新竹大遠百 4F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=85&StoreId=10014&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
 Ea  
 [Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=12114&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
 [遠百嘉義 2F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=119&StoreId=3168&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
 [遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3169&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
 Electrolux伊萊克斯  
-[遠百信義 A13 8F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=179&StoreId=10983&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 [Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=11738&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
 [遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=10410&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
 [台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=11042&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
@@ -11449,6 +10613,7 @@ Michael Kors
 Midoliya  
 [遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3456&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=3457&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=12191&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
 [遠百嘉義 3F](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=118&StoreId=3458&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
 Miofeel  
 [台南大遠百 成功店 5F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=123&StoreId=11148&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
@@ -11827,7 +10992,6 @@ Philips 飛利浦
 [Mega City 板橋大遠百 7F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=54&StoreId=5147&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
 [遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=5148&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=5150&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
-[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=5151&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
 [遠百花蓮 3F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=166&StoreId=5154&tab=floor-3F&EntryPoint=info_floors&Source=Website)  
 Phiten銀谷  
 [遠百桃園 7F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=70&StoreId=11205&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
@@ -11911,7 +11075,6 @@ ROOTS KIDS
 [新竹大遠百 6F](https://www.feds.com.tw/tw/42/MallInfo/FloorStore?FloorId=83&StoreId=4760&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=4761&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
 ROXY  
-[Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=8688&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 [遠百竹北 4F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=198&StoreId=10164&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 7F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=100&StoreId=5866&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
 [遠百花蓮 1F](https://www.feds.com.tw/tw/52/MallInfo/FloorStore?FloorId=168&StoreId=3558&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
@@ -12698,9 +11861,10 @@ iROO
 [高雄大遠百 2F](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=158&StoreId=3702&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
 iloom怡倫家居  
 [遠百信義 A13 5F](https://www.feds.com.tw/tw/55/MallInfo/FloorStore?FloorId=176&StoreId=10981&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=12188&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 5F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=102&StoreId=9571&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
-iloom韓國No.1 兒童家居  
-[Mega City 板橋大遠百 5F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=56&StoreId=9416&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
+innisfree  
+[Mega City 板橋大遠百 B1](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=61&StoreId=12186&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
 juliArt 覺亞  
 [遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=4094&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=12145&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
@@ -12740,7 +11904,6 @@ mamaway 媽媽餵
 marimekko  
 [Mega City 板橋大遠百 2F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=59&StoreId=11984&tab=floor-2F&EntryPoint=info_floors&Source=Website)  
 maru.a  
-[遠百板橋 4F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=41&StoreId=11375&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
 [Mega City 板橋大遠百 4F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=57&StoreId=3444&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
 [遠百桃園 4F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=73&StoreId=3445&tab=floor-4F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 10F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=97&StoreId=10660&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
@@ -13034,6 +12197,7 @@ yENLiNE許艷玲
 [Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4509&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 大師修  
 [Mega City 板橋大遠百 8F](https://www.feds.com.tw/tw/54/MallInfo/FloorStore?FloorId=53&StoreId=10087&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+[Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=98&StoreId=12187&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
 [高雄大遠百 B1](https://www.feds.com.tw/tw/51/MallInfo/FloorStore?FloorId=160&StoreId=11167&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
 大心  
 [遠百竹北 B2](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=193&RestaurantId=422&tab=floor-B2&EntryPoint=info_floors&Source=Website)  
@@ -13274,6 +12438,7 @@ yENLiNE許艷玲
 [遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=412&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
 晶璽健康生活館  
 [遠百板橋 9F](https://www.feds.com.tw/tw/50/MallInfo/FloorStore?FloorId=36&StoreId=11790&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+[台南大遠百 成功店 6F](https://www.feds.com.tw/tw/48/MallInfo/FloorStore?FloorId=122&StoreId=12189&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
 晶藝 崠屋  
 [Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=4516&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 曙 SHU MUSE  
@@ -13294,6 +12459,8 @@ yENLiNE許艷玲
 [新竹大遠百 9F](https://www.feds.com.tw/tw/42/MallInfo/FloorRestaurant?FloorId=80&RestaurantId=166&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
 朵蘿倫  
 [Top City 台中大遠百 8F](https://www.feds.com.tw/tw/53/MallInfo/FloorStore?FloorId=99&StoreId=12148&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
+朵頤牛排  
+[遠百竹北 8F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=202&RestaurantId=481&tab=floor-8F&EntryPoint=info_floors&Source=Website)  
 杰諾家居  
 [遠百竹北 1F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=195&StoreId=11841&tab=floor-1F&EntryPoint=info_floors&Source=Website)  
 松發肉骨茶  
@@ -13515,7 +12682,6 @@ yENLiNE許艷玲
 義廚寶  
 [遠百桃園 10F](https://www.feds.com.tw/tw/40/MallInfo/FloorStore?FloorId=67&StoreId=4411&tab=floor-10F&EntryPoint=info_floors&Source=Website)  
 [遠百竹北 5F](https://www.feds.com.tw/tw/72/MallInfo/FloorStore?FloorId=199&StoreId=11585&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
-[遠百嘉義 B1](https://www.feds.com.tw/tw/37/MallInfo/FloorStore?FloorId=121&StoreId=4414&tab=floor-B1&EntryPoint=info_floors&Source=Website)  
 義式屋古拉爵  
 [Mega City 板橋大遠百 9F](https://www.feds.com.tw/tw/54/MallInfo/FloorRestaurant?FloorId=52&RestaurantId=69&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
 [遠百桃園 12F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=65&RestaurantId=70&tab=floor-12F&EntryPoint=info_floors&Source=Website)  
@@ -13606,6 +12772,8 @@ yENLiNE許艷玲
 [遠百板橋 5F](https://www.feds.com.tw/tw/50/MallInfo/FloorRestaurant?FloorId=40&RestaurantId=357&tab=floor-5F&EntryPoint=info_floors&Source=Website)  
 [遠百桃園 11F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=66&RestaurantId=374&tab=floor-11F&EntryPoint=info_floors&Source=Website)  
 [Top City 台中大遠百 9F](https://www.feds.com.tw/tw/53/MallInfo/FloorRestaurant?FloorId=98&RestaurantId=436&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
+虎留香  
+[遠百竹北 6F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=200&RestaurantId=484&tab=floor-6F&EntryPoint=info_floors&Source=Website)  
 蜀川香酸菜魚  
 [遠百桃園 9F](https://www.feds.com.tw/tw/40/MallInfo/FloorRestaurant?FloorId=68&RestaurantId=457&tab=floor-9F&EntryPoint=info_floors&Source=Website)  
 [遠百竹北 7F](https://www.feds.com.tw/tw/72/MallInfo/FloorRestaurant?FloorId=201&RestaurantId=462&tab=floor-7F&EntryPoint=info_floors&Source=Website)  
@@ -14113,7 +13281,6 @@ ASPORT
 [微風廣場 GF](https://www.breeze.com.tw/stores/7720)  
 AVEDA  
 [微風廣場 GF](https://www.breeze.com.tw/stores/68)  
-[微風南京 1F](https://www.breeze.com.tw/stores/749)  
 AVEDA SALON  
 [微風信義 3F](https://www.breeze.com.tw/stores/683)  
 Acne Studios  
@@ -14132,7 +13299,7 @@ BALENCIAGA
 [微風廣場 1F](https://www.breeze.com.tw/stores/7553)  
 [微風信義 1F](https://www.breeze.com.tw/stores/8167)  
 BEAMS  
-[微風南山 3F](https://www.breeze.com.tw/stores/7317)  
+[微風南山 3F](https://www.breeze.com.tw/stores/8205)  
 BEARD PAPA'S  
 [微風南京 1F](https://www.breeze.com.tw/stores/2131)  
 BEBE POSHE  
@@ -14245,6 +13412,8 @@ GRATiAE
 [微風南山 2F](https://www.breeze.com.tw/stores/8014)  
 GROUND Y  
 [微風信義 2F](https://www.breeze.com.tw/stores/6812)  
+Guerlain  
+[微風信義 2F](https://www.breeze.com.tw/stores/7922)  
 HEARTS ON FIRE  
 [微風信義 2F](https://www.breeze.com.tw/stores/5785)  
 HERMETISE  
@@ -14294,6 +13463,8 @@ KOBE SWEETS CAFE
 KOTORI  
 [微風南京 B1](https://www.breeze.com.tw/stores/7586)  
 [微風南山 3F](https://www.breeze.com.tw/stores/7272)  
+KUAN S LIVING POP UP 寬庭  
+[微風廣場 1F](https://www.breeze.com.tw/stores/8204)  
 KX Pilates  
 [微風南山 4F](https://www.breeze.com.tw/stores/7278)  
 Kila kila  
@@ -14352,6 +13523,10 @@ MIU MIU
 [微風南山 1F](https://www.breeze.com.tw/stores/6179)  
 MK  
 [微風廣場 B2](https://www.breeze.com.tw/stores/27)  
+MOLTON BROWN  
+[微風南山 1F](https://www.breeze.com.tw/stores/8201)  
+MOS Burger  
+[微風南山 B2](https://www.breeze.com.tw/stores/8114)  
 MOSA+ 香水洗沐保養  
 [微風台北車站 2F](https://www.breeze.com.tw/stores/8181)  
 [微風南山 B2](https://www.breeze.com.tw/stores/8163)  
@@ -14453,6 +13628,8 @@ SEA TO SKY
 [微風信義 47F](https://www.breeze.com.tw/stores/5914)  
 SNIDEL  
 [微風南山 3F](https://www.breeze.com.tw/stores/7354)  
+SOLFERINO  
+[微風信義 2F](https://www.breeze.com.tw/stores/7693)  
 SPLY  
 [微風信義 B1](https://www.breeze.com.tw/stores/7560)  
 STUDIO A  
@@ -14914,6 +14091,8 @@ ten thousand coffee
 [微風東岸 3F](https://www.breeze.com.tw/stores/7408)  
 熊大麵疙瘩  
 [微風南京 B2](https://www.breeze.com.tw/stores/7711)  
+犇 極上  
+[微風信義 4F](https://www.breeze.com.tw/stores/8169)  
 玉珍齋  
 [微風台北車站 1F](https://www.breeze.com.tw/stores/219)  
 王師父  
@@ -15950,1792 +15129,1788 @@ whiple / w．Simple
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/89)  
 ## [誠品Eslite](https://meet.eslite.com/tw/tc/cooperationbrand)  
 #CACO  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222054)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222054)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222054)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222054)  
+[誠品生活板橋 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222054)  
+[誠品生活武昌 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222054)  
 & by tan & luciana  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808220002)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201808220002)  
 &By tan&Luciana  seedproject  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130044)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130044)  
 10/10 APOTHECARY  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503120002)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202503120002)  
 100 Phantom Perfumer  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202110280005)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202110280005)  
 1010湘食堂  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222008)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222008)  
+[誠品生活新板 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222008)  
+[誠品生活480 6F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222008)  
 10MOOn  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104010005)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202104010005)  
 19again  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280006)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202508280006)  
 22 deux deux  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130037)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130037)  
 23.5° N  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270007)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270007)  
 23區 Select  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010029)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010029)  
 24HRS  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040007)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202605040007)  
 2nd STREET  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
+[誠品生活板橋 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130001)  
 2sweet  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222012)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222012)  
 31冰淇淋  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270002)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270002)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202008270002)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202008270002)  
 6IXTY8IGHT  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202111110009)  
+[誠品生活板橋 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202111110009)  
 7-11 統一超商  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222015)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222015)  
 8bit.t.d  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202406010003)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202406010003)  
 A.MOUR  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222671)  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222671)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222671)  
 ABC MART  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260007)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505260007)  
 ACCA KAPPA  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510310007)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202510310007)  
 AISLE by abcense  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310003)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003310007)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202208310003)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202003310007)  
 ALL WEARS  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070027)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070027)  
 ALLOYA  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223070)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223070)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223070)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223070)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223070)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223070)  
 AMO阿默典藏蛋糕  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222021)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222021)  
 ANK&Outfit  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511300002)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/202511300002)  
 ASIA GOAL  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223144)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223144)  
 AT&T 法國經典風土  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104160001)  
+[誠品生活竹北遠百店 B2F](https://meet.eslite.com/tw/tc/cooperationbrand/202104160001)  
 AVEDA  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222028)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311290003)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222028)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311290003)  
 AZUR  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202406070001)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202406070001)  
 AirealLand年零 X cozy white  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140009)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202203140009)  
 Alexandre Christie x GOTO  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010010)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010010)  
 Alinéa Lova  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504290003)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202504290003)  
 Alto  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222635)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222635)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222635)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222635)  
 Annie's Collection  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202207150002)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202207150002)  
 Arlink  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509040001)  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509040001)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202509040001)  
+[誠品生活480 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202509040001)  
 Aroma Woman 芳香小舖  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508290005)  
+[誠品生活新板 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202508290005)  
 Arte White  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202101220002)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202101220002)  
 Artso亞梭傢俬  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130003)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130003)  
 Atelier Cologne  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270012)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270012)  
 Avivi  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102070001)  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102070001)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202102070001)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/202102070001)  
 Aēsop  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210020)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210020)  
 B'f 美學進行式  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270009)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270009)  
 BAG TO YOU  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280013)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280013)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280013)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280013)  
 BB YOUR LOVE  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220001)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202505220001)  
 BBL Premium  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130026)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130026)  
 BEAMS  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222038)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222038)  
 BETTERDAYS  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210008)  
+[誠品生活中友店 11F](https://meet.eslite.com/tw/tc/cooperationbrand/202502210008)  
 BIOCHEM 雅聞倍優  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222045)  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222045)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222045)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222045)  
 BLANK SPACE  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403290002)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403290002)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202403290002)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202403290002)  
 BONNY&READ  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130029)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130029)  
 BRAUN BÜFFEL  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403050003)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202403050003)  
 BY YAN Perfume  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230005)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202603230005)  
 BYHUE  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070009)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070009)  
 Baby City娃娃城  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070026)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070026)  
 BagSmith & CO.  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409090001)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202409090001)  
 Barbour  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903200001)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903200001)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201903200001)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201903200001)  
 BeLLA  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010019)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010019)  
 Beau Jewelry  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912180009)  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912180009)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912180009)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/201912180009)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201912180009)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201912180009)  
 Beutii  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130012)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130012)  
 BiAUTE 錶特  
-[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103160001)  
+[誠品生活台中大遠百店 9F](https://meet.eslite.com/tw/tc/cooperationbrand/202103160001)  
 Bionatura shoes  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403270001)  
+[誠品生活竹北遠百店 B2F](https://meet.eslite.com/tw/tc/cooperationbrand/202403270001)  
 Bobo Peach 桃子害喜  
-[誠品生活駁二 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603190001)  
+[誠品生活駁二 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202603190001)  
 Boom Boom選品服飾  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202211010004)  
+[誠品生活新板 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202211010004)  
 Brigid Accessory  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290011)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290011)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290011)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202203290011)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202203290011)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202203290011)  
 Buddha Rock  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202106260002)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202106260002)  
 Bären Treff 德國派對熊  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511070001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202511070001)  
 C R Y  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210051)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210051)  
 CA4LA  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912030005)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912030005)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201912030005)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201912030005)  
 CABRÓN  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201901140002)  
+[誠品生活武昌 4F](https://meet.eslite.com/tw/tc/cooperationbrand/201901140002)  
 CAFE!N  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140008)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311140008)  
 CAMPER  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508290003)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202508290003)  
 CHAFFEE  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201805190001)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201805190001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201805190001)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201805190001)  
 CHAKO LAB｜DOUGHNUT  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202512290001)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202512290001)  
 CHANTECAILLE 香緹卡  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403190001)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202403190001)  
 CHECK 2 CHECK  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202512160001)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202512160001)  
 CHEZ宸知  
-[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202204130003)  
+[誠品生活義享店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202204130003)  
 CHIC MOO 起沐  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312110004)  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312110004)  
+[誠品生活中友店 10F](https://meet.eslite.com/tw/tc/cooperationbrand/202312110004)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202312110004)  
 CIPU 喜鋪  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222060)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222060)  
 CITEN  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308230001)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202308230001)  
 CLASSICO  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222924)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222924)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222924)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222924)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222924)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222924)  
 CNFlower  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222063)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222063)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222063)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222063)  
 COCO 壹番屋  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210015)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210015)  
 COCOSHNIK  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210029)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210029)  
 COLD STONE  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210006)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202503210006)  
 COMEBUYTEA  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201809140004)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201809140004)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/201809140004)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201809140004)  
 CONVERSE  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070025)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070025)  
 COVERNAT  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202512170001)  
+[誠品生活武昌 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202512170001)  
 COWA  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310006)  
-[誠品生活屏東店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310006)  
+[誠品生活屏東店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202208310006)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202208310006)  
 CRASH BAGGAGE  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260009)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505260009)  
 CREMIA  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140007)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311140007)  
 CURISTA COFFEE 奎士咖啡  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307180002)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202307180002)  
 CW手機配件  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601260001)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601260001)  
+[誠品生活板橋 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601260001)  
+[誠品生活480 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202601260001)  
 CYRANO+  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202405160001)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202405160001)  
 Caltan Design  
-[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222057)  
-[誠品生活駁二 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222057)  
+[誠品生活高雄大遠百店 17F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222057)  
+[誠品生活駁二 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222057)  
 Calvin Klein  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222058)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222058)  
 Candace CMZ  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280020)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280020)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280020)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280020)  
 Carter's｜OSHKOSH  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010012)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010012)  
 Caspia LiLi  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103220004)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103220004)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202103220004)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202103220004)  
 Cherng Design  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103220003)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202103220003)  
 ChooShop  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
-[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
+[誠品生活台中三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202205030002)  
 City Diamond引雅珠寶  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060004)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060004)  
 Columbia  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130062)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130062)  
 ComeTrue CAFE 成真咖啡  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312180001)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312180001)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202312180001)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202312180001)  
 Cotélac  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210050)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210050)  
 Crealive Dept. by FILTER017  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280001)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202508280001)  
 DAISO JAPAN大創百貨  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201906130001)  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201906130001)  
-[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201906130001)  
+[誠品生活竹北遠百店 B2F](https://meet.eslite.com/tw/tc/cooperationbrand/201906130001)  
+[誠品生活高雄大遠百店 17F](https://meet.eslite.com/tw/tc/cooperationbrand/201906130001)  
+[誠品生活板橋 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/201906130001)  
 DANSKIN  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130011)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130011)  
 DEPOT  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202207120001)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202207120001)  
 DIVIOS  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601050001)  
+[誠品生活西門 3AF](https://meet.eslite.com/tw/tc/cooperationbrand/202601050001)  
 DOUGHNUT  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223262)  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223262)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223262)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223262)  
 DR.WILDS 荒野醫生  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603050005)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202603050005)  
 DREAM TREND 凱夢  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210007)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202408210007)  
 DRESSTERIOR  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504290002)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202504290002)  
 Daily Statement  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202010090004)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202010090004)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202010090004)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202010090004)  
 Dinner  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222084)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222084)  
 Dleet  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222599)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222599)  
 Dleet 李倍  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260003)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505260003)  
 Domohorn Wrinkle朵茉麗蔻  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060017)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060017)  
 Double Take  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222941)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222941)  
 DoubleLife雙全生活館  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505210006)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505210006)  
 Dr. Origins達橙生活館  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202111010009)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202111010009)  
 Dr.Pei  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510020001)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202510020001)  
 Dr.aiR  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010002)  
+[誠品生活板橋 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010002)  
 E JEANS  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070010)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070010)  
 ECSTASY象鼻人  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604010001)  
+[誠品生活武昌 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202604010001)  
 ENRICH DESIGN  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270002)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202508270002)  
 En route昂路  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210003)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202408210003)  
 Enrich Restaurant  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401300002)  
+[誠品生活480 7F](https://meet.eslite.com/tw/tc/cooperationbrand/202401300002)  
 Entadar 海漂計畫  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503060001)  
+[誠品生活南西 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202503060001)  
 FAIR LADY  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060019)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060019)  
 FANs CAFÉ  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605050001)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202605050001)  
 FIELD DAY  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270015)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270015)  
 FILA  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070022)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070022)  
 FILA KIDS  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070024)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070024)  
 FLELIS Fragrance 法倈麗香水  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270004)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202008270004)  
 FLIPPER’S  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210064)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210064)  
 FOOTER  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222117)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222117)  
 FORE 直火料理  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060022)  
+[誠品生活台南 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060022)  
 FORMOSA寶島眼鏡  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060006)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060006)  
 FRED PERRY  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223258)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223258)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223258)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223258)  
 FREED  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010023)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010023)  
 FROMETO  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040003)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202605040003)  
 FUNKY PRINCESS  
-[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202407300003)  
+[誠品生活台中大遠百店 9F](https://meet.eslite.com/tw/tc/cooperationbrand/202407300003)  
 Fair Lady + HAPPY FACE  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503250001)  
-Ficelle Design Jewelry  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223245)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202503250001)  
 Findnew 帆紐  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202206010001)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202206010001)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202206010001)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202206010001)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202206010001)  
+[誠品生活西門 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202206010001)  
 Fs57  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280010)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280010)  
 Février菲芙利  
-[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222114)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222114)  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222114)  
+[誠品生活台中大遠百店 9F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222114)  
+[誠品生活中友店 10F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222114)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222114)  
 G2000  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222122)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222122)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222122)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222122)  
 GACHA BOX轉蛋專門店  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510040002)  
+[誠品生活竹北遠百店 B2F](https://meet.eslite.com/tw/tc/cooperationbrand/202510040002)  
 GAGA monster  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203300005)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202203300005)  
 GAGAmonster史萊姆怪獸星球  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411130001)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411130001)  
+[誠品生活松菸 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202411130001)  
+[誠品生活480 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202411130001)  
 GARMIN  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409020003)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210001)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202409020003)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202408210001)  
 GAUDI HOMME  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808080001)  
+[誠品生活板橋 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808080001)  
 GIANNI CHIARINI  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903150003)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201903150003)  
 GIORDANO  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210010)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502210010)  
 GLOBAL WORK  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130010)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130010)  
 GLÖ FROYO  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605060003)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202605060003)  
 GRACE GIFT  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070030)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070030)  
 Gram&Co.  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223173)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223173)  
 H THREE  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222917)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222917)  
 HABIBI  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210004)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202503210004)  
 HALOA POKE 夏威夷拌飯  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311060002)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311060002)  
 HAPPY FACE  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060018)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060018)  
 HARPER  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120002)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120002)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120002)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202603120002)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202603120002)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202603120002)  
 HERLS  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222688)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222688)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222688)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222688)  
 HOLA  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605060002)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202605060002)  
 HOUSUXI 舒希  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510040001)  
-[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510040001)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/202510040001)  
+[誠品新竹巨城店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202510040001)  
 HUNDR.（Projext. Xolar）  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409160006)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202409160006)  
 Half half  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210062)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210062)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210062)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210062)  
 Hanako goods  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
-[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品新竹巨城店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202003220007)  
 Herschel  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222998)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222998)  
 Himalaya  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222909)  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222909)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222909)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222909)  
 Home shop  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070008)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070008)  
 Hotel V  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202210140001)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202210140001)  
 Hubox  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201809170002)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201809170002)  
 Hurley  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130046)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130046)  
 Hästens  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280001)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280001)  
 IB-MAN  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510280001)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510280001)  
+[誠品生活板橋 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202510280001)  
+[誠品生活480 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202510280001)  
 IN House  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130028)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130028)  
 INTROSTEM  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603300003)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202603300003)  
 ISABELLE WEN溫慶珠  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222601)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222601)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222601)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222601)  
 ISPO+  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130049)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130049)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130049)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130049)  
 ITS JEWELRY  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/201810120013)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201810120013)  
+[誠品生活新板 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201810120013)  
+[誠品生活板橋 4F](https://meet.eslite.com/tw/tc/cooperationbrand/201810120013)  
 Insta360  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511130001)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202511130001)  
 Isha  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202009020004)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202009020004)  
 JACAL'S  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201904090003)  
+[誠品生活板橋 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201904090003)  
 JC eyecon  
-[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603050004)  
+[誠品生活義享店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202603050004)  
 JINART  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601110006)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601110006)  
 JINS  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活板橋 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222713)  
 JO MALONE LONDON  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130019)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130019)  
 JOHNSON喬山  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130005)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130005)  
 JOURNAL STANDARD  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912030001)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201912030001)  
 JUST BLOOM  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210033)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210033)  
 Jack Wolfskin  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130018)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130018)  
 K-SWISS  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070017)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070017)  
 K-WAY  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312110002)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202312110002)  
 KOIZUMI  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020018)  
+[誠品生活480 7F](https://meet.eslite.com/tw/tc/cooperationbrand/202007020018)  
 KOKKO  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010018)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010018)  
 KUAN KUAN  X CRAFT  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102070002)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202102070002)  
 Kamekona Hawaii 夏威夷鐵板燒  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130034)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130034)  
 Karen 凱林鐵板燒  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270001)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202008270001)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202008270001)  
 Keizu   好鞋好設計  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408220001)  
+[誠品生活中友店 10F](https://meet.eslite.com/tw/tc/cooperationbrand/202408220001)  
 KlassiC.  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308140003)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308140003)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202308140003)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202308140003)  
 Komm-31  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502110001)  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502110001)  
+[誠品生活竹北遠百店 B2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502110001)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202502110001)  
 Kosuiya香水屋  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222151)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222151)  
+[誠品生活板橋 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222151)  
 Krispy Kreme  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209160004)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209160004)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202209160004)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202209160004)  
 L'ARTISAN PARFUMEUR  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270013)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270013)  
 LAB FE21  
-[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223267)  
+[誠品生活高雄大遠百店 17F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223267)  
 LAC  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202111010006)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202111010006)  
 LADY M  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403190005)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202403190005)  
 LAKING  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270003)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210004)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210004)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202508270003)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502210004)  
+[誠品生活台南 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202502210004)  
 LAMY  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222755)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222755)  
+[誠品生活蘇州 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222755)  
 LAPELA  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040005)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202605040005)  
 LE LABO  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202210310003)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202210310003)  
 LEE  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010017)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010017)  
 LIN SHIAO TUNG 林曉同  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222605)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222605)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222605)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222605)  
 LINDARICO  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130043)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260004)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130043)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505260004)  
 LOTTO  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230004)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202603230004)  
 LOVIN樂恋  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505150001)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505150001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202505150001)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505150001)  
 LUSH  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506300002)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202506300002)  
 LYBIR  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309050001)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202309050001)  
 La Mode  
-[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222157)  
+[誠品生活台中三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222157)  
 La Mode x SOLOMAX  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130057)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130057)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130057)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130057)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130057)  
+[誠品生活480 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130057)  
 Laiwear  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510310011)  
+[誠品生活新板 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202510310011)  
 Lapela  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202412120001)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202412120001)  
 Le Polka  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130033)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130033)  
 Levi's  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222161)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222161)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222161)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222161)  
 Life8  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
+[誠品生活台南 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
+[誠品生活武昌 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202112240005)  
 Like do 天然手作生活  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601020001)  
+[誠品生活中友店 10F](https://meet.eslite.com/tw/tc/cooperationbrand/202601020001)  
 Littdlework  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270008)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270008)  
 Little Garden  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202304280003)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202304280003)  
 Little Wonders  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508200002)  
+[誠品生活480 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202508200002)  
 Lucy’s  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280019)  
+[誠品生活480 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280019)  
 Luxespace浮奢空間  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130045)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130045)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130045)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130045)  
 MANO MANO  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504160001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202504160001)  
 MAO’S DOLL 襪娃手創館  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222178)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222178)  
 MASMARULEZ  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280003)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202508280003)  
 MAVEN Watches  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202306290003)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202306290003)  
 ME5  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409030005)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409030005)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202409030005)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202409030005)  
 MERCI Design  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201805150008)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201805150008)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/201805150008)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201805150008)  
 MIRROR PINK  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130041)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130041)  
 MIRROR 皇宣緣  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222184)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222184)  
 MO-BO  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222711)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222711)  
 MOSA沐莎植感生活  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202206070002)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202206070002)  
 MUJI 無印良品  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222193)  
+[誠品生活西門 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222193)  
 Mao's 樂陶陶  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201910240006)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/201910240006)  
 Matin Kim  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202412120002)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202412120002)  
 Merite  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202602120001)  
+[誠品生活新板 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202602120001)  
 Mimi's Cafe米米咖啡  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070045)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070045)  
 Mister Donut  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201804170001)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201804170001)  
 Monotéte  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120004)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202603120004)  
 Moobulous 木子  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210004)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202408210004)  
 MoreCute茉茉  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060015)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060015)  
 Mr.Bed  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510020002)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202510020002)  
 Ms.Latte 拿鐵小姐  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411270001)  
+[誠品生活中友店 10F](https://meet.eslite.com/tw/tc/cooperationbrand/202411270001)  
 Mum,Mum 饅饅好食  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209160001)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202209160001)  
 Murose Crystal  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140015)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202203140015)  
 M·A·C  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222172)  
+[誠品生活武昌 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222172)  
 Mövenpick Café 莫凡彼咖啡館  
-[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506030001)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506030001)  
+[誠品生活站前店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202506030001)  
+[誠品生活台南 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202506030001)  
 N.ONE  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510020003)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202510020003)  
 NEW ERA  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222199)  
+[誠品生活武昌 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222199)  
 NEXTee  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307110001)  
+[誠品生活武昌 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202307110001)  
 NIID  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603090002)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202603090002)  
 NIKE  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201803140009)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201803140009)  
 NINI義大利餐廳  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130052)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130052)  
 NONSPACE  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270005)  
+[誠品生活武昌 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202508270005)  
 NaNa's Flower House  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202304200011)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202304200011)  
 Neoflam  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010005)  
+[誠品生活板橋 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010005)  
 Nespresso  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130040)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130040)  
 New Balance  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020001)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020001)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020001)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202007020001)  
+[誠品生活板橋 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202007020001)  
+[誠品生活480 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202007020001)  
 New Balance 1906  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409020005)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409020005)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202409020005)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202409020005)  
 Nimmy&Nimmy friend  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504290004)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202504290004)  
 Norns  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
+[誠品生活南西 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
+[誠品生活板橋 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202308170003)  
 Nose job 香氛販賣機  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601300003)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601300003)  
 Nu健康守護鍺  
-[誠品雙和比漾店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222207)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222207)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222207)  
 OB STYLE  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308140001)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308140001)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202308140001)  
+[誠品生活板橋 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202308140001)  
 OBEIOBEI  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503250008)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202503250008)  
 OHANA MAHAALO  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290014)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290014)  
-[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290014)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202203290014)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202203290014)  
+[誠品生活高雄大遠百店 17F](https://meet.eslite.com/tw/tc/cooperationbrand/202203290014)  
 OHCHACHA  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070037)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070037)  
 OH！HER  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203300008)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202203300008)  
 OLIVIA YAO JEWELLERY  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222607)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222607)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222607)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222607)  
 OLIVIERS&CO  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222212)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222212)  
 ON SIDE 飾集合  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603300004)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202603300004)  
 ONJEWELLERY  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508290002)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202508290002)  
 ORI FREDERIQO  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202405310006)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202405310006)  
 ORIGINS品木宣言  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130023)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130023)  
 ORiental TRaffic  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309110003)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202309110003)  
 OTTO奧圖珠寶  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505210005)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505210005)  
 OUR TWO  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270004)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202508270004)  
 Oolab良杯製所  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060014)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060014)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060014)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060014)  
 Oroobo奧旅博  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010001)  
+[誠品生活板橋 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010001)  
 Otto2 x 玩劇寶貝  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503200004)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202503200004)  
 Otto2x玩劇寶貝  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308220001)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308220001)  
+[誠品生活松菸 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202308220001)  
+[誠品生活480 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202308220001)  
 P.Seven  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040004)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202605040004)  
 PALLADIUM  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201901300004)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222921)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201901300004)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222921)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201901300004)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201901300004)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201901300004)  
+[誠品生活台南 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201901300004)  
+[誠品生活板橋 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222921)  
+[誠品生活480 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222921)  
 PAUL  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411180001)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202411180001)  
 PEARL珍珠  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604090001)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202604090001)  
 PENHALIGON'S  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202210310004)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202210310004)  
 PEPPER’S  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
+[誠品生活中友店 11F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222225)  
 PERFUN  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411300002)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202411300002)  
 PINSCENT  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140020)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202203140020)  
 PIQUADRO  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010021)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010021)  
 PIZZA CUT FIVE  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210005)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502210005)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502210005)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202502210005)  
 PLANTES & PARFUMS  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280008)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280008)  
 PLAYBOY  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222232)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010016)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222232)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010016)  
 PLAYSOUND沛聲  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202310230001)  
+[誠品生活480 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202310230001)  
 POKE GO  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202108240001)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202108240001)  
 POLINIQ  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222237)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222237)  
 POP TOYS 星潮玩  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509290001)  
+[誠品生活竹北遠百店 B2F](https://meet.eslite.com/tw/tc/cooperationbrand/202509290001)  
 POPCORN  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201901300003)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201901300003)  
 PORTER INTERNATIONAL  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222238)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222238)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130048)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130048)  
+[誠品生活蘇州 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222238)  
+[誠品生活武昌 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222238)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222238)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130048)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130048)  
 POUN POUN  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505200002)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202505200002)  
 POYA Beauty 寶雅  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504300001)  
+[誠品生活武昌 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202504300001)  
 PROJEXT  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202406250001)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202406250001)  
 PUMA  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070004)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070004)  
 PUMA Select  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280014)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280014)  
 Panasonic  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120001)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202603120001)  
 Paul Frank  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222220)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222220)  
 Photoism  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601110004)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601110004)  
 Pinganita  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201804020002)  
+[誠品生活板橋 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201804020002)  
 Pintoo  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品雙和比漾店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活花蓮遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活駁二 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活屏東店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活花蓮遠百店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活屏東店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活竹北遠百店 B2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活台中三井店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活台中大遠百店 9F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活駁二 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活義享店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活南西 5F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品新竹巨城店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品雙和比漾店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活新板 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活中友店 11F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活台南 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
+[誠品生活480 5F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222642)  
 Pipijudy  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202009010006)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202009010006)  
 Poly Lulu  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808010001)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808010001)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808080003)  
-[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808080003)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808080003)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/201808010001)  
+[誠品生活西門 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201808010001)  
+[誠品生活義享店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201808080003)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808080003)  
+[誠品生活板橋 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201808080003)  
 Potato Corner  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603050003)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202603050003)  
 QB HOUSE 造型剪髮專門店  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222246)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222246)  
 QUEEN OF SHEBA  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222628)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222628)  
 QUIKSILVER &ROXY  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222247)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222247)  
 RED VELVET 紅絲絨  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202204180003)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202204180003)  
 RED WING SHOES  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060005)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060005)  
 REVIVE BLANC  淨白美齒SPA／勺光美學  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104080011)  
+[誠品生活南西 5+F](https://meet.eslite.com/tw/tc/cooperationbrand/202104080011)  
 RIM BY JINS  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503070004)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202503070004)  
 RITE  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202303010004)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202303010004)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202303010004)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202303010004)  
 ROSE HOUSE CAFÉ  
-[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201812170006)  
+[誠品生活台中三井店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201812170006)  
 ROYAL ELASTICS  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230001)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202603230001)  
 Rasasi  
-[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201904150001)  
+[誠品生活高雄大遠百店 17F](https://meet.eslite.com/tw/tc/cooperationbrand/201904150001)  
 Reflection  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410070005)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202410070005)  
 Relove  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270010)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270010)  
 Rest in Nature  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503310001)  
+[誠品生活新板 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202503310001)  
 Rizo Jewels  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309010007)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202309010007)  
 Romane x Lifehoho  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310007)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202208310007)  
 Roots  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222257)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222257)  
 SABON  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130063)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130063)  
 SADOMAIN仙德曼  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222262)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222262)  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222262)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222262)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222262)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222262)  
 SAMBAR SHOES水鹿  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112020003)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112020003)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112020003)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202112020003)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202112020003)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202112020003)  
 SAMSUNG  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202108120002)  
+[誠品生活板橋 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202108120002)  
 SCANTEAK 詩肯柚木  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130017)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130017)  
 SEOUL MATE  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270009)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202508270009)  
 SHOKZ  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010024)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010024)  
 SILVER TWINKLE  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223123)  
-[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223123)  
+[誠品生活台中大遠百店 9F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223123)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223123)  
 SIMMONS席夢思  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130020)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130020)  
 SIMPLY YOURS  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504210002)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202504210002)  
 SKECHERS  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201809270007)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201809270007)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201809270007)  
+[誠品生活台南 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201809270007)  
 SKECHERS USA  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210002)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202408210002)  
 SO NICE  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130030)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130030)  
 SOBDEALL  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品生活中友店 11F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222282)  
 SOLOMAX  
-[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210072)  
+[誠品生活台中三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210072)  
 SON&SUN by KlassiC.  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280002)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202508280002)  
 SOUNDSGOOD  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280023)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280023)  
 SPANCONNY 飾品控  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307120003)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307120003)  
-[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307120003)  
+[誠品生活台中三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202307120003)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202307120003)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202307120003)  
 ST.MALO W.  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104010004)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410010001)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202410010001)  
+[誠品生活南西 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202104010004)  
 STARBUCKS COFFEE星巴克  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
-[誠品生活虎尾店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
-[誠品生活駁二 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
+[誠品生活駁二 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
+[誠品生活虎尾店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
+[誠品生活武昌 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222291)  
 STAYREAL  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209060005)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202209060005)  
 STUDIO A  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222301)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222301)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222301)  
+[誠品生活板橋 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222301)  
 SU:MI 溫室·裏  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280011)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280011)  
 SWATCH  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222309)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222309)  
 Sankou  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603300002)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202603300002)  
 Santa Maria Novella  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140002)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202203140002)  
 Silver Spring 金工。手作銀飾  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201910230001)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201910230001)  
 Silver.g銀世代  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222278)  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222278)  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222278)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222278)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222278)  
 Simply Yours  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020003)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020003)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202209020003)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202209020003)  
 S’AIME 東京企劃  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222259)  
 TAIWANIZE  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223012)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223012)  
 TEMPUR丹普  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210011)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202408210011)  
 TEN.  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270016)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270016)  
 TENDAYS  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130022)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130022)  
 TENDER.S  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201804150011)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/201804150011)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201804150011)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201804150011)  
 TGI Fridays  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130032)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130032)  
 THE BRIDGE  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130053)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130053)  
 THE LANE  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201906030001)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201906030001)  
 THÉM  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403190002)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202403190002)  
 TLCSTORE 卡若特品牌館  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503310003)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503310003)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202503310003)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202503310003)  
 TOYSELECT  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410220005)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410220005)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410220005)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202410220005)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202410220005)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202410220005)  
 TRAVELER  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010025)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010025)  
 TUANTUAN  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280004)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202508280004)  
 Taichi  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112010006)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202112010006)  
 Tcf. 大振豐洋傘  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603190002)  
-[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603190002)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202603190002)  
+[誠品生活義享店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202603190002)  
 Terry and Andris Jewelry樂石子  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202004200003)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202004200003)  
 The Chips 美式餐廳  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511100001)  
+[誠品生活板橋 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202511100001)  
 TheWellery 活樂嶼  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270001)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270001)  
+[誠品生活南西 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202508270001)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202508270001)  
 Thinking Group  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308010001)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202308010001)  
 Tiara Tiara Goods  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060009)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060009)  
 Tiara Tiara STORY  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202111110005)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202111110005)  
 Timberland  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202011050002)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202011050002)  
 Tokuyo 按摩椅健康領導品牌  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202304290001)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202304290001)  
 Tonia Nicole東妮寢飾  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130025)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130025)  
 Topologie  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410010002)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202410010002)  
 Toy Love  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120005)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202603120005)  
 Traditional WeatherWear  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603050002)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202603050002)  
 Traveler Station  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280015)  
+[誠品生活480 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280015)  
 UNIQLO  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202310310001)  
-UOMO  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222946)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202310310001)  
 URBAN UNITS  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
-[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
+[誠品新竹巨城店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222326)  
 Uffy 無非研製所  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270005)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270005)  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270005)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270005)  
+[誠品生活中友店 10F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270005)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270005)  
 VANA 北歐香氛  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112240002)  
+[誠品生活南西 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202112240002)  
 VANS  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409020004)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202409020004)  
 VEGE CREEK 蔬河  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222330)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222330)  
 VICXXO GALLERY  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603160001)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202603160001)  
 VINCENTS WORLD文森先生  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060003)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060003)  
 VIVENTY  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503200001)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202503200001)  
 VLENS韓國美瞳  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060013)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060013)  
 Vanger  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104080009)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202104080009)  
 Vecs Gardenia 嘉丹妮爾  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223027)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223027)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223027)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223027)  
 Villa Rizzi 里齊莊園  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040006)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202605040006)  
 Vivienne Westwood  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222338)  
+[誠品生活武昌 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222338)  
 WEKII  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505090001)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202505090001)  
 WINNIE JEWELRY-唯你珠寶  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223255)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223255)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223255)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223255)  
 WODEN  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202304200013)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202304200013)  
 Waku Waku Burger  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202005060001)  
+[誠品生活南西 5+F](https://meet.eslite.com/tw/tc/cooperationbrand/202005060001)  
 XCTRL  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409020001)  
+[誠品生活武昌 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202409020001)  
 XLAND  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409160007)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202409160007)  
 XRAGE  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201905240001)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201905240001)  
 YABI KITCHEN  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104220001)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202104220001)  
 YANKEE CANDLE  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
-[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
-[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
-[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
+[誠品生活台中大遠百店 9F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
+[誠品生活高雄大遠百店 17F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
+[誠品新竹巨城店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222348)  
 YBG.inc  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202012180002)  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202012180002)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202012180002)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202012180002)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202012180002)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202012180002)  
 YODEE優迪  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010011)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010011)  
 YOGO冰淇淋  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502270003)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202502270003)  
 YOSEI  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202012090002)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202012090002)  
 YUE BEAUTY  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202307040003)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202307040003)  
 YUER  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210048)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210048)  
 YUER雨兒  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260005)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505260005)  
 Yogibo 悠式生活  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808270002)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808270002)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/201808270002)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/201808270002)  
 Ysanne  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270009)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270009)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202008270009)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202008270009)  
 ZANZAN 冉冉  
-[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202004200005)  
+[誠品生活台中三井店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202004200005)  
 adidas  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280017)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280017)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280017)  
+[誠品生活板橋 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280017)  
+[誠品生活台南 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280017)  
+[誠品生活480 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280017)  
 adidas KIDS  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070003)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070003)  
 adidas Originals  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510010002)  
+[誠品生活武昌 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202510010002)  
 adidas／adidas Originals  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070028)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070028)  
 agnès b.  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222019)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222019)  
 anySiS x Steppi  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010028)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010028)  
 beard papa’s  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104080021)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202104080021)  
 belief  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604090002)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202604090002)  
 belonging SELECT  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504140001)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504140001)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202504140001)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202504140001)  
 bitplay  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201908200007)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201908200007)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201908200007)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201908200007)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201908200007)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201908200007)  
 bonnie sugar手作甜點專門店  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260002)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505260002)  
 by PÓSE  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060008)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060008)  
 coen  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403250001)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202403250001)  
 crocs  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503170001)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202503170001)  
 deya  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222877)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222877)  
 dienes silver  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222082)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222082)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222082)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222082)  
 double U  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280006)  
+[誠品生活480 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280006)  
 eYefans  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203300004)  
+[誠品生活松菸 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202203300004)  
 ete  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210030)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210030)  
 funbox Toys  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070021)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070021)  
 gozo  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060010)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060010)  
 hearth  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202210310005)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202210310005)  
 i-shan13 蔡依珊  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222603)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222603)  
 iBaoarca  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202507300001)  
+[誠品生活板橋 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202507300001)  
 iPINK  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020006)  
+[誠品生活板橋 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202209020006)  
 iROO+COZY PUNCH  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010027)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010027)  
 icolor  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070031)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070031)  
 if & n  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210049)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210049)  
 inooknit  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140005)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202203140005)  
 juliArt 覺亞  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210053)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210053)  
 kotori  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270006)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202508270006)  
 le coq sportif GOLF/le coq sportif  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130013)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130013)  
 mamaway  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070014)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070014)  
 maru.a  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060011)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060011)  
 masse律動  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230002)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202603230002)  
 miacucina  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140006)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311140006)  
 mini matters  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309010003)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309010003)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202309010003)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202309010003)  
 mizuiro ind  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202602110001)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202602110001)  
 mizuno美津濃  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220006)  
+[誠品生活台南 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202505220006)  
 moshi  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223008)  
+[誠品生活南西 5F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223008)  
 ne Jewelry  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409160011)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202409160011)  
 niko and …  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070005)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070005)  
 né jewelry & life  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603090001)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202603090001)  
 plain-me  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202209020002)  
 rather  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003310006)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003310006)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202003310006)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202003310006)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202003310006)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202003310006)  
 so that's me  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604300001)  
+[誠品生活新板 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202604300001)  
 studio CLIP  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070007)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070007)  
 tiff  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
+[誠品生活板橋 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202102220001)  
 uniarts  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222790)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222790)  
+[誠品生活蘇州 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222790)  
 va vendome aoyama+  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210031)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210031)  
 vacanza× vacanza耳夾專門所  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150005)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150005)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/201806150005)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201806150005)  
 vensers  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222332)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222332)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222332)  
+[誠品生活板橋 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222332)  
 viina  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222609)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222609)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505090005)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222609)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222609)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505090005)  
 xolar  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280005)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280005)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202508280005)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202508280005)  
 zoobulous玩玩動物園  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605060001)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202605060001)  
 Ü LOHAS 悠樂森活  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130015)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130015)  
 à la sha  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070011)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070011)  
 七三茶堂7teahouse  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010014)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010014)  
 三丘的月光  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260008)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505260008)  
 三商巧福  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202501100001)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202501100001)  
 上島珈琲店  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223175)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223175)  
 中華蕎麦 三藤  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603260001)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202603260001)  
 丸亀製麵  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222945)  
 丼究 職人丼飯專門  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605040001)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202605040001)  
 九號市集  
-[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410160001)  
+[誠品新竹巨城店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202410160001)  
 亞瑟蘭印度料理  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508280007)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202508280007)  
 伯虎在二樓  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505210002)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505210002)  
 侍老井 精品和牛燒肉會所  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401300001)  
+[誠品生活480 7F](https://meet.eslite.com/tw/tc/cooperationbrand/202401300001)  
 元初豆坊 Dauling  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506300009)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202506300009)  
 先喝道  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223198)  
-[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223198)  
+[誠品生活台中三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223198)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180223198)  
 先生手作千層  
-[誠品生活義享店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309060003)  
+[誠品生活義享店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202309060003)  
 光合箱子  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510210001)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202510210001)  
 全家 Family Mart  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222905)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222905)  
 六堆伙房  
-[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210017)  
+[誠品生活站前店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202408210017)  
 六松今苑  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603050001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202603050001)  
 再來咖啡  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201909160002)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503240001)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201909160002)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202503240001)  
 再睡5分鐘  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070070)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070070)  
 凱朵特賣  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202310110001)  
+[誠品生活武昌 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202310110001)  
 初魚｜鮨 · 鉄板料亭  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403040002)  
+[誠品生活480 7F](https://meet.eslite.com/tw/tc/cooperationbrand/202403040002)  
 創意美術  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222458)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222458)  
 勝政日式豬排  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130051)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130051)  
 包子商行  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504280002)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202504280002)  
 化石先生  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201904220003)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/201904220003)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201904220003)  
+[誠品生活480 5F](https://meet.eslite.com/tw/tc/cooperationbrand/201904220003)  
 博學屋  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312040002)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202312040002)  
 原味千尋  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222617)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222617)  
 原圓家庭  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202305230005)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202305230005)  
 友士  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202211030009)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202211030009)  
 古典玫瑰園  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222913)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222913)  
 可可茉  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210005)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202408210005)  
 台灣山崎麵包Yamazaki  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201805280002)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/201805280002)  
 台灣黑土X石樂賣所  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202211030001)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202211030001)  
 右兵衛⨯葳林  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504160002)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202504160002)  
 吉甜不辣  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210001)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202503210001)  
 吉豚屋  
-[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210022)  
+[誠品生活站前店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202408210022)  
 名廚排骨  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210008)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201808210008)  
 吹毛求吃  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605080001)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202605080001)  
 周廚牛肉麵  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202501160002)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202501160002)  
 和民手作廚房  
-[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070034)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070034)  
+[誠品生活站前店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070034)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070034)  
 品選物  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170005)  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202308170005)  
+[誠品生活竹北遠百店 B2F](https://meet.eslite.com/tw/tc/cooperationbrand/202308170005)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202308170005)  
 喜樂紅豆餅  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508010001)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202508010001)  
 喫茶趣  
-[誠品生活台中三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223246)  
+[誠品生活台中三井店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223246)  
 嘉義人~古早味糕點  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408290003)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202408290003)  
 國家地理  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604090004)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202604090004)  
 土庫驛可可莊園  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510010001)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202510010001)  
 坤水晶  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222405)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222405)  
 城市家居  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010009)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202509010009)  
 大師修SHIFU  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203170002)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202203170002)  
 大心  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222912)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222912)  
 大戶屋  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210018)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201808210018)  
 天仁茗茶  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222369)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222369)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222369)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222369)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222369)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222369)  
 天華沉香  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020013)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202007020013)  
 好丘Good Cho's  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210005)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202503210005)  
 好丘Good Cho’s  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502270002)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202502270002)  
 好想摸魚  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210013)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202408210013)  
 好森Ho Sng  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220008)  
+[誠品生活台南 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202505220008)  
 好饈鉄板燒  
-[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210021)  
+[誠品生活站前店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202408210021)  
 子丑生活  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408300001)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202408300001)  
 宏星智能家電  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130009)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130009)  
 客美多珈琲  
-[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210019)  
+[誠品生活站前店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202408210019)  
 寇比手工皮件  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202210140002)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912240003)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201912240003)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202210140002)  
 富發牌 FUFA  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202012090005)  
+[誠品生活板橋 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202012090005)  
 小丸號方塊屋  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201907080002)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201907080002)  
 小南門傳統美食  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202005290009)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202005290009)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202005290009)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202005290009)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202005290009)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202005290009)  
 小南門餐飲  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222363)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222363)  
 小子 SHIAUZ  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270004)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270004)  
 小宇宙溜溜球  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050008)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202205050008)  
 小室瓶栽 EASY PLANT  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604220002)  
+[誠品生活武昌 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202604220002)  
 小樽手作珈琲  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201907020001)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201907020001)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201907020001)  
+[誠品生活板橋 4F](https://meet.eslite.com/tw/tc/cooperationbrand/201907020001)  
 小米之家 誠品生活台南授權店  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604080001)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202604080001)  
 小米之家授權店  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010007)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202509010007)  
 嶼你商行  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100004)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601100004)  
 弍玖文創  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510090002)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202510090002)  
 彩繪樹親子創意館  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222448)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222448)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222448)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222448)  
 御前上茶  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505210007)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202505210007)  
 御珠園  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601300001)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202601300001)  
 御私藏Cozy Tea Loft  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601110002)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601110002)  
 微笑運動用品  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220004)  
+[誠品生活台南 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202505220004)  
 快車肉乾  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222385)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222385)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222385)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222385)  
 思綢織鹿  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202405310005)  
+[誠品生活武昌 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202405310005)  
 恬雨 DANDELION RAIN  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504290001)  
+[誠品生活松菸 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202504290001)  
 愛創造Allietare  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290016)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202203290016)  
 慢溫MenWen  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202201060001)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202201060001)  
 懿品乳酪菓子手造所  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104170002)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202104170002)  
 戀家小鋪  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210014)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202408210014)  
 打鐵仔patya  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201812210005)  
+[誠品生活板橋 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201812210005)  
 拓銀  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222940)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222940)  
 指南針  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202508270010)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202508270010)  
 敲敲金工Choccy Metal  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223241)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223241)  
 斑鳩的窩  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070067)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070067)  
 新巴黎香草麻辣滷味  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210002)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202503210002)  
 新肌霓  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202107160003)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202107160003)  
 新馬辣經典麻辣鍋  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130054)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130054)  
 方坊Square Studio  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220003)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202505220003)  
 日暮拉麵  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509040002)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202509040002)  
 旺鍋  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411190001)  
+[誠品生活板橋 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202411190001)  
 明吉  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903210008)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/201903210008)  
 星悅新加坡料理  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070057)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070057)  
 春水堂  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222425)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222425)  
 春芳號  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503250002)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202503250002)  
 時時香  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130060)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130060)  
 晶澈  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203300010)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202203300010)  
 曼黛瑪璉｜瑪登瑪朵  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603120003)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202603120003)  
 有情門  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104150002)  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104150002)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202104150002)  
+[誠品生活新板 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202104150002)  
 有空 5mins  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223135)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223135)  
 木雕森林  
-[誠品桃園台茂店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
-[誠品宜蘭店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品桃園台茂店 6F](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品宜蘭店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品生活新板 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202103290002)  
 札幌藥粧  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050010)  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050010)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050010)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202205050010)  
+[誠品生活新板 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202205050010)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202205050010)  
 朱記餡餅粥  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070035)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070035)  
 村山 Tsun Shan  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203290010)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202203290010)  
 東京選物  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408270006)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202408270006)  
 東和製油  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509010006)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202509010006)  
 東海模型玩具  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202303010003)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202303010003)  
 松本清  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210014)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210014)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210014)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201808210014)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201808210014)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201808210014)  
 林貞粿行  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605020001)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202605020001)  
 果樹媽媽  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202105130001)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202105130001)  
 根號拾  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100001)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601100001)  
 森SHEN植萃保養  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280009)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280009)  
 極淨  pureness health  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104160005)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202104160005)  
 樂天皇朝  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130036)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130036)  
 樂起司  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509040004)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202509040004)  
 樺達奶茶  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222565)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222565)  
 橫濱牛排  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604150001)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202604150001)  
 檜山坊  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290005)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202103290005)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202103290005)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202103290005)  
 檸檬大叔  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208230001)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208230001)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208230001)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202208230001)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202208230001)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202208230001)  
 檸檬生存指南  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202507010002)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202507010002)  
 武松殿  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401080001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202401080001)  
 永心鳳茶  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008180001)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202008180001)  
 汕頭泉成沙茶潮鍋  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401300003)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401300003)  
+[誠品生活台南 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202401300003)  
+[誠品生活480 6F](https://meet.eslite.com/tw/tc/cooperationbrand/202401300003)  
 海邊走走  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222439)  
 涓豆腐  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130061)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130061)  
 淡然有味  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222618)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222618)  
 港點大師  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202512040001)  
+[誠品生活板橋 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202512040001)  
 源源鋼藝uanuan  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060016)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060016)  
 滷台味  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503250003)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202503250003)  
 漢來上海湯包  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060020)  
+[誠品生活台南 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060020)  
 漫坑  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209060004)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202209060004)  
 瀾之茶居  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202304200001)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202304200001)  
 熊老闆精選好東西Bear Boss  
-[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312040003)  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202312040003)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202312040003)  
+[誠品新竹巨城店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202312040003)  
 燒肉ChaCha 個人和牛燒肉  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130058)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130058)  
 狸小路  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202402170001)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202402170001)  
 王大夫一條根  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008300004)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202008300004)  
 玩具“反”斗城 Toys“R”Us  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504240001)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202504240001)  
 玩聚市集  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604300002)  
+[誠品生活新板 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202604300002)  
 珍御蚵仔煎  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202111010005)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202111010005)  
 珍煮丹TRUEDAN  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/201912310002)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201912310002)  
 瑞香 Ruei Siang  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603090003)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202603090003)  
 瓦城  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130056)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130056)  
 甜蜜約定  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150006)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150006)  
+[誠品生活竹北遠百店 B2F](https://meet.eslite.com/tw/tc/cooperationbrand/201806150006)  
+[誠品生活西門 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201806150006)  
 男研堂  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201911010007)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201911010007)  
 瘋一鍋頂級鍋物  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070041)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070041)  
 登義DengYi  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310009)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202208310009)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202208310009)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202208310009)  
 皇廚一品牛排  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509040003)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202509040003)  
 盧琴樹  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202412230001)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202412230001)  
 眼鏡市場  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210015)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202408210015)  
 知音文創  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202009010004)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202009010004)  
 石之王  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409160002)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202409160002)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202409160002)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202409160002)  
 石研室  
-[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210016)  
+[誠品生活站前店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202408210016)  
 神農生活X食習  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808220007)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/201808220007)  
 福洱商行  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510280002)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202510280002)  
 笛笛家  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100006)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601100006)  
 簡單 JANDAN  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202303030001)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202303030001)  
 簡青生活  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280016)  
+[誠品生活480 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280016)  
 米哥烘焙坊  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222383)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222383)  
 綠蓋茶．館  
-[誠品台大店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222551)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222551)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222551)  
+[誠品生活板橋 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222551)  
+[誠品台大店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222551)  
+[誠品生活西門 3AF](https://meet.eslite.com/tw/tc/cooperationbrand/20180222551)  
 綠藤生機  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222690)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222690)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222690)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222690)  
 維格餅家  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100007)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601100007)  
 繼光香香雞  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222582)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222582)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222582)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222582)  
 羅亞戴蒙  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150011)  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150011)  
-[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201806150011)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201806150011)  
+[誠品生活高雄大遠百店 17F](https://meet.eslite.com/tw/tc/cooperationbrand/201806150011)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201806150011)  
 美珍香  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202503210003)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202503210003)  
 羚羊宅一番  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202605060004)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202605060004)  
 羽革 Feather Leather  
-[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222675)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222675)  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222675)  
+[誠品生活台中大遠百店 9F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222675)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222675)  
+[誠品生活中友店 11F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222675)  
 羿唐YTANG  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202604030001)  
+[誠品生活480 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202604030001)  
 翔仔居家  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280007)  
+[誠品生活480 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311280007)  
 翰方御品  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202305230003)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202305230003)  
 老蔡水煎包  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601110001)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601110001)  
 聖保羅  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100002)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601100002)  
 聖比德  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100003)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601100003)  
 聖瑪莉SUNMERRY  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222471)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222471)  
 聖翔  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/201804030005)  
+[誠品生活板橋 4F](https://meet.eslite.com/tw/tc/cooperationbrand/201804030005)  
 肉的長谷川  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202405100001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202405100001)  
 膳馨Shan-Shin  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403140002)  
+[誠品生活480 7F](https://meet.eslite.com/tw/tc/cooperationbrand/202403140002)  
 舞古賀mini鍋物  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202411280001)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202411280001)  
 艷麗南洋鹹甜食  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603300001)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202603300001)  
 芋艿川  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202404020003)  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202404020003)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202404020003)  
+[誠品生活新板 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202404020003)  
 芮蜜渠創  
-[誠品生活中友店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202407300002)  
+[誠品生活中友店 10F](https://meet.eslite.com/tw/tc/cooperationbrand/202407300002)  
 花波兒‧心園藝  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504010003)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202504010003)  
 花鳥川  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100009)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601100009)  
 英格莉莉  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201905270002)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201905270002)  
 茶籽堂  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210043)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210043)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210043)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210043)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210043)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201808210043)  
 茶粒茶  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223020)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223020)  
 茶萃  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511270001)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202511270001)  
 草山金工  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222441)  
-[誠品生活台中大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222441)  
+[誠品生活台中大遠百店 9F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222441)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222441)  
 草民森飾  
-[誠品生活南紡店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309060002)  
-[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309060002)  
-[誠品生活屏東店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202309060002)  
+[誠品生活南紡店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202309060002)  
+[誠品生活屏東店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202309060002)  
+[誠品生活高雄大遠百店 17F](https://meet.eslite.com/tw/tc/cooperationbrand/202309060002)  
 華歌爾  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202504210001)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202504210001)  
 葡吉手工包子  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210012)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808210012)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201808210012)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201808210012)  
 蔬坊  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201808220006)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201808220006)  
 蕎菈尼昂  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202410070002)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202410070002)  
 薄多義  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222570)  
+[誠品生活板橋 5F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222570)  
 藝術城市集  
-[誠品生活高雄大遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202204130002)  
+[誠品生活高雄大遠百店 17F](https://meet.eslite.com/tw/tc/cooperationbrand/202204130002)  
 蘇杭365  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140003)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311140003)  
 蛋蛋屋  
-[誠品生活林口三井店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506070001)  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202506070001)  
+[誠品生活林口三井店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202506070001)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202506070001)  
 蜷尾家パン  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505210003)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505210003)  
 許許兒 XUXUWEAR  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403270002)  
+[誠品生活台南 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202403270002)  
 謙碩服裝修改室  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903180001)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201903180001)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201903180001)  
+[誠品生活南西 5+F](https://meet.eslite.com/tw/tc/cooperationbrand/201903180001)  
 貝黎飾Belice  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509180001)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202509180001)  
 賽先生科學工廠  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222572)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222572)  
 越粉舖 新越南恬淡美食  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222468)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222468)  
 迷你樂玩  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505220007)  
+[誠品生活台南 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202505220007)  
 迷客夏Milksha  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201812210002)  
-[誠品生活竹北遠百店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201812210002)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/201812210002)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201812210002)  
+[誠品生活竹北遠百店 B2F](https://meet.eslite.com/tw/tc/cooperationbrand/201812210002)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/201812210002)  
 達橙生活館  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203150001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202203150001)  
 邊緣工事  
-[誠品生活捷運敦化店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070042)  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070042)  
+[誠品生活捷運敦化店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070042)  
+[誠品生活南西 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202311070042)  
 郭錦如紀念學苑  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104190001)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202104190001)  
 醇白茶飲Arctic White  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202502060012)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202502060012)  
 醒寤 Erwachen  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202407260001)  
+[誠品生活南西 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202407260001)  
 野獸國  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222452)  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222452)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222452)  
+[誠品生活武昌 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222452)  
 金 JINEASTERNAU  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202405310002)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202405310002)  
 金春喜韓廚  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505070001)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505070001)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202505070001)  
+[誠品生活板橋 5F](https://meet.eslite.com/tw/tc/cooperationbrand/202505070001)  
 金色三麥LE BLE D'OR  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222414)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222414)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222414)  
+[誠品生活台南 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222414)  
 銀座杏子日式豬排  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070036)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070036)  
 銀戀AdoSi  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202505260010)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202505260010)  
 鋒恩香水by德益  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202511270002)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202511270002)  
 長順茶行 Tea Struck  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222616)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222616)  
+[誠品生活台南 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222616)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222616)  
 開丼 燒肉vs丼飯  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070048)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070048)  
 阿原YUAN  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222419)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222419)  
 阿默兒手工鞋  
-[誠品R79 ](https://meet.eslite.com/tw/tc/cooperationbrand/202110180001)  
-[誠品生活桃園統領店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202110180001)  
+[誠品R79 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202110180001)  
+[誠品生活桃園統領店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/202110180001)  
 阿默兒經典手工鞋  
-[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202104150007)  
+[誠品生活站前店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202104150007)  
 雞湯大叔  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202007020008)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202007020008)  
 雨傘王  
-[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202509300001)  
+[誠品生活站前店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202509300001)  
 雷諾瓦拼圖文化坊  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
-[誠品生活板橋 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
-[誠品新竹巨城店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
-[誠品宜蘭店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
-[誠品生活園道店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品生活新店 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品新竹巨城店 5F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品宜蘭店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品生活園道店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品生活蘇州 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品生活480 5F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
+[誠品生活板橋 4F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222532)  
 青春漢堡  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140002)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311140002)  
 青鳥旅行  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202105180008)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202105180008)  
 非常泰  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202403040001)  
+[誠品生活480 6F](https://meet.eslite.com/tw/tc/cooperationbrand/202403040001)  
 韓姜熙小廚房  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070061)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070061)  
 韓鶴亭  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202404160001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202404160001)  
 頂呱呱  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222454)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222454)  
 順成蛋糕  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070049)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070049)  
 養元堂  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202401240001)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202401240001)  
 養心沙龍  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311140001)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202311140001)  
 饗蔬職人  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311280025)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311280025)  
 饞爪爪  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230003)  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/202603230003)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202603230003)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202603230003)  
 香帥蛋糕  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202601100008)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202601100008)  
 香氛殿堂  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050013)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050013)  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202112010003)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202205050013)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202205050013)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202112010003)  
 香草集  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202510310001)  
+[誠品生活新店 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202510310001)  
 馥雩。沉藝  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/202205050004)  
+[誠品生活武昌 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202205050004)  
 駱姐正雞酒  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222569)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222569)  
 駿河屋  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202412020001)  
+[誠品生活西門 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202412020001)  
 高橋咖哩  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408150001)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202408150001)  
 魔梳工坊 GLAMORSPELL  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/201810080001)  
-[誠品生活武昌 ](https://meet.eslite.com/tw/tc/cooperationbrand/201810080001)  
+[誠品生活武昌 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201810080001)  
+[誠品生活西門 3F](https://meet.eslite.com/tw/tc/cooperationbrand/201810080001)  
 鮮芋仙  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311070039)  
+[誠品生活新店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202311070039)  
 鶴茶樓  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270008)  
-[誠品生活西門 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270008)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202008270008)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202008270008)  
+[誠品生活西門 1F](https://meet.eslite.com/tw/tc/cooperationbrand/202008270008)  
+[誠品生活480 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202008270008)  
 鹽夢工場  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/201910050003)  
+[誠品生活松菸 2F](https://meet.eslite.com/tw/tc/cooperationbrand/201910050003)  
 麥當勞  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180222181)  
+[誠品生活南西 B1](https://meet.eslite.com/tw/tc/cooperationbrand/20180222181)  
+[誠品生活南西 1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180222181)  
 麵屋武藏  
-[誠品生活站前店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202408210018)  
+[誠品生活站前店 B1](https://meet.eslite.com/tw/tc/cooperationbrand/202408210018)  
 黑方巧克力  
-[誠品生活松菸 ](https://meet.eslite.com/tw/tc/cooperationbrand/20180223177)  
+[誠品生活松菸 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/20180223177)  
 默爾pasta & pizza  
-[誠品生活南西 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
-[誠品生活480 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
-[誠品生活新板 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
-[誠品生活台南 ](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
+[誠品生活新店 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
+[誠品生活南西 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
+[誠品生活台南 2F](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
+[誠品生活新板 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
+[誠品生活480 6F](https://meet.eslite.com/tw/tc/cooperationbrand/202203140011)  
 點點心  
-[誠品生活新店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202311130055)  
+[誠品生活新店 3F](https://meet.eslite.com/tw/tc/cooperationbrand/202311130055)  
 龜記茗品  
-[誠品台北車站捷運店 ](https://meet.eslite.com/tw/tc/cooperationbrand/202209160002)  
+[誠品台北車站捷運店 B1F](https://meet.eslite.com/tw/tc/cooperationbrand/202209160002)  

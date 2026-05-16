@@ -16,6 +16,14 @@ class EsliteSpider(scrapy.Spider):
     OUTPUT_TO_MD = 1
     OUTPUT_TO_JSON = 1
 
+    custom_settings = {
+        'DOWNLOAD_DELAY': 0.5,
+        'AUTOTHROTTLE_ENABLED': True,
+        'AUTOTHROTTLE_START_DELAY': 0.5,
+        'AUTOTHROTTLE_MAX_DELAY': 5,
+        'AUTOTHROTTLE_TARGET_CONCURRENCY': 2,
+    }
+
     BASE_URL = "https://meet.eslite.com"
     AREA_ID = "e0a7c75a-7cbd-e711-a974-06d9a90704e1"
 
@@ -93,7 +101,7 @@ class EsliteSpider(scrapy.Spider):
                 callback=self.parse_page,
                 cb_kwargs={'store_name': store_name},
             )
-        self.parse_page(response, store_name=store_name)
+        yield from self.parse_page(response, store_name=store_name)
 
     def parse_page(self, response, store_name):
         for item in response.css('ul.content-list > li'):
@@ -102,7 +110,24 @@ class EsliteSpider(scrapy.Spider):
             if not brand_name or not brand_path:
                 continue
             brand_url = self.BASE_URL + brand_path
-            self._add_entry(brand_name, store_name, '', brand_url)
+            yield scrapy.Request(
+                url=brand_url,
+                callback=self.parse_brand,
+                cb_kwargs={'brand_name': brand_name, 'brand_url': brand_url},
+            )
+
+    def parse_brand(self, response, brand_name, brand_url):
+        for link in response.css('div.brand-store > ul > li > a'):
+            text = link.css('::text').get('').strip()
+            if ' - ' in text:
+                parts = text.rsplit(' - ', 1)
+                mall = parts[0].strip()
+                floor = parts[1].strip()
+            else:
+                mall = text.strip()
+                floor = ''
+            if mall:
+                self._add_entry(brand_name, mall, floor, brand_url)
 
     def _add_entry(self, brand_name, mall, floor, url):
         if not brand_name or not mall:
