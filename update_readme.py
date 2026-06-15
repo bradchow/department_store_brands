@@ -15,6 +15,7 @@ SECTIONS = [
     ("## [微風Breeze",             MD_DIR / "breeze.md"),
     ("## [統一夢時代/DREAM_PLAZA", MD_DIR / "uni_ustyle.md"),
     ("## [誠品Eslite",             MD_DIR / "eslite.md"),
+    ("## [京站時尚廣場",           MD_DIR / "qsquare.md"),
 ]
 
 def find_header(lines, prefix):

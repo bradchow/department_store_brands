@@ -69,6 +69,11 @@ class UniUStyleSpider(scrapy.Spider):
             parts = brandstore.split('｜', 1)
             mall = parts[0].strip()
             floor = parts[1].strip()
+            # 統一地下樓層格式：B1 → B1F, B2 → B2F
+            if re.match(r'^B\d+$', floor):
+                floor = floor + 'F'
+            # 統一 mall 名稱：含 span 時會多出「百貨」，正規化成一致短名
+            mall = mall.replace('統一時代百貨台北店', '統一時代台北店')
 
             url = item.css('a.itemlink::attr(href)').get()
             if not url:

@@ -16,14 +16,15 @@ JSON_DIR = os.path.join(SCRAPY_DIR, "json")
 MERGE_SCRIPT = os.path.join(JSON_DIR, "merge_json.py")
 
 SPIDERS = [
-    {"name": "breeze",             "output": "breeze.md",     "min_brands": 100},
-    {"name": "FEDS",               "output": "FEDS.md",       "min_brands": 50},
-    {"name": "Sogo",               "output": "sogo.md",       "min_brands": 100},
-    {"name": "ShinKongMitsukoshi", "output": "shin.md",       "min_brands": 100},
-    {"name": "UniUStyle",          "output": "uni_ustyle.md", "min_brands": 50},
-    {"name": "TAIPEI101",          "output": "101.md",        "min_brands": 50,
+    {"name": "breeze",             "output": "breeze.md",     "json": "breeze.json",             "min_brands": 100},
+    {"name": "FEDS",               "output": "FEDS.md",       "json": "FEDS.json",               "min_brands": 50},
+    {"name": "Sogo",               "output": "sogo.md",       "json": "sogo.json",               "min_brands": 100},
+    {"name": "ShinKongMitsukoshi", "output": "shin.md",       "json": "ShinKongMitsukoshi.json", "min_brands": 100},
+    {"name": "UniUStyle",          "output": "uni_ustyle.md", "json": "UniUStyle.json",          "min_brands": 50},
+    {"name": "TAIPEI101",          "output": "101.md",        "json": "TAIPEI101.json",          "min_brands": 50,
      "script": "department_store_brands/spiders/TAIPEI101.py"},
-    {"name": "Eslite",             "output": "eslite.md",     "min_brands": 100},
+    {"name": "Eslite",             "output": "eslite.md",     "json": "Eslite.json",             "min_brands": 100},
+    {"name": "QSquare",            "output": "qsquare.md",    "json": "qsquare.json",            "min_brands": 100},
 ]
 
 def log(msg):
@@ -91,7 +92,30 @@ def run_merge():
     )
     return result.returncode == 0
 
+def clean_outputs():
+    log("清除舊的輸出檔案")
+    removed = []
+    for spider_info in SPIDERS:
+        md_path = os.path.join(MD_DIR, spider_info["output"])
+        if os.path.exists(md_path):
+            os.remove(md_path)
+            removed.append(spider_info["output"])
+        json_name = spider_info.get("json", spider_info["name"] + ".json")
+        json_path = os.path.join(JSON_DIR, json_name)
+        if os.path.exists(json_path):
+            os.remove(json_path)
+            removed.append(json_name)
+    merged_path = os.path.join(JSON_DIR, "merged_data.json")
+    if os.path.exists(merged_path):
+        os.remove(merged_path)
+        removed.append("merged_data.json")
+    if removed:
+        print("已刪除：" + ", ".join(removed))
+    else:
+        print("無檔案需要刪除")
+
 def main():
+    clean_outputs()
     failed_spiders = []
 
     for spider_info in SPIDERS:
