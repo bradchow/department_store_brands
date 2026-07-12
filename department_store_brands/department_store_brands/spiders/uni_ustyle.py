@@ -29,11 +29,11 @@ class UniUStyleSpider(scrapy.Spider):
         # 第一頁：擷取 CSRF token，解析總頁數，發出後續 POST 請求
         token = response.css('input[name="_token"]::attr(value)').get('')
 
-        # 從 onclick 屬性解析頁碼（li 文字節點含空白，用 onclick 更可靠）
+        # 從 data-csp-arg 屬性解析頁碼（網站已將 onclick 改為 data-csp-* 屬性）
         page_numbers = [
-            int(m)
-            for onclick in response.css('.page ul li a::attr(onclick)').getall()
-            for m in re.findall(r'advanced_search_page\((\d+)\)', onclick)
+            int(v)
+            for v in response.css('.page ul li a[data-csp-click="advanced_search_page"]::attr(data-csp-arg)').getall()
+            if v.isdigit()
         ]
         self.total_pages = max(page_numbers) if page_numbers else 1
 

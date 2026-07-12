@@ -63,11 +63,12 @@ SELENIUM_DRIVER_NAME = 'chrome'  #瀏覽器名稱
 SELENIUM_DRIVER_EXECUTABLE_PATH = '/Users/bradchou/Documents/driver/chromedriver'  #驅動程式路徑
 # Fix 403 issue when accessing https://info.sogo.com.tw/tp1/floors/B1
 SELENIUM_DRIVER_ARGUMENTS = [
-    '--headless',
+    '--headless=new',
     '--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36',
     '--disable-blink-features=AutomationControlled',
     '--no-sandbox',
-    '--disable-dev-shm-usage'
+    '--disable-dev-shm-usage',
+    '--disable-gpu',
 ]
 
 # Enable or disable extensions

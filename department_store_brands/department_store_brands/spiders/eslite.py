@@ -2,6 +2,7 @@ import scrapy
 import json
 import logging
 import os
+from scrapy_selenium import SeleniumRequest
 
 
 class EsliteSpider(scrapy.Spider):
@@ -83,10 +84,11 @@ class EsliteSpider(scrapy.Spider):
         for store_name, store_uuid in self.TAIWAN_STORES.items():
             url = (f"{self.BASE_URL}/tw/tc/cooperationbrand"
                    f"?area={self.AREA_ID}&store={store_uuid}")
-            yield scrapy.Request(
+            yield SeleniumRequest(
                 url=url,
                 callback=self.parse_first_page,
                 cb_kwargs={'store_name': store_name, 'store_uuid': store_uuid},
+                wait_time=10,
             )
 
     def parse_first_page(self, response, store_name, store_uuid):
@@ -96,10 +98,11 @@ class EsliteSpider(scrapy.Spider):
         for page in range(2, total_pages + 1):
             url = (f"{self.BASE_URL}/tw/tc/cooperationbrand"
                    f"?area={self.AREA_ID}&store={store_uuid}&page={page}")
-            yield scrapy.Request(
+            yield SeleniumRequest(
                 url=url,
                 callback=self.parse_page,
                 cb_kwargs={'store_name': store_name},
+                wait_time=10,
             )
         yield from self.parse_page(response, store_name=store_name)
 
@@ -110,10 +113,11 @@ class EsliteSpider(scrapy.Spider):
             if not brand_name or not brand_path:
                 continue
             brand_url = self.BASE_URL + brand_path
-            yield scrapy.Request(
+            yield SeleniumRequest(
                 url=brand_url,
                 callback=self.parse_brand,
                 cb_kwargs={'brand_name': brand_name, 'brand_url': brand_url},
+                wait_time=2,
             )
 
     def parse_brand(self, response, brand_name, brand_url):

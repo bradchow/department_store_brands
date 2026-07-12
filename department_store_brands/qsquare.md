@@ -206,6 +206,8 @@ KIEHL'S 契爾氏
 [京站時尚廣場 1F](https://www.qsquare.com.tw/m/shopping-detail.php?lv01_type=1F&lv02_id=A14112801440be2)  
 KINAZ  
 [京站時尚廣場 B1](https://www.qsquare.com.tw/m/shopping-detail.php?lv01_type=B1&lv02_id=A1411280222d98d)  
+KINYO (7/1 OPEN)  
+[京站時尚廣場 3F](https://www.qsquare.com.tw/m/shopping-detail.php?lv01_type=3F&lv02_id=A2606300001a793)  
 KOKKO  
 [京站時尚廣場 B1](https://www.qsquare.com.tw/m/shopping-detail.php?lv01_type=B1&lv02_id=A19032200025c05)  
 KOMEDA'S Coffee 客美多咖啡  
@@ -628,8 +630,6 @@ yume jewelry
 [京站時尚廣場 B3](https://www.qsquare.com.tw/m/food-detail.php?lv01_type=B3&lv02_id=A1411280314a2b0)  
 涼食帖  
 [京站時尚廣場 B3](https://www.qsquare.com.tw/m/food-detail.php?lv01_type=B3&lv02_id=A1906250004b453)  
-滷susu 滷香麵鋪  
-[京站時尚廣場 B3](https://www.qsquare.com.tw/m/food-detail.php?lv01_type=B3&lv02_id=A2503010001c9a3)  
 燒肉Like  
 [京站時尚廣場 1F](https://www.qsquare.com.tw/m/food-detail.php?lv01_type=1F&lv02_id=A19042500010914)  
 牛角次男坊  

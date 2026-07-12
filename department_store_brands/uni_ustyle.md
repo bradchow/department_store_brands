@@ -190,8 +190,6 @@ JOURNAL STANDARD relume
 [DREAM PLAZA 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/520)  
 JUNIOR  
 [統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/485)  
-Janbo千步  
-[統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/2)  
 KOBE SWEETS  
 [DREAM PLAZA B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/627)  
 KOSÉ  
@@ -318,8 +316,6 @@ OLIVO
 [DREAM PLAZA B1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/490)  
 ONE TEASPOON  
 [DREAM PLAZA 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/522)  
-ORIGINS 品木宣言  
-[統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/392)  
 ORiental TRaffic  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/201)  
 OSIM  
@@ -330,6 +326,8 @@ O’MUSES
 [統一時代台北店 3F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1141)  
 PALLADIUM  
 [統一時代台北店 4F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/289)  
+PATIO by nest  
+[統一時代台北店 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1303)  
 PELLE CC  
 [DREAM PLAZA 1F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/609)  
 PHILIPS  
@@ -587,6 +585,8 @@ whiple / w．Simple
 [統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/360)  
 亞尼克  
 [DREAM PLAZA B2F02-2722-4837](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/628)  
+亞梭傢俬  
+[統一時代台北店 6F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1305)  
 今生金飾  
 [統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/212)  
 伊萊克斯  
@@ -653,6 +653,8 @@ whiple / w．Simple
 [DREAM PLAZA B2F連通道](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/614)  
 德風健康館  
 [DREAM PLAZA B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/632)  
+心茶  
+[統一時代台北店 2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1301)  
 忠將蔥蔬餅  
 [統一時代台北店 B2F](https://www.uni-ustyle.com.tw/zh-tw/brand-floor/1114)  
 快車肉乾  
